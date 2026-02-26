@@ -182,18 +182,25 @@ def find_study_folders() -> list[tuple[str, Path]]:
     return folders
 
 
-def copy_study(key: str, src: Path):
+def copy_study(key: str, src: Path, preserved_simples: dict):
     """Copy a study folder into docs/studies/."""
     dest = DOCS_STUDIES / src.name
-    if dest.exists():
-        shutil.rmtree(dest)
+    dest.mkdir(parents=True, exist_ok=True)
 
     # Copy standard files
-    dest.mkdir(parents=True, exist_ok=True)
     for fname, _ in STUDY_FILES:
         src_file = src / fname
         if src_file.exists():
             shutil.copy2(src_file, dest / fname)
+
+    # Restore preserved conclusion-simple.md, or copy from source
+    simple_path = dest / "conclusion-simple.md"
+    if src.name in preserved_simples:
+        simple_path.write_text(preserved_simples[src.name], encoding="utf-8")
+    else:
+        simple_src = src / "conclusion-simple.md"
+        if simple_src.exists():
+            shutil.copy2(simple_src, dest / "conclusion-simple.md")
 
     # Copy METADATA.yaml if present
     meta = src / "METADATA.yaml"
@@ -218,15 +225,21 @@ def build_nav_entry(key: str, slug: str) -> dict:
     dest = DOCS_STUDIES / slug
     items = []
 
-    # Landing page (CONCLUSION.md as index)
+    # Landing page: conclusion-simple.md if it exists, else CONCLUSION.md
+    simple = dest / "conclusion-simple.md"
     conclusion = dest / "CONCLUSION.md"
-    if conclusion.exists():
+    if simple.exists():
+        items.append(f"studies/{slug}/conclusion-simple.md")
+        # Add full Conclusion as a labeled entry
+        if conclusion.exists():
+            items.append({"Conclusion": f"studies/{slug}/CONCLUSION.md"})
+    elif conclusion.exists():
         items.append(f"studies/{slug}/CONCLUSION.md")
 
-    # Other standard files
+    # Other standard files (skip CONCLUSION.md, already handled above)
     for fname, label in STUDY_FILES:
         if label is None:
-            continue  # Skip CONCLUSION.md, already added as index
+            continue  # Skip CONCLUSION.md, already added above
         fpath = dest / fname
         if fpath.exists():
             items.append({label: f"studies/{slug}/{fname}"})
@@ -392,7 +405,12 @@ def generate_index_md():
     content.append("**Hierarchy:** E > N > I-A > I-B (resolved by SIS) > I-C > I-D")
     content.append("")
     content.append("[**Read the Methodology**](methodology.md){ .md-button }")
-    content.append("[**Skip to the Final Synthesis**](studies/law-31-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
+    # Link to simple conclusion if it exists, else full conclusion
+    synth_simple = DOCS_STUDIES / "law-31-comprehensive-synthesis" / "conclusion-simple.md"
+    if synth_simple.exists():
+        content.append("[**Skip to the Final Synthesis**](studies/law-31-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }")
+    else:
+        content.append("[**Skip to the Final Synthesis**](studies/law-31-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
     content.append("")
     content.append("---")
     content.append("")
@@ -418,7 +436,12 @@ def generate_index_md():
                     slug = d.name
                     break
             if slug:
-                link = f"studies/{slug}/CONCLUSION.md"
+                # Link to simple conclusion if it exists
+                simple_path = DOCS_STUDIES / slug / "conclusion-simple.md"
+                if simple_path.exists():
+                    link = f"studies/{slug}/conclusion-simple.md"
+                else:
+                    link = f"studies/{slug}/CONCLUSION.md"
                 content.append(f"| {num} | [{short}]({link}) | {full} |")
             else:
                 content.append(f"| {num} | {short} | {full} |")
@@ -432,6 +455,7 @@ def generate_index_md():
     content.append("")
     content.append("| File | Contents |")
     content.append("|------|----------|")
+    content.append("| **Simple Conclusion** | A plain-language summary of the study's findings -- no technical jargon or evidence tables |")
     content.append("| **Conclusion** | The final evidence classification with Explicit/Necessary Implication/Inference tables, I-B resolutions, tally, and \"What CAN/CANNOT Be Said\" |")
     content.append("| **Analysis** | Verse-by-verse analysis, identified patterns, connections between passages, both-sides arguments |")
     content.append("| **Verses** | Full KJV text for every passage examined, organized thematically |")
@@ -460,7 +484,11 @@ def generate_index_md():
     content.append("")
     content.append("Not a single explicit statement (E-tier) or necessary implication (N-tier) in the entire 810-item evidence base was classified as supporting abolition of the moral law. All 219 E+N positional items support \"Continues.\" The Abolished position's 57 items exist entirely at the inference level (I-B and I-D).")
     content.append("")
-    content.append("[**Read the Full Synthesis**](studies/law-31-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
+    synth_simple2 = DOCS_STUDIES / "law-31-comprehensive-synthesis" / "conclusion-simple.md"
+    if synth_simple2.exists():
+        content.append("[**Read the Full Synthesis**](studies/law-31-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }")
+    else:
+        content.append("[**Read the Full Synthesis**](studies/law-31-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
 
     index_path = DOCS / "index.md"
     index_path.write_text("\n".join(content) + "\n", encoding="utf-8")
@@ -743,10 +771,17 @@ def main():
     print("Building Law of God study website")
     print("=" * 60)
 
-    # Clean docs/studies/
+    # Preserve any existing conclusion-simple.md files before cleaning
+    preserved_simples = {}
     if DOCS_STUDIES.exists():
+        for d in DOCS_STUDIES.iterdir():
+            if d.is_dir():
+                simple = d / "conclusion-simple.md"
+                if simple.exists():
+                    preserved_simples[d.name] = simple.read_text(encoding="utf-8")
         shutil.rmtree(DOCS_STUDIES)
     DOCS_STUDIES.mkdir(parents=True)
+    print(f"  Preserved {len(preserved_simples)} conclusion-simple.md files")
 
     # Find all study folders
     print("\n[1/8] Finding study folders...")
@@ -756,7 +791,7 @@ def main():
     # Copy studies
     print("\n[2/8] Copying study files...")
     for key, src in study_folders:
-        dest = copy_study(key, src)
+        dest = copy_study(key, src, preserved_simples)
         print(f"  {key}: {src.name} → {dest.relative_to(PROJECT_ROOT)}")
 
     # Copy methodology and master evidence
