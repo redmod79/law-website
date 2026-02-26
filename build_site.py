@@ -335,15 +335,13 @@ def generate_mkdocs_yml(study_folders: list[tuple[str, Path]]):
     lines.append("")
     lines.append("nav:")
     lines.append("  - Home: index.md")
-    lines.append("  - Methodology: methodology.md")
-    lines.append('  - "Research Tools & Process": tools.md')
-    lines.append('  - "Master Evidence File": master-evidence.md')
+    lines.append("  - Studies:")
     lines.append("")
 
-    # Study tiers
+    # Study tiers nested under "Studies" tab
     for tier in TIERS:
-        lines.append(f"  # ── {tier['name']} ──")
-        lines.append(f'  - "{tier["name"]}":')
+        lines.append(f"    # ── {tier['name']} ──")
+        lines.append(f'    - "{tier["name"]}":')
         lines.append("")
         for key in tier["studies"]:
             slug = slug_map.get(key)
@@ -352,24 +350,28 @@ def generate_mkdocs_yml(study_folders: list[tuple[str, Path]]):
             nav_entry = build_nav_entry(key, slug)
             # Serialize this nav entry
             for title, items in nav_entry.items():
-                lines.append(f'    - "{title}":')
+                lines.append(f'      - "{title}":')
                 for item in items:
                     if isinstance(item, str):
-                        lines.append(f"      - {item}")
+                        lines.append(f"        - {item}")
                     elif isinstance(item, dict):
                         for label, val in item.items():
                             if isinstance(val, list):
                                 # Nested (Raw Data)
-                                lines.append(f"      - {label}:")
+                                lines.append(f"        - {label}:")
                                 for sub in val:
                                     if isinstance(sub, dict):
                                         for slabel, spath in sub.items():
-                                            lines.append(f'        - "{slabel}": {spath}')
+                                            lines.append(f'          - "{slabel}": {spath}')
                                     else:
-                                        lines.append(f"        - {sub}")
+                                        lines.append(f"          - {sub}")
                             else:
-                                lines.append(f"      - {label}: {val}")
-            lines.append("")
+                                lines.append(f"        - {label}: {val}")
+        lines.append("")
+
+    lines.append("  - Methodology: methodology.md")
+    lines.append('  - "Tools & Process": tools.md')
+    lines.append('  - "Master Evidence": master-evidence.md')
 
     yml_path = PROJECT_ROOT / "mkdocs.yml"
     yml_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
