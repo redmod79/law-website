@@ -1,0 +1,519 @@
+site_name: "The Law of God"
+site_description: A comprehensive 31-study biblical investigation examining what Scripture teaches about the moral law, ceremonial law, the Sabbath, and the relationship between Old and New Testaments.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Methodology: methodology.md
+  - "Research Tools & Process": tools.md
+  - "Master Evidence File": master-evidence.md
+
+  # ── Tier 1 -- Foundations ──
+  - "Tier 1 -- Foundations":
+
+    - "01 -- What Is God's Moral Law?":
+      - studies/law-01-gods-moral-law/CONCLUSION.md
+      - Analysis: studies/law-01-gods-moral-law/03-analysis.md
+      - Verses: studies/law-01-gods-moral-law/02-verses.md
+      - Word Studies: studies/law-01-gods-moral-law/04-word-studies.md
+      - Topics: studies/law-01-gods-moral-law/01-topics.md
+      - Research Scope: studies/law-01-gods-moral-law/PROMPT.md
+      - Raw Data:
+        - "Nave's Topics": studies/law-01-gods-moral-law/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-01-gods-moral-law/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-01-gods-moral-law/raw-data/strongs-lookups.md
+
+    - "02 -- The Moral Law Before Sinai":
+      - studies/law-02-law-before-sinai/CONCLUSION.md
+      - Analysis: studies/law-02-law-before-sinai/03-analysis.md
+      - Verses: studies/law-02-law-before-sinai/02-verses.md
+      - Word Studies: studies/law-02-law-before-sinai/04-word-studies.md
+      - Topics: studies/law-02-law-before-sinai/01-topics.md
+      - Research Scope: studies/law-02-law-before-sinai/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-02-law-before-sinai/raw-data/existing-studies.md
+        - "Nave's Topics": studies/law-02-law-before-sinai/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-02-law-before-sinai/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-02-law-before-sinai/raw-data/strongs-lookups.md
+
+    - "03 -- Decalogue vs. Later Laws":
+      - studies/law-03-exodus-20-vs-later-laws/CONCLUSION.md
+      - Analysis: studies/law-03-exodus-20-vs-later-laws/03-analysis.md
+      - Verses: studies/law-03-exodus-20-vs-later-laws/02-verses.md
+      - Word Studies: studies/law-03-exodus-20-vs-later-laws/04-word-studies.md
+      - Topics: studies/law-03-exodus-20-vs-later-laws/01-topics.md
+      - Research Scope: studies/law-03-exodus-20-vs-later-laws/PROMPT.md
+      - Raw Data:
+        - "Nave's Topics": studies/law-03-exodus-20-vs-later-laws/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-03-exodus-20-vs-later-laws/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-03-exodus-20-vs-later-laws/raw-data/strongs-lookups.md
+
+    - "04 -- Ceremonial Laws":
+      - studies/law-04-ceremonial-laws/CONCLUSION.md
+      - Analysis: studies/law-04-ceremonial-laws/03-analysis.md
+      - Verses: studies/law-04-ceremonial-laws/02-verses.md
+      - Word Studies: studies/law-04-ceremonial-laws/04-word-studies.md
+      - Topics: studies/law-04-ceremonial-laws/01-topics.md
+      - Research Scope: studies/law-04-ceremonial-laws/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-04-ceremonial-laws/raw-data/existing-studies.md
+        - "Nave's Topics": studies/law-04-ceremonial-laws/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-04-ceremonial-laws/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-04-ceremonial-laws/raw-data/strongs-lookups.md
+
+    - "05 -- Civil/Judicial Laws":
+      - studies/law-05-civil-judicial-laws/CONCLUSION.md
+      - Analysis: studies/law-05-civil-judicial-laws/03-analysis.md
+      - Verses: studies/law-05-civil-judicial-laws/02-verses.md
+      - Word Studies: studies/law-05-civil-judicial-laws/04-word-studies.md
+      - Topics: studies/law-05-civil-judicial-laws/01-topics.md
+      - Research Scope: studies/law-05-civil-judicial-laws/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-05-civil-judicial-laws/raw-data/existing-studies.md
+        - "Cross-Testament Parallels": studies/law-05-civil-judicial-laws/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-05-civil-judicial-laws/raw-data/strongs-lookups.md
+
+  # ── Tier 2 -- Vocabulary ──
+  - "Tier 2 -- Vocabulary":
+
+    - "06 -- Hebrew Law Vocabulary":
+      - studies/law-06-hebrew-law-vocabulary/CONCLUSION.md
+      - Analysis: studies/law-06-hebrew-law-vocabulary/03-analysis.md
+      - Verses: studies/law-06-hebrew-law-vocabulary/02-verses.md
+      - Word Studies: studies/law-06-hebrew-law-vocabulary/04-word-studies.md
+      - Topics: studies/law-06-hebrew-law-vocabulary/01-topics.md
+      - Research Scope: studies/law-06-hebrew-law-vocabulary/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-06-hebrew-law-vocabulary/raw-data/concept-context.md
+        - "Hebrew Parsing": studies/law-06-hebrew-law-vocabulary/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/law-06-hebrew-law-vocabulary/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-06-hebrew-law-vocabulary/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-06-hebrew-law-vocabulary/raw-data/strongs-lookups.md
+
+    - "07 -- The Law of Moses":
+      - studies/law-07-law-of-moses/CONCLUSION.md
+      - Analysis: studies/law-07-law-of-moses/03-analysis.md
+      - Verses: studies/law-07-law-of-moses/02-verses.md
+      - Word Studies: studies/law-07-law-of-moses/04-word-studies.md
+      - Topics: studies/law-07-law-of-moses/01-topics.md
+      - Research Scope: studies/law-07-law-of-moses/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-07-law-of-moses/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-07-law-of-moses/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/law-07-law-of-moses/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/law-07-law-of-moses/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-07-law-of-moses/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-07-law-of-moses/raw-data/strongs-lookups.md
+
+  # ── Tier 3 -- Abolished or Established? ──
+  - "Tier 3 -- Abolished or Established?":
+
+    - "08 -- What Was Abolished at the Cross?":
+      - studies/law-08-abolished-at-cross/CONCLUSION.md
+      - Analysis: studies/law-08-abolished-at-cross/03-analysis.md
+      - Verses: studies/law-08-abolished-at-cross/02-verses.md
+      - Word Studies: studies/law-08-abolished-at-cross/04-word-studies.md
+      - Topics: studies/law-08-abolished-at-cross/01-topics.md
+      - Research Scope: studies/law-08-abolished-at-cross/PROMPT.md
+      - Raw Data:
+        - "Cross Testament Parallels": studies/law-08-abolished-at-cross/raw-data/cross-testament-parallels.md
+        - "Greek Parsing": studies/law-08-abolished-at-cross/raw-data/greek-parsing.md
+        - "Naves Entries": studies/law-08-abolished-at-cross/raw-data/naves-entries.md
+        - "Strong's Lookups": studies/law-08-abolished-at-cross/raw-data/strongs-lookups.md
+
+    - "09 -- Old Covenant and New Covenant":
+      - studies/law-09-old-covenant-new-covenant/CONCLUSION.md
+      - Analysis: studies/law-09-old-covenant-new-covenant/03-analysis.md
+      - Verses: studies/law-09-old-covenant-new-covenant/02-verses.md
+      - Word Studies: studies/law-09-old-covenant-new-covenant/04-word-studies.md
+      - Topics: studies/law-09-old-covenant-new-covenant/01-topics.md
+      - Research Scope: studies/law-09-old-covenant-new-covenant/PROMPT.md
+      - Raw Data:
+        - "Greek Parsing": studies/law-09-old-covenant-new-covenant/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/law-09-old-covenant-new-covenant/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/law-09-old-covenant-new-covenant/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-09-old-covenant-new-covenant/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-09-old-covenant-new-covenant/raw-data/strongs-lookups.md
+
+    - "10 -- New Covenant and the Moral Law":
+      - studies/law-10-new-covenant-and-law/CONCLUSION.md
+      - Analysis: studies/law-10-new-covenant-and-law/03-analysis.md
+      - Verses: studies/law-10-new-covenant-and-law/02-verses.md
+      - Word Studies: studies/law-10-new-covenant-and-law/04-word-studies.md
+      - Topics: studies/law-10-new-covenant-and-law/01-topics.md
+      - Research Scope: studies/law-10-new-covenant-and-law/PROMPT.md
+      - Raw Data:
+        - "Greek Parsing": studies/law-10-new-covenant-and-law/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/law-10-new-covenant-and-law/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/law-10-new-covenant-and-law/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-10-new-covenant-and-law/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-10-new-covenant-and-law/raw-data/strongs-lookups.md
+
+    - "11 -- The Law Written on Hearts":
+      - studies/law-11-written-on-hearts/CONCLUSION.md
+      - Analysis: studies/law-11-written-on-hearts/03-analysis.md
+      - Verses: studies/law-11-written-on-hearts/02-verses.md
+      - Word Studies: studies/law-11-written-on-hearts/04-word-studies.md
+      - Topics: studies/law-11-written-on-hearts/01-topics.md
+      - Research Scope: studies/law-11-written-on-hearts/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-11-written-on-hearts/raw-data/concept-context.md
+        - "Existing Studies": studies/law-11-written-on-hearts/raw-data/existing-studies.md
+        - "Nave's Topics": studies/law-11-written-on-hearts/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-11-written-on-hearts/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-11-written-on-hearts/raw-data/strongs-lookups.md
+
+  # ── Tier 4 -- Jesus and the Law ──
+  - "Tier 4 -- Jesus and the Law":
+
+    - "12 -- Matthew 5:17-20":
+      - studies/law-12-matthew-5-17-20/CONCLUSION.md
+      - Analysis: studies/law-12-matthew-5-17-20/03-analysis.md
+      - Verses: studies/law-12-matthew-5-17-20/02-verses.md
+      - Word Studies: studies/law-12-matthew-5-17-20/04-word-studies.md
+      - Topics: studies/law-12-matthew-5-17-20/01-topics.md
+      - Research Scope: studies/law-12-matthew-5-17-20/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-12-matthew-5-17-20/raw-data/concept-context.md
+        - "Existing Studies": studies/law-12-matthew-5-17-20/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-12-matthew-5-17-20/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-12-matthew-5-17-20/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-12-matthew-5-17-20/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-12-matthew-5-17-20/raw-data/strongs-lookups.md
+
+    - "13 -- Jesus and the Sabbath":
+      - studies/law-13-jesus-and-sabbath/CONCLUSION.md
+      - Analysis: studies/law-13-jesus-and-sabbath/03-analysis.md
+      - Verses: studies/law-13-jesus-and-sabbath/02-verses.md
+      - Word Studies: studies/law-13-jesus-and-sabbath/04-word-studies.md
+      - Topics: studies/law-13-jesus-and-sabbath/01-topics.md
+      - Research Scope: studies/law-13-jesus-and-sabbath/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-13-jesus-and-sabbath/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-13-jesus-and-sabbath/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-13-jesus-and-sabbath/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-13-jesus-and-sabbath/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-13-jesus-and-sabbath/raw-data/strongs-lookups.md
+
+    - "14 -- Jesus's Law Teachings":
+      - studies/law-14-jesus-law-teachings/CONCLUSION.md
+      - Analysis: studies/law-14-jesus-law-teachings/03-analysis.md
+      - Verses: studies/law-14-jesus-law-teachings/02-verses.md
+      - Word Studies: studies/law-14-jesus-law-teachings/04-word-studies.md
+      - Topics: studies/law-14-jesus-law-teachings/01-topics.md
+      - Research Scope: studies/law-14-jesus-law-teachings/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-14-jesus-law-teachings/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-14-jesus-law-teachings/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-14-jesus-law-teachings/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-14-jesus-law-teachings/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-14-jesus-law-teachings/raw-data/strongs-lookups.md
+
+  # ── Tier 5 -- Apostolic Teaching ──
+  - "Tier 5 -- Apostolic Teaching":
+
+    - "15 -- The Jerusalem Council (Acts 15)":
+      - studies/law-15-acts-15-jerusalem-council/CONCLUSION.md
+      - Analysis: studies/law-15-acts-15-jerusalem-council/03-analysis.md
+      - Verses: studies/law-15-acts-15-jerusalem-council/02-verses.md
+      - Word Studies: studies/law-15-acts-15-jerusalem-council/04-word-studies.md
+      - Topics: studies/law-15-acts-15-jerusalem-council/01-topics.md
+      - Research Scope: studies/law-15-acts-15-jerusalem-council/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-15-acts-15-jerusalem-council/raw-data/concept-context.md
+        - "Existing Studies": studies/law-15-acts-15-jerusalem-council/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-15-acts-15-jerusalem-council/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-15-acts-15-jerusalem-council/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-15-acts-15-jerusalem-council/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-15-acts-15-jerusalem-council/raw-data/strongs-lookups.md
+
+    - "16 -- Paul and the Law in Romans":
+      - studies/law-16-paul-and-law-in-romans/CONCLUSION.md
+      - Analysis: studies/law-16-paul-and-law-in-romans/03-analysis.md
+      - Verses: studies/law-16-paul-and-law-in-romans/02-verses.md
+      - Word Studies: studies/law-16-paul-and-law-in-romans/04-word-studies.md
+      - Topics: studies/law-16-paul-and-law-in-romans/01-topics.md
+      - Research Scope: studies/law-16-paul-and-law-in-romans/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-16-paul-and-law-in-romans/raw-data/concept-context.md
+        - "Existing Studies": studies/law-16-paul-and-law-in-romans/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-16-paul-and-law-in-romans/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-16-paul-and-law-in-romans/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-16-paul-and-law-in-romans/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-16-paul-and-law-in-romans/raw-data/strongs-lookups.md
+
+    - "17 -- Paul and the Law in Galatians":
+      - studies/law-17-paul-and-law-in-galatians/CONCLUSION.md
+      - Analysis: studies/law-17-paul-and-law-in-galatians/03-analysis.md
+      - Verses: studies/law-17-paul-and-law-in-galatians/02-verses.md
+      - Word Studies: studies/law-17-paul-and-law-in-galatians/04-word-studies.md
+      - Topics: studies/law-17-paul-and-law-in-galatians/01-topics.md
+      - Research Scope: studies/law-17-paul-and-law-in-galatians/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-17-paul-and-law-in-galatians/raw-data/concept-context.md
+        - "Greek Parsing": studies/law-17-paul-and-law-in-galatians/raw-data/greek-parsing.md
+        - "Cross-Testament Parallels": studies/law-17-paul-and-law-in-galatians/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-17-paul-and-law-in-galatians/raw-data/strongs-lookups.md
+
+    - "18 -- Hebrews 8-10":
+      - studies/law-18-hebrews-8-10/CONCLUSION.md
+      - Analysis: studies/law-18-hebrews-8-10/03-analysis.md
+      - Verses: studies/law-18-hebrews-8-10/02-verses.md
+      - Word Studies: studies/law-18-hebrews-8-10/04-word-studies.md
+      - Topics: studies/law-18-hebrews-8-10/01-topics.md
+      - Research Scope: studies/law-18-hebrews-8-10/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-18-hebrews-8-10/raw-data/concept-context.md
+        - "Greek Parsing": studies/law-18-hebrews-8-10/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-18-hebrews-8-10/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-18-hebrews-8-10/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-18-hebrews-8-10/raw-data/strongs-lookups.md
+
+    - "19 -- 2 Corinthians 3":
+      - studies/law-19-2-corinthians-3/CONCLUSION.md
+      - Analysis: studies/law-19-2-corinthians-3/03-analysis.md
+      - Verses: studies/law-19-2-corinthians-3/02-verses.md
+      - Word Studies: studies/law-19-2-corinthians-3/04-word-studies.md
+      - Topics: studies/law-19-2-corinthians-3/01-topics.md
+      - Research Scope: studies/law-19-2-corinthians-3/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-19-2-corinthians-3/raw-data/concept-context.md
+        - "Greek Parsing": studies/law-19-2-corinthians-3/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-19-2-corinthians-3/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-19-2-corinthians-3/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-19-2-corinthians-3/raw-data/strongs-lookups.md
+
+  # ── Tier 6 -- NT Vocabulary ──
+  - "Tier 6 -- NT Vocabulary":
+
+    - "20 -- NT Greek Law Vocabulary":
+      - studies/law-20-nt-greek-law-vocabulary/CONCLUSION.md
+      - Analysis: studies/law-20-nt-greek-law-vocabulary/03-analysis.md
+      - Verses: studies/law-20-nt-greek-law-vocabulary/02-verses.md
+      - Word Studies: studies/law-20-nt-greek-law-vocabulary/04-word-studies.md
+      - Topics: studies/law-20-nt-greek-law-vocabulary/01-topics.md
+      - Research Scope: studies/law-20-nt-greek-law-vocabulary/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-20-nt-greek-law-vocabulary/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-20-nt-greek-law-vocabulary/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-20-nt-greek-law-vocabulary/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-20-nt-greek-law-vocabulary/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-20-nt-greek-law-vocabulary/raw-data/strongs-lookups.md
+
+    - "21 -- NT Vocab: Law Categories":
+      - studies/law-21-nt-vocab-law-categories/CONCLUSION.md
+      - Analysis: studies/law-21-nt-vocab-law-categories/03-analysis.md
+      - Verses: studies/law-21-nt-vocab-law-categories/02-verses.md
+      - Word Studies: studies/law-21-nt-vocab-law-categories/04-word-studies.md
+      - Topics: studies/law-21-nt-vocab-law-categories/01-topics.md
+      - Research Scope: studies/law-21-nt-vocab-law-categories/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-21-nt-vocab-law-categories/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-21-nt-vocab-law-categories/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-21-nt-vocab-law-categories/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-21-nt-vocab-law-categories/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-21-nt-vocab-law-categories/raw-data/strongs-lookups.md
+
+    - "22 -- James and the Law":
+      - studies/law-22-james-and-law/CONCLUSION.md
+      - Analysis: studies/law-22-james-and-law/03-analysis.md
+      - Verses: studies/law-22-james-and-law/02-verses.md
+      - Word Studies: studies/law-22-james-and-law/04-word-studies.md
+      - Topics: studies/law-22-james-and-law/01-topics.md
+      - Research Scope: studies/law-22-james-and-law/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-22-james-and-law/raw-data/concept-context.md
+        - "Existing Studies": studies/law-22-james-and-law/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-22-james-and-law/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-22-james-and-law/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-22-james-and-law/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-22-james-and-law/raw-data/strongs-lookups.md
+
+    - "23 -- The Law of Christ":
+      - studies/law-23-law-of-christ/CONCLUSION.md
+      - Analysis: studies/law-23-law-of-christ/03-analysis.md
+      - Verses: studies/law-23-law-of-christ/02-verses.md
+      - Word Studies: studies/law-23-law-of-christ/04-word-studies.md
+      - Topics: studies/law-23-law-of-christ/01-topics.md
+      - Research Scope: studies/law-23-law-of-christ/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-23-law-of-christ/raw-data/concept-context.md
+        - "Existing Studies": studies/law-23-law-of-christ/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-23-law-of-christ/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-23-law-of-christ/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-23-law-of-christ/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-23-law-of-christ/raw-data/strongs-lookups.md
+
+  # ── Tier 7 -- The Sabbath ──
+  - "Tier 7 -- The Sabbath":
+
+    - "24 -- Weekly vs. Ceremonial Sabbaths":
+      - studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/CONCLUSION.md
+      - Analysis: studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/03-analysis.md
+      - Verses: studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/02-verses.md
+      - Word Studies: studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/04-word-studies.md
+      - Topics: studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/01-topics.md
+      - Research Scope: studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/raw-data/existing-studies.md
+        - "Hebrew Parsing": studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/raw-data/strongs-lookups.md
+
+    - "25 -- Sabbath: Moral or Ceremonial?":
+      - studies/law-25-sabbath-moral-or-ceremonial/CONCLUSION.md
+      - Analysis: studies/law-25-sabbath-moral-or-ceremonial/03-analysis.md
+      - Verses: studies/law-25-sabbath-moral-or-ceremonial/02-verses.md
+      - Word Studies: studies/law-25-sabbath-moral-or-ceremonial/04-word-studies.md
+      - Topics: studies/law-25-sabbath-moral-or-ceremonial/01-topics.md
+      - Research Scope: studies/law-25-sabbath-moral-or-ceremonial/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-25-sabbath-moral-or-ceremonial/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-25-sabbath-moral-or-ceremonial/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/law-25-sabbath-moral-or-ceremonial/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/law-25-sabbath-moral-or-ceremonial/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-25-sabbath-moral-or-ceremonial/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-25-sabbath-moral-or-ceremonial/raw-data/strongs-lookups.md
+
+    - "26 -- Sabbath Shadow Passages":
+      - studies/law-26-sabbath-shadow-passages/CONCLUSION.md
+      - Analysis: studies/law-26-sabbath-shadow-passages/03-analysis.md
+      - Verses: studies/law-26-sabbath-shadow-passages/02-verses.md
+      - Word Studies: studies/law-26-sabbath-shadow-passages/04-word-studies.md
+      - Topics: studies/law-26-sabbath-shadow-passages/01-topics.md
+      - Research Scope: studies/law-26-sabbath-shadow-passages/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-26-sabbath-shadow-passages/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-26-sabbath-shadow-passages/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/law-26-sabbath-shadow-passages/raw-data/hebrew-parsing.md
+        - "Cross-Testament Parallels": studies/law-26-sabbath-shadow-passages/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-26-sabbath-shadow-passages/raw-data/strongs-lookups.md
+
+    - "27 -- Is the Sabbath Still Binding?":
+      - studies/law-27-sabbath-still-in-effect/CONCLUSION.md
+      - Analysis: studies/law-27-sabbath-still-in-effect/03-analysis.md
+      - Verses: studies/law-27-sabbath-still-in-effect/02-verses.md
+      - Word Studies: studies/law-27-sabbath-still-in-effect/04-word-studies.md
+      - Topics: studies/law-27-sabbath-still-in-effect/01-topics.md
+      - Research Scope: studies/law-27-sabbath-still-in-effect/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-27-sabbath-still-in-effect/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-27-sabbath-still-in-effect/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/law-27-sabbath-still-in-effect/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/law-27-sabbath-still-in-effect/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-27-sabbath-still-in-effect/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-27-sabbath-still-in-effect/raw-data/strongs-lookups.md
+
+  # ── Tier 8 -- Synthesis ──
+  - "Tier 8 -- Synthesis":
+
+    - "28 -- Commandments in Revelation":
+      - studies/law-28-revelation-commandments/CONCLUSION.md
+      - Analysis: studies/law-28-revelation-commandments/03-analysis.md
+      - Verses: studies/law-28-revelation-commandments/02-verses.md
+      - Word Studies: studies/law-28-revelation-commandments/04-word-studies.md
+      - Topics: studies/law-28-revelation-commandments/01-topics.md
+      - Research Scope: studies/law-28-revelation-commandments/PROMPT.md
+
+    - "29 -- What Continues, What Ceased":
+      - studies/law-29-what-continues-what-ceased/CONCLUSION.md
+      - Analysis: studies/law-29-what-continues-what-ceased/03-analysis.md
+      - Verses: studies/law-29-what-continues-what-ceased/02-verses.md
+      - Word Studies: studies/law-29-what-continues-what-ceased/04-word-studies.md
+      - Topics: studies/law-29-what-continues-what-ceased/01-topics.md
+      - Research Scope: studies/law-29-what-continues-what-ceased/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/law-29-what-continues-what-ceased/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-29-what-continues-what-ceased/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-29-what-continues-what-ceased/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-29-what-continues-what-ceased/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-29-what-continues-what-ceased/raw-data/strongs-lookups.md
+
+    - "30 -- Romans 10:4 — What Does Telos Mean?":
+      - studies/law-30-romans-10-4-telos/CONCLUSION.md
+      - Analysis: studies/law-30-romans-10-4-telos/03-analysis.md
+      - Verses: studies/law-30-romans-10-4-telos/02-verses.md
+      - Word Studies: studies/law-30-romans-10-4-telos/04-word-studies.md
+      - Topics: studies/law-30-romans-10-4-telos/01-topics.md
+      - Research Scope: studies/law-30-romans-10-4-telos/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/law-30-romans-10-4-telos/raw-data/concept-context.md
+        - "Existing Studies": studies/law-30-romans-10-4-telos/raw-data/existing-studies.md
+        - "Greek Parsing": studies/law-30-romans-10-4-telos/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/law-30-romans-10-4-telos/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/law-30-romans-10-4-telos/raw-data/parallels.md
+        - "Strong's Lookups": studies/law-30-romans-10-4-telos/raw-data/strongs-lookups.md
+
+    - "31 -- Comprehensive Synthesis":
+      - studies/law-31-comprehensive-synthesis/CONCLUSION.md
+      - Analysis: studies/law-31-comprehensive-synthesis/03-analysis.md
+      - Raw Data:
+        - "Evidence Tally": studies/law-31-comprehensive-synthesis/raw-data/evidence-tally.md
+        - "Study DB Queries": studies/law-31-comprehensive-synthesis/raw-data/study-db-queries.md
+

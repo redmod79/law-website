@@ -1,0 +1,81 @@
+# Topics Research
+
+## Question
+What do entole, nomos, dogma, cheirographon, and dikaioma reveal about law categories in the NT? Investigate whether the Greek vocabulary itself encodes the moral/ceremonial distinction.
+
+---
+
+## Topics
+
+### COMMANDMENTS
+**General scriptures:** EXO 13:8-10; 20:3-17; DEU 4:5,9,10; 5:6-21; 6:4-9; 11:18-21; 32:46,47; JOS 8:30-35; 2CH 17:7-9; NEH 8:2-8; PSA 78:1-7; PRO 3:3,4; 6:20,21; 7:1-4; ISA 57:8; JER 11:4; ZEC 7:9,10; 8:16,17
+
+**Precepts of Jesus:** MAT 5:16,22-24,27-48; 6:1-4,6-8,16-25,31-34; 7:1-29; 10:5-42; 16:24; 18:8-10,15-17,21,22; 19:16-19; 20:25-28; 22:21,34-40; 24:42-51; 25:34-46; MRK 6:7-11; 8:34; 9:35,38,39,42-50; 10:9,11,12,17-22; 11:22; 12:17; 13:33-37; LUK 6:27-42; 10:28-37; 12:12-31; JHN 7:24; 13:34,35; 14:11,15,23,24; 15:2,4,5,7-12,14,17,20-22
+- See DECALOGUE; TABLES
+
+**Precepts of Paul:** ROM 12:1-3,6-21; 13:8-14; 14:19-21; 15:1,2; 1CO 8:1,7-13; 10:7-10,24,28,29,31,32; 14:20; 16:13,14; 2CO 13:7; GAL 5:1,16; 6:1,2; EPH 4:1-3,26-32; 5:1-6,11,15,17-21; 6:10,11,13-18; PHP 1:27,28; 2:2-8,12-16; 4:6,8,9; COL 2:6,16,20-23; 3:1,2,5,8,9,12-17,23; 1TH 3:12; 4:1,3,5,6,9-12; 5:6,8,12-22; 2TH 2:15; 3:6-15; 1TI 1:4; 2:1,2,8-12; 3:2-13; 4:1-7,12-16; 5:1-14,16-21; 6:11-14,17-20; 2TI 1:13,14; 2:19,22-25; 3:2-5; TIT 1:5-14; 2:2-5,9-12; 3:1,2,8; HEB 6:1,11,12; 10:22-25; 13:1-3,5,7,9,15-17
+
+**Other Apostles:** JAS 1:16,19,21,22; 2:1-4,8-12; 3:1; 4:7-11,13-15; 5:7-12,16; 1PE 1:13-17; 2:11-25; 3:8-12,15-17; 4:1-16; 5:1-3,5-9; 2PE 1:5-7,10; 3:14,18; 1JN 2:15,28; 3:10-23; 4:1,7,8,11,12,15,16,21; 5:21; 2JN 1:5,6; 3JN 1:11; Jude 1:3,4,20-23; REV 3:11,18,19; 22:17
+
+**Of Men:** ISA 29:13; MAT 15:3-20; MRK 7:2-23; ROM 14:1-6,10-23; 1TI 4:1-3
+
+**Key observation:** Nave's links COMMANDMENTS directly to DECALOGUE, showing the traditional association between "commandments" (entole in Greek) and the Ten Commandments.
+
+---
+
+### ORDINANCE
+**A decree:** EXO 12:14,24,43; 13:10; 15:25; NUM 9:14; 10:8; 15:15; 18:8; ISA 24:5; MAL 4:4; ROM 13:2; 1PE 2:13
+
+**Insufficiency of, for salvation:** ISA 1:10-17; GAL 5:6; 6:15; EPH 2:15; COL 2:14,20-23; HEB 9:1,8-10
+
+**Key observation:** Nave's explicitly categorizes ordinances as INSUFFICIENT FOR SALVATION, citing exactly the passages where dogma (Eph 2:15, Col 2:14) and dikaiomata (Heb 9:1,8-10) appear. This confirms the vocabulary association: "ordinance" = temporary/insufficient.
+
+---
+
+### DECREES
+Of the Medes, irrevocable: DAN 6:14,15
+From the congregation in Jerusalem: ACT 16:4; with 15:28,29
+
+**Key observation:** The "decrees" topic is small but notable -- the Jerusalem Council decisions (Acts 16:4) use dogma (G1378), the same word used for what was abolished in Eph 2:15 and Col 2:14.
+
+---
+
+### LAW
+**General scriptures:** PSA 19:7-9; 119:1-8; PRO 28:4,5; MAT 22:21; LUK 16:17; 20:22-25; ROM 2:14,15; 7:7,12,14; 13:10; 1TI 1:5,8-10; JAS 1:25; 1JN 3:4; 5:3
+
+**Of Moses:** Given at Sinai, engraved on stone, preserved in the ark, received by angels.
+- Divine authority: EXO 19:16-24; 20:1-17; 24:12-18; 31:18; 32:15,16; 34:1-4,27,28; DEU 4:10-13,36; 5:1-22; 9:10; 10:1-5
+- Epitomized by Jesus: MAT 22:40; MRK 12:29-33; LUK 10:27
+
+**Temporary:** JER 3:16; DAN 9:27; MAT 5:17-45; LUK 16:16,17; JHN 1:17; 4:20-24; 8:35; ACT 6:14; 10:28; 13:39; 15:1-29; 21:20-25; ROM 3:1,2; 7:1-6; 8:3; 10:4; 2CO 3:7-14; GAL 2:3-9; 4:30,31; EPH 2:15; COL 2:14-23; HEB 8:4-13; 9:8-24; 10:1-18; 11:40; 12:18,19,27
+
+**Key observation:** Nave's includes BOTH "general" (permanent) and "temporary" categories under LAW, with specific verses in each. The "general" category includes Rom 7:7,12,14 (law is holy, spiritual) and 1 Jhn 3:4 (sin = transgression of law). The "temporary" category includes Eph 2:15, Col 2:14-23, Heb 9:8-24. This mirrors the Greek vocabulary distribution.
+
+---
+
+### DECALOGUE
+Written by God: EXO 24:12; 31:18; 32:16; DEU 5:22; 9:10; HOS 8:12
+Divine authority: EXO 20:1; 34:27,28; DEU 5:4-22
+Called WORDS OF THE COVENANT: EXO 34:28; DEU 4:13
+TABLES OF TESTIMONY: EXO 31:18; 34:29; 40:20
+See COMMANDMENTS: EXO 20:1-17; DEU 5:7-21; MAT 19:18,19; 22:34-40; LUK 10:25-28; ROM 13:8-10
+
+**Key observation:** Nave's cross-references DECALOGUE to COMMANDMENTS and cites NT passages (Mat 19:18-19, Rom 13:8-10) where entole (G1785) is used for Decalogue content. This confirms the entole-Decalogue association.
+
+---
+
+### LEGISLATION
+Class, forbidden: EXO 12:49; LEV 24:22; NUM 9:14; 15:15,29; GAL 3:28
+Supplemental: NUM 15:32-35 (Sabbath-breaking)
+Inheritance: NUM 27:1-11
+
+---
+
+## Related Topics Discovered
+
+The Nave's entries reveal an organizational structure that aligns with the Greek vocabulary:
+1. **COMMANDMENTS** (entole domain) -- linked to DECALOGUE, moral precepts of Jesus/apostles
+2. **ORDINANCE** (dogma/dikaioma domain) -- linked to insufficiency for salvation, ceremonial regulations
+3. **LAW** (nomos domain) -- widest category, includes both permanent moral and temporary ceremonial
+4. **DECALOGUE** (specific entole content) -- written by God, the "words of the covenant"
+5. **DECREES** (dogma domain) -- civil/ecclesiastical decisions, not divine moral commands
