@@ -492,6 +492,19 @@ def generate_index_md():
     else:
         content.append("[**Read the Full Synthesis**](studies/law-31-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
 
+    content.append("")
+    content.append("---")
+    content.append("")
+    content.append("## Related Studies")
+    content.append("")
+    content.append("These companion sites use the same tool-driven research methodology:")
+    content.append("")
+    content.append("| Site | Description |")
+    content.append("|------|-------------|")
+    content.append("| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |")
+    content.append("| [**Genesis 6: The \"Sons of God\" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the \"sons of God\" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |")
+    content.append("| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |")
+
     index_path = DOCS / "index.md"
     index_path.write_text("\n".join(content) + "\n", encoding="utf-8")
     print(f"  Generated {index_path}")

@@ -154,3 +154,15 @@ Study 31 synthesized the evidence from Studies 1-30. The synthesis classified **
 Not a single explicit statement (E-tier) or necessary implication (N-tier) in the entire 810-item evidence base was classified as supporting abolition of the moral law. All 219 E+N positional items support "Continues." The Abolished position's 57 items exist entirely at the inference level (I-B and I-D).
 
 [**Read the Full Synthesis**](studies/law-31-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
