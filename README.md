@@ -1,5 +1,7 @@
 # The Law of God: What Does the Bible Say?
 
+**View the site: https://redmod79.github.io/law-website/**
+
 A comprehensive 31-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.
 
 ## Studies
