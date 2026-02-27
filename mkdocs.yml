@@ -1,5 +1,5 @@
 site_name: "The Law of God"
-site_description: A comprehensive 31-study biblical investigation examining what Scripture teaches about the moral law, ceremonial law, the Sabbath, and the relationship between Old and New Testaments.
+site_description: A comprehensive 33-study biblical investigation examining what Scripture teaches about the moral law, ceremonial law, the Sabbath, and the relationship between Old and New Testaments.
 
 theme:
   name: material
@@ -474,6 +474,36 @@ nav:
           - "Nave's Topics": studies/law-27-sabbath-still-in-effect/raw-data/naves-topics.md
           - "Cross-Testament Parallels": studies/law-27-sabbath-still-in-effect/raw-data/parallels.md
           - "Strong's Lookups": studies/law-27-sabbath-still-in-effect/raw-data/strongs-lookups.md
+      - "32 -- Lunar Sabbaths":
+        - studies/law-32-lunar-sabbaths/conclusion-simple.md
+        - Conclusion: studies/law-32-lunar-sabbaths/CONCLUSION.md
+        - Analysis: studies/law-32-lunar-sabbaths/03-analysis.md
+        - Verses: studies/law-32-lunar-sabbaths/02-verses.md
+        - Word Studies: studies/law-32-lunar-sabbaths/04-word-studies.md
+        - Topics: studies/law-32-lunar-sabbaths/01-topics.md
+        - Research Scope: studies/law-32-lunar-sabbaths/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/law-32-lunar-sabbaths/raw-data/concept-context.md
+          - "Existing Studies": studies/law-32-lunar-sabbaths/raw-data/existing-studies.md
+          - "Hebrew Parsing": studies/law-32-lunar-sabbaths/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/law-32-lunar-sabbaths/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/law-32-lunar-sabbaths/raw-data/parallels.md
+          - "Strong's Lookups": studies/law-32-lunar-sabbaths/raw-data/strongs-lookups.md
+          - "Verse Context": studies/law-32-lunar-sabbaths/raw-data/verse-context.md
+      - "33 -- Calendar Continuity":
+        - studies/law-33-calendar-continuity/conclusion-simple.md
+        - Conclusion: studies/law-33-calendar-continuity/CONCLUSION.md
+        - Analysis: studies/law-33-calendar-continuity/03-analysis.md
+        - Verses: studies/law-33-calendar-continuity/02-verses.md
+        - Word Studies: studies/law-33-calendar-continuity/04-word-studies.md
+        - Topics: studies/law-33-calendar-continuity/01-topics.md
+        - Research Scope: studies/law-33-calendar-continuity/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/law-33-calendar-continuity/raw-data/concept-context.md
+          - "Existing Studies": studies/law-33-calendar-continuity/raw-data/existing-studies.md
+          - "Nave's Topics": studies/law-33-calendar-continuity/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/law-33-calendar-continuity/raw-data/parallels.md
+          - "Strong's Lookups": studies/law-33-calendar-continuity/raw-data/strongs-lookups.md
 
     # ── Tier 8 -- Synthesis ──
     - "Tier 8 -- Synthesis":

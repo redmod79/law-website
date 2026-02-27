@@ -335,3 +335,14 @@ Evidence items registered in D:/bible/bible-studies/law-evidence.db
 *Series: law-01 through law-31*
 *Total evidence items: 810 (from law-evidence.db)*
 *Files: 03-analysis.md, CONCLUSION.md, raw-data/evidence-tally.md, raw-data/study-db-queries.md*
+
+---
+
+## Supplemental Studies (32-33)
+
+Studies 32 and 33 were added after this synthesis as supplemental investigations addressing the Sabbath specifically. They are not part of the moral-law-continues-vs-abolished analysis synthesized above.
+
+- **Study 32 — Lunar Sabbaths:** Does the Bible tie the weekly Sabbath to the lunar cycle? (54 evidence items: 42 Continuous-Cycle, 1 Lunar-Sabbath, 11 Neutral)
+- **Study 33 — Calendar Continuity:** Can we identify which day of the modern week is the biblical seventh-day Sabbath? (46 evidence items: 43 Identifiable, 1 Lost/Unknown, 2 Neutral)
+
+These studies address secondary questions that arise once the Sabbath's continuing validity has been established by the main series: Is the Sabbath governed by the moon? And can we know which day it is? Both are independent of the continues-vs-abolished question examined in Studies 1-31.

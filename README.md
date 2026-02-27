@@ -1,8 +1,6 @@
 # The Law of God: What Does the Bible Say?
 
-**View the site: https://redmod79.github.io/law-website/**
-
-A comprehensive 31-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.
+A comprehensive 33-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.
 
 ## Studies
 
@@ -38,7 +36,9 @@ A comprehensive 31-study biblical investigation examining every major text, word
 | 28 | Commandments in Revelation | What Commandments Are in Revelation? |
 | 29 | What Continues, What Ceased | What Specific Laws Continue and What Specific Laws Ceased? |
 | 30 | Romans 10:4 — What Does Telos Mean? | What Does Telos Mean in Romans 10:4? |
-| 31 | Comprehensive Synthesis | The Law of God: Comprehensive Synthesis of 30 Studies |
+| 31 | Comprehensive Synthesis | The Law of God: Comprehensive Synthesis of Studies 1-30 |
+| 32 | Lunar Sabbaths | Does the Bible Tie the Weekly Sabbath to the Lunar Cycle? |
+| 33 | Calendar Continuity | Can We Identify Which Day of the Modern Week Is the Biblical Seventh-Day Sabbath? |
 
 ## Built With
 

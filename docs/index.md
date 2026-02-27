@@ -1,16 +1,16 @@
 # The Law of God: What Does the Bible Say?
 
-*A comprehensive 31-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.*
+*A comprehensive 33-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.*
 
 ---
 
 ## The Question
 
-Christians hold differing views on the role of the Old Testament law today. Some argue the moral law (including the Ten Commandments and the Sabbath) continues in full force under the New Covenant. Others argue the entire Mosaic law was abolished at the cross. Rather than assuming either position, this series investigates the biblical evidence from the ground up across 31 studies.
+Christians hold differing views on the role of the Old Testament law today. Some argue the moral law (including the Ten Commandments and the Sabbath) continues in full force under the New Covenant. Others argue the entire Mosaic law was abolished at the cross. Rather than assuming either position, this series investigates the biblical evidence from the ground up across 33 studies.
 
 ## The Approach
 
-Each of the 31 studies is a genuine investigation. The agents gathered ALL relevant evidence, presented what each side claims, and let the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:
+Each study is a genuine investigation. The agents gathered ALL relevant evidence, presented what each side claims, and let the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:
 
 - **Explicit (E):** What the text directly says -- a quote or close paraphrase
 - **Necessary Implication (N):** What unavoidably follows from explicit statements
@@ -27,7 +27,7 @@ Each of the 31 studies is a genuine investigation. The agents gathered ALL relev
 
 ---
 
-## The 31 Studies
+## The 33 Studies
 
 ### Tier 1 -- Foundations
 
@@ -104,6 +104,8 @@ Is the weekly Sabbath moral or ceremonial? Do the 'shadow' passages abolish it?
 | 25 | [Sabbath: Moral or Ceremonial?](studies/law-25-sabbath-moral-or-ceremonial/conclusion-simple.md) | Is the Sabbath Moral or Ceremonial? |
 | 26 | [Sabbath Shadow Passages](studies/law-26-sabbath-shadow-passages/conclusion-simple.md) | Do Colossians 2:16-17 and Romans 14:5 Abolish the Weekly Sabbath? |
 | 27 | [Is the Sabbath Still Binding?](studies/law-27-sabbath-still-in-effect/conclusion-simple.md) | Is the Seventh-Day Sabbath Still Binding Today? |
+| 32 | [Lunar Sabbaths](studies/law-32-lunar-sabbaths/conclusion-simple.md) | Does the Bible Tie the Weekly Sabbath to the Lunar Cycle? |
+| 33 | [Calendar Continuity](studies/law-33-calendar-continuity/conclusion-simple.md) | Can We Identify Which Day of the Modern Week Is the Biblical Seventh-Day Sabbath? |
 
 ### Tier 8 -- Synthesis
 
@@ -114,7 +116,7 @@ Bringing all the evidence together.
 | 28 | [Commandments in Revelation](studies/law-28-revelation-commandments/conclusion-simple.md) | What Commandments Are in Revelation? |
 | 29 | [What Continues, What Ceased](studies/law-29-what-continues-what-ceased/conclusion-simple.md) | What Specific Laws Continue and What Specific Laws Ceased? |
 | 30 | [Romans 10:4 — What Does Telos Mean?](studies/law-30-romans-10-4-telos/conclusion-simple.md) | What Does Telos Mean in Romans 10:4? |
-| 31 | [Comprehensive Synthesis](studies/law-31-comprehensive-synthesis/conclusion-simple.md) | The Law of God: Comprehensive Synthesis of 30 Studies |
+| 31 | [Comprehensive Synthesis](studies/law-31-comprehensive-synthesis/conclusion-simple.md) | The Law of God: Comprehensive Synthesis of Studies 1-30 |
 
 ---
 
@@ -137,7 +139,7 @@ Every study includes multiple layers of research, all accessible through the nav
 
 ## Evidence Summary (from Study 31)
 
-Study 31 synthesized the evidence from Studies 1-30. The synthesis classified **810 unique evidence items** across all studies.
+Study 31 synthesized the evidence from Studies 1-30 on the central question of what continues and what was abolished. The synthesis classified **810 unique evidence items** across those studies. Studies 32-33 are supplemental investigations addressing the Sabbath specifically (lunar sabbaths and calendar continuity) and are not part of the moral-law-continues-vs-abolished analysis.
 
 ### Positional Distribution
 

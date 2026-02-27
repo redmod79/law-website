@@ -49,6 +49,8 @@ SHORT_TITLES = {
     "law-25": "Sabbath: Moral or Ceremonial?",
     "law-26": "Sabbath Shadow Passages",
     "law-27": "Is the Sabbath Still Binding?",
+    "law-32": "Lunar Sabbaths",
+    "law-33": "Calendar Continuity",
     "law-28": "Commandments in Revelation",
     "law-29": "What Continues, What Ceased",
     "law-30": "Romans 10:4 — What Does Telos Mean?",
@@ -84,10 +86,12 @@ FULL_TITLES = {
     "law-25": "Is the Sabbath Moral or Ceremonial?",
     "law-26": "Do Colossians 2:16-17 and Romans 14:5 Abolish the Weekly Sabbath?",
     "law-27": "Is the Seventh-Day Sabbath Still Binding Today?",
+    "law-32": "Does the Bible Tie the Weekly Sabbath to the Lunar Cycle?",
+    "law-33": "Can We Identify Which Day of the Modern Week Is the Biblical Seventh-Day Sabbath?",
     "law-28": "What Commandments Are in Revelation?",
     "law-29": "What Specific Laws Continue and What Specific Laws Ceased?",
     "law-30": "What Does Telos Mean in Romans 10:4?",
-    "law-31": "The Law of God: Comprehensive Synthesis of 30 Studies",
+    "law-31": "The Law of God: Comprehensive Synthesis of Studies 1-30",
 }
 
 # Tier groupings
@@ -125,7 +129,7 @@ TIERS = [
     {
         "name": "Tier 7 -- The Sabbath",
         "desc": "Is the weekly Sabbath moral or ceremonial? Do the 'shadow' passages abolish it?",
-        "studies": ["law-24", "law-25", "law-26", "law-27"],
+        "studies": ["law-24", "law-25", "law-26", "law-27", "law-32", "law-33"],
     },
     {
         "name": "Tier 8 -- Synthesis",
@@ -265,7 +269,7 @@ def generate_mkdocs_yml(study_folders: list[tuple[str, Path]]):
 
     lines = []
     lines.append('site_name: "The Law of God"')
-    lines.append("site_description: A comprehensive 31-study biblical investigation examining what Scripture teaches about the moral law, ceremonial law, the Sabbath, and the relationship between Old and New Testaments.")
+    lines.append("site_description: A comprehensive 33-study biblical investigation examining what Scripture teaches about the moral law, ceremonial law, the Sabbath, and the relationship between Old and New Testaments.")
     lines.append("")
     lines.append("theme:")
     lines.append("  name: material")
@@ -384,17 +388,17 @@ def generate_index_md():
 
     content.append("# The Law of God: What Does the Bible Say?")
     content.append("")
-    content.append("*A comprehensive 31-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.*")
+    content.append("*A comprehensive 33-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.*")
     content.append("")
     content.append("---")
     content.append("")
     content.append("## The Question")
     content.append("")
-    content.append('Christians hold differing views on the role of the Old Testament law today. Some argue the moral law (including the Ten Commandments and the Sabbath) continues in full force under the New Covenant. Others argue the entire Mosaic law was abolished at the cross. Rather than assuming either position, this series investigates the biblical evidence from the ground up across 31 studies.')
+    content.append('Christians hold differing views on the role of the Old Testament law today. Some argue the moral law (including the Ten Commandments and the Sabbath) continues in full force under the New Covenant. Others argue the entire Mosaic law was abolished at the cross. Rather than assuming either position, this series investigates the biblical evidence from the ground up across 33 studies.')
     content.append("")
     content.append("## The Approach")
     content.append("")
-    content.append("Each of the 31 studies is a genuine investigation. The agents gathered ALL relevant evidence, presented what each side claims, and let the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:")
+    content.append("Each study is a genuine investigation. The agents gathered ALL relevant evidence, presented what each side claims, and let the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:")
     content.append("")
     content.append("- **Explicit (E):** What the text directly says -- a quote or close paraphrase")
     content.append("- **Necessary Implication (N):** What unavoidably follows from explicit statements")
@@ -416,7 +420,7 @@ def generate_index_md():
     content.append("")
     content.append("---")
     content.append("")
-    content.append("## The 31 Studies")
+    content.append("## The 33 Studies")
     content.append("")
 
     # Generate study tables grouped by tier
@@ -470,7 +474,7 @@ def generate_index_md():
     content.append("")
     content.append("## Evidence Summary (from Study 31)")
     content.append("")
-    content.append("Study 31 synthesized the evidence from Studies 1-30. The synthesis classified **810 unique evidence items** across all studies.")
+    content.append("Study 31 synthesized the evidence from Studies 1-30 on the central question of what continues and what was abolished. The synthesis classified **810 unique evidence items** across those studies. Studies 32-33 are supplemental investigations addressing the Sabbath specifically (lunar sabbaths and calendar continuity) and are not part of the moral-law-continues-vs-abolished analysis.")
     content.append("")
     content.append("### Positional Distribution")
     content.append("")
@@ -759,7 +763,7 @@ def generate_readme(study_folders: list[tuple[str, Path]]):
     lines = []
     lines.append("# The Law of God: What Does the Bible Say?")
     lines.append("")
-    lines.append("A comprehensive 31-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.")
+    lines.append("A comprehensive 33-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.")
     lines.append("")
     lines.append("## Studies")
     lines.append("")
