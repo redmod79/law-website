@@ -393,3 +393,15 @@ What do entole, nomos, dogma, cheirographon, and dikaioma reveal about law categ
 4. **Rev 14:12 parallels** OT commandment-keeping (Deut 28:9, Dan 9:4, Neh 12:45) and NT faith passages (1 Tim 6:11,14)
 5. **Heb 9:1 parallels** OT sanctuary/worship passages (Ezek 44:8, 45:4) and ceremonial context (Col 2:23)
 6. **Col 2:14 parallels** Isa 43:25 (God blotting out transgressions -- parallel exaleipho language)
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

@@ -295,3 +295,15 @@ The qualified contextual pattern is valid: within law-referent passages, singula
 - **law-16** (Paul and the Law in Romans): Established that Paul uses nomos in at least four distinct senses. *(Examined in depth in law-16.)*
 - **law-04** (Ceremonial Laws): Produced the comprehensive contrast table between Decalogue and ceremonial law across multiple dimensions including vocabulary. *(Examined in depth in law-04.)*
 - **nt-commandments-vs-ordinances**: Analyzed the same vocabulary but did not produce the systematic mapping table. Law-21's unique contribution is the occurrence-by-occurrence content verification. *(Examined in depth in nt-commandments-vs-ordinances.)*
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

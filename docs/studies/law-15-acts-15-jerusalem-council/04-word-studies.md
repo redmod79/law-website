@@ -341,3 +341,15 @@ The ger (resident alien/sojourner) was bound by certain laws in Israel -- includ
 
 ### Significance
 Used by Peter in Acts 10:28: "Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation." This is the same Peter who speaks at the Jerusalem Council about God showing no difference between Jew and Gentile (Acts 15:7-9).
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

@@ -230,3 +230,15 @@ What do Hebrews 8-10 teach about priesthood, covenant, and law? What specificall
 The Nave's ORDINANCE entry directly cross-references Heb 9:1,8-10 under "INSUFFICIENCY OF, FOR SALVATION." This is significant: Nave's own classification places the Hebrews 9 ordinances in the category of ordinances insufficient for salvation, alongside Eph 2:15 and Col 2:14,20-23 -- all ceremonial/ritual law passages.
 
 The COVENANT entry lists "Of the Ten Commandments EXO 34:28; DEU 5:2,3; 9:9" as a distinct covenant instance, and separately lists "THE SECOND COVENANT JER 31:31-34; HEB 8:4-13; 12:18-24; 13:20."
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

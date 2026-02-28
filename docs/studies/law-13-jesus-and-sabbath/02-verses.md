@@ -310,3 +310,15 @@ What do Jesus's Sabbath actions and teachings reveal about the Sabbath's continu
 **Matthew 12:12 connects to:** Isaiah 56:2; Deuteronomy 5:14; Exodus 20:10; Leviticus 23:3 (OT); Luke 6:9; Mark 3:4; John 5:10; Luke 13:15; Luke 14:3 (NT)
 
 **Hebrews 4:9 connects to:** Exodus 16:26; 20:8,10; 31:16; Leviticus 23:3,32; 24:8 (OT); Mark 2:27-28; Matthew 12:8; 24:20; Acts 13:44 (NT)
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

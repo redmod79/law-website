@@ -382,3 +382,15 @@ Across all seven criteria tested in this study:
 1 I-D inference (counter-evidence external) supports the Abolished position -- the claim that all sabbaths are one unified system abolished at the cross. This I-D inference requires overriding multiple E and N items (creation grounding, Decalogue markers, millibad separation, sabbatismos, universal scope).
 
 The Abolished-position arguments in this study (Col 2:16, Gal 4:10, Rom 14:5) each cite passages where the referent is unspecified by the text itself. The identification of the weekly Sabbath as the referent is an inference (I-B or I-D) that requires adding a concept the passage does not contain. The Continues-position arguments cite passages where the referent is specified (the Fourth Commandment, the Lev 23 Sabbath, Isaiah's Sabbath for foreigners, Heb 4:9 sabbatismos) and where the textual markers (creation origin, Decalogue membership, millibad separation, memorial function, universal scope) are observable in the text.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

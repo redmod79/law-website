@@ -70,3 +70,15 @@ DEU 6:5; 10:12,13; 11:1; 30:15-20; JOS 22:5; 23:11; PSA 31:23; PRO 23:26; MAT 4:
 - AFFECTIONS: "Should be set upon the commandments of God" PSA 19:8-10; 119:20,97,103,167
 - COVENANT: The Mosaic law called a covenant (EXO 34:28); Ten Commandments are "words of the covenant" (EXO 34:28; DEU 4:13)
 - Decalogue called "tables of testimony" (eduth) — EXO 31:18; 34:29; 40:20
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

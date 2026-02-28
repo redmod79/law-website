@@ -97,3 +97,15 @@ During gathering, the following additional connections were noted:
 - **INTERCESSION** -- Moses' role as intercessor/mediator connects to the two-stage delivery
 - **JESUS, MEDIATOR** -- NT parallel to Moses as mediator (Gal 3:19-20; Heb 8:6; 9:15; 12:24)
 - The Nave's distinction between "book of the covenant" (EXO 24:7) and "words of the covenant, the ten commandments" (EXO 34:28) directly maps to the two-document thesis
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

@@ -143,3 +143,15 @@ Referenced under STONES: "Commandments engraved upon" (EXO 24:12; 31:18; 34:1-4;
 4. **SECOND COVENANT**: Nave's lists JER 31:31-34 and HEB 8:4-13 as the "second covenant" passages -- these are the new covenant promises that write the law on hearts.
 5. **VEIL**: Nave's links Moses' veil (EXO 34:33,35) directly to 2CO 3:13-16 -- Paul's interpretation.
 6. **STONES**: The figurative use of stone for "the impenitent heart" (EZK 36:26) connects to the stone-to-heart transition in 2 Cor 3:3.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

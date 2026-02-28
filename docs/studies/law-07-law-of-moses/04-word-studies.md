@@ -261,3 +261,15 @@ All three use the same noun (torah/nomos) with different genitive modifiers. The
 2. Nomos is the shared term across all three phrases, carrying no inherent moral/ceremonial distinction.
 3. The genitive modifier (Mouseos vs. Theou) may carry theological significance: Paul uses "law of God" (nomos Theou) for the law he delights in (Rom 7:22), identified by the Decalogue commandment "Thou shalt not covet" (Rom 7:7); he uses "law of Moses" (nomos Mouseos) for the broader Mosaic code (1 Cor 9:9 -- "muzzle not the ox").
 4. The Hebrew parsing of Malachi 3:22 (= 4:4) shows torah in construct with Mosheh, followed by chuqqim (statutes) and mishpatim (judgments) -- these additional terms expand what "the law of Moses" encompasses.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

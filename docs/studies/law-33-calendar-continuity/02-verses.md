@@ -320,3 +320,15 @@ Can we identify which day of the modern week is the biblical seventh-day Sabbath
 **law-32:** The weekly Sabbath follows a continuous 7-day cycle independent of the moon. 33 E-items + 6 N-items support continuous cycle; 0 support lunar sabbaths. Fixed weekly day-names (paraskeue, prosabbaton) prove predictable weekly cycle.
 
 **seventh-day-identity:** Five independent lines of evidence identify Saturday as the seventh day: Jewish tradition (3,000+ years), Christian tradition, Islamic tradition, astronomical records, linguistic evidence (108+ languages name Saturday "Sabbath"). The Gregorian reform changed dates, not days.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

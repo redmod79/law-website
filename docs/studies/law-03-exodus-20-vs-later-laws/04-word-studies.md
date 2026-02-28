@@ -271,3 +271,15 @@ Dan 2:13; 3:10; 4:3; 6:13 -- all referring to human/royal decrees
 Dogma is used in the two key "cessation" passages (Eph 2:15; Col 2:14). In secular usage (Luke 2:1; Acts 17:7) it means a governmental decree. In Acts 16:4 it refers to the apostolic council's decisions. In Eph 2:15 and Col 2:14 it describes what was "abolished" or "nailed to the cross."
 
 The word dogma is NEVER used for the moral law or the Decalogue in the NT. The Decalogue is referred to with entole (commandment) or nomos (law). Law-01 established this distinction: all cessation-vocabulary E-items use dogma or specify ceremonial items. This word study confirms that dogma has a limited semantic range (civil/ceremonial decrees) and does not overlap with the terminology used for the Ten Commandments.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

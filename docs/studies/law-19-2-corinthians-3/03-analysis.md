@@ -281,3 +281,15 @@ Response from the text: The Greek uses neuter substantivized participles (to kat
 6. The passage's conclusion (vv.17-18) is about Spirit-empowered transformation from glory to glory, not about abolition of the law.
 
 7. Paul's other epistles affirm the law as holy, just, good, and spiritual (Rom 7:12, 14), deny making the law void (Rom 3:31), and describe the Spirit fulfilling the law's righteousness in believers (Rom 8:4).
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

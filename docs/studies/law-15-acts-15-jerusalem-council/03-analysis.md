@@ -272,3 +272,15 @@ The Abolished position infers that since only four items are specified, Gentile 
 
 ### Galatians 3:24-25 — No Longer Under a Schoolmaster
 Paul says "after that faith is come, we are no longer under a schoolmaster." The Abolished position reads this as the moral law being terminated. Prior studies (law-08) noted that the referent of "the law" in Gal 3 is ambiguous (Gate 1 failure in Tree 3). The "schoolmaster" (paidagogos) was a guardian leading to a destination (Christ); arriving at the destination does not destroy the destination. Paul in the same epistle affirms "the law was our schoolmaster to bring us unto Christ, that we might be justified by faith" — the purpose is justification, not moral guidance. The same Paul says "Do we then make void the law through faith? God forbid: yea, we establish the law" (Rom 3:31).
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

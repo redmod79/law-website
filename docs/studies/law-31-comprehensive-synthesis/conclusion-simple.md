@@ -323,3 +323,15 @@ Two additional studies were added after this synthesis to address questions that
 - **Study 32 — Lunar Sabbaths:** Some claim the weekly Sabbath is governed by the lunar cycle (falling on the 8th, 15th, 22nd, and 29th of each month). The investigation found zero biblical texts connecting the Sabbath to the moon. Every line of evidence — lexical, structural, grammatical, narrative, and legislative — confirms the weekly Sabbath follows a continuous 7-day cycle independent of any celestial body.
 
 - **Study 33 — Calendar Continuity:** Some argue that calendar changes or lost time make it impossible to know which day is the Sabbath. The investigation found that the crucifixion-resurrection sequence (Friday-Saturday-Sunday) anchors the Sabbath to Saturday, the manna cycle supernaturally marked it for 40 years, it was identifiable after the Babylonian captivity (Nehemiah 13), Jesus and the apostles kept it without any dispute over which day it was, and the 7-day weekly cycle has never been broken in recorded history.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

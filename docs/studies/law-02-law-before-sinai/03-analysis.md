@@ -486,3 +486,15 @@ Paul states this principle, then notes "nevertheless death reigned from Adam to 
 
 ### The Absence of an Explicit Sabbath Command in Genesis 2
 The text of Genesis 2:2-3 describes what God did (rested, blessed, sanctified) but does not contain an explicit command to humans to observe the seventh day. The command first appears in Exodus 16 (pre-Sinai) and then formally in Exodus 20:8-11. The Abolished position cites this absence as evidence the Sabbath was not commanded at creation. The Continues position notes that Genesis 2:2-3 records the institution (blessing and sanctifying a day for a purpose beyond God's own rest), and the fourth commandment explicitly roots itself in this creation act.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

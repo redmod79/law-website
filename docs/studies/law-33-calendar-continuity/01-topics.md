@@ -101,3 +101,15 @@ Can we identify which day of the modern week is the biblical seventh-day Sabbath
 - DAY topic explicitly names "the sixth day of the week called preparation day" (MRK 15:42; JHN 19:14,31,42) and "the seventh of the week ordained as a day of rest" -- confirming the weekly cycle was identified and named in the NT
 - SABBATH Nave's entry includes post-exile observance by Nehemiah (NEH 13:15,21) and post-crucifixion observance (LUK 23:56)
 - LORD'S DAY redirects to SABBATH in Nave's
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

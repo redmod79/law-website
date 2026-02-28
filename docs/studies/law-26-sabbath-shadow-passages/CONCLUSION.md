@@ -332,3 +332,15 @@ The Continues position's items: 9 Explicit statements, 3 Necessary Implications,
 - CANNOT say: "All sabbaths are one unified category abolished at the cross." The text of Lev 23:37-38 explicitly distinguishes weekly sabbaths from feast sabbaths. This is an I-D inference requiring override of multiple E/N statements.
 - CANNOT say: "The Sabbath is explicitly named and abolished in any NT passage." No NT passage names the Decalogue Sabbath as abolished.
 - CANNOT say: "Col 2:16 is definitely about ONLY ceremonial sabbaths." While the I-B resolution is Strong toward ceremonial, the text does not explicitly state "ceremonial sabbaths only." The identification relies on the OT triad pattern and the Lev 23:38 distinction applied via SIS.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

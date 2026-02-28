@@ -323,3 +323,15 @@ Note: The 3 Abolished items are all inferences (1 I-B resolved against it; 2 I-D
 6. It cannot be said that James explicitly addresses the Sabbath. No Sabbath reference appears in James' epistle. The Sabbath question is not resolved by James' text alone.
 7. It cannot be said that James' "royal law" refers only to the love command to the exclusion of the Decalogue commands he also cites. James treats the love command and the Decalogue commands as part of the same law.
 8. It cannot be said that James viewed all law as one indivisible unit in practice, given his distinction between moral requirements imposed on Gentiles and ceremonial requirements not imposed (Acts 15:19-20).
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

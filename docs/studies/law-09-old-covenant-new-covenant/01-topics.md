@@ -107,3 +107,15 @@ What is the Old Covenant and what is the New Covenant? Investigate the Sinai cov
 - BLOOD: Of covenant (EXO 24:5-8; HEB 9:18-20; HEB 13:20; ZEC 9:11); Of Christ (MAT 26:28; MRK 14:24; LUK 22:20; 1CO 11:25; HEB 9:12-14; 10:19; 12:24; 13:20; 1PE 1:2,19; 1JO 1:7; REV 1:5; 5:9; 7:14; 12:11)
 - MORAL LAW: See LAW topic
 - CONSCIENCE: Law written on hearts / internal moral awareness
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

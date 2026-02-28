@@ -57,3 +57,15 @@ Includes Sabbath-related references: ISA 58:13,14 (call the sabbath "the holy of
 - The SABBATH topic in Nave's covers the full scope needed: origin (Gen 2:2-3), Sinai legislation (Exo 20:8-11), prophetic teaching (Isa 56, 58, 66), Jesus's controversies (all four Gospels), apostolic practice (Acts), and the NT theological passages (Col 2:16, Heb 4:9).
 - The COMMANDMENTS topic provides the framework for understanding Jesus's relationship to the law (Mat 5:17-20; 19:16-19; 22:34-40), including the crucial "commandments of men" category (Isa 29:13; Mat 15:3-20; Mark 7:2-23) which distinguishes God's actual commandments from human traditions -- directly relevant to the Pharisaic Sabbath regulations Jesus opposed.
 - The SYNAGOGUE topic confirms the regular Sabbath worship pattern: Jesus and Paul both used synagogues on the Sabbath as their primary teaching venues.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

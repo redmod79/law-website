@@ -359,3 +359,15 @@ The Day of Atonement is called "an everlasting statute" (chuqqat olam). The word
 
 ### Genesis 17:13 -- "Everlasting Covenant" for Circumcision
 Circumcision is called a "berith olam" (everlasting covenant). Yet the NT apostles (Acts 15), Paul (Gal 5:2-6; 1 Cor 7:19), and the Jerusalem council all declare circumcision is no longer required. This textual data point shows that olam, when applied to ceremonies, can mean "for the duration of the dispensation" rather than "absolute eternity." The same word's meaning is determined by context and the nature of the subject.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |
