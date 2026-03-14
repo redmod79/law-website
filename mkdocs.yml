@@ -3,6 +3,7 @@ site_description: A comprehensive 33-study biblical investigation examining what
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: indigo

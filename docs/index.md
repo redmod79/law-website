@@ -3,10 +3,6 @@
 *A comprehensive 33-study biblical investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant.*
 
 ---
-
-!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
-    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
-
 ## The Question
 
 Christians hold differing views on the role of the Old Testament law today. Some argue the moral law (including the Ten Commandments and the Sabbath) continues in full force under the New Covenant. Others argue the entire Mosaic law was abolished at the cross. Rather than assuming either position, this series investigates the biblical evidence from the ground up across 33 studies.
