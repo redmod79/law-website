@@ -237,13 +237,13 @@ The beatitude links commandment-doing to access to the tree of life, reversing t
 
 | Word | Strong's | Key Finding |
 |------|----------|-------------|
-| entole | [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | Used in all three Revelation commandment passages. Unqualified = moral/Decalogue in 43/43 identifiable NT instances. Qualified (with sarkines, en dogmasin, anthropon) = ceremonial or human. No qualifier in Revelation instances. |
-| martyria | [G3141](https://www.blueletterbible.org/lexicon/g3141/kjv/tr/0-1/){:target="_blank"} | "Testimony of Jesus" defined in Rev 19:10 as "the spirit of prophecy." Subjective genitive: the testimony Jesus gives. |
-| pistis | [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} | "Faith of Jesus" in Rev 14:12. Whether subjective (Jesus's faithfulness) or objective (faith in Jesus), it pairs with commandment-keeping. |
-| hupomone | [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} | "Patience/endurance" of the saints. Defined in Rev 14:12 as commandment-keeping + faith. Active obedience, not passive waiting. |
-| dogma | [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | Used for what was "nailed to the cross" (Col 2:14) and "abolished" (Eph 2:15). Never for God's moral commands. Never appears in Revelation. |
-| entalma | [G1778](https://www.blueletterbible.org/lexicon/g1778/kjv/tr/0-1/){:target="_blank"} | Used exclusively for "commandments of men" (Mat 15:9; Mrk 7:7; Col 2:22). Third distinct term, confirming NT vocabulary distinguishes command categories. |
-| nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Does not appear in Revelation. The "law" debates in Paul's epistles cannot be directly imported into Revelation's "commandments" language. |
+| entole | G1785 | Used in all three Revelation commandment passages. Unqualified = moral/Decalogue in 43/43 identifiable NT instances. Qualified (with sarkines, en dogmasin, anthropon) = ceremonial or human. No qualifier in Revelation instances. |
+| martyria | G3141 | "Testimony of Jesus" defined in Rev 19:10 as "the spirit of prophecy." Subjective genitive: the testimony Jesus gives. |
+| pistis | G4102 | "Faith of Jesus" in Rev 14:12. Whether subjective (Jesus's faithfulness) or objective (faith in Jesus), it pairs with commandment-keeping. |
+| hupomone | G5281 | "Patience/endurance" of the saints. Defined in Rev 14:12 as commandment-keeping + faith. Active obedience, not passive waiting. |
+| dogma | G1378 | Used for what was "nailed to the cross" (Col 2:14) and "abolished" (Eph 2:15). Never for God's moral commands. Never appears in Revelation. |
+| entalma | G1778 | Used exclusively for "commandments of men" (Mat 15:9; Mrk 7:7; Col 2:22). Third distinct term, confirming NT vocabulary distinguishes command categories. |
+| nomos | G3551 | Does not appear in Revelation. The "law" debates in Paul's epistles cannot be directly imported into Revelation's "commandments" language. |
 
 ---
 
@@ -381,16 +381,3 @@ This study produced 17 explicit statements (10 Continues, 7 Neutral, 0 Abolished
 
 *Study completed: 2026-02-26*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

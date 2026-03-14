@@ -5,7 +5,7 @@ Can we identify which day of the modern week is the biblical seventh-day Sabbath
 
 ---
 
-## [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} -- shabbath (Sabbath)
+## H7676 -- shabbath (Sabbath)
 **Original:** שַׁבָּת
 **Transliteration:** shabbath
 **Pronunciation:** shab-bawth
@@ -13,7 +13,7 @@ Can we identify which day of the modern week is the biblical seventh-day Sabbath
 **Occurrences:** 108 (BLB count) / 109 total translation occurrences
 
 ### Definition
-Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath, "to cease"); intermission, i.e., specifically the Sabbath.
+Intensive from H7673 (shabath, "to cease"); intermission, i.e., specifically the Sabbath.
 
 ### Translations
 | Translation | Count | % |
@@ -43,7 +43,7 @@ Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1
 
 ---
 
-## [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} -- sabbaton (Sabbath / week)
+## G4521 -- sabbaton (Sabbath / week)
 **Original:** σάββατον
 **Transliteration:** sabbaton
 **Pronunciation:** sab-bat-on
@@ -82,7 +82,7 @@ Of Hebrew origin (H7676); the Sabbath (i.e., Shabbath), or day of weekly rest.
 
 ---
 
-## [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} -- paraskeue (Preparation / Friday)
+## G3904 -- paraskeue (Preparation / Friday)
 **Original:** παρασκευή
 **Transliteration:** paraskeue
 **Pronunciation:** par-ask-yoo-ay
@@ -115,7 +115,7 @@ From paraskeuazo ("to prepare"); readiness, preparation. Technical name for the 
 
 ---
 
-## [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} -- prosabbaton (day before the Sabbath)
+## G4315 -- prosabbaton (day before the Sabbath)
 **Original:** προσάββατον
 **Transliteration:** prosabbaton
 **Pronunciation:** pros-ab-bat-on
@@ -137,7 +137,7 @@ From pro ("before") + sabbaton ("Sabbath"); a fore-sabbath, i.e., the Sabbath-ev
 
 ---
 
-## [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} -- sabbatismos (Sabbath-keeping)
+## G4520 -- sabbatismos (Sabbath-keeping)
 **Original:** σαββατισμός
 **Transliteration:** sabbatismos
 **Pronunciation:** sab-bat-is-mos
@@ -159,7 +159,7 @@ From sabbatizo ("to keep sabbath"); a "sabbatism," i.e., the practice of Sabbath
 
 ---
 
-## [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} -- shabbathon (sabbatism / special rest)
+## H7677 -- shabbathon (sabbatism / special rest)
 **Original:** שַׁבָּתוֹן
 **Transliteration:** shabbathon
 **Pronunciation:** shab-baw-thone
@@ -167,7 +167,7 @@ From sabbatizo ("to keep sabbath"); a "sabbatism," i.e., the practice of Sabbath
 **Occurrences:** 11
 
 ### Definition
-From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday -- rest, sabbath.
+From H7676; a sabbatism or special holiday -- rest, sabbath.
 
 ### Translations
 | Translation | Count | % |
@@ -189,7 +189,7 @@ From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target
 
 ---
 
-## [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} -- shevi'i (seventh)
+## H7637 -- shevi'i (seventh)
 **Original:** שְׁבִיעִי
 **Transliteration:** shevi'i
 **Pronunciation:** sheb-ee-ee
@@ -197,7 +197,7 @@ From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target
 **Occurrences:** 98
 
 ### Definition
-Ordinal from [H7651](https://www.blueletterbible.org/lexicon/h7651/kjv/wlc/0-1/){:target="_blank"} (sheba, "seven"); seventh.
+Ordinal from H7651 (sheba, "seven"); seventh.
 
 ### Translations
 | Translation | Count | % |
@@ -219,7 +219,7 @@ Ordinal from [H7651](https://www.blueletterbible.org/lexicon/h7651/kjv/wlc/0-1/)
 
 ---
 
-## [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} -- shabuah (week)
+## H7620 -- shabuah (week)
 **Original:** שָׁבוּעַ
 **Transliteration:** shabuah
 **Pronunciation:** shaw-boo-ah
@@ -227,7 +227,7 @@ Ordinal from [H7651](https://www.blueletterbible.org/lexicon/h7651/kjv/wlc/0-1/)
 **Occurrences:** 20
 
 ### Definition
-Passive participle of [H7650](https://www.blueletterbible.org/lexicon/h7650/kjv/wlc/0-1/){:target="_blank"} as denominative of [H7651](https://www.blueletterbible.org/lexicon/h7651/kjv/wlc/0-1/){:target="_blank"}; literally "sevened," i.e., a week (specifically, of years): seven, week.
+Passive participle of H7650 as denominative of H7651; literally "sevened," i.e., a week (specifically, of years): seven, week.
 
 ### Key Observations
 - Derives from the same root as shabbath (seven/rest)
@@ -237,7 +237,7 @@ Passive participle of [H7650](https://www.blueletterbible.org/lexicon/h7650/kjv/
 
 ---
 
-## [G1520](https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/){:target="_blank"} -- heis (one / first)
+## G1520 -- heis (one / first)
 **Original:** εἷς
 **Transliteration:** heis
 **Pronunciation:** hice
@@ -252,7 +252,7 @@ Passive participle of [H7650](https://www.blueletterbible.org/lexicon/h7650/kjv/
 
 ---
 
-## [G2663](https://www.blueletterbible.org/lexicon/g2663/kjv/tr/0-1/){:target="_blank"} -- katapausis (rest)
+## G2663 -- katapausis (rest)
 **Original:** κατάπαυσις
 **Transliteration:** katapausis
 **Pronunciation:** kat-ap-ow-sis
@@ -275,7 +275,7 @@ From katapauo ("to repose down"); reposing, abode -- rest.
 
 ---
 
-## [H4478](https://www.blueletterbible.org/lexicon/h4478/kjv/wlc/0-1/){:target="_blank"} -- man (manna)
+## H4478 -- man (manna)
 **Original:** מָן
 **Transliteration:** man
 **Pronunciation:** mawn
@@ -283,23 +283,10 @@ From katapauo ("to repose down"); reposing, abode -- rest.
 **Occurrences:** 14 (BLB) / 15 translation occurrences
 
 ### Definition
-From [H4100](https://www.blueletterbible.org/lexicon/h4100/kjv/wlc/0-1/){:target="_blank"}; literally "a whatness" (so to speak), i.e., manna (so called from the question about it).
+From H4100; literally "a whatness" (so to speak), i.e., manna (so called from the question about it).
 
 ### Key Observations
 - All OT occurrences are in Exo 16, Num 11, Deu 8, Jos 5:12, Neh 9:20, Psa 78:24
 - The manna narrative (Exo 16) is the foundational text for God's 40-year identification of the seventh day
 - "Forty years" (Exo 16:35) = approximately 2,080 consecutive weeks of divinely marked 6+1 cycles
 - The manna cycle proves God KNEW which day was the seventh and ENFORCED it miraculously
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

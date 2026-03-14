@@ -5,7 +5,7 @@
 
 ---
 
-## [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} -- shabbath (Sabbath)
+## H7676 -- shabbath (Sabbath)
 
 ### Lookup (--lookup H7676)
 ```
@@ -72,7 +72,7 @@ H7676 - 109 total occurrences, 26 unique translations:
 
 ---
 
-## [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} -- sabbaton (Sabbath / week)
+## G4521 -- sabbaton (Sabbath / week)
 
 ### Lookup (--lookup G4521)
 ```
@@ -117,7 +117,7 @@ G4521 - 55 total occurrences, 11 unique translations:
 
 ---
 
-## [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} -- paraskeue (Preparation / Friday)
+## G3904 -- paraskeue (Preparation / Friday)
 
 ### Lookup (--lookup G3904)
 ```
@@ -146,7 +146,7 @@ G3904 - 3 total occurrences, 2 unique translations:
 
 ---
 
-## [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} -- prosabbaton (day before the Sabbath)
+## G4315 -- prosabbaton (day before the Sabbath)
 
 ### Lookup (--lookup G4315)
 ```
@@ -174,7 +174,7 @@ G4315 - 1 total occurrences, 1 unique translations:
 
 ---
 
-## [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} -- sabbatismos (Sabbath-keeping)
+## G4520 -- sabbatismos (Sabbath-keeping)
 
 ### Lookup (--lookup G4520)
 ```
@@ -202,7 +202,7 @@ G4520 - 1 total occurrences, 1 unique translations:
 
 ---
 
-## [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} -- shabbathon (sabbatism / special rest)
+## H7677 -- shabbathon (sabbatism / special rest)
 
 ### Lookup (--lookup H7677)
 ```
@@ -233,7 +233,7 @@ H7677 - 11 total occurrences, 3 unique translations:
 
 ---
 
-## [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} -- shevi'i (seventh)
+## H7637 -- shevi'i (seventh)
 
 ### Lookup (--lookup H7637)
 ```
@@ -272,7 +272,7 @@ H7637 - 98 total occurrences, 9 unique translations:
 
 ---
 
-## [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} -- shabuah (week)
+## H7620 -- shabuah (week)
 
 ### Lookup (--lookup H7620)
 ```
@@ -314,7 +314,7 @@ H7620 - 24 total occurrences, 10 unique translations:
 
 ---
 
-## [G1520](https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/){:target="_blank"} -- heis (one / first)
+## G1520 -- heis (one / first)
 
 ### Lookup (--lookup G1520)
 ```
@@ -382,7 +382,7 @@ G1520 - 302 total occurrences, 40 unique translations:
 
 ---
 
-## [G2663](https://www.blueletterbible.org/lexicon/g2663/kjv/tr/0-1/){:target="_blank"} -- katapausis (rest)
+## G2663 -- katapausis (rest)
 
 ### Lookup (--lookup G2663)
 ```
@@ -412,7 +412,7 @@ G2663 - 9 total occurrences, 2 unique translations:
 
 ---
 
-## [H4478](https://www.blueletterbible.org/lexicon/h4478/kjv/wlc/0-1/){:target="_blank"} -- man (manna)
+## H4478 -- man (manna)
 
 ### Lookup (--lookup H4478)
 ```
@@ -451,7 +451,7 @@ H4478 - 15 total occurrences, 9 unique translations:
 
 ---
 
-## [G2250](https://www.blueletterbible.org/lexicon/g2250/kjv/tr/0-1/){:target="_blank"} -- hemera (day)
+## G2250 -- hemera (day)
 
 ### Lookup (--lookup G2250)
 ```

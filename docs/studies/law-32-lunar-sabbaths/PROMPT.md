@@ -88,25 +88,25 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 
 | Strong's | Word | Transliteration | Relevance |
 |----------|------|----------------|-----------|
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | שַׁבָּת | shabbath | Core word: "Sabbath, intermission" -- 108 OT uses. Never used to mean "lunar-cycle rest day." |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | שַׁבָּתוֹן | shabbathon | "Sabbatism, special holiday, rest" -- 11 uses. Used for weekly Sabbath and certain feast rests. |
-| [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} | שָׁבַת | shabath (verb) | "To cease, rest, desist" -- 71 uses. The verb behind the noun shabbath. Used in Gen 2:2-3. |
-| [H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"} | חֹדֶשׁ | chodesh | "New moon, month" -- 276 uses. The word for both the moon's cycle and the calendar month. |
-| [H3394](https://www.blueletterbible.org/lexicon/h3394/kjv/wlc/0-1/){:target="_blank"} | יָרֵחַ | yareach | "Moon" (the celestial body) -- 26 uses. Used in Gen 37:9; Psa 104:19; Jos 10:12. |
-| [H3842](https://www.blueletterbible.org/lexicon/h3842/kjv/wlc/0-1/){:target="_blank"} | לְבָנָה | levanah | "Moon" (lit. "the white one") -- 3 uses. Only in Song 6:10; Isa 24:23; 30:26. |
-| [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} | מוֹעֵד | moed | "Appointed time, festival, assembly, congregation" -- 223 uses. 146x = "tabernacle of the congregation." When temporal = annual festivals. Never = weekly Sabbath. |
-| [H226](https://www.blueletterbible.org/lexicon/h226/kjv/wlc/0-1/){:target="_blank"} | אוֹת | oth | "Sign, signal, token, mark" -- 79 uses. Used in Gen 1:14 (lights for signs); Exo 31:13,17 (Sabbath as sign); Eze 20:12,20 (my sabbaths as sign). |
-| [H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/){:target="_blank"} | יוֹם | yom | "Day" -- extremely frequent. Used in Gen 1:14 (lights for days); Gen 2:2-3 (the seventh day). |
-| [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} | בַּד | bad | "Separation, apart, alone, besides" -- 56 uses. Used with preposition min+le = millibad ("apart from") in Lev 23:38. |
-| [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} | חַג | chag | "Festival, pilgrimage feast" -- 62 uses. Used for annual pilgrimage feasts; NEVER for the weekly Sabbath. |
-| [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} | שָׁבוּעַ | shabua | "Week, period of seven" -- 20 uses. Related to sheba (seven). Used in Dan 9:24-27 ("weeks"). |
-| [H3677](https://www.blueletterbible.org/lexicon/h3677/kjv/wlc/0-1/){:target="_blank"} | כֶּסֶא | kece | "Full moon, appointed time" -- 2 uses. Only Psa 81:3; Pro 7:20. Refers to the full moon festival. |
-| [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} | שְׁבִיעִי | shvi'i | "Seventh" (ordinal) -- 93 uses. Used in Gen 2:2-3; Exo 20:10 ("the seventh day"). |
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} | σάββατον | sabbaton | "Sabbath, week" -- 68 NT uses. Fixed weekly term in all four Gospels. |
-| [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} | παρασκευή | paraskeue | "Preparation" = Friday -- 6 uses. Fixed weekly day-name in crucifixion narratives. |
-| [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} | προσάββατον | prosabbaton | "Before-Sabbath" -- hapax (Mrk 15:42). Proves fixed weekly sequence. |
-| [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} | ἔθω | etho | "Custom, habit" -- 4 uses. Perfect participle eiothos = "settled custom" for Paul's Sabbath practice (Act 17:2). |
-| [G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"} | νουμηνία | noumenia | "New moon" -- 1 NT use (Col 2:16). Distinguished from sabbaton in the same verse. |
+| H7676 | שַׁבָּת | shabbath | Core word: "Sabbath, intermission" -- 108 OT uses. Never used to mean "lunar-cycle rest day." |
+| H7677 | שַׁבָּתוֹן | shabbathon | "Sabbatism, special holiday, rest" -- 11 uses. Used for weekly Sabbath and certain feast rests. |
+| H7673 | שָׁבַת | shabath (verb) | "To cease, rest, desist" -- 71 uses. The verb behind the noun shabbath. Used in Gen 2:2-3. |
+| H2320 | חֹדֶשׁ | chodesh | "New moon, month" -- 276 uses. The word for both the moon's cycle and the calendar month. |
+| H3394 | יָרֵחַ | yareach | "Moon" (the celestial body) -- 26 uses. Used in Gen 37:9; Psa 104:19; Jos 10:12. |
+| H3842 | לְבָנָה | levanah | "Moon" (lit. "the white one") -- 3 uses. Only in Song 6:10; Isa 24:23; 30:26. |
+| H4150 | מוֹעֵד | moed | "Appointed time, festival, assembly, congregation" -- 223 uses. 146x = "tabernacle of the congregation." When temporal = annual festivals. Never = weekly Sabbath. |
+| H226 | אוֹת | oth | "Sign, signal, token, mark" -- 79 uses. Used in Gen 1:14 (lights for signs); Exo 31:13,17 (Sabbath as sign); Eze 20:12,20 (my sabbaths as sign). |
+| H3117 | יוֹם | yom | "Day" -- extremely frequent. Used in Gen 1:14 (lights for days); Gen 2:2-3 (the seventh day). |
+| H905 | בַּד | bad | "Separation, apart, alone, besides" -- 56 uses. Used with preposition min+le = millibad ("apart from") in Lev 23:38. |
+| H2282 | חַג | chag | "Festival, pilgrimage feast" -- 62 uses. Used for annual pilgrimage feasts; NEVER for the weekly Sabbath. |
+| H7620 | שָׁבוּעַ | shabua | "Week, period of seven" -- 20 uses. Related to sheba (seven). Used in Dan 9:24-27 ("weeks"). |
+| H3677 | כֶּסֶא | kece | "Full moon, appointed time" -- 2 uses. Only Psa 81:3; Pro 7:20. Refers to the full moon festival. |
+| H7637 | שְׁבִיעִי | shvi'i | "Seventh" (ordinal) -- 93 uses. Used in Gen 2:2-3; Exo 20:10 ("the seventh day"). |
+| G4521 | σάββατον | sabbaton | "Sabbath, week" -- 68 NT uses. Fixed weekly term in all four Gospels. |
+| G3904 | παρασκευή | paraskeue | "Preparation" = Friday -- 6 uses. Fixed weekly day-name in crucifixion narratives. |
+| G4315 | προσάββατον | prosabbaton | "Before-Sabbath" -- hapax (Mrk 15:42). Proves fixed weekly sequence. |
+| G1486 | ἔθω | etho | "Custom, habit" -- 4 uses. Perfect participle eiothos = "settled custom" for Paul's Sabbath practice (Act 17:2). |
+| G3561 | νουμηνία | noumenia | "New moon" -- 1 NT use (Col 2:16). Distinguished from sabbaton in the same verse. |
 
 ### Related Existing Studies
 
@@ -147,7 +147,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 **From lunar-sabbath-rebuttal:**
 - The manna miracle is the definitive proof: 40 years of continuous 6+1 cycle with NO monthly disruption
 - Israel traveled on the 15th of the second month (Exo 16:1) -- if 15th were a lunar sabbath, this would violate sabbath law
-- Gen 1:14 lists four purposes for lights (signs, moadim, days, years) -- sabbath absent; [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed) is never used as synonym for weekly sabbath
+- Gen 1:14 lists four purposes for lights (signs, moadim, days, years) -- sabbath absent; H4150 (moed) is never used as synonym for weekly sabbath
 - Lev 23:38 millibad: weekly sabbath explicitly separate from festival calendar
 - NT fixed weekly terminology: paraskeue/prosabbaton/sabbaton -- impossible with floating lunar sabbath
 - Paul's eiothos (settled custom) requires predictable, fixed weekly recurrence
@@ -169,7 +169,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 
 **1. Genesis 1:14 and the Luminaries' Purpose**
 - Tool discovery confirms: Gen 1:14 assigns four purposes to the luminaries (othoth, moadim, yamim, shanim). The weekly sabbath is absent.
-- [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed) = 223 OT uses. 146x = "tabernacle of the congregation" (a place). When temporal = annual festivals. Never = weekly sabbath.
+- H4150 (moed) = 223 OT uses. 146x = "tabernacle of the congregation" (a place). When temporal = annual festivals. Never = weekly sabbath.
 - The moon (Day 4) was created three days before the sabbath (Day 7) was established.
 - Investigate: Does Gen 1:14's moadim ever encompass the weekly sabbath in any biblical text?
 
@@ -233,7 +233,7 @@ You are the Research Agent. Execute this study by:
 4. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries for SABBATH, NEW MOON, MOON, MANNA, SEASONS, FEASTS, REST, MONTH, DAILY OFFERING
    - `02-verses.md` - All verse texts retrieved with context for every verse reference listed above. Organize by investigation point (the 8 areas). Include surrounding verses for context.
-   - `04-word-studies.md` - Strong's research for ALL listed Strong's numbers: [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}, [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"}, [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"}, [H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"}, [H3394](https://www.blueletterbible.org/lexicon/h3394/kjv/wlc/0-1/){:target="_blank"}, [H3842](https://www.blueletterbible.org/lexicon/h3842/kjv/wlc/0-1/){:target="_blank"}, [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"}, [H226](https://www.blueletterbible.org/lexicon/h226/kjv/wlc/0-1/){:target="_blank"}, [H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/){:target="_blank"}, [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"}, [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"}, [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"}, [H3677](https://www.blueletterbible.org/lexicon/h3677/kjv/wlc/0-1/){:target="_blank"}, [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"}, [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}, [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"}, [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"}, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, [G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"}
+   - `04-word-studies.md` - Strong's research for ALL listed Strong's numbers: H7676, H7677, H7673, H2320, H3394, H3842, H4150, H226, H3117, H905, H2282, H7620, H3677, H7637, G4521, G3904, G4315, G1486, G3561
    - `raw-data/` - Raw tool output organized by category
 5. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -257,8 +257,8 @@ C. **Complete word studies** for each Strong's number listed above. For each:
    - Run `search_strongs.py --lookup` for translation data
    - Run `search_strongs.py --lexicon` for definitions
    - For Hebrew words, check if any usage connects the sabbath to the moon
-   - For [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed): verify it is never used for the weekly sabbath
-   - For [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath): verify it never carries a lunar meaning
+   - For H4150 (moed): verify it is never used for the weekly sabbath
+   - For H7676 (shabbath): verify it never carries a lunar meaning
 
 D. **Retrieve full text** for these additional verse clusters:
    - 1 Samuel 20:5-34 (David's new moon absence -- shows new moon as distinct observance)
@@ -288,16 +288,3 @@ answer-question
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-32-lunar-sabbaths/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

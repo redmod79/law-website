@@ -443,12 +443,12 @@ These are verses cited under the "TEMPORARY" heading in Nave's Topical Bible. Th
 
 ## G. ADDITIONAL KEY PASSAGES
 
-### [G1](https://www.blueletterbible.org/lexicon/g1/kjv/tr/0-1/){:target="_blank"}. God Magnifies the Law
+### G1. God Magnifies the Law
 
 **Isaiah 42:21**
 > Isaiah 42:21 The LORD is well pleased for his righteousness' sake; he will magnify the law, and make it honourable.
 
-### [G2](https://www.blueletterbible.org/lexicon/g2/kjv/tr/0-1/){:target="_blank"}. Jesus Cites the Commandments
+### G2. Jesus Cites the Commandments
 
 **Matthew 19:16-19** (Jesus directs to commandments for eternal life)
 > Matthew 19:16 And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
@@ -463,31 +463,31 @@ These are verses cited under the "TEMPORARY" heading in Nave's Topical Bible. Th
 > Matthew 22:39 And the second is like unto it, Thou shalt love thy neighbour as thyself.
 > Matthew 22:40 On these two commandments hang all the law and the prophets.
 
-### [G3](https://www.blueletterbible.org/lexicon/g3/kjv/tr/0-1/){:target="_blank"}. Hosea -- God Wrote the Law
+### G3. Hosea -- God Wrote the Law
 
 **Hosea 8:12**
 > Hosea 8:12 I have written to him the great things of my law, but they were counted as a strange thing.
 
-### [G4](https://www.blueletterbible.org/lexicon/g4/kjv/tr/0-1/){:target="_blank"}. Nehemiah -- Description of the Law at Sinai
+### G4. Nehemiah -- Description of the Law at Sinai
 
 **Nehemiah 9:13-14** (right judgments, true laws, good statutes)
 > Nehemiah 9:13 Thou camest down also upon mount Sinai, and spakest with them from heaven, and gavest them right judgments, and true laws, good statutes and commandments:
 > Nehemiah 9:14 And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:
 
-### [G5](https://www.blueletterbible.org/lexicon/g5/kjv/tr/0-1/){:target="_blank"}. The Whole Duty of Man
+### G5. The Whole Duty of Man
 
 **Ecclesiastes 12:13-14**
 > Ecclesiastes 12:13 Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
 > Ecclesiastes 12:14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
 
-### [G6](https://www.blueletterbible.org/lexicon/g6/kjv/tr/0-1/){:target="_blank"}. The Wise Keep the Law
+### G6. The Wise Keep the Law
 
 **Proverbs 28:4-5, 7**
 > Proverbs 28:4 They that forsake the law praise the wicked: but such as keep the law contend with them.
 > Proverbs 28:5 Evil men understand not judgment: but they that seek the LORD understand all things.
 > Proverbs 28:7 Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.
 
-### [G7](https://www.blueletterbible.org/lexicon/g7/kjv/tr/0-1/){:target="_blank"}. Matthew 5:19 -- Teaching Commandments
+### G7. Matthew 5:19 -- Teaching Commandments
 
 **Matthew 5:19**
 > Matthew 5:19 Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.
@@ -517,16 +517,3 @@ These are verses cited under the "TEMPORARY" heading in Nave's Topical Bible. Th
 > Psalm 119:160 Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever.
 > Psalm 119:165 Great peace have they which love thy law: and nothing shall offend them.
 > Psalm 119:172 My tongue shall speak of thy word: for all thy commandments are righteousness.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

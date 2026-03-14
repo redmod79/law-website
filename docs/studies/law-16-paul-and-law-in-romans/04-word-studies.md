@@ -5,7 +5,7 @@ What does Paul teach about the law in Romans? Key Greek terms and their usage pa
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} — nomos (νόμος) — "law"
+## G3551 — nomos (νόμος) — "law"
 **Original:** νόμος
 **Transliteration:** nomos
 **Definition:** From nemo (to parcel out); law, custom, principle. Masculine noun.
@@ -38,10 +38,10 @@ Paul uses nomos more in Romans than in any other book. He uses it in multiple se
 
 ---
 
-## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} — entole (ἐντολή) — "commandment"
+## G1785 — entole (ἐντολή) — "commandment"
 **Original:** ἐντολή
 **Transliteration:** entole
-**Definition:** From [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"}; injunction, authoritative prescription. Feminine noun.
+**Definition:** From G1781; injunction, authoritative prescription. Feminine noun.
 **Total NT occurrences:** 43 (BLB: 71)
 
 ### Usage in Romans
@@ -57,7 +57,7 @@ Also important: Rev 12:17 and 14:12 combine "commandments of God" (entole) with 
 
 ---
 
-## [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} — dikaioma (δικαίωμα) — "ordinance / righteousness / righteous requirement"
+## G1345 — dikaioma (δικαίωμα) — "ordinance / righteousness / righteous requirement"
 **Original:** δικαίωμα
 **Transliteration:** dikaioma
 **Definition:** From dikaioo; an equitable deed; a statute or decision. Neuter noun.
@@ -83,7 +83,7 @@ Rom 8:4 is the pivotal verse: dikaioma (singular — "the righteous requirement"
 
 ---
 
-## [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} — dikaiosyne (δικαιοσύνη) — "righteousness"
+## G1343 — dikaiosyne (δικαιοσύνη) — "righteousness"
 **Original:** δικαιοσύνη
 **Transliteration:** dikaiosyne
 **Definition:** From dikaios; equity of character or act; Christian justification. Feminine noun.
@@ -104,7 +104,7 @@ Paul distinguishes two approaches to righteousness: (1) by works of law (self-ea
 
 ---
 
-## [G1347](https://www.blueletterbible.org/lexicon/g1347/kjv/tr/0-1/){:target="_blank"} — dikaiosis (δικαίωσις) — "justification"
+## G1347 — dikaiosis (δικαίωσις) — "justification"
 **Original:** δικαίωσις
 **Transliteration:** dikaiosis
 **Definition:** From dikaioo; acquittal (for Christ's sake). Feminine noun.
@@ -119,7 +119,7 @@ This term appears ONLY in Romans (2x). It refers specifically to the legal act o
 
 ---
 
-## [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} — pistis (πίστις) — "faith"
+## G4102 — pistis (πίστις) — "faith"
 **Original:** πίστις
 **Transliteration:** pistis
 **Definition:** From peitho; persuasion, credence; moral conviction of religious truth. Feminine noun.
@@ -138,7 +138,7 @@ Paul pairs faith and law as complementary, not contradictory: "Do we make void t
 
 ---
 
-## [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} — telos (τέλος) — "end / goal / purpose"
+## G5056 — telos (τέλος) — "end / goal / purpose"
 **Original:** τέλος
 **Transliteration:** telos
 **Definition:** From tello (to set out for a definite point or goal); end, conclusion, goal, purpose. Neuter noun.
@@ -164,7 +164,7 @@ The root tello means "to set out for a definite point or goal." The word inheren
 
 ---
 
-## [G5485](https://www.blueletterbible.org/lexicon/g5485/kjv/tr/0-1/){:target="_blank"} — charis (χάρις) — "grace"
+## G5485 — charis (χάρις) — "grace"
 **Original:** χάρις
 **Transliteration:** charis
 **Definition:** Graciousness as gratifying, of manner or act; unmerited favor. Feminine noun.
@@ -182,7 +182,7 @@ Grace and law are not opposed; grace and works-righteousness are opposed. Being 
 
 ---
 
-## [G266](https://www.blueletterbible.org/lexicon/g266/kjv/tr/0-1/){:target="_blank"} — hamartia (ἁμαρτία) — "sin"
+## G266 — hamartia (ἁμαρτία) — "sin"
 **Original:** ἁμαρτία
 **Transliteration:** hamartia
 **Definition:** From hamartano; sin (properly abstract): offence, sinful. Feminine noun.
@@ -200,7 +200,7 @@ Grace and law are not opposed; grace and works-righteousness are opposed. Being 
 
 ---
 
-## [G4561](https://www.blueletterbible.org/lexicon/g4561/kjv/tr/0-1/){:target="_blank"} — sarx (σάρξ) — "flesh"
+## G4561 — sarx (σάρξ) — "flesh"
 **Original:** σάρξ
 **Transliteration:** sarx
 **Definition:** Flesh, the body; by extension human nature (with sinful tendencies). Feminine noun.
@@ -217,7 +217,7 @@ Rom 8:3 — "what the law could not do, in that it was weak through the flesh" �
 
 ---
 
-## [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} — pneuma (πνεῦμα) — "spirit / Spirit"
+## G4151 — pneuma (πνεῦμα) — "spirit / Spirit"
 **Original:** πνεῦμα
 **Transliteration:** pneuma
 **Definition:** From pneo; current of air, breath; by analogy spirit (rational soul, vital principle, divine influence). Neuter noun.
@@ -235,7 +235,7 @@ The Spirit does not replace the law but enables its fulfillment. The contrast is
 
 ---
 
-## [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} — dogma (δόγμα) — "decree / ordinance"
+## G1378 — dogma (δόγμα) — "decree / ordinance"
 **Original:** δόγμα
 **Transliteration:** dogma
 **Definition:** From dokeo; a law (civil, ceremonial, or ecclesiastical). Neuter noun.
@@ -248,16 +248,3 @@ Dogma appears only 5 times in the NT: Luke 2:1 (Caesar's decree); Acts 16:4 (apo
 
 ---
 *All data retrieved using search_strongs.py --lookup and --lexicon*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

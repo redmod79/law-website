@@ -36,7 +36,7 @@
 - v.31: "Do we then make void the law through faith? God forbid: yea, we establish the law."
 
 **Key observations:**
-- The Greek in v.31 is emphatic. Katargoumen (from katargeo, [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} — "do we nullify?") is answered with me genoito (the strongest possible negation: "may it never be!") followed by histanomen (from histemi, [G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"} — "we establish/uphold"). Present tense in both cases: this is an ongoing, present reality.
+- The Greek in v.31 is emphatic. Katargoumen (from katargeo, G2673 — "do we nullify?") is answered with me genoito (the strongest possible negation: "may it never be!") followed by histanomen (from histemi, G2476 — "we establish/uphold"). Present tense in both cases: this is an ongoing, present reality.
 - Katargeo is the same verb used in Eph 2:15 for abolishing "the law of commandments in ordinances." Paul uses the SAME VERB to abolish one referent (dogma-ordinances, Eph 2:15) and emphatically deny abolishing another (nomos, Rom 3:31). This is a vocabulary distinction that presupposes different categories of law.
 - The law cannot justify (v.20), but it is not voided (v.31). The law defines sin (v.20), witnesses to faith-righteousness (v.21), and is established by faith (v.31). These functions are complementary, not contradictory.
 - v.21: The law itself WITNESSES to faith-righteousness. This is consistent with Rom 10:6-8, where Paul quotes Deut 30:12-14 — the Torah itself teaches the nearness of the word of faith.
@@ -266,16 +266,3 @@ The immediate context (v.15: "shall we sin? God forbid!") excludes reading "not 
 
 ---
 *Analysis completed: 2026-02-25*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

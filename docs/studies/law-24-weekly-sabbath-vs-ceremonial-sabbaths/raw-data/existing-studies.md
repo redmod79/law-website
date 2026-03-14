@@ -41,7 +41,7 @@
 
 ### law-13-jesus-and-sabbath (score: 0.60)
 - Word study on shabbath (H7676) and shabbathon (H7677)
-- Shabbathon: "From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday -- rest, sabbath"
+- Shabbathon: "From H7676; a sabbatism or special holiday -- rest, sabbath"
 - 11 occurrences of shabbathon
 - Used for BOTH weekly Sabbath (Exo 31:15; 35:2; Lev 23:3) AND ceremonial rest days (Lev 16:31; 23:24,32,39; 25:4-5)
 - The shared vocabulary makes the textual distinctions (like millibad) even more important

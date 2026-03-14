@@ -10,7 +10,7 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
 
 ## Group 1: Sabbath Terms
 
-### [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} - shabath (שָׁבַת)
+### H7673 - shabath (שָׁבַת)
 - **Transliteration:** shâbath (shaw-bath)
 - **Part of Speech:** Verb
 - **Total Occurrences:** 110
@@ -22,11 +22,11 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
   - **Gen 8:22** -- "While the earth remaineth...shall not **cease** [shabath]"
 - **Significance:** The verb shabath appears at creation (Gen 2:2-3) to describe God's rest. This is the root from which the noun shabbath (H7676) derives. God's own action of "shabath-ing" on the seventh day precedes the Sinai legislation by the entire span of Genesis.
 
-### [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} - shabbath (שַׁבָּת)
+### H7676 - shabbath (שַׁבָּת)
 - **Transliteration:** shabbâth (shab-bawth)
 - **Part of Speech:** Masculine/feminine noun
 - **Total Occurrences:** 109
-- **Definition:** Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"}; intermission, i.e. (specifically) the Sabbath
+- **Definition:** Intensive from H7673; intermission, i.e. (specifically) the Sabbath
 - **KJV Translation Range:** the sabbath (42), my sabbaths (14), on the sabbath (11), a sabbath (7), sabbath (6)
 - **First Occurrence:** Exo 16:23
 - **Pre-Sinai Occurrences:**
@@ -40,7 +40,7 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
 
 ## Group 2: Law/Command Terms (Genesis 26:5 Cluster)
 
-### [H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"} - mishmereth (מִשְׁמֶרֶת)
+### H4931 - mishmereth (מִשְׁמֶרֶת)
 - **Transliteration:** mishmereth (mish-mer-reth)
 - **Part of Speech:** Feminine noun
 - **Total Occurrences:** 78
@@ -52,11 +52,11 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
 - **Post-Sinai Usage:** Extensively used for Levitical duties (Num 1:53; 3:7-8, 25, 28, 31, 32, 36, 38; 4:27-32; 18:3-5), priestly charges (Lev 8:35; 22:9), and covenant keeping (1Ki 2:3; Zec 3:7)
 - **Significance:** Gen 26:5 is the earliest biblical occurrence. The term denotes something entrusted to a person's care -- a "charge" to guard. Its use for Abraham indicates God had entrusted specific obligations to him that he faithfully kept.
 
-### [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} - mitsvah (מִצְוָה)
+### H4687 - mitsvah (מִצְוָה)
 - **Transliteration:** mitsvâh (mits-vaw)
 - **Part of Speech:** Feminine noun
 - **Total Occurrences:** 190
-- **Definition:** From [H6680](https://www.blueletterbible.org/lexicon/h6680/kjv/wlc/0-1/){:target="_blank"}; a command, whether human or divine (collectively, the Law)
+- **Definition:** From H6680; a command, whether human or divine (collectively, the Law)
 - **KJV Translation Range:** commandments (94), the commandment (14), commandment (10), precepts (2+), ordinances (1), law (1)
 - **First Occurrence:** Gen 26:5
 - **Pre-Sinai Occurrences:**
@@ -66,11 +66,11 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
 - **Post-Sinai Usage:** The standard term for God's commandments throughout the Pentateuch and the rest of the OT (Exo 20:6; 24:12; Deu 4:2, 40; 5:28-29; 6:1-2, 17, 25; etc.)
 - **Significance:** The same word used for "the commandments" at Sinai and throughout the OT first appears in Gen 26:5, where God testifies Abraham kept His "commandments" (mitsvah). Additionally, God uses this term at Marah (Exo 15:26) and in the manna test (Exo 16:28) -- both before reaching Sinai.
 
-### [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} - chuqqah (חֻקָּה)
+### H2708 - chuqqah (חֻקָּה)
 - **Transliteration:** chuqqâh (khook-kaw)
 - **Part of Speech:** Feminine noun
 - **Total Occurrences:** 116
-- **Definition:** Feminine of [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}, and meaning substantially the same: appointed, custom, manner, ordinance, statute
+- **Definition:** Feminine of H2706, and meaning substantially the same: appointed, custom, manner, ordinance, statute
 - **KJV Translation Range:** my statutes (24), a statute (13), in my statutes (9), ordinances (6), his statutes (6)
 - **First Occurrence:** Gen 26:5
 - **Pre-Sinai Occurrence:**
@@ -78,11 +78,11 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
 - **Post-Sinai Usage:** Frequently paired with mitsvah and mishpat in Sinai and later legislation (Lev 18:4-5, 26; 19:19, 37; 20:8, 22; 26:3, 15, 43; Deu 6:2; 8:11; 10:13; 11:1; etc.)
 - **Significance:** The feminine form chuqqah first appears in Gen 26:5. The masculine form choq (H2706) appears in Exo 15:25 at Marah. Both forms are used extensively for the Sinai legislation. Their pre-Sinai appearance in reference to Abraham's obedience indicates divinely established statutes existed before Sinai.
 
-### [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} - choq (חֹק)
+### H2706 - choq (חֹק)
 - **Transliteration:** chôq (khoke)
 - **Part of Speech:** Masculine noun
 - **Total Occurrences:** 134
-- **Definition:** From [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"}; an enactment; hence, an appointment (of time, space, quantity, labor or usage)
+- **Definition:** From H2710; an enactment; hence, an appointment (of time, space, quantity, labor or usage)
 - **KJV Translation Range:** statutes (39), decree (6), ordinances (2+), law (2), due/portion (3), custom (1)
 - **Pre-Sinai Occurrences:**
   - **Gen 47:22** -- Pharaoh's "statute" for priests' portions (secular usage)
@@ -92,11 +92,11 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
   - **Exo 18:16, 20** -- Moses judges by "the **statutes** [choq] of God, and his laws [towrah]" (before Sinai per the narrative context)
 - **Significance:** God made a "statute and ordinance" (choq u-mishpat) at Marah (Exo 15:25) -- a formal legal act BEFORE Sinai. Moses also judged Israel by God's "statutes" and "laws" (Exo 18:16, 20) in the narrative context preceding Sinai.
 
-### [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} - towrah (תּוֹרָה)
+### H8451 - towrah (תּוֹרָה)
 - **Transliteration:** tôwrâh (to-raw)
 - **Part of Speech:** Feminine noun
 - **Total Occurrences:** 244
-- **Definition:** From [H3384](https://www.blueletterbible.org/lexicon/h3384/kjv/wlc/0-1/){:target="_blank"}; a precept or statute, especially the Decalogue or Pentateuch
+- **Definition:** From H3384; a precept or statute, especially the Decalogue or Pentateuch
 - **KJV Translation Range:** the law (60), of the law (28), law (24), thy law (20), in the law (19), my law (10)
 - **First Occurrence:** Gen 26:5
 - **Pre-Sinai Occurrences:**
@@ -108,7 +108,7 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
   - **Exo 18:16, 20** -- Moses makes known "the statutes of God, and his **laws** [towrah]" (before Sinai)
 - **Significance:** The term towrah first appears in Gen 26:5, where God says Abraham kept "my laws." It appears again in the manna test (Exo 16:4, 28) where God explicitly tests Israel's obedience to "my law" and "my laws" BEFORE Sinai. This demonstrates that towrah (law/instruction) existed as a body of divine instruction before the Sinai codification.
 
-### [H8104](https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/){:target="_blank"} - shamar (שָׁמַר)
+### H8104 - shamar (שָׁמַר)
 - **Transliteration:** shâmar (shaw-mar)
 - **Part of Speech:** Verb
 - **Total Occurrences:** 508
@@ -129,11 +129,11 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
 
 ## Group 3: Clean/Unclean Terms
 
-### [H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"} - tahowr (טָהוֹר)
+### H2889 - tahowr (טָהוֹר)
 - **Transliteration:** ṭâhôwr (taw-hore)
 - **Part of Speech:** Adjective
 - **Total Occurrences:** 94
-- **Definition:** From [H2891](https://www.blueletterbible.org/lexicon/h2891/kjv/wlc/0-1/){:target="_blank"}; pure (in a physical, chemical, ceremonial or moral sense)
+- **Definition:** From H2891; pure (in a physical, chemical, ceremonial or moral sense)
 - **KJV Translation Range:** pure (38), clean (36), the clean (7), fair (2)
 - **First Occurrence:** Gen 7:2
 - **Pre-Sinai Occurrences:**
@@ -143,7 +143,7 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
 - **Post-Sinai Codification:** Leviticus 11 (full dietary laws), Lev 10:10; 11:47; 20:25; Deu 14:11, 20
 - **Significance:** Gen 7:2 is the earliest biblical use of tahowr. God instructs Noah to distinguish between "clean" and "not clean" animals. Noah then sacrifices "clean" animals (Gen 8:20). This pre-Sinai distinction between clean and unclean animals -- using the same term later codified at Sinai (Lev 11) -- demonstrates the category existed before the Levitical legislation.
 
-### [H2930](https://www.blueletterbible.org/lexicon/h2930/kjv/wlc/0-1/){:target="_blank"} - tame (טָמֵא)
+### H2930 - tame (טָמֵא)
 - **Transliteration:** ṭâmêʼ (taw-may)
 - **Part of Speech:** Verb
 - **Total Occurrences:** 194
@@ -161,7 +161,7 @@ Genesis 26:5 uses four technical terms for God's requirements -- the same terms 
 
 ## Group 4: Sin Terminology
 
-### [H2398](https://www.blueletterbible.org/lexicon/h2398/kjv/wlc/0-1/){:target="_blank"} - chata (חָטָא)
+### H2398 - chata (חָטָא)
 - **Transliteration:** châṭâʼ (khaw-taw)
 - **Part of Speech:** Verb
 - **Total Occurrences:** 292
@@ -220,16 +220,3 @@ The vocabulary cluster in Gen 26:5 uses the same technical legal terms that char
 | Exo 15:25-26 | choq (H2706), mishpat (H4941), mitsvah (H4687), choq (H2706) | Statute and ordinance at Marah |
 | Exo 16:4,28 | towrah (H8451), mitsvah (H4687) | Manna test: "my law," "my commandments" |
 | Exo 16:23-29 | shabbath (H7676) | Sabbath institution before Sinai |
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

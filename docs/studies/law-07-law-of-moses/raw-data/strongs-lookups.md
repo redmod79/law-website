@@ -4,9 +4,9 @@
 
 ---
 
-## [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} -- torah
+## H8451 -- torah
 
-### --lookup [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}
+### --lookup H8451
 ```
 H8451 - 244 total occurrences, 47 unique translations:
 
@@ -36,7 +36,7 @@ H8451 - 244 total occurrences, 47 unique translations:
      [remaining 24 translations at 1 occurrence each]
 ```
 
-### --lexicon [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}
+### --lexicon H8451
 ```
 H8451: תּוֹרָה
 Transliteration: towrah
@@ -60,7 +60,7 @@ Outline of Biblical Usage:
   [continues through entire OT]
 ```
 
-### --lxx-map [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}
+### --lxx-map H8451
 ```
 Greek LXX translations (ranked by PMI-weighted):
 
@@ -83,9 +83,9 @@ Greek LXX translations (ranked by PMI-weighted):
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} -- nomos
+## G3551 -- nomos
 
-### --lookup [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}
+### --lookup G3551
 ```
 G3551 - 169 total occurrences, 11 unique translations:
 
@@ -102,7 +102,7 @@ G3551 - 169 total occurrences, 11 unique translations:
      1 (  0.6%) after the law
 ```
 
-### --lexicon [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}
+### --lexicon G3551
 ```
 G3551: nomos
 Transliteration: nomos
@@ -132,9 +132,9 @@ Outline of Biblical Usage:
 
 ---
 
-## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} -- entole
+## G1785 -- entole
 
-### --lookup [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}
+### --lookup G1785
 ```
 G1785 - 43 total occurrences, 8 unique translations:
 
@@ -148,7 +148,7 @@ G1785 - 43 total occurrences, 8 unique translations:
      1 (  2.3%) of the commandment
 ```
 
-### --lexicon [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}
+### --lexicon G1785
 ```
 G1785: entole
 Transliteration: entole
@@ -176,7 +176,7 @@ Outline of Biblical Usage:
   Revelation 12:17; 14:12; 22:14
 ```
 
-### --verses [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} "commandment"
+### --verses G1785 "commandment"
 ```
 G1785 translated as 'commandment' (23 times):
   Mat 15:3; Mat 15:6; Mat 22:36; Mat 22:38
@@ -188,9 +188,9 @@ G1785 translated as 'commandment' (23 times):
 
 ---
 
-## [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} -- dogma
+## G1378 -- dogma
 
-### --lookup [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}
+### --lookup G1378
 ```
 G1378 - 5 total occurrences, 4 unique translations:
 
@@ -200,7 +200,7 @@ G1378 - 5 total occurrences, 4 unique translations:
      1 ( 20.0%) of ordinances
 ```
 
-### --lexicon [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}
+### --lexicon G1378
 ```
 G1378: dogma
 Transliteration: dogma
@@ -216,13 +216,13 @@ Outline of Biblical Usage:
   [Also in LXX: Daniel 2:13; 3:10; 4:3; 6:13; Hebrews 11:23]
 ```
 
-### --verses [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} "ordinances"
+### --verses G1378 "ordinances"
 ```
 G1378 translated as 'ordinances' (1 times):
   Eph 2:15
 ```
 
-### --verses [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} "decrees"
+### --verses G1378 "decrees"
 ```
 G1378 translated as 'decrees' (2 times):
   Act 16:4; Act 17:7
@@ -230,9 +230,9 @@ G1378 translated as 'decrees' (2 times):
 
 ---
 
-## [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} -- dikaioma
+## G1345 -- dikaioma
 
-### --lookup [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}
+### --lookup G1345
 ```
 G1345 - 10 total occurrences, 6 unique translations:
 
@@ -244,7 +244,7 @@ G1345 - 10 total occurrences, 6 unique translations:
      1 ( 10.0%) judgments
 ```
 
-### --lexicon [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}
+### --lexicon G1345
 ```
 G1345: dikaioma
 Transliteration: dikaioma
@@ -262,19 +262,19 @@ Outline of Biblical Usage:
   Revelation 15:4; 19:8
 ```
 
-### --verses [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} "ordinances"
+### --verses G1345 "ordinances"
 ```
 G1345 translated as 'ordinances' (3 times):
   Luk 1:6; Heb 9:1; Heb 9:10
 ```
 
-### --verses [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} "righteousness"
+### --verses G1345 "righteousness"
 ```
 G1345 translated as 'righteousness' (3 times):
   Rom 2:26; Rom 8:4; Rev 19:8
 ```
 
-### --verses [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} "judgment"
+### --verses G1345 "judgment"
 ```
 G1345 translated as 'judgment' (1 times):
   Rom 1:32

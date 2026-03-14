@@ -8,7 +8,7 @@ The Bible teaches that the weekly Sabbath follows a continuous 7-day cycle indep
 
 ## Key Verses
 
-**Genesis 1:14** -- "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years." (The weekly Sabbath is absent from this list; "seasons" = [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} moadim, never used for the weekly Sabbath.)
+**Genesis 1:14** -- "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years." (The weekly Sabbath is absent from this list; "seasons" = H4150 moadim, never used for the weekly Sabbath.)
 
 **Exodus 16:26,29** -- "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none... See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days." (Continuous 6+1 cycle for 40 years, no monthly disruption.)
 
@@ -16,7 +16,7 @@ The Bible teaches that the weekly Sabbath follows a continuous 7-day cycle indep
 
 **Numbers 28:9-10** -- "And on the sabbath day two lambs... This is the burnt offering of every sabbath, beside the continual burnt offering." (Sabbath offering in its own weekly category.)
 
-**Psalm 104:19** -- "He appointed the moon for seasons: the sun knoweth his going down." ("Seasons" = [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} moadim. The moon governs festival seasons, not weekly sabbaths.)
+**Psalm 104:19** -- "He appointed the moon for seasons: the sun knoweth his going down." ("Seasons" = H4150 moadim. The moon governs festival seasons, not weekly sabbaths.)
 
 **Ezekiel 46:1** -- "The gate... shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened." (Sabbath and new moon as separate occasions.)
 
@@ -47,17 +47,17 @@ This study follows the investigative methodology defined in `D:/bible/bible-stud
 | E-12 | Annual feasts in Leviticus 23 are tied to specific lunar calendar dates: "In the fourteenth day of the first month" (v.5), "on the fifteenth day" (v.6), "In the seventh month, in the first day of the month" (v.24), "on the tenth day of this seventh month" (v.27), "The fifteenth day of this seventh month" (v.34). The weekly Sabbath (v.3) has no such date. | Lev 23:3, 5, 6, 24, 27, 34 | Continuous-Cycle |
 | E-13 | Leviticus 23:37-38 states: "These are the feasts of the LORD... Beside (millibad) the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings." The fourfold millibad (H905) places the weekly sabbaths in a separate category from the annual feasts. | Lev 23:37-38 | Continuous-Cycle |
 | E-14 | The weekly Sabbath (Lev 23:3) prohibits "all work" (kol-melakhah). The feast days (Lev 23:7, 8, 21, 25, 35, 36) prohibit "servile work" (melekhet abodah). Two distinct levels of work prohibition distinguish the institutions. | Lev 23:3, 7, 8, 21, 25, 35, 36 | Neutral |
-| E-15 | [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath) has 108 OT uses. It is never translated or used to mean "lunar-cycle rest day." It never carries a lunar meaning, is never conditioned on lunar phases, and is never connected to the moon in any verse. | 108 OT occurrences | Continuous-Cycle |
-| E-16 | [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed) has 223 OT uses. When temporal, it refers to annual festivals. It is never used as a synonym for the weekly Sabbath. | 223 OT occurrences | Continuous-Cycle |
+| E-15 | H7676 (shabbath) has 108 OT uses. It is never translated or used to mean "lunar-cycle rest day." It never carries a lunar meaning, is never conditioned on lunar phases, and is never connected to the moon in any verse. | 108 OT occurrences | Continuous-Cycle |
+| E-16 | H4150 (moed) has 223 OT uses. When temporal, it refers to annual festivals. It is never used as a synonym for the weekly Sabbath. | 223 OT occurrences | Continuous-Cycle |
 | E-17 | Psalm 104:19 states: "He appointed the moon for seasons [moadim, H4150]." The word shabbath (H7676) does not appear. The moon governs moadim (festival seasons), not shabbatot (sabbaths). | Psa 104:19 | Continuous-Cycle |
 | E-18 | Numbers 28:9-10 places the Sabbath offering in its own weekly category: "This is the burnt offering of every sabbath, beside the continual burnt offering." Separate from the new moon offering in 28:11-15. | Num 28:9-10 | Continuous-Cycle |
 | E-19 | Numbers 28:11-15 places the new moon offering in its own monthly category, with different sacrificial quantities (two bullocks, one ram, seven lambs) from the Sabbath offering (two lambs). | Num 28:9-15 | Continuous-Cycle |
 | E-20 | Ezekiel 46:1 lists three categories: six working days (gate shut), sabbath (gate opened), new moon (gate opened). The sabbath and new moon are separate gate-opening occasions with different offerings (v.4: six lambs and a ram for sabbath; v.6: a young bullock, six lambs, and a ram for new moon). | Eze 46:1, 4, 6 | Continuous-Cycle |
 | E-21 | 2 Kings 4:23 states: "Wherefore wilt thou go to him to day? it is neither new moon, nor sabbath." The husband distinguishes new moon and sabbath as two separate occasions using the "neither... nor" construction. | 2Ki 4:23 | Continuous-Cycle |
-| E-22 | Psalm 81:3-4 connects the full moon (kece, H3677) with the feast trumpet on the "solemn feast day" (chag). [H3677](https://www.blueletterbible.org/lexicon/h3677/kjv/wlc/0-1/){:target="_blank"} (kece) refers to the full moon festival, not the weekly Sabbath. [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} (chag) is never used for the weekly Sabbath. | Psa 81:3-4 | Neutral |
-| E-23 | [H3394](https://www.blueletterbible.org/lexicon/h3394/kjv/wlc/0-1/){:target="_blank"} (yareach, "moon"): 26 OT uses. Never appears in a Sabbath context. Never governs, determines, or is connected to the weekly Sabbath. | 26 OT occurrences | Continuous-Cycle |
-| E-24 | [H3842](https://www.blueletterbible.org/lexicon/h3842/kjv/wlc/0-1/){:target="_blank"} (levanah, "moon" poetic): 3 OT uses (Song 6:10; Isa 24:23; 30:26). Never connected to the Sabbath. | 3 OT occurrences | Neutral |
-| E-25 | [H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"} (chodesh, "new moon/month"): 276 OT uses. When appearing alongside shabbath, they are always distinguished as separate items. No verse places chodesh in a governing relationship over shabbath. | 276 OT occurrences | Continuous-Cycle |
+| E-22 | Psalm 81:3-4 connects the full moon (kece, H3677) with the feast trumpet on the "solemn feast day" (chag). H3677 (kece) refers to the full moon festival, not the weekly Sabbath. H2282 (chag) is never used for the weekly Sabbath. | Psa 81:3-4 | Neutral |
+| E-23 | H3394 (yareach, "moon"): 26 OT uses. Never appears in a Sabbath context. Never governs, determines, or is connected to the weekly Sabbath. | 26 OT occurrences | Continuous-Cycle |
+| E-24 | H3842 (levanah, "moon" poetic): 3 OT uses (Song 6:10; Isa 24:23; 30:26). Never connected to the Sabbath. | 3 OT occurrences | Neutral |
+| E-25 | H2320 (chodesh, "new moon/month"): 276 OT uses. When appearing alongside shabbath, they are always distinguished as separate items. No verse places chodesh in a governing relationship over shabbath. | 276 OT occurrences | Continuous-Cycle |
 | E-26 | 1 Chronicles 23:31: "sabbaths, in the new moons, and on the set feasts." Sabbaths, new moons, and feasts listed as three separate categories. | 1Ch 23:31 | Continuous-Cycle |
 | E-27 | 2 Chronicles 2:4; 8:13; 31:3: "on the sabbaths, and on the new moons, and on the solemn feasts." The same three-category pattern repeated across multiple passages. | 2Ch 2:4; 8:13; 31:3 | Continuous-Cycle |
 | E-28 | Ezekiel 45:17: "in the feasts, and in the new moons, and in the sabbaths." Three separate categories in Ezekiel. | Eze 45:17 | Continuous-Cycle |
@@ -69,7 +69,7 @@ This study follows the investigative methodology defined in `D:/bible/bible-stud
 | E-34 | Luke 23:54-24:1 records a fixed three-day sequence: Preparation -> Sabbath -> First Day. This is consistent across all four Gospel accounts. | Luk 23:54-24:1 | Continuous-Cycle |
 | E-35 | Prosabbaton (G4315) is a hapax legomenon -- a compound word (pro + sabbaton) coined because the day before the Sabbath is predictable and fixed enough to warrant its own term. | Mrk 15:42 | Continuous-Cycle |
 | E-36 | Acts 13:42,44: "the next sabbath" (to metaxu sabbaton). Gentiles knew exactly when the next sabbath would occur -- one week later. | Acts 13:42, 44 | Continuous-Cycle |
-| E-37 | Acts 17:2: "as his manner was" (kata to eiothos, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, Perfect Active Participle). Paul's settled sabbath custom requires regular, predictable recurrence. Luke uses the identical construction for Jesus (Luk 4:16). | Acts 17:2; Luk 4:16 | Continuous-Cycle |
+| E-37 | Acts 17:2: "as his manner was" (kata to eiothos, G1486, Perfect Active Participle). Paul's settled sabbath custom requires regular, predictable recurrence. Luke uses the identical construction for Jesus (Luk 4:16). | Acts 17:2; Luk 4:16 | Continuous-Cycle |
 | E-38 | Acts 18:4: "He reasoned in the synagogue every sabbath" (kata pan sabbaton). Regular weekly pattern for 18 months (Acts 18:11). | Acts 18:4 | Continuous-Cycle |
 | E-39 | Acts 16:13: In Philippi (Roman colony, no synagogue), Paul observed the sabbath by a riverside. If the sabbath required lunar calculation, Paul would need a Jewish calendar authority. | Acts 16:13 | Continuous-Cycle |
 | E-40 | Colossians 2:16: "in respect of an holyday (heorte), or of the new moon (noumenia, G3561), or of the sabbath days (sabbaton, G4521)." Sabbaton and noumenia distinguished by separate Greek words in the same verse. The only NT use of noumenia separates it from sabbaton. | Col 2:16 | Continuous-Cycle |
@@ -319,16 +319,3 @@ The weekly Sabbath follows a continuous 7-day cycle independent of the moon. Thi
 *Series: Law of God*
 *Date: 2026-02-26*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

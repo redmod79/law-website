@@ -31,12 +31,12 @@
 - Articular, definitive usage
 
 ### law-17 (Paul and Law in Galatians)
-- [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} eleutheria ("liberty/freedom"): appears in Rom 8:21; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; Jas 1:25; 2:12; 1 Pet 2:16; 2 Pet 2:19
+- G1657 eleutheria ("liberty/freedom"): appears in Rom 8:21; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; Jas 1:25; 2:12; 1 Pet 2:16; 2 Pet 2:19
 - In Galatians, eleutheria appears 3 times (2:4; 5:1; 5:13), all in context of freedom from bondage
 - "Liberty" language connects James' "law of liberty" to broader NT theology of freedom in Christ
 
 ### law-05 (Civil/Judicial Laws)
-- [G2923](https://www.blueletterbible.org/lexicon/g2923/kjv/tr/0-1/){:target="_blank"} krites ("judge"): 14 KJV occurrences / 17 BLB -- relevant to Jas 4:11-12
+- G2923 krites ("judge"): 14 KJV occurrences / 17 BLB -- relevant to Jas 4:11-12
 - "One lawgiver" concept in Jas 4:12 connects to who has authority over the law
 
 ## Master Evidence Items Referencing James

@@ -6,13 +6,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## COVENANT VOCABULARY (Hebrew)
 
-### [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} -- berith (covenant)
+### H1285 -- berith (covenant)
 
 **Lexicon Entry:**
 - Transliteration: berit
 - Part of Speech: feminine noun
 - BLB Count: 284 occurrences
-- Definition: from [H1254](https://www.blueletterbible.org/lexicon/h1254/kjv/wlc/0-1/){:target="_blank"} (in the sense of cutting); a compact (because made by passing between pieces of flesh): confederacy, covenant, league
+- Definition: from H1254 (in the sense of cutting); a compact (because made by passing between pieces of flesh): confederacy, covenant, league
 
 **Key Verses:**
 | Reference | Context |
@@ -41,7 +41,7 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ---
 
-### [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} -- karath (cut, make covenant)
+### H3772 -- karath (cut, make covenant)
 
 **Lexicon Entry:**
 - Transliteration: karath
@@ -74,7 +74,7 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ---
 
-### [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"} -- leb (heart)
+### H3820 -- leb (heart)
 
 **Lexicon Entry:**
 - Transliteration: leb
@@ -112,7 +112,7 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## OBEDIENCE VOCABULARY (Hebrew)
 
-### [H3212](https://www.blueletterbible.org/lexicon/h3212/kjv/wlc/0-1/){:target="_blank"} -- yalak (walk)
+### H3212 -- yalak (walk)
 
 **Lexicon Entry:**
 - Transliteration: yalak
@@ -144,7 +144,7 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ---
 
-### [H8085](https://www.blueletterbible.org/lexicon/h8085/kjv/wlc/0-1/){:target="_blank"} -- shama (hear/obey)
+### H8085 -- shama (hear/obey)
 
 **Lexicon Entry:**
 - Transliteration: shama
@@ -174,7 +174,7 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## WRITING/ENGRAVING VOCABULARY
 
-### [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} -- chaqaq (engrave/decree)
+### H2710 -- chaqaq (engrave/decree)
 
 **Lexicon Entry:**
 - Transliteration: chaqaq
@@ -206,13 +206,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## RIGHTEOUSNESS VOCABULARY (Hebrew)
 
-### [H6662](https://www.blueletterbible.org/lexicon/h6662/kjv/wlc/0-1/){:target="_blank"} -- tsaddiq (righteous)
+### H6662 -- tsaddiq (righteous)
 
 **Lexicon Entry:**
 - Transliteration: tsaddiq
 - Part of Speech: adjective
 - BLB Count: 206 occurrences
-- Definition: from [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"}; just: just, lawful, righteous (man)
+- Definition: from H6663; just: just, lawful, righteous (man)
 
 **Key Verses:**
 | Reference | Context |
@@ -236,13 +236,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ---
 
-### [H6666](https://www.blueletterbible.org/lexicon/h6666/kjv/wlc/0-1/){:target="_blank"} -- tsedaqah (righteousness)
+### H6666 -- tsedaqah (righteousness)
 
 **Lexicon Entry:**
 - Transliteration: tsedaqah
 - Part of Speech: feminine noun
 - BLB Count: 157 occurrences
-- Definition: from [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"}; rightness (abstractly), subjectively (rectitude), objectively (justice), morally (virtue): justice, moderately, righteous (act, -ly, -ness)
+- Definition: from H6663; rightness (abstractly), subjectively (rectitude), objectively (justice), morally (virtue): justice, moderately, righteous (act, -ly, -ness)
 
 **Key Verses:**
 | Reference | Context |
@@ -267,13 +267,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## WRITING/INSCRIPTION VOCABULARY (Greek)
 
-### [G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} -- engrapho (inscribe, write in)
+### G1449 -- engrapho (inscribe, write in)
 
 **Lexicon Entry:**
 - Transliteration: engrapho
 - Part of Speech: verb
 - BLB Count: 2 occurrences ONLY
-- Definition: from [G1722](https://www.blueletterbible.org/lexicon/g1722/kjv/tr/0-1/){:target="_blank"} (en, "in") + [G1125](https://www.blueletterbible.org/lexicon/g1125/kjv/tr/0-1/){:target="_blank"} (grapho, "write"); to engrave, inscribe: write (in)
+- Definition: from G1722 (en, "in") + G1125 (grapho, "write"); to engrave, inscribe: write (in)
 
 **NT Occurrences:**
 | Reference | Text | Parsing |
@@ -292,23 +292,23 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 4. The explicit mention of "tables of stone" (plaxin lithinais) in 2 Cor 3:3 is an undeniable allusion to the stone tablets of the Decalogue (Exo 31:18; 34:1). The same content is now inscribed on heart-tablets.
 5. The Perfect tense (engegramene) signals that the inscription has ALREADY been completed and its results CONTINUE -- the law written on hearts is an accomplished, ongoing reality.
 
-**Related verb: [G1924](https://www.blueletterbible.org/lexicon/g1924/kjv/tr/0-1/){:target="_blank"} -- epigrapho (write upon/inscribe upon)**
+**Related verb: G1924 -- epigrapho (write upon/inscribe upon)**
 - Used in Heb 8:10 and Heb 10:16
 - Transliteration: epigrapho
-- Definition: from [G1909](https://www.blueletterbible.org/lexicon/g1909/kjv/tr/0-1/){:target="_blank"} (epi, "upon") + [G1125](https://www.blueletterbible.org/lexicon/g1125/kjv/tr/0-1/){:target="_blank"} (grapho, "write"); to inscribe (physically or mentally): inscription, write in/over/thereon
+- Definition: from G1909 (epi, "upon") + G1125 (grapho, "write"); to inscribe (physically or mentally): inscription, write in/over/thereon
 - Greek Parsing (Heb 8:10; 10:16): **epigrapso** = Future Active Indicative 1st Singular = "I will inscribe/write upon" -- God is the agent; the action is future and active
 
 ---
 
 ## FAITH VOCABULARY (Greek)
 
-### [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} -- pistis (faith)
+### G4102 -- pistis (faith)
 
 **Lexicon Entry:**
 - Transliteration: pistis
 - Part of Speech: feminine noun
 - BLB Count: 244 occurrences
-- Definition: from [G3982](https://www.blueletterbible.org/lexicon/g3982/kjv/tr/0-1/){:target="_blank"} (peitho, "to persuade"); persuasion, credence; moral conviction: assurance, belief, faith, fidelity
+- Definition: from G3982 (peitho, "to persuade"); persuasion, credence; moral conviction: assurance, belief, faith, fidelity
 
 **Key Verses:**
 | Reference | Context |
@@ -338,13 +338,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## COMMANDMENT/LAW VOCABULARY (Greek)
 
-### [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} -- entole (commandment)
+### G1785 -- entole (commandment)
 
 **Lexicon Entry:**
 - Transliteration: entole
 - Part of Speech: feminine noun
 - BLB Count: 71 occurrences
-- Definition: from [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"} (entellomai, "to enjoin"); injunction, i.e. an authoritative prescription: commandment, precept
+- Definition: from G1781 (entellomai, "to enjoin"); injunction, i.e. an authoritative prescription: commandment, precept
 
 **Key Verses:**
 | Reference | Context |
@@ -383,13 +383,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## OBEDIENCE VOCABULARY (Greek)
 
-### [G5218](https://www.blueletterbible.org/lexicon/g5218/kjv/tr/0-1/){:target="_blank"} -- hupakoe (obedience)
+### G5218 -- hupakoe (obedience)
 
 **Lexicon Entry:**
 - Transliteration: hupakoe
 - Part of Speech: feminine noun
 - BLB Count: 15 occurrences
-- Definition: from [G5219](https://www.blueletterbible.org/lexicon/g5219/kjv/tr/0-1/){:target="_blank"} (hupakouo, "to listen under, obey"); attentive hearkening, compliance or submission: obedience, obey
+- Definition: from G5219 (hupakouo, "to listen under, obey"); attentive hearkening, compliance or submission: obedience, obey
 
 **Key Verses:**
 | Reference | Context |
@@ -417,13 +417,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## RIGHTEOUSNESS/LAW VOCABULARY (Greek)
 
-### [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} -- dikaioma (righteous requirement/ordinance)
+### G1345 -- dikaioma (righteous requirement/ordinance)
 
 **Lexicon Entry:**
 - Transliteration: dikaioma
 - Part of Speech: neuter noun
 - BLB Count: 10 occurrences
-- Definition: from [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} (dikaioo, "to justify"); an equitable deed; by implication, a statute or decision: judgment, justification, ordinance, righteousness
+- Definition: from G1344 (dikaioo, "to justify"); an equitable deed; by implication, a statute or decision: judgment, justification, ordinance, righteousness
 
 **Key Verses:**
 | Reference | Context |
@@ -453,13 +453,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ---
 
-### [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} -- dikaiosyne (righteousness)
+### G1343 -- dikaiosyne (righteousness)
 
 **Lexicon Entry:**
 - Transliteration: dikaiosyne
 - Part of Speech: feminine noun
 - BLB Count: 92 occurrences
-- Definition: from [G1342](https://www.blueletterbible.org/lexicon/g1342/kjv/tr/0-1/){:target="_blank"} (dikaios, "righteous"); equity (of character or act); especially Christian justification: righteousness
+- Definition: from G1342 (dikaios, "righteous"); equity (of character or act); especially Christian justification: righteousness
 
 **Key Verses:**
 | Reference | Context |
@@ -486,13 +486,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## BONDAGE/FREEDOM VOCABULARY (Greek)
 
-### [G1397](https://www.blueletterbible.org/lexicon/g1397/kjv/tr/0-1/){:target="_blank"} -- douleia (bondage/slavery)
+### G1397 -- douleia (bondage/slavery)
 
 **Lexicon Entry:**
 - Transliteration: douleia
 - Part of Speech: feminine noun
 - BLB Count: 5 occurrences
-- Definition: from [G1398](https://www.blueletterbible.org/lexicon/g1398/kjv/tr/0-1/){:target="_blank"} (douleuo, "to be a slave"); slavery (ceremonially or figuratively): bondage
+- Definition: from G1398 (douleuo, "to be a slave"); slavery (ceremonially or figuratively): bondage
 
 **All NT Occurrences:**
 | Reference | Context |
@@ -511,7 +511,7 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ---
 
-### [G1450](https://www.blueletterbible.org/lexicon/g1450/kjv/tr/0-1/){:target="_blank"} -- enguos (guarantor/surety)
+### G1450 -- enguos (guarantor/surety)
 
 **Lexicon Entry:**
 - Transliteration: enguos
@@ -532,13 +532,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## COVENANT-BREAKING/UNBELIEF VOCABULARY (Greek)
 
-### [G570](https://www.blueletterbible.org/lexicon/g570/kjv/tr/0-1/){:target="_blank"} -- apistia (unbelief/faithlessness)
+### G570 -- apistia (unbelief/faithlessness)
 
 **Lexicon Entry:**
 - Transliteration: apistia
 - Part of Speech: feminine noun
 - BLB Count: 12 occurrences
-- Definition: from [G571](https://www.blueletterbible.org/lexicon/g571/kjv/tr/0-1/){:target="_blank"} (apistos, "unbelieving"); faithlessness, disbelief: unbelief
+- Definition: from G571 (apistos, "unbelieving"); faithlessness, disbelief: unbelief
 
 **Key Verses:**
 | Reference | Context |
@@ -562,7 +562,7 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ---
 
-### [G802](https://www.blueletterbible.org/lexicon/g802/kjv/tr/0-1/){:target="_blank"} -- asunthetos (covenant-breaking)
+### G802 -- asunthetos (covenant-breaking)
 
 **Lexicon Entry:**
 - Transliteration: asunthetos
@@ -585,13 +585,13 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ## ADDITIONAL OBEDIENCE VOCABULARY (Greek)
 
-### [G3980](https://www.blueletterbible.org/lexicon/g3980/kjv/tr/0-1/){:target="_blank"} -- peitharcheo (obey authority)
+### G3980 -- peitharcheo (obey authority)
 
 **Lexicon Entry:**
 - Transliteration: peitharcheo
 - Part of Speech: verb
 - BLB Count: 4 occurrences
-- Definition: from a compound of [G3982](https://www.blueletterbible.org/lexicon/g3982/kjv/tr/0-1/){:target="_blank"} (peitho, "to persuade") + [G757](https://www.blueletterbible.org/lexicon/g757/kjv/tr/0-1/){:target="_blank"} (archo, "to rule"); to be persuaded by a ruler, obey a magistrate: hearken, obey
+- Definition: from a compound of G3982 (peitho, "to persuade") + G757 (archo, "to rule"); to be persuaded by a ruler, obey a magistrate: hearken, obey
 
 **All Occurrences:**
 | Reference | Context |
@@ -608,7 +608,7 @@ All data from Strong's Concordance lookups (search_strongs.py), Greek parsing (g
 
 ---
 
-### [G1384](https://www.blueletterbible.org/lexicon/g1384/kjv/tr/0-1/){:target="_blank"} -- dokimos (approved/tested)
+### G1384 -- dokimos (approved/tested)
 
 **Lexicon Entry:**
 - Transliteration: dokimos
@@ -745,16 +745,3 @@ A critical linguistic pattern across all new covenant passages is the use of pos
 | Rev 14:12 | Greek | tas entolas tou Theou | commandments OF GOD (genitive noun) |
 
 This consistent possessive marking across Hebrew and Greek, OT and NT, identifies the law/commandments/statutes as GOD'S OWN -- not human inventions that can be casually discarded. The new covenant does not introduce NEW commandments from a different source; it writes GOD'S EXISTING commandments on hearts by the power of GOD'S OWN Spirit.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

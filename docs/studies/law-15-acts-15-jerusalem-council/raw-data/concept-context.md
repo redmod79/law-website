@@ -8,7 +8,7 @@ Note: The verse contains the word zygos (yoke, G2218) and peirazo (to test/tempt
 ---
 
 ## Acts 15:29
-Concept found: **BLOOD** (Dam/haima - blood, lifeblood) via [G129](https://www.blueletterbible.org/lexicon/g129/kjv/tr/0-1/){:target="_blank"}
+Concept found: **BLOOD** (Dam/haima - blood, lifeblood) via G129
 
 ### Same Chapter (Acts 15)
 - Acts 15:20 [BLOOD] -- "that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood"

@@ -7,7 +7,7 @@ What is God's moral law? What is its basis, nature, and scope?
 
 ## 1. HEBREW TERMS FOR LAW
 
-### [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}: torah (תּוֹרָה) -- "Law"
+### H8451: torah (תּוֹרָה) -- "Law"
 - **Transliteration:** towrah
 - **Pronunciation:** to-raw
 - **Part of Speech:** feminine noun
@@ -22,7 +22,7 @@ What is God's moral law? What is its basis, nature, and scope?
   - Jeremiah 31:33 -- "I will put my **law** (torah) in their inward parts, and write it in their hearts"
   - Isaiah 42:21 -- "The LORD is well pleased for his righteousness' sake; he will magnify the **law** (torah), and make it honourable"
 
-### [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"}: mitsvah (מִצְוָה) -- "Commandment"
+### H4687: mitsvah (מִצְוָה) -- "Commandment"
 - **Transliteration:** mitsvah
 - **Pronunciation:** mits-vaw
 - **Part of Speech:** feminine noun
@@ -38,7 +38,7 @@ What is God's moral law? What is its basis, nature, and scope?
   - Psalm 119:96 -- "thy **commandment** (mitsvah) is exceeding broad"
   - Ecclesiastes 12:13 -- "Fear God, and keep his **commandments** (mitsvah): for this is the whole duty of man"
 
-### [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}: choq (חֹק) -- "Statute"
+### H2706: choq (חֹק) -- "Statute"
 - **Transliteration:** choq
 - **Pronunciation:** khoke
 - **Part of Speech:** masculine noun
@@ -52,7 +52,7 @@ What is God's moral law? What is its basis, nature, and scope?
   - Ezekiel 36:27 -- "cause you to walk in my **statutes** (choq), and ye shall keep my judgments"
   - Psalm 148:6 -- "He hath also stablished them for ever and ever: he hath made a **decree** (choq) which shall not pass"
 
-### [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"}: mishpat (מִשְׁפָּט) -- "Judgment/Ordinance"
+### H4941: mishpat (מִשְׁפָּט) -- "Judgment/Ordinance"
 - **Transliteration:** mishpat
 - **Pronunciation:** mish-pawt
 - **Part of Speech:** masculine noun
@@ -67,7 +67,7 @@ What is God's moral law? What is its basis, nature, and scope?
   - Deuteronomy 32:4 -- "all his ways are **judgment** (mishpat): a God of truth and without iniquity, just and right is he"
   - Nehemiah 9:13 -- "gavest them right **judgments** (mishpat), and true laws, good statutes and commandments"
 
-### [H676](https://www.blueletterbible.org/lexicon/h676/kjv/wlc/0-1/){:target="_blank"}: etsba (אֶצְבַּע) -- "Finger"
+### H676: etsba (אֶצְבַּע) -- "Finger"
 - **Transliteration:** etsba
 - **Pronunciation:** ets-bah
 - **Part of Speech:** feminine noun
@@ -81,7 +81,7 @@ What is God's moral law? What is its basis, nature, and scope?
   - Deuteronomy 9:10 -- "two tables of stone written with the **finger** (etsba) of God"
   - Psalm 8:3 -- "When I consider thy heavens, the work of thy **fingers** (etsba)" (divine craftsmanship)
 
-### [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"}: ad (עַד) -- "Perpetuity/Forever"
+### H5703: ad (עַד) -- "Perpetuity/Forever"
 - **Transliteration:** ad
 - **Pronunciation:** ad
 - **Part of Speech:** masculine noun
@@ -100,7 +100,7 @@ What is God's moral law? What is its basis, nature, and scope?
 
 ## 2. GREEK TERMS FOR LAW
 
-### [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}: nomos (νόμος) -- "Law"
+### G3551: nomos (νόμος) -- "Law"
 - **Transliteration:** nomos
 - **Pronunciation:** nom-os
 - **Part of Speech:** masculine noun
@@ -124,7 +124,7 @@ What is God's moral law? What is its basis, nature, and scope?
   - James 1:25 -- "the perfect **law** (nomos) of liberty"
   - James 2:12 -- "the **law** (nomos) of liberty"
 
-### [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}: entole (ἐντολή) -- "Commandment"
+### G1785: entole (ἐντολή) -- "Commandment"
 - **Transliteration:** entole
 - **Pronunciation:** en-tol-ay
 - **Part of Speech:** feminine noun
@@ -143,7 +143,7 @@ What is God's moral law? What is its basis, nature, and scope?
 
 ## 3. GREEK TERMS FOR LAW ATTRIBUTES
 
-### [G40](https://www.blueletterbible.org/lexicon/g40/kjv/tr/0-1/){:target="_blank"}: hagios (ἅγιος) -- "Holy"
+### G40: hagios (ἅγιος) -- "Holy"
 - **Transliteration:** hagios
 - **Pronunciation:** hag-ee-os
 - **Part of Speech:** adjective
@@ -154,7 +154,7 @@ What is God's moral law? What is its basis, nature, and scope?
 - **Key use:** Romans 7:12 -- "the law is **holy** (hagios), and the commandment **holy** (hagios), and just, and good"
 - **Significance:** The same word used for God's holiness (Revelation 4:8 "Holy, holy, holy, Lord God Almighty") is used for the law. The law is holy because it proceeds from a holy God and reflects His holy character.
 
-### [G4152](https://www.blueletterbible.org/lexicon/g4152/kjv/tr/0-1/){:target="_blank"}: pneumatikos (πνευματικός) -- "Spiritual"
+### G4152: pneumatikos (πνευματικός) -- "Spiritual"
 - **Transliteration:** pneumatikos
 - **Pronunciation:** pnyoo-mat-ik-os
 - **Part of Speech:** adjective
@@ -165,7 +165,7 @@ What is God's moral law? What is its basis, nature, and scope?
 - **Key use:** Romans 7:14 -- "we know that the law is **spiritual** (pneumatikos): but I am carnal, sold under sin"
 - **Significance:** The law is not merely an external code but a spiritual reality. It addresses the inner person (cf. the 10th commandment against coveting, which is entirely internal). The contrast in Romans 7:14 is between the spiritual nature of the law and the carnal/fleshly nature of fallen humanity.
 
-### [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}: dikaioma (δικαίωμα) -- "Righteous Requirement"
+### G1345: dikaioma (δικαίωμα) -- "Righteous Requirement"
 - **Transliteration:** dikaioma
 - **Pronunciation:** dik-ah-yo-mah
 - **Part of Speech:** neuter noun
@@ -176,7 +176,7 @@ What is God's moral law? What is its basis, nature, and scope?
 - **KEY use for this study:** Romans 8:4 -- "That the **righteousness** (dikaioma) of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit"
 - **Significance:** This word shows the law has a "righteous requirement" that God intends to be fulfilled in believers through the Spirit. The new covenant does not abolish the law's righteous standard but provides the power (the Spirit) to meet it.
 
-### [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"}: teleios (τέλειος) -- "Perfect"
+### G5046: teleios (τέλειος) -- "Perfect"
 - **Transliteration:** teleios
 - **Pronunciation:** tel-i-os
 - **Part of Speech:** adjective
@@ -193,7 +193,7 @@ What is God's moral law? What is its basis, nature, and scope?
 
 ## 4. KEY DISTINCTION: MORAL LAW (nomos/entole) vs. CEREMONIAL ORDINANCES (dogma)
 
-### [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}: dogma (δόγμα) -- "Decree/Ordinance"
+### G1378: dogma (δόγμα) -- "Decree/Ordinance"
 - **Transliteration:** dogma
 - **Pronunciation:** dog-mah
 - **Part of Speech:** neuter noun
@@ -208,7 +208,7 @@ What is God's moral law? What is its basis, nature, and scope?
   - Colossians 2:14 -- "the handwriting of **ordinances** (dogma) that was against us" -- NAILED TO CROSS
 - **Critical significance:** The word used for what was abolished at the cross is **dogma** -- decrees/ordinances -- NOT nomos (law) or entole (commandment). Paul uses a specific, different Greek word for what was removed. The "handwriting of ordinances" (cheirographon tois dogmasin) refers to the record of debt/penalty and the ceremonial regulations, NOT the Ten Commandments.
 
-### [G3037](https://www.blueletterbible.org/lexicon/g3037/kjv/tr/0-1/){:target="_blank"}: lithos (λίθος) -- "Stone"
+### G3037: lithos (λίθος) -- "Stone"
 - **Transliteration:** lithos
 - **Pronunciation:** lee-thos
 - **Part of Speech:** masculine noun
@@ -224,20 +224,20 @@ What is God's moral law? What is its basis, nature, and scope?
 ### The Torah Word Cluster (OT)
 | Strong's | Hebrew    | Translation     | Focus              |
 |----------|-----------|-----------------|--------------------|
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}    | torah     | law, instruction | the content taught |
-| [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"}    | mitsvah   | commandment     | the authority      |
-| [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}    | choq      | statute/decree  | the permanence     |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"}    | mishpat   | judgment         | the justice        |
-| [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"}    | eduth     | testimony        | the witness        |
-| [H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"}    | piqqud    | precept          | the oversight      |
+| H8451    | torah     | law, instruction | the content taught |
+| H4687    | mitsvah   | commandment     | the authority      |
+| H2706    | choq      | statute/decree  | the permanence     |
+| H4941    | mishpat   | judgment         | the justice        |
+| H5715    | eduth     | testimony        | the witness        |
+| H6490    | piqqud    | precept          | the oversight      |
 
 ### The Nomos/Entole Cluster (NT)
 | Strong's | Greek       | Translation        | Focus              |
 |----------|-------------|--------------------|--------------------|
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}    | nomos       | law                | the standard       |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}    | entole      | commandment        | the authority      |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}    | dikaioma    | righteous req.     | the moral content  |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}    | dogma       | decree/ordinance   | the regulations    |
+| G3551    | nomos       | law                | the standard       |
+| G1785    | entole      | commandment        | the authority      |
+| G1345    | dikaioma    | righteous req.     | the moral content  |
+| G1378    | dogma       | decree/ordinance   | the regulations    |
 
 **Critical observation:** When the NT speaks of what endures, it uses nomos and entole. When it speaks of what was abolished, it uses dogma. This lexical distinction is essential for understanding the "temporary" passages in section F of 02-verses.md.
 
@@ -256,16 +256,3 @@ What is God's moral law? What is its basis, nature, and scope?
 | True      | Psa 119:142,151    | emeth (H571)                     | God is truth (Jhn 14:6) |
 | Pure      | Psa 19:8           | bar (H1249)                      | God is pure (1 Jhn 3:3) |
 | Right     | Psa 19:8           | yashar (H3477)                   | God is righteous (Psa 119:137) |
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

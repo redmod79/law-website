@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Output
 
-## [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} - telos (Core Word Under Study)
+## G5056 - telos (Core Word Under Study)
 
 ### Lexicon
 ```
@@ -49,12 +49,12 @@ Definition: -os; from a primary tello (to set out for a definite point or goal)
 
 **"the ending" (1x):** Rev 1:8
 
-### Full Verse Listing for [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} (from lexicon)
+### Full Verse Listing for G5056 (from lexicon)
 2Ki 8:3; 2Ch 12:12; Neh 13:6; Job 14:20; 42; Mat 10:22; 17:25; 24:6; 24:13; 24:14; 26:58; Mar 3:26; 13:7; 13:13; Luk 1:33; 18:5; 21:9; 22:37; Jhn 13:1; Rom 6:21; 10:4; 13:7; 1Co 1:8; 10:11; 15:23; 15:24; 15:24; 2Co 1:13; 3:13; 11:15; Php 3:19; 1Th 2:16; 1Ti 1:5; Heb 3:6; 6:8; 6:14; 7:3; Jas 5:11; 1Pe 1:9; 3:8; 4:7; 4:17; Rev 1:8; 2:26; 21:6; 22:13
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} - nomos (law)
+## G3551 - nomos (law)
 
 ### Lexicon
 ```
@@ -84,7 +84,7 @@ Definition: -os; from a primary nemo (to parcel out, especially food or grazing 
 
 ---
 
-## [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} - dikaiosune (righteousness)
+## G1343 - dikaiosune (righteousness)
 
 ### Lexicon
 ```
@@ -115,7 +115,7 @@ Definition: -nay; from; equity (of character or act); specially (Christian)
 
 ---
 
-## [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} - katargeo (make void, abolish)
+## G2673 - katargeo (make void, abolish)
 
 ### Lexicon
 ```
@@ -166,7 +166,7 @@ Verses: Luk 13:7; Rom 3:3; 3:31; 4:2; 4:14; 6:6; 7; 1Co 1:28; 2:6; 6:13; 13:8; 1
 
 ---
 
-## [G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"} - histemi (stand, establish)
+## G2476 - histemi (stand, establish)
 
 ### Lexicon
 ```
@@ -192,7 +192,7 @@ Definition: -tay-mee; a prolonged form of a primary stao (of the same meaning)
 
 ---
 
-## [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} - pleroo (fulfill, fill)
+## G4137 - pleroo (fulfill, fill)
 
 ### Lexicon
 ```
@@ -218,7 +218,7 @@ Definition: -o; from; to make replete, i.e. (literally) to cram (a net), level u
 
 ---
 
-## [G3807](https://www.blueletterbible.org/lexicon/g3807/kjv/tr/0-1/){:target="_blank"} - paidagogos (schoolmaster)
+## G3807 - paidagogos (schoolmaster)
 
 ### Lexicon
 ```
@@ -240,7 +240,7 @@ Definition: from [pais] and a reduplicated form of [ago]; a boy-leader, i.e. a s
 
 ---
 
-## [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} - pistis (faith)
+## G4102 - pistis (faith)
 
 ### Lexicon
 ```
@@ -255,7 +255,7 @@ Definition: -tis; from; persuasion, i.e. credence; moral conviction (of religiou
 
 ---
 
-## [G3852](https://www.blueletterbible.org/lexicon/g3852/kjv/tr/0-1/){:target="_blank"} - paraggelia (commandment/charge)
+## G3852 - paraggelia (commandment/charge)
 
 ### Lexicon
 ```
@@ -273,28 +273,28 @@ Verses: Acts 5:28; 16:24; 1Th 4:2; 1Ti 1:5
 
 ## Telos Word Family
 
-### [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} - teleo (to end, complete, execute)
+### G5055 - teleo (to end, complete, execute)
 ```
 Part of Speech: verb (v)
 BLB Count: 26
 Definition: -o; from [telos]; to end, i.e. complete, execute, conclude, discharge
 ```
 
-### [G5048](https://www.blueletterbible.org/lexicon/g5048/kjv/tr/0-1/){:target="_blank"} - teleioo (to complete, perfect)
+### G5048 - teleioo (to complete, perfect)
 ```
 Part of Speech: verb (v)
 BLB Count: 24
 Definition: -o; from [teleios]; to complete, i.e. (literally) accomplish, or (figuratively)
 ```
 
-### [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} - teleios (complete, perfect)
+### G5046 - teleios (complete, perfect)
 ```
 Part of Speech: adjective (adj)
 BLB Count: 19
 Definition: -i-os; from [telos]; complete (in various applications of labor, growth, mental)
 ```
 
-### [G5051](https://www.blueletterbible.org/lexicon/g5051/kjv/tr/0-1/){:target="_blank"} - teleiotes (finisher, completer)
+### G5051 - teleiotes (finisher, completer)
 ```
 Part of Speech: masculine noun (n-m)
 BLB Count: 1 (Heb 12:2 only)

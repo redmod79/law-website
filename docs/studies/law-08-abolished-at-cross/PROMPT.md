@@ -81,28 +81,28 @@ The research agent MUST read these conclusions from prior studies in this series
 #### Abolition / Removal Vocabulary
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} | katargeo (to abolish, make void, done away) | PRIMARY — used in 2 Cor 3:7,11,13,14; Eph 2:15; Rom 3:31; Gal 3:17; 5:4,11. The main Greek word for "abolish/done away." **NOTE: Not returned by semantic search — must be looked up directly by research agent.** |
-| [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | kataluo (to destroy, throw down, dissolve) | Used in Mat 5:17 — "Think not that I am come to destroy [kataluo] the law" |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma (decree, ordinance, dogma) | Used in Eph 2:15 and Col 2:14 — identifies WHAT was abolished; never used for the Decalogue |
-| [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} | cheirographon (handwriting, bond, certificate of debt) | Used ONLY in Col 2:14 — "handwriting of ordinances" — hapax legomenon in NT |
-| [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} | dogmatizo (to decree, subject to ordinances) | Used in Col 2:20 — "why are ye subject to ordinances?" |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma (ordinance, righteous judgment, regulation) | Used in Heb 9:1,10 — "ordinances of divine service"; also in Rom 8:4 — "righteousness of the law" |
+| G2673 | katargeo (to abolish, make void, done away) | PRIMARY — used in 2 Cor 3:7,11,13,14; Eph 2:15; Rom 3:31; Gal 3:17; 5:4,11. The main Greek word for "abolish/done away." **NOTE: Not returned by semantic search — must be looked up directly by research agent.** |
+| G2647 | kataluo (to destroy, throw down, dissolve) | Used in Mat 5:17 — "Think not that I am come to destroy [kataluo] the law" |
+| G1378 | dogma (decree, ordinance, dogma) | Used in Eph 2:15 and Col 2:14 — identifies WHAT was abolished; never used for the Decalogue |
+| G5498 | cheirographon (handwriting, bond, certificate of debt) | Used ONLY in Col 2:14 — "handwriting of ordinances" — hapax legomenon in NT |
+| G1379 | dogmatizo (to decree, subject to ordinances) | Used in Col 2:20 — "why are ye subject to ordinances?" |
+| G1345 | dikaioma (ordinance, righteous judgment, regulation) | Used in Heb 9:1,10 — "ordinances of divine service"; also in Rom 8:4 — "righteousness of the law" |
 
 #### Redemption / Curse Vocabulary
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G1805](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/){:target="_blank"} | exagorazo (to redeem, buy out) | Used in Gal 3:13; 4:5 — "redeemed us from the curse of the law" |
-| [G1944](https://www.blueletterbible.org/lexicon/g1944/kjv/tr/0-1/){:target="_blank"} | epikataratos (accursed, under a curse) | Used in Gal 3:13 — "cursed is every one that hangeth on a tree" |
-| [G3084](https://www.blueletterbible.org/lexicon/g3084/kjv/tr/0-1/){:target="_blank"} | lutroo (to redeem, ransom) | General redemption vocabulary |
-| [G4716](https://www.blueletterbible.org/lexicon/g4716/kjv/tr/0-1/){:target="_blank"} | stauros (cross, stake) | The instrument — "nailed to the cross" |
+| G1805 | exagorazo (to redeem, buy out) | Used in Gal 3:13; 4:5 — "redeemed us from the curse of the law" |
+| G1944 | epikataratos (accursed, under a curse) | Used in Gal 3:13 — "cursed is every one that hangeth on a tree" |
+| G3084 | lutroo (to redeem, ransom) | General redemption vocabulary |
+| G4716 | stauros (cross, stake) | The instrument — "nailed to the cross" |
 
 #### Law Vocabulary (from prior studies — essential for identification)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos (law) | The general Greek word; context determines which law |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole (commandment) | Used for moral commandments; distinguished from dogma in prior studies |
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | torah (law, instruction, direction) | Hebrew comprehensive term |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment, ordinance, case-law) | Hebrew civil/judicial term |
+| G3551 | nomos (law) | The general Greek word; context determines which law |
+| G1785 | entole (commandment) | Used for moral commandments; distinguished from dogma in prior studies |
+| H8451 | torah (law, instruction, direction) | Hebrew comprehensive term |
+| H4941 | mishpat (judgment, ordinance, case-law) | Hebrew civil/judicial term |
 
 ### Related Existing Studies
 
@@ -125,15 +125,15 @@ These focus areas are derived from tool-discovered data (not training knowledge)
 
 2. **Greek vocabulary mapping**: The Nave's ORDINANCE topic reveals that dogma/dogmatizo vocabulary (G1378, G1379) appears in Col 2:14,20 and Eph 2:15. The Nave's LAW TEMPORARY subsection includes all 7 target passages. The research agent must determine: Does each passage use dogma (ordinance/decree), entole (commandment), nomos (law), or other vocabulary? What does each vocabulary choice identify as the thing abolished?
 
-3. **Cheirographon identification**: [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} (cheirographon) is a hapax legomenon — it appears only in Col 2:14. Prior study law-04 established that cheirographon = "hand-written" and the Decalogue was God-written (on stone). The research agent must investigate what "the handwriting of ordinances" refers to — is it a certificate of debt, the Mosaic law code, or the moral law?
+3. **Cheirographon identification**: G5498 (cheirographon) is a hapax legomenon — it appears only in Col 2:14. Prior study law-04 established that cheirographon = "hand-written" and the Decalogue was God-written (on stone). The research agent must investigate what "the handwriting of ordinances" refers to — is it a certificate of debt, the Mosaic law code, or the moral law?
 
-4. **Katargeo usage pattern**: [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} (katargeo) is the primary "done away" / "abolished" word in 2 Cor 3:7,11,13,14 and Eph 2:15. The research agent must look up this Strong's number directly (it was not returned by semantic search) and trace every NT occurrence to determine what is consistently described as katargeo'd.
+4. **Katargeo usage pattern**: G2673 (katargeo) is the primary "done away" / "abolished" word in 2 Cor 3:7,11,13,14 and Eph 2:15. The research agent must look up this Strong's number directly (it was not returned by semantic search) and trace every NT occurrence to determine what is consistently described as katargeo'd.
 
 5. **Priesthood-law connection**: Heb 7:12 (from Nave's LAW TEMPORARY subsection) says "the priesthood being changed, there is made of necessity a change also of the law." Which law? The tool-discovered connection to the PRIEST topic suggests this is about Levitical/priestly law specifically. The research agent must investigate the context of Heb 7-10.
 
 6. **Shadow/type identification**: Heb 9:1,8-10 (from Nave's ORDINANCE topic) describes "carnal ordinances" (dikaioma, G1345) imposed "until the time of reformation." Heb 10:1 says "the law having a shadow of good things to come." Prior study law-04 established that shadow/type vocabulary is exclusively ceremonial. The research agent must verify whether these Hebrews passages identify the shadow as the whole law or a specific part.
 
-7. **Galatians 3:13 curse analysis**: [G1805](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/){:target="_blank"} (exagorazo) and [G1944](https://www.blueletterbible.org/lexicon/g1944/kjv/tr/0-1/){:target="_blank"} (epikataratos) appear in this verse. "Redeemed from the curse of the law" — what is the "curse"? Is it the law itself that is abolished, or the curse/penalty that the law pronounces? The research agent must examine the Galatians 3 context carefully.
+7. **Galatians 3:13 curse analysis**: G1805 (exagorazo) and G1944 (epikataratos) appear in this verse. "Redeemed from the curse of the law" — what is the "curse"? Is it the law itself that is abolished, or the curse/penalty that the law pronounces? The research agent must examine the Galatians 3 context carefully.
 
 8. **Cross-reference with Nave's LAW TEMPORARY verses**: The LAW topic's TEMPORARY subsection contains many verses beyond the 7 target passages (e.g., Rom 7:1-6; 10:4; Gal 4:30,31; Heb 8:4-13). The research agent should retrieve these additional verses to see if they add clarity to what was abolished.
 
@@ -156,10 +156,10 @@ You are the Research Agent. Execute this study by:
      - All verses from Nave's ORDINANCE INSUFFICIENCY subsection
      - Key verses from prior studies that bear on the abolition question
    - `04-word-studies.md` — Strong's research for ALL listed numbers:
-     - [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} (katargeo) — CRITICAL: look up directly, trace all NT occurrences
-     - [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma), [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} (cheirographon), [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} (dogmatizo), [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma)
-     - [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} (kataluo), [G1805](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/){:target="_blank"} (exagorazo), [G1944](https://www.blueletterbible.org/lexicon/g1944/kjv/tr/0-1/){:target="_blank"} (epikataratos)
-     - [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos), [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole) — usage patterns
+     - G2673 (katargeo) — CRITICAL: look up directly, trace all NT occurrences
+     - G1378 (dogma), G5498 (cheirographon), G1379 (dogmatizo), G1345 (dikaioma)
+     - G2647 (kataluo), G1805 (exagorazo), G1944 (epikataratos)
+     - G3551 (nomos), G1785 (entole) — usage patterns
      - Run cross-testament parallels for the 7 primary passages
    - `raw-data/` — Raw tool output organized by category
 9. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent
@@ -177,16 +177,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-08-abolished-at-cross/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

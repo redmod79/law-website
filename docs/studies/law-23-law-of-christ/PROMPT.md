@@ -84,7 +84,7 @@ Law-21 (D:/bible/bible-studies/law-21-nt-vocab-law-categories/CONCLUSION.md) est
 
 Law-14 (D:/bible/bible-studies/law-14-jesus-law-teachings/) established:
 
-- Word study on [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} ennomos ("within law, lawful"): 2 NT occurrences -- Acts 19:39 ("lawful assembly") and 1 Cor 9:21 ("under the law [ennomos] to Christ"). Paul describes himself as ennomos Christou -- "in-law to Christ." This places Paul within a law framework, not outside it.
+- Word study on G1772 ennomos ("within law, lawful"): 2 NT occurrences -- Acts 19:39 ("lawful assembly") and 1 Cor 9:21 ("under the law [ennomos] to Christ"). Paul describes himself as ennomos Christou -- "in-law to Christ." This places Paul within a law framework, not outside it.
 
 ### law-10 Conclusions (New Covenant and Law)
 
@@ -151,39 +151,39 @@ Retrieve full entries for: LAW, LIBERTY, COMMANDMENTS, HOLY SPIRIT (liberty subt
 
 ### Primary Greek Terms for "Law of ___" Phrases
 
-1. **[G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos** -- "law, custom, principle" -- 197 NT occurrences. From nemo ("to parcel out"). Semantic range includes: Torah/code, Decalogue specifically, operating principle/rule, Pentateuch as Scripture. This is the central term in every "law of ___" phrase under investigation.
+1. **G3551 nomos** -- "law, custom, principle" -- 197 NT occurrences. From nemo ("to parcel out"). Semantic range includes: Torah/code, Decalogue specifically, operating principle/rule, Pentateuch as Scripture. This is the central term in every "law of ___" phrase under investigation.
 
-2. **[G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} ennomos** -- "within law, lawful" -- 2 NT occurrences. From en + nomos. Acts 19:39 ("lawful assembly"); 1 Cor 9:21 ("ennomos Christou" = "under the law to/of Christ"). Critical for understanding "law of Christ" -- Paul places himself WITHIN a law framework relative to Christ.
+2. **G1772 ennomos** -- "within law, lawful" -- 2 NT occurrences. From en + nomos. Acts 19:39 ("lawful assembly"); 1 Cor 9:21 ("ennomos Christou" = "under the law to/of Christ"). Critical for understanding "law of Christ" -- Paul places himself WITHIN a law framework relative to Christ.
 
-3. **[G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} anomos** -- "lawless, without law" -- 10 NT occurrences. From a-nomos. 1 Cor 9:21: Paul says he is "not anomos to God" even while being "as anomos" to those without law. The triple contrast in 1 Cor 9:21 (anomos...anomos...ennomos Christou) is key to understanding the "law of Christ."
+3. **G459 anomos** -- "lawless, without law" -- 10 NT occurrences. From a-nomos. 1 Cor 9:21: Paul says he is "not anomos to God" even while being "as anomos" to those without law. The triple contrast in 1 Cor 9:21 (anomos...anomos...ennomos Christou) is key to understanding the "law of Christ."
 
-4. **[G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} eleutheria** -- "liberty, freedom" -- 11 NT occurrences. From eleutheros ("free"). Appears in: Rom 8:21; 1 Cor 10:29; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; Jas 1:25; 2:12; 1 Pet 2:16; 2 Pet 2:19. The genitive in "law of liberty" (nomou eleutherias).
+4. **G1657 eleutheria** -- "liberty, freedom" -- 11 NT occurrences. From eleutheros ("free"). Appears in: Rom 8:21; 1 Cor 10:29; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; Jas 1:25; 2:12; 1 Pet 2:16; 2 Pet 2:19. The genitive in "law of liberty" (nomou eleutherias).
 
-5. **[G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} pistis** -- "faith, persuasion, conviction" -- 244 NT occurrences. The genitive in "law of faith" (nomos pisteos, Rom 3:27).
+5. **G4102 pistis** -- "faith, persuasion, conviction" -- 244 NT occurrences. The genitive in "law of faith" (nomos pisteos, Rom 3:27).
 
-6. **[G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} pneuma** -- "spirit, breath, wind" -- The genitive in "law of the Spirit of life" (nomos tou pneumatos tes zoes, Rom 8:2).
+6. **G4151 pneuma** -- "spirit, breath, wind" -- The genitive in "law of the Spirit of life" (nomos tou pneumatos tes zoes, Rom 8:2).
 
-7. **[G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} teleios** -- "perfect, complete" -- 19 NT occurrences. From telos ("end, goal"). Used in Jas 1:25 ("the perfect law of liberty"). Connects to Psa 19:7 ("the law of the LORD is perfect [tamim]").
+7. **G5046 teleios** -- "perfect, complete" -- 19 NT occurrences. From telos ("end, goal"). Used in Jas 1:25 ("the perfect law of liberty"). Connects to Psa 19:7 ("the law of the LORD is perfect [tamim]").
 
-8. **[G937](https://www.blueletterbible.org/lexicon/g937/kjv/tr/0-1/){:target="_blank"} basilikos** -- "royal, kingly" -- 5 NT occurrences. From basileus ("king"). Used in Jas 2:8 ("the royal law"). Related to "law of liberty" designation.
+8. **G937 basilikos** -- "royal, kingly" -- 5 NT occurrences. From basileus ("king"). Used in Jas 2:8 ("the royal law"). Related to "law of liberty" designation.
 
-9. **[G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} dikaiosune** -- "righteousness, equity" -- 92 NT occurrences. Relevant to "law of righteousness" (nomon dikaiosunes, Rom 9:31).
+9. **G1343 dikaiosune** -- "righteousness, equity" -- 92 NT occurrences. Relevant to "law of righteousness" (nomon dikaiosunes, Rom 9:31).
 
-10. **[G266](https://www.blueletterbible.org/lexicon/g266/kjv/tr/0-1/){:target="_blank"} hamartia** -- "sin, missing the mark" -- Relevant to "law of sin" (nomos tes hamartias, Rom 7:23,25) and "law of sin and death" (nomos tes hamartias kai tou thanatou, Rom 8:2).
+10. **G266 hamartia** -- "sin, missing the mark" -- Relevant to "law of sin" (nomos tes hamartias, Rom 7:23,25) and "law of sin and death" (nomos tes hamartias kai tou thanatou, Rom 8:2).
 
 ### Related Greek Terms
 
-11. **[G3563](https://www.blueletterbible.org/lexicon/g3563/kjv/tr/0-1/){:target="_blank"} nous** -- "mind, understanding" -- Relevant to "law of my mind" (nomo tou noos mou, Rom 7:23).
+11. **G3563 nous** -- "mind, understanding" -- Relevant to "law of my mind" (nomo tou noos mou, Rom 7:23).
 
-12. **[G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} thanatos** -- "death" -- Relevant to "law of sin and death" (Rom 8:2).
+12. **G2288 thanatos** -- "death" -- Relevant to "law of sin and death" (Rom 8:2).
 
-13. **[G2041](https://www.blueletterbible.org/lexicon/g2041/kjv/tr/0-1/){:target="_blank"} ergon** -- "work, deed" -- Relevant to "law of works" (nomos ergon, Rom 3:27).
+13. **G2041 ergon** -- "work, deed" -- Relevant to "law of works" (nomos ergon, Rom 3:27).
 
-14. **[G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} anomia** -- "lawlessness" -- 1 Jn 3:4 ("sin is anomia"). Related to whether the "law of Christ" replaces or continues the moral law.
+14. **G458 anomia** -- "lawlessness" -- 1 Jn 3:4 ("sin is anomia"). Related to whether the "law of Christ" replaces or continues the moral law.
 
-15. **[G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} kainos** -- "new" -- Jn 13:34 ("a new commandment"). Related to whether Christ gave a new law.
+15. **G2537 kainos** -- "new" -- Jn 13:34 ("a new commandment"). Related to whether Christ gave a new law.
 
-16. **[G3550](https://www.blueletterbible.org/lexicon/g3550/kjv/tr/0-1/){:target="_blank"} nomothetes** -- "lawgiver" -- 1 NT occurrence (Jas 4:12). Hapax. Relevant to who gives the "law of Christ."
+16. **G3550 nomothetes** -- "lawgiver" -- 1 NT occurrence (Jas 4:12). Hapax. Relevant to who gives the "law of Christ."
 
 ---
 
@@ -197,7 +197,7 @@ Retrieve full entries for: LAW, LIBERTY, COMMANDMENTS, HOLY SPIRIT (liberty subt
 4. **law-10-new-covenant-and-law** -- Analyzed Rom 8:1-4 ("law of Spirit of life"). Connected to new covenant administration of the same moral law.
 5. **law-20-nt-greek-law-vocabulary** -- Mapped nomos semantic range including the "principle/rule" sense. Paul's four senses identified.
 6. **law-21-nt-vocab-law-categories** -- Systematic vocabulary mapping; "law of faith" (Rom 3:27) and "law of sin and death" (Rom 7:23, 8:2) catalogued under "Anarthrous (nomos) as Principle/General."
-7. **law-14-jesus-law-teachings** -- Word study on [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} ennomos. Paul as "ennomos Christou" (1 Cor 9:21).
+7. **law-14-jesus-law-teachings** -- Word study on G1772 ennomos. Paul as "ennomos Christou" (1 Cor 9:21).
 8. **law-11-written-on-hearts** -- Connected "law of the Spirit" to the Spirit's role in writing the law on hearts (Jer 31:33; 2 Cor 3:3-6).
 
 ### What Has NOT Been Done
@@ -399,16 +399,3 @@ The study must determine which phrases belong in which category, using contextua
 6. **1 Cor 9:21 Deep Analysis**: While law-14 did a word study on ennomos, no prior study has fully analyzed the triple anomos/anomos/ennomos construction in 1 Cor 9:21 and its implications for the "law of Christ" concept.
 
 The research agent should REFERENCE prior studies' findings (do not re-derive what is already established at E/N tier) but must EXTEND the analysis by treating all "law of ___" phrases as a unified dataset requiring comparative analysis.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

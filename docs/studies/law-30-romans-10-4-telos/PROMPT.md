@@ -79,58 +79,58 @@ This is study 30 of 31 in the Law of God series. The law-series-methodology.md a
 
 | Strong's | Word | Transliteration | Relevance |
 |----------|------|-----------------|-----------|
-| [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} | τέλος | telos | Core word under study; "end/goal/purpose/completion"; from tello (to set out for a definite point or goal); 42 NT occurrences |
+| G5056 | τέλος | telos | Core word under study; "end/goal/purpose/completion"; from tello (to set out for a definite point or goal); 42 NT occurrences |
 
 **Telos word family (from semantic search "end goal purpose completion telos"):**
 
 | Strong's | Word | Score | Relevance |
 |----------|------|-------|-----------|
-| [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} | τέλος (telos) | 0.441 | Core: "end, goal, purpose" — 42 occurrences |
-| [G5049](https://www.blueletterbible.org/lexicon/g5049/kjv/tr/0-1/){:target="_blank"} | τελείως (teleios) | 0.438 | Adverb: "completely" — 1 occurrence |
-| [G5050](https://www.blueletterbible.org/lexicon/g5050/kjv/tr/0-1/){:target="_blank"} | τελείωσις (teleiosis) | 0.396 | Noun: "completion, verification" — 2 occurrences |
-| [G5051](https://www.blueletterbible.org/lexicon/g5051/kjv/tr/0-1/){:target="_blank"} | τελειωτής (teleiotes) | 0.386 | Noun: "completer, finisher" — 1 occurrence (HEB 12:2) |
-| [G1615](https://www.blueletterbible.org/lexicon/g1615/kjv/tr/0-1/){:target="_blank"} | ἐκτελέω (ekteleo) | 0.383 | Verb: "to complete fully, finish" — 2 occurrences |
-| [G5048](https://www.blueletterbible.org/lexicon/g5048/kjv/tr/0-1/){:target="_blank"} | τελειόω (teleioo) | 0.377 | Verb: "to complete, accomplish, perfect" — 8 occurrences |
-| [H8503](https://www.blueletterbible.org/lexicon/h8503/kjv/wlc/0-1/){:target="_blank"} | תַּכְלִית (takliyth) | 0.371 | Hebrew: "completion, extremity, end" — 5 occurrences |
-| [G5053](https://www.blueletterbible.org/lexicon/g5053/kjv/tr/0-1/){:target="_blank"} | τελευτάω (teleutao) | 0.366 | Verb: "to finish life, die" — 8 occurrences |
-| [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} | τελέω (teleo) | 0.351 | Verb: "to end, complete, execute" — 8 occurrences |
+| G5056 | τέλος (telos) | 0.441 | Core: "end, goal, purpose" — 42 occurrences |
+| G5049 | τελείως (teleios) | 0.438 | Adverb: "completely" — 1 occurrence |
+| G5050 | τελείωσις (teleiosis) | 0.396 | Noun: "completion, verification" — 2 occurrences |
+| G5051 | τελειωτής (teleiotes) | 0.386 | Noun: "completer, finisher" — 1 occurrence (HEB 12:2) |
+| G1615 | ἐκτελέω (ekteleo) | 0.383 | Verb: "to complete fully, finish" — 2 occurrences |
+| G5048 | τελειόω (teleioo) | 0.377 | Verb: "to complete, accomplish, perfect" — 8 occurrences |
+| H8503 | תַּכְלִית (takliyth) | 0.371 | Hebrew: "completion, extremity, end" — 5 occurrences |
+| G5053 | τελευτάω (teleutao) | 0.366 | Verb: "to finish life, die" — 8 occurrences |
+| G5055 | τελέω (teleo) | 0.351 | Verb: "to end, complete, execute" — 8 occurrences |
 
 **Key related Strong's numbers for the study:**
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | νόμος (nomos) | "Law" — 197 NT occurrences; the "law" Paul references in Rom 10:4 |
-| [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} | δικαιοσύνη (dikaiosune) | "Righteousness" — 92 occurrences; the "righteousness" telos relates to |
-| [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} | πίστις (pistis) | "Faith" — 200+ occurrences; "to every one that believeth" |
-| [G1347](https://www.blueletterbible.org/lexicon/g1347/kjv/tr/0-1/){:target="_blank"} | δικαίωσις (dikaiosis) | "Justification" — 2 occurrences |
-| [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} | καταργέω (katargeo) | "To render idle/useless, make void, abolish" — 27 occurrences; used in ROM 3:31 ("make void the law?") |
-| [G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"} | ἵστημι (histemi) | "To stand, establish, set" — 158 occurrences; used in ROM 3:31 ("we establish the law") |
-| [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} | πληρόω (pleroo) | "To make full, fulfill" — 90 occurrences; connected to fulfillment theme |
-| [G3807](https://www.blueletterbible.org/lexicon/g3807/kjv/tr/0-1/){:target="_blank"} | παιδαγωγός (paidagogos) | "Boy-leader, schoolmaster" — 3 occurrences; GAL 3:24-25; 1CO 4:15 |
+| G3551 | νόμος (nomos) | "Law" — 197 NT occurrences; the "law" Paul references in Rom 10:4 |
+| G1343 | δικαιοσύνη (dikaiosune) | "Righteousness" — 92 occurrences; the "righteousness" telos relates to |
+| G4102 | πίστις (pistis) | "Faith" — 200+ occurrences; "to every one that believeth" |
+| G1347 | δικαίωσις (dikaiosis) | "Justification" — 2 occurrences |
+| G2673 | καταργέω (katargeo) | "To render idle/useless, make void, abolish" — 27 occurrences; used in ROM 3:31 ("make void the law?") |
+| G2476 | ἵστημι (histemi) | "To stand, establish, set" — 158 occurrences; used in ROM 3:31 ("we establish the law") |
+| G4137 | πληρόω (pleroo) | "To make full, fulfill" — 90 occurrences; connected to fulfillment theme |
+| G3807 | παιδαγωγός (paidagogos) | "Boy-leader, schoolmaster" — 3 occurrences; GAL 3:24-25; 1CO 4:15 |
 
 **From semantic search "fulfill accomplish complete perfect finish":**
 
 | Strong's | Word | Score | Relevance |
 |----------|------|-------|-----------|
-| [G1603](https://www.blueletterbible.org/lexicon/g1603/kjv/tr/0-1/){:target="_blank"} | ἐκπληρόω (ekpleroo) | 0.539 | "To accomplish entirely, fulfill" |
-| [G5048](https://www.blueletterbible.org/lexicon/g5048/kjv/tr/0-1/){:target="_blank"} | τελειόω (teleioo) | 0.388 | "To complete, perfect" — related to telos root |
-| [G5050](https://www.blueletterbible.org/lexicon/g5050/kjv/tr/0-1/){:target="_blank"} | τελείωσις (teleiosis) | 0.393 | "Completion, perfection" |
-| [G2005](https://www.blueletterbible.org/lexicon/g2005/kjv/tr/0-1/){:target="_blank"} | ἐπιτελέω (epiteleo) | 0.374 | "To fulfill further, complete" |
+| G1603 | ἐκπληρόω (ekpleroo) | 0.539 | "To accomplish entirely, fulfill" |
+| G5048 | τελειόω (teleioo) | 0.388 | "To complete, perfect" — related to telos root |
+| G5050 | τελείωσις (teleiosis) | 0.393 | "Completion, perfection" |
+| G2005 | ἐπιτελέω (epiteleo) | 0.374 | "To fulfill further, complete" |
 
 **From semantic search "righteousness justification faith":**
 
 | Strong's | Word | Score | Relevance |
 |----------|------|-------|-----------|
-| [G1347](https://www.blueletterbible.org/lexicon/g1347/kjv/tr/0-1/){:target="_blank"} | δικαίωσις (dikaiosis) | 0.544 | "Justification" |
-| [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} | δικαιοσύνη (dikaiosune) | 0.500 | "Righteousness" |
-| [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} | πίστις (pistis) | 0.487 | "Faith, persuasion, credence" |
-| [G1342](https://www.blueletterbible.org/lexicon/g1342/kjv/tr/0-1/){:target="_blank"} | δίκαιος (dikaios) | 0.444 | "Righteous, just" |
+| G1347 | δικαίωσις (dikaiosis) | 0.544 | "Justification" |
+| G1343 | δικαιοσύνη (dikaiosune) | 0.500 | "Righteousness" |
+| G4102 | πίστις (pistis) | 0.487 | "Faith, persuasion, credence" |
+| G1342 | δίκαιος (dikaios) | 0.444 | "Righteous, just" |
 
 **From semantic search "schoolmaster tutor guardian pedagogue":**
 
 | Strong's | Word | Score | Relevance |
 |----------|------|-------|-----------|
-| [G3807](https://www.blueletterbible.org/lexicon/g3807/kjv/tr/0-1/){:target="_blank"} | παιδαγωγός (paidagogos) | 0.381 | "Boy-leader, schoolmaster" — used in GAL 3:24,25; 1CO 4:15 |
+| G3807 | παιδαγωγός (paidagogos) | 0.381 | "Boy-leader, schoolmaster" — used in GAL 3:24,25; 1CO 4:15 |
 
 ### Related Existing Studies
 
@@ -184,7 +184,7 @@ This is study 30 of 31 in the Law of God series. The law-series-methodology.md a
 
 **From study_db.py find-passage "Rom 3:31":**
 - 20 chunks across studies address this verse
-- law-16: "The Greek in v.31 is emphatic. Katargoumen (from katargeo, [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} — 'do we nullify?') is answered with me genoito (the strongest possible negation)"
+- law-16: "The Greek in v.31 is emphatic. Katargoumen (from katargeo, G2673 — 'do we nullify?') is answered with me genoito (the strongest possible negation)"
 - law-10: "Paul's emphatic me genoito ('God forbid!') in Rom 3:31 is reinforced across the NT: Faith establishes law"
 - law-10: Katargeo (G2673) in Rom 3:31 vs. Eph 2:15 — same verb, opposite actions on different referents
 
@@ -202,10 +202,10 @@ This is study 30 of 31 in the Law of God series. The law-series-methodology.md a
 - 31 chunks mentioning telos across the studies corpus
 - law-16 word study: "telos (G5056) — end / goal / purpose — From tello (to set out for a definite point or goal)"
 - law-16 word study: "The 1 Timothy 1:5 Parallel — 'the telos of the commandment is charity out of a pure heart' — This is the decisive parallel: identical construction (telos + law/commandment)"
-- law-01 word study: "[G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"}: teleios (perfect) — from telos, 'end, goal, completion'"
+- law-01 word study: "G5046: teleios (perfect) — from telos, 'end, goal, completion'"
 
 **From study_db.py search "telos end goal purpose law Christ":**
-- Top hit (0.714): law-16 word study on [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"}
+- Top hit (0.714): law-16 word study on G5056
 - Second (0.696): law-16 on the 1 Tim 1:5 parallel
 - Third (0.693): law-01 analysis of Rom 10:4
 
@@ -225,7 +225,7 @@ Based on tool discoveries, the following areas require investigation:
 
 4. **Romans 3:31 — Establish the law** — katargeo (G2673) vs. histemi (G2476): Paul asks whether faith makes the law void and answers with the strongest possible negation (me genoito). How does this verse constrain the reading of Rom 10:4?
 
-5. **Galatians 3:24 — Schoolmaster/paidagogos** — [G3807](https://www.blueletterbible.org/lexicon/g3807/kjv/tr/0-1/){:target="_blank"} appears only 3 times in NT. The law as paidagogos "unto Christ" (eis Christon). Does "unto" mean the law's purpose was to lead TO Christ (goal), or that the law served UNTIL Christ came (temporal termination)? Both readings are grammatically possible.
+5. **Galatians 3:24 — Schoolmaster/paidagogos** — G3807 appears only 3 times in NT. The law as paidagogos "unto Christ" (eis Christon). Does "unto" mean the law's purpose was to lead TO Christ (goal), or that the law served UNTIL Christ came (temporal termination)? Both readings are grammatically possible.
 
 6. **The "for righteousness" (eis dikaiosunen) qualifier** — Rom 10:4 says Christ is the telos of the law "for righteousness." This qualifier limits the scope: telos is not about the law generally but about the law's relation to righteousness specifically. How does this affect interpretation?
 
@@ -265,7 +265,7 @@ You are the Research Agent. Execute this study by:
 - **2 Corinthians 3:7-13** (the telos of that which is abolished — telos used here too)
 - **1 Peter 1:9** (the telos of your faith — salvation of souls)
 - **Hebrews 12:2** (Jesus the teleiotes — finisher/perfector of faith)
-- All 42 occurrences of [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} (telos) in the NT for the word study
+- All 42 occurrences of G5056 (telos) in the NT for the word study
 
 ### Greek parsing needed:
 - Romans 10:4 — parse every word, especially telos and the eis dikaiosunen construction
@@ -280,16 +280,3 @@ answer-question (with Greek word study component)
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-30-romans-10-4-telos/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

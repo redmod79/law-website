@@ -14,7 +14,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 **POS:** masculine/feminine noun
 **Occurrences:** 108 (BLB) / 109 (Strong's translation data)
 
-**Definition:** Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath); intermission, i.e. (specifically) the Sabbath: (every) sabbath.
+**Definition:** Intensive from H7673 (shabath); intermission, i.e. (specifically) the Sabbath: (every) sabbath.
 
 **Translations:**
 - "the sabbath" -- 42 occurrences (38.5%)
@@ -34,7 +34,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 **POS:** masculine noun
 **Occurrences:** 11
 
-**Definition:** From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday: rest, sabbath.
+**Definition:** From H7676; a sabbatism or special holiday: rest, sabbath.
 
 **Translations:** "of rest" (7, 63.6%), "a sabbath" (3, 27.3%), "the rest" (1, 9.1%)
 
@@ -76,7 +76,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 **POS:** masculine noun
 **Occurrences:** 276
 
-**Definition:** From [H2318](https://www.blueletterbible.org/lexicon/h2318/kjv/wlc/0-1/){:target="_blank"} (chadash, "to be new"); the new moon; by implication, a month: month(-ly), new moon.
+**Definition:** From H2318 (chadash, "to be new"); the new moon; by implication, a month: month(-ly), new moon.
 
 **Translations:** "month" (126, 32.2%), "of the month" (53, 13.6%), "months" (29, 7.4%), "the new moon" (4, 1.0%), other "new moon" forms (~15 total)
 
@@ -128,7 +128,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 - Psa 104:19 -- moon appointed for moadim
 - Eze 44:24; 45:17; 46:9,11 -- feasts (moadim) as category distinct from sabbaths
 
-**Key Finding:** [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed) is NEVER used as a synonym for the weekly sabbath (H7676). Of 223 uses, 146 mean "tabernacle of the congregation" (a PLACE). When temporal, it refers to appointed festivals and seasons. Gen 1:14 assigns the luminaries to govern moadim; the weekly sabbath is absent from this assignment. Lev 23:37-38 explicitly separates the moadim from "the sabbaths of the LORD."
+**Key Finding:** H4150 (moed) is NEVER used as a synonym for the weekly sabbath (H7676). Of 223 uses, 146 mean "tabernacle of the congregation" (a PLACE). When temporal, it refers to appointed festivals and seasons. Gen 1:14 assigns the luminaries to govern moadim; the weekly sabbath is absent from this assignment. Lev 23:37-38 explicitly separates the moadim from "the sabbaths of the LORD."
 
 ### oth (H226) -- "Sign, signal, token"
 **Original:** אוֹת
@@ -153,7 +153,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 **POS:** masculine noun
 **Occurrences:** 56
 
-**Definition:** From [H909](https://www.blueletterbible.org/lexicon/h909/kjv/wlc/0-1/){:target="_blank"}; properly, separation; by implication, a part of the body, branch of a tree, bar for carrying; especially (with prepositional prefix) as an adverb, apart, only, besides.
+**Definition:** From H909; properly, separation; by implication, a part of the body, branch of a tree, bar for carrying; especially (with prepositional prefix) as an adverb, apart, only, besides.
 
 **Translations:** "beside" (33, 16.3%), "alone" (32, 15.8%), "only" (30, 14.8%), "apart" (11, 5.4%)
 
@@ -177,7 +177,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 **POS:** masculine noun
 **Occurrences:** 20
 
-**Definition:** Properly, passive participle of [H7650](https://www.blueletterbible.org/lexicon/h7650/kjv/wlc/0-1/){:target="_blank"} as a denominative of [H7651](https://www.blueletterbible.org/lexicon/h7651/kjv/wlc/0-1/){:target="_blank"}; literally, sevened, i.e. a week (specifically, of years): seven, week.
+**Definition:** Properly, passive participle of H7650 as a denominative of H7651; literally, sevened, i.e. a week (specifically, of years): seven, week.
 
 **Key Finding:** Related to sheba (seven). Confirms the seven-day structure of the week. The word itself means "a period of seven" -- a fixed, consistent count, not a variable lunar-determined period.
 
@@ -242,7 +242,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 **POS:** neuter noun
 **Occurrences:** 1 (hapax legomenon)
 
-**Definition:** From [G4253](https://www.blueletterbible.org/lexicon/g4253/kjv/tr/0-1/){:target="_blank"} and [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}; a fore-sabbath, i.e. the Sabbath-eve: day before [the sabbath].
+**Definition:** From G4253 and G4521; a fore-sabbath, i.e. the Sabbath-eve: day before [the sabbath].
 
 **Key Verse:** Mrk 15:42 -- Mark defines paraskeue AS prosabbaton: "it was the preparation, that is, the day before the sabbath."
 
@@ -280,17 +280,17 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 
 ## Summary of Word Study Findings
 
-1. **[H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath)**: 108 uses, NEVER carries a lunar meaning
-2. **[H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed)**: 223 uses, NEVER synonym for weekly sabbath; governs annual festivals
-3. **[H3394](https://www.blueletterbible.org/lexicon/h3394/kjv/wlc/0-1/){:target="_blank"} (yareach)**: 26 uses, NEVER appears in Sabbath context
-4. **[H3842](https://www.blueletterbible.org/lexicon/h3842/kjv/wlc/0-1/){:target="_blank"} (levanah)**: 3 uses, NEVER connected to Sabbath
-5. **[H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"} (chodesh)**: 276 uses, ALWAYS distinguished from shabbath when both appear
-6. **[H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} (chag)**: 62 uses, NEVER used for weekly Sabbath
-7. **[G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} (sabbaton)**: Fixed weekly term in all four Gospels
-8. **[G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} (paraskeue)**: Fixed Friday name; impossible with lunar sabbath
-9. **[G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} (prosabbaton)**: Hapax; proves fixed weekly sequence
-10. **[G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} (etho)**: Settled custom requires fixed weekly recurrence
-11. **[G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"} (noumenia)**: Distinguished from sabbaton in Col 2:16
+1. **H7676 (shabbath)**: 108 uses, NEVER carries a lunar meaning
+2. **H4150 (moed)**: 223 uses, NEVER synonym for weekly sabbath; governs annual festivals
+3. **H3394 (yareach)**: 26 uses, NEVER appears in Sabbath context
+4. **H3842 (levanah)**: 3 uses, NEVER connected to Sabbath
+5. **H2320 (chodesh)**: 276 uses, ALWAYS distinguished from shabbath when both appear
+6. **H2282 (chag)**: 62 uses, NEVER used for weekly Sabbath
+7. **G4521 (sabbaton)**: Fixed weekly term in all four Gospels
+8. **G3904 (paraskeue)**: Fixed Friday name; impossible with lunar sabbath
+9. **G4315 (prosabbaton)**: Hapax; proves fixed weekly sequence
+10. **G1486 (etho)**: Settled custom requires fixed weekly recurrence
+11. **G3561 (noumenia)**: Distinguished from sabbaton in Col 2:16
 
 **No Hebrew or Greek word study provides ANY support for a lunar-governed weekly Sabbath. Every word study confirms the Sabbath as a fixed weekly institution independent of the moon.**
 
@@ -314,7 +314,7 @@ The four purposes introduced by the prepositional lamed (ל):
 The verb וַיִּשְׁבֹּת (vayyishbot) = שׁבת (shabat, H7673) in Qal Wayyiqtol 3ms = "and he ceased." This is the verb root behind the noun שַׁבָּת (shabbat). Three divine acts: finished (כלה Piel), ceased (שׁבת Qal), blessed (ברך Piel), sanctified (קדשׁ Piel). The institution is defined by cessation from activity, not by lunar observation. "The seventh day" uses the ordinal שְׁבִיעִי (shevi'i, H7637) -- connecting the sabbath to the number seven, not to a lunar date.
 
 ### Leviticus 23:38 -- The millibad Construction
-**Hebrew:** מִלְּבַד (millibad) = compound preposition from מן (min, "from") + ל (le, "to") + בד (bad, [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"}, "part, separation"). Meaning: "apart from, besides, separate from." Appears **FOUR TIMES** in this one verse, separating the annual feasts from: (1) the sabbaths of YHWH, (2) your gifts, (3) all your vows, (4) all your freewill offerings. The noun שַׁבְּתֹ֣ת (shabbetot) is the feminine plural construct of שׁבת = "sabbaths of [YHWH]." This is the clearest grammatical proof that annual feasts and weekly sabbaths are separate categories.
+**Hebrew:** מִלְּבַד (millibad) = compound preposition from מן (min, "from") + ל (le, "to") + בד (bad, H905, "part, separation"). Meaning: "apart from, besides, separate from." Appears **FOUR TIMES** in this one verse, separating the annual feasts from: (1) the sabbaths of YHWH, (2) your gifts, (3) all your vows, (4) all your freewill offerings. The noun שַׁבְּתֹ֣ת (shabbetot) is the feminine plural construct of שׁבת = "sabbaths of [YHWH]." This is the clearest grammatical proof that annual feasts and weekly sabbaths are separate categories.
 
 ### Psalm 104:19 -- Moon for Moadim
 **Hebrew:** עָשָׂ֣ה יָ֭רֵחַ לְמֹועֲדִ֑ים = "He made the moon (yareach, H3394) for appointed times (moadim, H4150)." The lamed preposition (ל) indicates purpose. The word used is מועד (moed), NOT שׁבת (shabbat). If the sabbath were governed by the moon, we would expect שׁבתות (shabbatot) to appear here. Its absence is significant.
@@ -326,16 +326,3 @@ Three time categories with parallel grammatical construction:
 - וּבְיֹ֥ום הַחֹ֖דֶשׁ (u-beyom hachodesh) = "on the day of the new moon" -- gate OPENED
 
 The sabbath and new moon are introduced with identical syntax (ו + ב + יום + ה + noun), making them coordinate but distinct. Two different occasions receiving the same treatment, listed as separate items. If the sabbath were determined by the new moon, there would be no need to list them separately.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

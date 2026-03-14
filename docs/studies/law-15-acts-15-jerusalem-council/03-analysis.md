@@ -248,16 +248,16 @@ Jer 31:31-33 and Heb 8:8-10 make the new covenant with "the house of Israel." If
 
 ## Word Study Insights
 
-### [G2218](https://www.blueletterbible.org/lexicon/g2218/kjv/tr/0-1/){:target="_blank"} zygos (yoke)
+### G2218 zygos (yoke)
 The word appears 6 times in the NT. In Acts 15:10, it describes the ceremonial system as a salvation requirement. In Mat 11:29-30, Jesus offers His own yoke — "easy" and "light." The contrast is between the impossible burden of earning salvation through law-keeping and the gracious relationship Jesus offers.
 
-### [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} dogma (decree/ordinance)
+### G1378 dogma (decree/ordinance)
 Five NT occurrences: 3 for civil/governmental decrees (Luk 2:1; Acts 16:4; 17:7) and 2 for abolished ceremonial ordinances (Eph 2:15; Col 2:14). The council's decisions are dogmata (Acts 16:4) — decrees about what ceremonial requirements do NOT apply to Gentiles. The same vocabulary is used for what was abolished at the cross. Dogma is never used for the Decalogue.
 
-### [G4174](https://www.blueletterbible.org/lexicon/g4174/kjv/tr/0-1/){:target="_blank"} politeia / [G4847](https://www.blueletterbible.org/lexicon/g4847/kjv/tr/0-1/){:target="_blank"} sympolitai (citizenship vocabulary)
+### G4174 politeia / G4847 sympolitai (citizenship vocabulary)
 Politeia appears only twice in the NT (Acts 22:28 for Roman citizenship; Eph 2:12 for Israel's commonwealth). Sympolitai appears only once (Eph 2:19). This rare vocabulary describes Gentile believers' incorporation into Israel's civic/covenantal community.
 
-### [G65](https://www.blueletterbible.org/lexicon/g65/kjv/tr/0-1/){:target="_blank"} agrielaios / [G2565](https://www.blueletterbible.org/lexicon/g2565/kjv/tr/0-1/){:target="_blank"} kallielaios (olive tree vocabulary)
+### G65 agrielaios / G2565 kallielaios (olive tree vocabulary)
 Agrielaios (wild olive) appears twice (Rom 11:17, 24). Kallielaios (cultivated olive) appears once (Rom 11:24). The botanical metaphor describes Gentile incorporation into Israel's tree — sharing Israel's root and fatness, not establishing a separate tree.
 
 ---
@@ -272,16 +272,3 @@ The Abolished position infers that since only four items are specified, Gentile 
 
 ### Galatians 3:24-25 — No Longer Under a Schoolmaster
 Paul says "after that faith is come, we are no longer under a schoolmaster." The Abolished position reads this as the moral law being terminated. Prior studies (law-08) noted that the referent of "the law" in Gal 3 is ambiguous (Gate 1 failure in Tree 3). The "schoolmaster" (paidagogos) was a guardian leading to a destination (Christ); arriving at the destination does not destroy the destination. Paul in the same epistle affirms "the law was our schoolmaster to bring us unto Christ, that we might be justified by faith" — the purpose is justification, not moral guidance. The same Paul says "Do we then make void the law through faith? God forbid: yea, we establish the law" (Rom 3:31).
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

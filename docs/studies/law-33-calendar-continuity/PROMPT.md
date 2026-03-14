@@ -94,22 +94,22 @@ Can we identify which day of the modern week is the biblical seventh-day Sabbath
 
 | Strong's | Word | Transliteration | Occurrences | Relevance |
 |----------|------|-----------------|-------------|-----------|
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | שַׁבָּת | shabbath | 108 | Core word: "Sabbath" -- the weekly rest day. Never carries a lunar meaning, never connected to the moon. |
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} | σάββατον | sabbaton | 68 | NT "Sabbath" or "week" -- used for both the Sabbath day and as "of the week" (mia ton sabbaton = first day of the week) |
-| [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} | προσάββατον | prosabbaton | 1 (hapax) | "Day before the Sabbath" -- Mark 15:42 defines paraskeue as prosabbaton. Compound word proving a fixed weekly cycle. |
-| [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} | παρασκευή | paraskeue | 6 | "Preparation" -- the technical name for Friday, the day before the Sabbath. Modern Greek still calls Friday Paraskeue. |
-| [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} | σαββατισμός | sabbatismos | 1 (hapax) | "Sabbath-keeping" -- Heb 4:9. The -ismos suffix denotes practice/observance. |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | שַׁבָּתוֹן | shabbathon | 11 | "Sabbatism/special rest" -- used for weekly Sabbath (Exo 16:23) and feast-day rests. |
-| [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} | שְׁבִיעִי | shevi'i | 98 | "Seventh" -- the ordinal number identifying THE seventh day (Gen 2:2-3). |
-| [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} | שָׁבוּעַ | shabuah | 20 | "Week" -- from the root for "seven"; the Hebrew concept of the week as a seven-unit cycle. |
-| [H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/){:target="_blank"} | יוֹם | yom | 2,000+ | "Day" -- the general word for day. Used in "the seventh day" (yom hashvi'i). |
-| [G2250](https://www.blueletterbible.org/lexicon/g2250/kjv/tr/0-1/){:target="_blank"} | ἡμέρα | hemera | 389 | "Day" -- Greek word for day. Used in "the Lord's day" (Rev 1:10) and "one day above another" (Rom 14:5). |
-| [G1520](https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/){:target="_blank"} | εἷς | heis | 272 | "One/first" -- used in "mia ton sabbaton" (first [day] of the week) in the resurrection narratives. |
-| [H4478](https://www.blueletterbible.org/lexicon/h4478/kjv/wlc/0-1/){:target="_blank"} | מָן | man | 10 | "Manna" -- the miraculous bread that marked the weekly cycle for 40 years. |
-| [G3131](https://www.blueletterbible.org/lexicon/g3131/kjv/tr/0-1/){:target="_blank"} | μάννα | manna | 2 | NT "manna" -- JHN 6:31; HEB 9:4. |
-| [G2663](https://www.blueletterbible.org/lexicon/g2663/kjv/tr/0-1/){:target="_blank"} | κατάπαυσις | katapausis | 9 | "Rest" -- used 8 times in Heb 3-4, distinguished from sabbatismos in Heb 4:9. |
-| [H1546](https://www.blueletterbible.org/lexicon/h1546/kjv/wlc/0-1/){:target="_blank"} | גָּלוּת | galuth | 15 | "Captivity/exile" -- relevant to the Babylonian captivity and whether the weekly cycle was lost. |
-| [H1473](https://www.blueletterbible.org/lexicon/h1473/kjv/wlc/0-1/){:target="_blank"} | גּוֹלָה | golah | 42 | "Exile/exiles" -- the returned exiles who kept the Sabbath (Nehemiah). |
+| H7676 | שַׁבָּת | shabbath | 108 | Core word: "Sabbath" -- the weekly rest day. Never carries a lunar meaning, never connected to the moon. |
+| G4521 | σάββατον | sabbaton | 68 | NT "Sabbath" or "week" -- used for both the Sabbath day and as "of the week" (mia ton sabbaton = first day of the week) |
+| G4315 | προσάββατον | prosabbaton | 1 (hapax) | "Day before the Sabbath" -- Mark 15:42 defines paraskeue as prosabbaton. Compound word proving a fixed weekly cycle. |
+| G3904 | παρασκευή | paraskeue | 6 | "Preparation" -- the technical name for Friday, the day before the Sabbath. Modern Greek still calls Friday Paraskeue. |
+| G4520 | σαββατισμός | sabbatismos | 1 (hapax) | "Sabbath-keeping" -- Heb 4:9. The -ismos suffix denotes practice/observance. |
+| H7677 | שַׁבָּתוֹן | shabbathon | 11 | "Sabbatism/special rest" -- used for weekly Sabbath (Exo 16:23) and feast-day rests. |
+| H7637 | שְׁבִיעִי | shevi'i | 98 | "Seventh" -- the ordinal number identifying THE seventh day (Gen 2:2-3). |
+| H7620 | שָׁבוּעַ | shabuah | 20 | "Week" -- from the root for "seven"; the Hebrew concept of the week as a seven-unit cycle. |
+| H3117 | יוֹם | yom | 2,000+ | "Day" -- the general word for day. Used in "the seventh day" (yom hashvi'i). |
+| G2250 | ἡμέρα | hemera | 389 | "Day" -- Greek word for day. Used in "the Lord's day" (Rev 1:10) and "one day above another" (Rom 14:5). |
+| G1520 | εἷς | heis | 272 | "One/first" -- used in "mia ton sabbaton" (first [day] of the week) in the resurrection narratives. |
+| H4478 | מָן | man | 10 | "Manna" -- the miraculous bread that marked the weekly cycle for 40 years. |
+| G3131 | μάννα | manna | 2 | NT "manna" -- JHN 6:31; HEB 9:4. |
+| G2663 | κατάπαυσις | katapausis | 9 | "Rest" -- used 8 times in Heb 3-4, distinguished from sabbatismos in Heb 4:9. |
+| H1546 | גָּלוּת | galuth | 15 | "Captivity/exile" -- relevant to the Babylonian captivity and whether the weekly cycle was lost. |
+| H1473 | גּוֹלָה | golah | 42 | "Exile/exiles" -- the returned exiles who kept the Sabbath (Nehemiah). |
 
 ### Related Existing Studies
 
@@ -166,7 +166,7 @@ Based on tool discoveries and the study question, the following specific investi
 
 2. **Jesus and the Sabbath -- WHICH Day, Not HOW** -- Jesus kept the Sabbath (Luk 4:16) and was never accused of keeping the wrong day. All 12 Sabbath controversy instances across four Gospels dispute HOW Jesus kept it (exesti framework), never WHICH day it was. If there were any doubt about which day was the Sabbath in the first century, the Pharisees would have raised it. Retrieve all Sabbath controversy passages.
 
-3. **The Crucifixion-Resurrection Sequence** -- Three consecutive named days: paraskeue (G3904, Preparation = Friday) -> sabbaton (G4521, Sabbath = Saturday) -> mia ton sabbaton (G1520 + [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}, first day of the week = Sunday). All four Gospels confirm this sequence. Mark 15:42 defines paraskeue as prosabbaton (G4315, "day before the sabbath"). Retrieve all four Gospel accounts of this sequence. This is the anchor: if we know when Jesus rose (Sunday), the day before was the Sabbath (Saturday).
+3. **The Crucifixion-Resurrection Sequence** -- Three consecutive named days: paraskeue (G3904, Preparation = Friday) -> sabbaton (G4521, Sabbath = Saturday) -> mia ton sabbaton (G1520 + G4521, first day of the week = Sunday). All four Gospels confirm this sequence. Mark 15:42 defines paraskeue as prosabbaton (G4315, "day before the sabbath"). Retrieve all four Gospel accounts of this sequence. This is the anchor: if we know when Jesus rose (Sunday), the day before was the Sabbath (Saturday).
 
 4. **The Julian-to-Gregorian Calendar Change (1582)** -- Did it skip days of the week or only dates? Historical evidence shows: Thursday October 4 was followed by Friday October 15. Ten DATES were removed; the WEEKLY CYCLE was unaffected. Different countries adopted the reform at different times; the weekly cycle was never disrupted. Note: this is a historical fact, not a biblical argument, but it addresses a common objection.
 
@@ -206,24 +206,24 @@ You are the Research Agent. Execute this study by:
 - **Retrieve the full manna narrative (Exodus 16:4-35)** -- this is the second most important evidence: God's own 40-year identification of the seventh day.
 - **Retrieve Nehemiah 13:15-22** in full -- this establishes post-exile Sabbath identification.
 - **Run cross-testament parallels** for key verses: Mark 15:42, Luke 23:54-24:1, Exodus 16:26, Nehemiah 13:15-22.
-- **Run word studies** for [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} (paraskeue), [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} (prosabbaton), [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} (sabbaton), [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath), [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} (shevi'i).
+- **Run word studies** for G3904 (paraskeue), G4315 (prosabbaton), G4521 (sabbaton), H7676 (shabbath), H7637 (shevi'i).
 
 ### Key Strong's Numbers to Look Up
 
 | Strong's | Word | Priority |
 |----------|------|----------|
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | shabbath (Sabbath) | Core -- 108 OT uses |
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} | sabbaton (Sabbath/week) | Core -- 68 NT uses |
-| [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} | paraskeue (Preparation/Friday) | Core -- 6 NT uses, all in crucifixion narrative |
-| [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} | prosabbaton (day before Sabbath) | Core -- hapax legomenon, Mark 15:42 |
-| [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} | sabbatismos (Sabbath-keeping) | Important -- hapax, Heb 4:9 |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | shabbathon (sabbatism/rest) | Important -- 11 uses, Exo 16:23 |
-| [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} | shevi'i (seventh) | Important -- 98 uses, Gen 2:2-3 |
-| [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} | shabuah (week) | Supporting -- 20 uses |
-| [G1520](https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/){:target="_blank"} | heis (one/first) | Supporting -- used in "mia ton sabbaton" |
-| [G2250](https://www.blueletterbible.org/lexicon/g2250/kjv/tr/0-1/){:target="_blank"} | hemera (day) | Supporting -- 389 uses |
-| [H4478](https://www.blueletterbible.org/lexicon/h4478/kjv/wlc/0-1/){:target="_blank"} | man (manna) | Supporting -- 10 uses |
-| [G2663](https://www.blueletterbible.org/lexicon/g2663/kjv/tr/0-1/){:target="_blank"} | katapausis (rest) | Supporting -- distinguished from sabbatismos |
+| H7676 | shabbath (Sabbath) | Core -- 108 OT uses |
+| G4521 | sabbaton (Sabbath/week) | Core -- 68 NT uses |
+| G3904 | paraskeue (Preparation/Friday) | Core -- 6 NT uses, all in crucifixion narrative |
+| G4315 | prosabbaton (day before Sabbath) | Core -- hapax legomenon, Mark 15:42 |
+| G4520 | sabbatismos (Sabbath-keeping) | Important -- hapax, Heb 4:9 |
+| H7677 | shabbathon (sabbatism/rest) | Important -- 11 uses, Exo 16:23 |
+| H7637 | shevi'i (seventh) | Important -- 98 uses, Gen 2:2-3 |
+| H7620 | shabuah (week) | Supporting -- 20 uses |
+| G1520 | heis (one/first) | Supporting -- used in "mia ton sabbaton" |
+| G2250 | hemera (day) | Supporting -- 389 uses |
+| H4478 | man (manna) | Supporting -- 10 uses |
+| G2663 | katapausis (rest) | Supporting -- distinguished from sabbatismos |
 
 ## Workflow
 answer-question
@@ -231,16 +231,3 @@ answer-question
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-33-calendar-continuity/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

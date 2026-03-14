@@ -152,17 +152,17 @@ These must be compared for overlap/distinction with both "law of Moses" and "law
 
 | Strong's | Word | Transliteration | Relevance |
 |----------|------|----------------|-----------|
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | torah | torah | Core term: "law" in all three phrases |
-| [H4872](https://www.blueletterbible.org/lexicon/h4872/kjv/wlc/0-1/){:target="_blank"} | Mosheh | Mosheh | "Moses" -- attributive in "law of Moses" |
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos | nomos | Greek "law" -- NT occurrences of all three phrases |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole | entole | "Commandment" -- prior studies show moral law association |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma | dogma | "Decree/ordinance" -- prior studies show ceremonial/abolished association |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma | dikaioma | "Ordinance/righteous requirement" -- used in law contexts |
-| [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} | mitsvah | mitsvah | "Commandment" -- general precept term |
-| [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} | chuqqah | chuqqah | "Statute/ordinance" -- formal character term |
-| [G3544](https://www.blueletterbible.org/lexicon/g3544/kjv/tr/0-1/){:target="_blank"} | nomikos | nomikos | "Relating to the law" -- adjective form |
-| [G2316](https://www.blueletterbible.org/lexicon/g2316/kjv/tr/0-1/){:target="_blank"} | theos | theos | "God" -- attributive in "law of God" |
-| [H5514](https://www.blueletterbible.org/lexicon/h5514/kjv/wlc/0-1/){:target="_blank"} | Sinay | Sinay | "Sinai" -- location of law-giving |
+| H8451 | torah | torah | Core term: "law" in all three phrases |
+| H4872 | Mosheh | Mosheh | "Moses" -- attributive in "law of Moses" |
+| G3551 | nomos | nomos | Greek "law" -- NT occurrences of all three phrases |
+| G1785 | entole | entole | "Commandment" -- prior studies show moral law association |
+| G1378 | dogma | dogma | "Decree/ordinance" -- prior studies show ceremonial/abolished association |
+| G1345 | dikaioma | dikaioma | "Ordinance/righteous requirement" -- used in law contexts |
+| H4687 | mitsvah | mitsvah | "Commandment" -- general precept term |
+| H2708 | chuqqah | chuqqah | "Statute/ordinance" -- formal character term |
+| G3544 | nomikos | nomikos | "Relating to the law" -- adjective form |
+| G2316 | theos | theos | "God" -- attributive in "law of God" |
+| H5514 | Sinay | Sinay | "Sinai" -- location of law-giving |
 
 ### Related Existing Studies
 
@@ -215,7 +215,7 @@ You are the Research Agent. Execute this study by:
 7. Write research files to this folder (`D:/bible/bible-studies/law-07-law-of-moses/`):
    - `01-topics.md` -- Nave's topics and full entries for LAW (especially "OF MOSES," "OF GOD," and "TEMPORARY" subsections), COMMANDMENTS, MOSES
    - `02-verses.md` -- All verse texts for: (a) all 21 "law of Moses" occurrences with surrounding context (at least 3 verses before and after), (b) all 7 "law of God" occurrences with context, (c) all 18 "law of the LORD" occurrences with context, (d) key cross-references discovered from Nave's
-   - `04-word-studies.md` -- Strong's research on [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (torah), [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos), [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole), [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma), [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma) as they appear in the classified verses
+   - `04-word-studies.md` -- Strong's research on H8451 (torah), G3551 (nomos), G1785 (entole), G1378 (dogma), G1345 (dikaioma) as they appear in the classified verses
    - `raw-data/` -- Raw tool output organized by category
 8. For each "law of Moses" occurrence, include a preliminary contextual note identifying what specific law-content is referenced (ceremonial, moral, civil, general/comprehensive, or unclear)
 9. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
@@ -227,16 +227,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-07-law-of-moses/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -7,10 +7,10 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ## Hebrew Legal Terminology
 
-### [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} -- mishpat (מִשְׁפָּט)
+### H4941 -- mishpat (מִשְׁפָּט)
 **Transliteration:** mishpat | **Pronunciation:** mish-pawt | **Part of Speech:** masculine noun | **Occurrences:** 448
 
-**Definition:** From [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} (shaphat); properly, a verdict (favorable or unfavorable) pronounced judicially, especially a sentence or formal decree (human or divine law, individual or collective), including the act, the place, the suit, the crime, and the penalty; abstractly, justice, including a participant's right or privilege (statutory or customary), or even a style.
+**Definition:** From H8199 (shaphat); properly, a verdict (favorable or unfavorable) pronounced judicially, especially a sentence or formal decree (human or divine law, individual or collective), including the act, the place, the suit, the crime, and the penalty; abstractly, justice, including a participant's right or privilege (statutory or customary), or even a style.
 
 **KJV Translations:**
 - "judgment" (296x, 66.1%) -- dominant meaning
@@ -40,10 +40,10 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ---
 
-### [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} -- choq (חֹק)
+### H2706 -- choq (חֹק)
 **Transliteration:** choq | **Pronunciation:** khoke | **Part of Speech:** masculine noun | **Occurrences:** 134
 
-**Definition:** From [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} (chaqaq); an enactment; hence, an appointment (of time, space, quantity, labor or usage). Translated as: appointed, bound, commandment, convenient, custom, decree, due, law, measure, necessary, ordinance, portion, set time, statute, task.
+**Definition:** From H2710 (chaqaq); an enactment; hence, an appointment (of time, space, quantity, labor or usage). Translated as: appointed, bound, commandment, convenient, custom, decree, due, law, measure, necessary, ordinance, portion, set time, statute, task.
 
 **KJV Translations:**
 - "statute(s)" (73x, 54.5%) -- dominant meaning
@@ -64,10 +64,10 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ---
 
-### [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} -- chuqqah (חֻקָּה)
+### H2708 -- chuqqah (חֻקָּה)
 **Transliteration:** chuqqah | **Pronunciation:** khook-kaw | **Part of Speech:** feminine noun | **Occurrences:** 116
 
-**Definition:** Feminine form of [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} (choq), meaning substantially the same: appointed, custom, manner, ordinance, site, statute.
+**Definition:** Feminine form of H2706 (choq), meaning substantially the same: appointed, custom, manner, ordinance, site, statute.
 
 **KJV Translations:**
 - "statute(s)" (68x, 58.6%) -- dominant meaning
@@ -84,7 +84,7 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ---
 
-### [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} -- shaphat (שָׁפַט)
+### H8199 -- shaphat (שָׁפַט)
 **Transliteration:** shaphat | **Pronunciation:** shaw-fat | **Part of Speech:** verb | **Occurrences:** 220
 
 **Definition:** A primitive root; to judge, i.e. pronounce sentence (for or against); by implication, to vindicate or punish; by extension, to govern; passively, to litigate.
@@ -105,7 +105,7 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ---
 
-### [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} -- mitsvah (מִצְוָה)
+### H4687 -- mitsvah (מִצְוָה)
 **Transliteration:** mitsvah | **Pronunciation:** mits-vaw | **Part of Speech:** feminine noun | **Occurrences:** 190
 
 **Definition:** From tsavah (to command); a command, whether human or divine (collectively, the Law).
@@ -125,7 +125,7 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ---
 
-### [H6064](https://www.blueletterbible.org/lexicon/h6064/kjv/wlc/0-1/){:target="_blank"} -- anash (עָנַשׁ)
+### H6064 -- anash (עָנַשׁ)
 **Transliteration:** anash | **Pronunciation:** aw-nash | **Part of Speech:** verb | **Occurrences:** 11
 
 **Definition:** A primitive root; properly, to urge; by implication, to inflict a penalty, specifically, to fine.
@@ -140,7 +140,7 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ---
 
-### [H817](https://www.blueletterbible.org/lexicon/h817/kjv/wlc/0-1/){:target="_blank"} -- asham (אָשָׁם)
+### H817 -- asham (אָשָׁם)
 **Transliteration:** asham | **Pronunciation:** aw-shawm | **Part of Speech:** masculine noun | **Occurrences:** 47
 
 **Definition:** From asham (to be guilty); guilt; by implication, a fault; also a sin-offering (trespass offering).
@@ -162,7 +162,7 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ## Greek Legal Terminology (NT)
 
-### [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} -- dogma (δόγμα)
+### G1378 -- dogma (δόγμα)
 **Transliteration:** dogma | **Pronunciation:** dog-mah | **Part of Speech:** neuter noun | **Occurrences:** 5
 
 **Definition:** From dokeo (to think); a law (civil, ceremonial or ecclesiastical). Translated as: decree, ordinance.
@@ -182,7 +182,7 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ---
 
-### [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} -- dikaioma (δικαίωμα)
+### G1345 -- dikaioma (δικαίωμα)
 **Transliteration:** dikaioma | **Pronunciation:** dik-ah-yo-mah | **Part of Speech:** neuter noun | **Occurrences:** 10
 
 **Definition:** From dikaioo (to justify); an equitable deed; by implication, a statute or decision.
@@ -205,7 +205,7 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 
 ---
 
-### [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} -- krisis (κρίσις)
+### G2920 -- krisis (κρίσις)
 **Transliteration:** krisis | **Pronunciation:** kree-sis | **Part of Speech:** feminine noun | **Occurrences:** 48
 
 **Definition:** Decision (subjectively or objectively, for or against); by extension, a tribunal; by implication, justice.
@@ -223,7 +223,7 @@ What are the civil/judicial laws in the Pentateuch and how do they relate to the
 - JHN 7:24 -- "judge righteous judgment [krisis]"
 - ACT 8:33 -- "his judgment [krisis] was taken away" (citing Isaiah 53:8)
 
-**Significance:** The Greek equivalent of [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} (mishpat). In Matthew 5:21-22, Jesus references the judicial system ("the judgment," "the council") -- showing the civil/judicial infrastructure was still operative. In Matthew 23:23, Jesus identifies "judgment [krisis], mercy, and faith" as "the weightier matters of the law" -- judgment (justice) is classified as a weightier, enduring principle rather than a temporary regulation.
+**Significance:** The Greek equivalent of H4941 (mishpat). In Matthew 5:21-22, Jesus references the judicial system ("the judgment," "the council") -- showing the civil/judicial infrastructure was still operative. In Matthew 23:23, Jesus identifies "judgment [krisis], mercy, and faith" as "the weightier matters of the law" -- judgment (justice) is classified as a weightier, enduring principle rather than a temporary regulation.
 
 ---
 
@@ -248,7 +248,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ## Supplementary Hebrew Legal Terminology
 
-### [H1777](https://www.blueletterbible.org/lexicon/h1777/kjv/wlc/0-1/){:target="_blank"} -- din (דִּין)
+### H1777 -- din (דִּין)
 **Transliteration:** din | **Pronunciation:** deen | **Part of Speech:** verb | **Occurrences:** 27
 
 **Definition:** A primitive root; to rule; by implication, to judge (as umpire); also to strive (as at law). Translated as: contend, execute (judgment), judge, minister judgment, plead (the cause), at strife, strive.
@@ -272,7 +272,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [H8545](https://www.blueletterbible.org/lexicon/h8545/kjv/wlc/0-1/){:target="_blank"} -- temurah (תְּמוּרָה)
+### H8545 -- temurah (תְּמוּרָה)
 **Transliteration:** temurah | **Pronunciation:** tem-oo-raw | **Part of Speech:** feminine noun | **Occurrences:** 5
 
 **Definition:** From muwr (to change); barter, compensation. Translated as: exchange, recompense, restitution.
@@ -287,7 +287,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [H1498](https://www.blueletterbible.org/lexicon/h1498/kjv/wlc/0-1/){:target="_blank"} -- gazel (גָּזֵל)
+### H1498 -- gazel (גָּזֵל)
 **Transliteration:** gazel | **Pronunciation:** gaw-zale | **Part of Speech:** masculine noun | **Occurrences:** 5
 
 **Definition:** From gazal (to plunder); robbery, or (concretely) plunder; thing taken away by violence.
@@ -302,7 +302,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} -- chaqaq (חָקַק)
+### H2710 -- chaqaq (חָקַק)
 **Transliteration:** chaqaq | **Pronunciation:** khaw-kak | **Part of Speech:** verb | **Occurrences:** 19
 
 **Definition:** A primitive root; properly, to hack, i.e. engrave (Judges 5:14, to be a scribe simply); by implication, to enact (laws being cut in stone or metal tablets in primitive times) or (generally) prescribe. Translated as: appoint, decree, governor, grave, lawgiver, note, pourtray, print, set.
@@ -325,7 +325,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [H1881](https://www.blueletterbible.org/lexicon/h1881/kjv/wlc/0-1/){:target="_blank"} -- dath (דָּת)
+### H1881 -- dath (דָּת)
 **Transliteration:** dath | **Pronunciation:** dawth | **Part of Speech:** feminine noun | **Occurrences:** 23
 
 **Definition:** Of uncertain (perhaps foreign) derivation; a royal edict or statute. Translated as: commandment, commission, decree, law, manner.
@@ -345,10 +345,10 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [H6416](https://www.blueletterbible.org/lexicon/h6416/kjv/wlc/0-1/){:target="_blank"} -- peliliy (פְּלִילִי)
+### H6416 -- peliliy (פְּלִילִי)
 **Transliteration:** peliliy | **Pronunciation:** pel-ee-lee | **Part of Speech:** adjective | **Occurrences:** 1
 
-**Definition:** From [H6414](https://www.blueletterbible.org/lexicon/h6414/kjv/wlc/0-1/){:target="_blank"} (palil); judicial. Translated as: judge.
+**Definition:** From H6414 (palil); judicial. Translated as: judge.
 
 **Key Usage:**
 - JOB 31:11 -- "For this is an heinous crime; yea, it is an iniquity to be punished by the judges [peliliy]"
@@ -357,10 +357,10 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [H8196](https://www.blueletterbible.org/lexicon/h8196/kjv/wlc/0-1/){:target="_blank"} -- shephowt (שְׁפוֹט)
+### H8196 -- shephowt (שְׁפוֹט)
 **Transliteration:** shephowt | **Pronunciation:** shef-ote | **Part of Speech:** masculine noun | **Occurrences:** 3
 
-**Definition:** From [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} (shaphat); a judicial sentence, i.e. punishment. Translated as: judgment.
+**Definition:** From H8199 (shaphat); a judicial sentence, i.e. punishment. Translated as: judgment.
 
 **Key Usages:**
 - 2CH 20:9 -- "when evil cometh upon us, as the sword, judgment [shephowt], or pestilence, or famine"
@@ -370,7 +370,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [H4896](https://www.blueletterbible.org/lexicon/h4896/kjv/wlc/0-1/){:target="_blank"} -- mishtar (מִשְׁטָר)
+### H4896 -- mishtar (מִשְׁטָר)
 **Transliteration:** mishtar | **Pronunciation:** mish-tawr | **Part of Speech:** masculine noun | **Occurrences:** 1
 
 **Definition:** From shatar; jurisdiction, dominion.
@@ -384,7 +384,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ## Supplementary Greek Legal Terminology (NT)
 
-### [G2922](https://www.blueletterbible.org/lexicon/g2922/kjv/tr/0-1/){:target="_blank"} -- kriterion (κριτήριον)
+### G2922 -- kriterion (κριτήριον)
 **Transliteration:** kriterion | **Pronunciation:** kree-tay-ree-on | **Part of Speech:** neuter noun | **Occurrences:** 2 (KJV); 3 (BLB)
 
 **Definition:** A rule of judging; tribunal, court.
@@ -398,7 +398,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [G2923](https://www.blueletterbible.org/lexicon/g2923/kjv/tr/0-1/){:target="_blank"} -- krites (κριτής)
+### G2923 -- krites (κριτής)
 **Transliteration:** krites | **Pronunciation:** kree-tace | **Part of Speech:** masculine noun | **Occurrences:** 14 (KJV); 17 (BLB)
 
 **Definition:** From krino (to judge); a judge (general or specific).
@@ -422,7 +422,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} -- dogmatizo (δογματίζω)
+### G1379 -- dogmatizo (δογματίζω)
 **Transliteration:** dogmatizo | **Pronunciation:** dog-mat-id-zo | **Part of Speech:** verb | **Occurrences:** 1
 
 **Definition:** From dogma (G1378); to prescribe by statute, i.e. (reflexively) to submit to ordinances.
@@ -434,7 +434,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [G3544](https://www.blueletterbible.org/lexicon/g3544/kjv/tr/0-1/){:target="_blank"} -- nomikos (νομικός)
+### G3544 -- nomikos (νομικός)
 **Transliteration:** nomikos | **Pronunciation:** nom-ik-os | **Part of Speech:** adjective | **Occurrences:** 9
 
 **Definition:** From nomos (law); according (or pertaining) to law, i.e. legal; as a noun, one skilled in the law.
@@ -455,7 +455,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [G661](https://www.blueletterbible.org/lexicon/g661/kjv/tr/0-1/){:target="_blank"} -- apotino (ἀποτίνω)
+### G661 -- apotino (ἀποτίνω)
 **Transliteration:** apotino | **Pronunciation:** ap-ot-ee-no | **Part of Speech:** verb | **Occurrences:** 1
 
 **Definition:** From apo and tino (to pay); to pay in full, repay.
@@ -467,7 +467,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [G5098](https://www.blueletterbible.org/lexicon/g5098/kjv/tr/0-1/){:target="_blank"} -- timoria (τιμωρία)
+### G5098 -- timoria (τιμωρία)
 **Transliteration:** timoria | **Pronunciation:** tee-mo-ree-ah | **Part of Speech:** feminine noun | **Occurrences:** 1
 
 **Definition:** From timoros (an avenger); vindication, i.e. (by implication) a penalty, punishment.
@@ -479,7 +479,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [G2809](https://www.blueletterbible.org/lexicon/g2809/kjv/tr/0-1/){:target="_blank"} -- klemma (κλέμμα)
+### G2809 -- klemma (κλέμμα)
 **Transliteration:** klemma | **Pronunciation:** klem-mah | **Part of Speech:** neuter noun | **Occurrences:** 1
 
 **Definition:** From klepto (to steal); stealing (properly, the thing stolen, but used of the act).
@@ -491,7 +491,7 @@ The Bible consistently uses three or more terms when listing types of law:
 
 ---
 
-### [G2813](https://www.blueletterbible.org/lexicon/g2813/kjv/tr/0-1/){:target="_blank"} -- klepto (κλέπτω)
+### G2813 -- klepto (κλέπτω)
 **Transliteration:** klepto | **Pronunciation:** klep-to | **Part of Speech:** verb | **Occurrences:** 19
 
 **Definition:** A primary verb; to filch, steal.
@@ -518,16 +518,3 @@ The Bible consistently uses three or more terms when listing types of law:
 
 *All data from Strong's Concordance via search_strongs.py*
 *Retrieved: 2026-02-23*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

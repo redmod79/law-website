@@ -129,7 +129,7 @@ What specific laws continue and what specific laws ceased? Comprehensive compila
 > 7:18 Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised.
 > 7:19 Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.
 
-*Greek: teresis entolon theou (G5084 + [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} + G2316). Paul explicitly distinguishes entole (moral commandments) from peritome (circumcision, ceremonial).*
+*Greek: teresis entolon theou (G5084 + G1785 + G2316). Paul explicitly distinguishes entole (moral commandments) from peritome (circumcision, ceremonial).*
 
 **Ephesians 6:2 (5th commandment cited as first with promise)**
 > 6:1 Children, obey your parents in the Lord: for this is right.
@@ -151,7 +151,7 @@ What specific laws continue and what specific laws ceased? Comprehensive compila
 **James 1:25 (Perfect law of liberty)**
 > 1:25 But whoso looketh into the perfect law of liberty, and continueth [therein], he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 
-*Greek: nomos teleion ton tes eleutherias (G3551 + [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} + G1657). The law is called "perfect" and "of liberty."*
+*Greek: nomos teleion ton tes eleutherias (G3551 + G5046 + G1657). The law is called "perfect" and "of liberty."*
 
 **James 2:8-12 (Royal law / law of liberty = Decalogue)**
 > 2:8 If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:
@@ -160,7 +160,7 @@ What specific laws continue and what specific laws ceased? Comprehensive compila
 > 2:11 For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.
 > 2:12 So speak ye, and so do, as they that shall be judged by the law of liberty.
 
-*Greek: nomos basilikon (G3551 + [G937](https://www.blueletterbible.org/lexicon/g937/kjv/tr/0-1/){:target="_blank"}, royal law) + nomos eleutherias (law of liberty). James identifies the content as the 7th and 6th commandments.*
+*Greek: nomos basilikon (G3551 + G937, royal law) + nomos eleutherias (law of liberty). James identifies the content as the 7th and 6th commandments.*
 
 ### A5. Revelation -- End-Time Commandment-Keeping
 
@@ -224,7 +224,7 @@ What specific laws continue and what specific laws ceased? Comprehensive compila
 > 7:18 For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.
 > 7:19 For the law made nothing perfect, but the bringing in of a better hope [did]; by the which we draw nigh unto God.
 
-*Greek: hierosyne (G2420, priesthood) + metatithemi (G3346, changed/transferred) + nomos (G3551) + entoles sarkines (G1785 + [G4560](https://www.blueletterbible.org/lexicon/g4560/kjv/tr/0-1/){:target="_blank"}, "carnal commandment") + athetesis (G115, disannulling). The law that changed is specifically the priesthood succession law. "Carnal commandment" (entole + sarkines qualifier) identifies it as ceremonial.*
+*Greek: hierosyne (G2420, priesthood) + metatithemi (G3346, changed/transferred) + nomos (G3551) + entoles sarkines (G1785 + G4560, "carnal commandment") + athetesis (G115, disannulling). The law that changed is specifically the priesthood succession law. "Carnal commandment" (entole + sarkines qualifier) identifies it as ceremonial.*
 
 ### B4. Hebrews 9:1, 8-10 (Ordinances of divine service; carnal ordinances)
 
@@ -233,7 +233,7 @@ What specific laws continue and what specific laws ceased? Comprehensive compila
 > 9:9 Which [was] a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
 > 9:10 [Which stood] only in meats and drinks, and divers washings, and carnal ordinances, imposed [on them] until the time of reformation.
 
-*Greek: dikaiomata latreias (G1345 + [G2999](https://www.blueletterbible.org/lexicon/g2999/kjv/tr/0-1/){:target="_blank"}, "ordinances of divine service") in v.1; dikaiomata sarkos (G1345 + [G4561](https://www.blueletterbible.org/lexicon/g4561/kjv/tr/0-1/){:target="_blank"}, "carnal ordinances") in v.10. Dikaioma plural + modifier = ceremonial. Content: meats, drinks, washings. Temporal: "until the time of reformation" (diorthosis, G1357).*
+*Greek: dikaiomata latreias (G1345 + G2999, "ordinances of divine service") in v.1; dikaiomata sarkos (G1345 + G4561, "carnal ordinances") in v.10. Dikaioma plural + modifier = ceremonial. Content: meats, drinks, washings. Temporal: "until the time of reformation" (diorthosis, G1357).*
 
 ### B5. Hebrews 10:1-18 (Shadow law; sacrifices taken away)
 
@@ -261,7 +261,7 @@ What specific laws continue and what specific laws ceased? Comprehensive compila
 
 > 3:13 Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed [is] every one that hangeth on a tree:
 
-*Greek: kataras tou nomou (G2671 + [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}, "the curse of the law"). What is removed is the curse, not the law itself.*
+*Greek: kataras tou nomou (G2671 + G3551, "the curse of the law"). What is removed is the curse, not the law itself.*
 
 **Galatians 3:19, 24-25 (Law as schoolmaster)**
 > 3:19 Wherefore then [serveth] the law? It was added because of transgressions, till the seed should come...
@@ -371,17 +371,17 @@ Greek: kai hode men dekatas apothneskontes anthropoi lambanoousin, ekei de marty
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| hode | hode | [G5602](https://www.blueletterbible.org/lexicon/g5602/kjv/tr/0-1/){:target="_blank"} | ADV ("here") |
-| men | men | [G3303](https://www.blueletterbible.org/lexicon/g3303/kjv/tr/0-1/){:target="_blank"} | PRT (particle, "on the one hand") |
-| dekatas | dekatos | [G1181](https://www.blueletterbible.org/lexicon/g1181/kjv/tr/0-1/){:target="_blank"} | A-APF Acc Pl F ("tithes") |
-| apothneskontes | apothnesko | [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} | V-PAP-NPM Pres Act Ptcp Nom Pl M ("dying") |
-| anthropoi | anthropos | [G444](https://www.blueletterbible.org/lexicon/g444/kjv/tr/0-1/){:target="_blank"} | N-NPM Nom Pl M ("men") |
-| lambanoousin | lambano | [G2983](https://www.blueletterbible.org/lexicon/g2983/kjv/tr/0-1/){:target="_blank"} | V-PAI-3P Pres Act Ind 3Pl ("receive") |
-| ekei | ekei | [G1563](https://www.blueletterbible.org/lexicon/g1563/kjv/tr/0-1/){:target="_blank"} | ADV ("there") |
-| de | de | [G1161](https://www.blueletterbible.org/lexicon/g1161/kjv/tr/0-1/){:target="_blank"} | CONJ ("but/on the other hand") |
-| martyroumenos | martyreo | [G3140](https://www.blueletterbible.org/lexicon/g3140/kjv/tr/0-1/){:target="_blank"} | V-PPP-NSM Pres Pass Ptcp Nom Sg M ("being witnessed/testified") |
-| hoti | hoti | [G3754](https://www.blueletterbible.org/lexicon/g3754/kjv/tr/0-1/){:target="_blank"} | CONJ ("that") |
-| ze | zao | [G2198](https://www.blueletterbible.org/lexicon/g2198/kjv/tr/0-1/){:target="_blank"} | V-PAI-3S Pres Act Ind 3Sg ("he lives") |
+| hode | hode | G5602 | ADV ("here") |
+| men | men | G3303 | PRT (particle, "on the one hand") |
+| dekatas | dekatos | G1181 | A-APF Acc Pl F ("tithes") |
+| apothneskontes | apothnesko | G599 | V-PAP-NPM Pres Act Ptcp Nom Pl M ("dying") |
+| anthropoi | anthropos | G444 | N-NPM Nom Pl M ("men") |
+| lambanoousin | lambano | G2983 | V-PAI-3P Pres Act Ind 3Pl ("receive") |
+| ekei | ekei | G1563 | ADV ("there") |
+| de | de | G1161 | CONJ ("but/on the other hand") |
+| martyroumenos | martyreo | G3140 | V-PPP-NSM Pres Pass Ptcp Nom Sg M ("being witnessed/testified") |
+| hoti | hoti | G3754 | CONJ ("that") |
+| ze | zao | G2198 | V-PAI-3S Pres Act Ind 3Sg ("he lives") |
 
 **Key grammatical observations for Heb 7:8:**
 1. "Here" (hode) = the Levitical system. "There" (ekei) = the Melchizedek type/pattern.
@@ -394,7 +394,7 @@ Greek: kai hode men dekatas apothneskontes anthropoi lambanoousin, ekei de marty
 > 7:11 If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need [was there] that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
 > 7:12 For the priesthood being changed, there is made of necessity a change also of the law.
 
-*Greek: metatithemenes (G3346, present passive participle, "being transferred") tes hierosunes (G2420, priesthood). The law being changed is specifically the priesthood law (nomou, [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}, anarthrous = qualitative, "a law change").*
+*Greek: metatithemenes (G3346, present passive participle, "being transferred") tes hierosunes (G2420, priesthood). The law being changed is specifically the priesthood law (nomou, G3551, anarthrous = qualitative, "a law change").*
 
 ### C5. Jesus Affirms Tithing
 
@@ -436,16 +436,3 @@ Greek: kai hode men dekatas apothneskontes anthropoi lambanoousin, ekei de marty
 > 2:17 Which are a shadow of things to come; but the body [is] of Christ.
 
 *Greek: sabbaton (G4521). The sequence "holyday...new moon...sabbath days" parallels the OT pattern of annual/monthly/weekly observances. These are called skia ("shadow"). Prior studies analyzed whether this refers to annual ceremonial sabbaths or the weekly Sabbath.*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

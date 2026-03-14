@@ -143,26 +143,26 @@ Retrieve full entries for: VEIL, GLORY, COMMANDMENTS, COVENANT, STONES, DECALOGU
 ## Strong's Numbers Discovered
 
 ### Critical Greek Terms for Word Studies
-1. **[G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} katargeo** -- "to render entirely idle, make useless, abolish, done away" -- KJV: "shall destroy" (2x), "is done away" (2x). Appears in 2 Cor 3:7, 11, 13, 14. Central to the entire study.
-2. **[G1248](https://www.blueletterbible.org/lexicon/g1248/kjv/tr/0-1/){:target="_blank"} diakonia** -- "attendance, ministry, ministration, service" -- KJV: "ministry" (12x), "ministration" (4x), "ministering" (3x), "service" (3x). The subject of 2 Cor 3:7-9.
-3. **[G1391](https://www.blueletterbible.org/lexicon/g1391/kjv/tr/0-1/){:target="_blank"} doxa** -- "glory" -- KJV: "glory" (97x), "glorious" (9x). The glory of Moses' face that was fading.
-4. **[G2571](https://www.blueletterbible.org/lexicon/g2571/kjv/tr/0-1/){:target="_blank"} kalumma (kaluma)** -- "a cover, veil" -- KJV: "vail" (2x), "a vail" (1x), "the vail" (1x). The veil on Moses' face / on the hearts of Israel.
-5. **[G1795](https://www.blueletterbible.org/lexicon/g1795/kjv/tr/0-1/){:target="_blank"} entupoo** -- "to enstamp, engrave" -- KJV: "engraven" (1x). Used in 2 Cor 3:7 for "engraven in stones."
-6. **[G3035](https://www.blueletterbible.org/lexicon/g3035/kjv/tr/0-1/){:target="_blank"} lithinos** -- "stony, made of stone" -- KJV: "of stone" (1x), "stone" (1x). Stone tablets.
-7. **[G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} engrapho** -- "to engrave, inscribe" -- KJV: "written" (2x). Writing/engraving.
-8. **[G2631](https://www.blueletterbible.org/lexicon/g2631/kjv/tr/0-1/){:target="_blank"} katakrima** -- "condemnation" -- KJV: "condemnation" (3x). Related to "ministration of condemnation" (2 Cor 3:9).
-9. **[G2633](https://www.blueletterbible.org/lexicon/g2633/kjv/tr/0-1/){:target="_blank"} katakrisis** -- "sentencing adversely, condemnation (the act)" -- KJV: "of condemnation" (1x), "condemn" (1x). Used in 2 Cor 3:9.
-10. **[G3009](https://www.blueletterbible.org/lexicon/g3009/kjv/tr/0-1/){:target="_blank"} leitourgia** -- "public function, liturgy, ministry" -- KJV: "ministry" (2x), "ministration" (1x). Compare with diakonia.
-11. **[G4109](https://www.blueletterbible.org/lexicon/g4109/kjv/tr/0-1/){:target="_blank"} plax** -- "tablet" -- Used in 2 Cor 3:3 for both stone tablets and heart tablets.
-12. **[G1121](https://www.blueletterbible.org/lexicon/g1121/kjv/tr/0-1/){:target="_blank"} gramma** -- "letter, writing" -- Used in 2 Cor 3:6-7 ("the letter killeth," "written and engraven").
-13. **[G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} pneuma** -- "spirit" -- Used in 2 Cor 3:6,8 ("the spirit giveth life," "ministration of the spirit").
-14. **[G1392](https://www.blueletterbible.org/lexicon/g1392/kjv/tr/0-1/){:target="_blank"} doxazo** -- "to glorify, render glorious" -- Related to the glory theme.
-15. **[G2665](https://www.blueletterbible.org/lexicon/g2665/kjv/tr/0-1/){:target="_blank"} katapetasma** -- "veil" (temple veil) -- Compare with kalumma (personal/spiritual veil).
+1. **G2673 katargeo** -- "to render entirely idle, make useless, abolish, done away" -- KJV: "shall destroy" (2x), "is done away" (2x). Appears in 2 Cor 3:7, 11, 13, 14. Central to the entire study.
+2. **G1248 diakonia** -- "attendance, ministry, ministration, service" -- KJV: "ministry" (12x), "ministration" (4x), "ministering" (3x), "service" (3x). The subject of 2 Cor 3:7-9.
+3. **G1391 doxa** -- "glory" -- KJV: "glory" (97x), "glorious" (9x). The glory of Moses' face that was fading.
+4. **G2571 kalumma (kaluma)** -- "a cover, veil" -- KJV: "vail" (2x), "a vail" (1x), "the vail" (1x). The veil on Moses' face / on the hearts of Israel.
+5. **G1795 entupoo** -- "to enstamp, engrave" -- KJV: "engraven" (1x). Used in 2 Cor 3:7 for "engraven in stones."
+6. **G3035 lithinos** -- "stony, made of stone" -- KJV: "of stone" (1x), "stone" (1x). Stone tablets.
+7. **G1449 engrapho** -- "to engrave, inscribe" -- KJV: "written" (2x). Writing/engraving.
+8. **G2631 katakrima** -- "condemnation" -- KJV: "condemnation" (3x). Related to "ministration of condemnation" (2 Cor 3:9).
+9. **G2633 katakrisis** -- "sentencing adversely, condemnation (the act)" -- KJV: "of condemnation" (1x), "condemn" (1x). Used in 2 Cor 3:9.
+10. **G3009 leitourgia** -- "public function, liturgy, ministry" -- KJV: "ministry" (2x), "ministration" (1x). Compare with diakonia.
+11. **G4109 plax** -- "tablet" -- Used in 2 Cor 3:3 for both stone tablets and heart tablets.
+12. **G1121 gramma** -- "letter, writing" -- Used in 2 Cor 3:6-7 ("the letter killeth," "written and engraven").
+13. **G4151 pneuma** -- "spirit" -- Used in 2 Cor 3:6,8 ("the spirit giveth life," "ministration of the spirit").
+14. **G1392 doxazo** -- "to glorify, render glorious" -- Related to the glory theme.
+15. **G2665 katapetasma** -- "veil" (temple veil) -- Compare with kalumma (personal/spiritual veil).
 
 ### Critical Hebrew Terms (OT background)
-1. **[H2801](https://www.blueletterbible.org/lexicon/h2801/kjv/wlc/0-1/){:target="_blank"} charath** -- "to engrave" -- KJV: "graven" (1x). The engraving of the Decalogue.
-2. **[H3789](https://www.blueletterbible.org/lexicon/h3789/kjv/wlc/0-1/){:target="_blank"} kathab** -- "to write" -- Used for God writing the Decalogue (Deu 10:4) and for writing law on hearts (Jer 31:33).
-3. **[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah** -- "law, instruction" -- "MY law" (torati) in Jer 31:33.
+1. **H2801 charath** -- "to engrave" -- KJV: "graven" (1x). The engraving of the Decalogue.
+2. **H3789 kathab** -- "to write" -- Used for God writing the Decalogue (Deu 10:4) and for writing law on hearts (Jer 31:33).
+3. **H8451 torah** -- "law, instruction" -- "MY law" (torati) in Jer 31:33.
 
 ---
 
@@ -354,16 +354,3 @@ The Abolished position argues:
 5. Law-19 should produce new E/N/I items and integrate them with the master evidence file
 
 The research agent should USE the prior study's findings as a starting point but must independently verify all claims through the tool chain and apply the full methodology framework.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

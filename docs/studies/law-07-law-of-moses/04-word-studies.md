@@ -5,13 +5,13 @@ What does "the law of Moses" refer to -- moral, ceremonial, or both? Classify al
 
 ---
 
-## torah -- [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}
+## torah -- H8451
 
 **Original:** תּוֹרָה (towrah)
 **Transliteration:** towrah
 **Pronunciation:** to-raw
 **Part of Speech:** feminine noun (n-f)
-**Definition:** "a precept or statute, especially the Decalogue or Pentateuch -- law" (from yarah [H3384](https://www.blueletterbible.org/lexicon/h3384/kjv/wlc/0-1/){:target="_blank"}, "to throw, shoot, point, teach")
+**Definition:** "a precept or statute, especially the Decalogue or Pentateuch -- law" (from yarah H3384, "to throw, shoot, point, teach")
 **Total Occurrences:** 244 (BLB count: 219)
 
 ### Translations (top entries)
@@ -35,17 +35,17 @@ What does "the law of Moses" refer to -- moral, ceremonial, or both? Classify al
 - In devotional contexts (Psa 1:2; 19:7; 119 passim), torah is the object of delight and meditation.
 
 ### LXX Connections
-[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (torah) is translated in the LXX primarily as:
+H8451 (torah) is translated in the LXX primarily as:
 | Greek Word | Strong's | Count | PMI Score | Meaning |
 |---|---|---|---|---|
-| nomos (G3551) | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | 188 | 6.45 | law |
-| grapho (G1125) | [G1125](https://www.blueletterbible.org/lexicon/g1125/kjv/tr/0-1/){:target="_blank"} | 32 | 4.08 | to write |
-| biblion (G975) | [G975](https://www.blueletterbible.org/lexicon/g975/kjv/tr/0-1/){:target="_blank"} | 21 | 3.90 | scroll/book |
-| entole (G1785) | [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | 23 | 3.73 | commandment/injunction |
-| phylasso (G5442) | [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} | 32 | 3.11 | to guard/keep |
-| dikaioma (G1345) | [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | 16 | 3.80 | statute/righteous requirement |
-| anaginosko (G314) | [G314](https://www.blueletterbible.org/lexicon/g314/kjv/tr/0-1/){:target="_blank"} | 8 | 4.21 | to read |
-| Moseus (G3475) | [G3475](https://www.blueletterbible.org/lexicon/g3475/kjv/tr/0-1/){:target="_blank"} | 34 | 2.34 | Moses |
+| nomos (G3551) | G3551 | 188 | 6.45 | law |
+| grapho (G1125) | G1125 | 32 | 4.08 | to write |
+| biblion (G975) | G975 | 21 | 3.90 | scroll/book |
+| entole (G1785) | G1785 | 23 | 3.73 | commandment/injunction |
+| phylasso (G5442) | G5442 | 32 | 3.11 | to guard/keep |
+| dikaioma (G1345) | G1345 | 16 | 3.80 | statute/righteous requirement |
+| anaginosko (G314) | G314 | 8 | 4.21 | to read |
+| Moseus (G3475) | G3475 | 34 | 2.34 | Moses |
 
 **Key LXX finding:** Torah maps dominantly to nomos (188x), but also to entole (23x) and dikaioma (16x). The LXX translators did not render torah uniformly, using "commandment" and "righteous requirement" alongside "law." The co-occurrence with Moseus (G3475, 34x) reflects the frequency of the "law of Moses" phrase.
 
@@ -54,7 +54,7 @@ Torah appears in all OT "law of Moses" passages: Josh 8:31, 32; 23:6; 1 Ki 2:3; 
 
 ---
 
-## nomos -- [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}
+## nomos -- G3551
 
 **Original:** νόμος (nomos)
 **Transliteration:** nomos
@@ -117,7 +117,7 @@ Torah appears in all OT "law of Moses" passages: Josh 8:31, 32; 23:6; 1 Ki 2:3; 
 
 ---
 
-## entole -- [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}
+## entole -- G1785
 
 **Original:** ἐντολή (entole)
 **Transliteration:** entole
@@ -155,7 +155,7 @@ Entole (commandment) does NOT appear in any "law of Moses" phrase. It appears in
 
 ---
 
-## dogma -- [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}
+## dogma -- G1378
 
 **Original:** δόγμα (dogma)
 **Transliteration:** dogma
@@ -189,7 +189,7 @@ Entole (commandment) does NOT appear in any "law of Moses" phrase. It appears in
 
 ---
 
-## dikaioma -- [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}
+## dikaioma -- G1345
 
 **Original:** δικαίωμα (dikaioma)
 **Transliteration:** dikaioma
@@ -225,7 +225,7 @@ Entole (commandment) does NOT appear in any "law of Moses" phrase. It appears in
 
 ### Key Observations
 - Dikaioma has a broad semantic range: "equitable deed, statute, decision, ordinance, righteous requirement."
-- In the LXX, dikaioma translates [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (torah) 16 times -- making it a secondary but significant Greek rendering of "law."
+- In the LXX, dikaioma translates H8451 (torah) 16 times -- making it a secondary but significant Greek rendering of "law."
 - In Hebrews 9:1, 10, dikaiomata are "ordinances of divine service" and "carnal ordinances" -- specifically the sanctuary/ceremonial regulations. These are said to be "imposed until the time of reformation."
 - In Romans 8:4, dikaioma tou nomou ("the righteousness/righteous requirement of the law") is "fulfilled in us, who walk not after the flesh, but after the Spirit." The context (Rom 7:7-8:4) identifies the law by the Decalogue (7:7 -- "Thou shalt not covet").
 - This dual usage (Hebrews: ceremonial ordinances; Romans: moral law's righteous requirement) reflects the broader pattern: the same vocabulary can apply to different aspects of the law depending on context.
@@ -261,16 +261,3 @@ All three use the same noun (torah/nomos) with different genitive modifiers. The
 2. Nomos is the shared term across all three phrases, carrying no inherent moral/ceremonial distinction.
 3. The genitive modifier (Mouseos vs. Theou) may carry theological significance: Paul uses "law of God" (nomos Theou) for the law he delights in (Rom 7:22), identified by the Decalogue commandment "Thou shalt not covet" (Rom 7:7); he uses "law of Moses" (nomos Mouseos) for the broader Mosaic code (1 Cor 9:9 -- "muzzle not the ox").
 4. The Hebrew parsing of Malachi 3:22 (= 4:4) shows torah in construct with Mosheh, followed by chuqqim (statutes) and mishpatim (judgments) -- these additional terms expand what "the law of Moses" encompasses.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

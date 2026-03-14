@@ -17,7 +17,7 @@
 **Greek Grammar:**
 - **ton terounton** (τῶν τηρούντων) — Present Active Participle, Genitive Plural Masculine. The present tense indicates ongoing, habitual, characteristic action. These are not people who kept commandments once but who are characteristically commandment-keepers. The genitive case is appositional to "ton loipon tou spermatos autes" ("the remnant of her seed"), further defining who the remnant are.
 - **tas entolas** (τὰς ἐντολὰς) — Accusative Plural Feminine with the definite article. The article "tas" (THE commandments) marks a specific, known body of commands — not generic instructions. The plural "entolas" indicates more than one commandment.
-- **tou Theou** (τοῦ Θεοῦ) — Genitive Singular Masculine with the definite article. This genitive identifies the source/author of the commandments as God, distinguishing them from human commands (entalma, [G1778](https://www.blueletterbible.org/lexicon/g1778/kjv/tr/0-1/){:target="_blank"}, used for "commandments of men" in Mat 15:9; Mrk 7:7; Col 2:22).
+- **tou Theou** (τοῦ Θεοῦ) — Genitive Singular Masculine with the definite article. This genitive identifies the source/author of the commandments as God, distinguishing them from human commands (entalma, G1778, used for "commandments of men" in Mat 15:9; Mrk 7:7; Col 2:22).
 - **ten martyrian Iesou** (τὴν μαρτυρίαν Ἰησοῦ) — Accusative Singular Feminine with the article, followed by a genitive proper noun. The genitive "Iesou" is best understood as a subjective genitive (the testimony that Jesus gives), based on Rev 19:10 where "the testimony of Jesus IS the spirit of prophecy" (he martyria Iesou estin to pneuma tes propheteias).
 
 **Direct statement:** The dragon (Satan) makes war specifically against people identified by two marks: (1) they keep the commandments of God, and (2) they have the testimony of Jesus Christ.
@@ -227,7 +227,7 @@
 
 **Context:** Near the close of Revelation.
 
-**Direct statement:** Blessing is pronounced on those who keep (tereo, [G5083](https://www.blueletterbible.org/lexicon/g5083/kjv/tr/0-1/){:target="_blank"} — the same verb as in 12:17 and 14:12) "the sayings of the prophecy of this book."
+**Direct statement:** Blessing is pronounced on those who keep (tereo, G5083 — the same verb as in 12:17 and 14:12) "the sayings of the prophecy of this book."
 
 **Key observations:** The same verb tereo (keep) connects the commandment-keeping of 12:17 and 14:12 with the keeping of prophetic truth in 22:7.
 
@@ -509,16 +509,3 @@ One could argue that "commandments of God" includes all of God's commands, not s
 
 *Analysis completed: 2026-02-26*
 *Study: law-28-revelation-commandments*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

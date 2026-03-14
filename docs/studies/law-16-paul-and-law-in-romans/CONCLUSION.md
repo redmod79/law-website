@@ -51,7 +51,7 @@ Evidence items tracked in law-master-evidence.md.
 | E405 | Paul states: "Christ is the end [telos] of the law for righteousness to every one that believeth." Telos (G5056) can mean "termination" or "goal/purpose." | Rom 10:4 | Neutral | V1: No — if telos = goal, this is continuation vocabulary. V2: Yes — if telos = termination, this is cessation vocabulary. Both V1 and V2 YES. Gate 1: FAIL — telos has a semantic range that allows either "termination" or "goal." The referent sense is ambiguous on this verse alone. Reclassification: RC1: telos meaning is ambiguous between termination and goal. RC2: The word telos has a range of meaning. RC3: Neither applies with certainty from this verse alone. Neutral. NOTE: E061 already covers this verse. This study adds law-16 to "Also In." |
 | E406 | Paul quotes Deut 30:12-14 and identifies it as "the righteousness which is of faith" speaking. The Torah itself teaches faith-righteousness: "The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach." | Rom 10:6-8 | Continues | V1: The law itself witnesses to faith-righteousness — the law and faith are complementary. Gate 1: PASS — Paul identifies his source as Deut 30:12-14. Gate 2: PASS — Paul's hermeneutical application is explicit. Gate 3: PASS — didactic. Gate 4: PASS — consistent with E392 (law witnesses to righteousness), E025 (establish law). |
 | E407 | Paul quotes five Decalogue commandments as the content love fulfills: "Thou shalt not commit adultery [7th], Thou shalt not kill [6th], Thou shalt not steal [8th], Thou shalt not bear false witness [9th], Thou shalt not covet [10th]; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself." | Rom 13:9 | Continues | V1: Direct citation of Decalogue commands as the operative moral standard. Gate 1: PASS — five Decalogue commandments explicitly named. Gate 2: PASS — anakephalaioatai (present passive) = "is comprehended." Gate 3: PASS — didactic. Gate 4: PASS — consistent with E028 (identical verse already registered). NOTE: E028 already covers this verse. This study adds law-16 to "Also In." |
-| E408 | Paul states: "Love worketh no ill to his neighbour: therefore love is the fulfilling [pleroma] of the law." Love = the fullness (pleroma, [G4138](https://www.blueletterbible.org/lexicon/g4138/kjv/tr/0-1/){:target="_blank"} — noun) of the law. Love fills the law; the law remains as the container. | Rom 13:10 | Continues | V1: "love is the fulfilling of the law" = law-continuation vocabulary. Love fulfills the law; the law is not abolished. Gate 1: PASS — "the law" in context = Decalogue (five commandments just quoted in v.9). Gate 2: PASS — pleroma = fullness/filling, not termination. Gate 3: PASS — didactic. Gate 4: PASS — consistent with E025, E028, E318 (Gal 5:14). |
+| E408 | Paul states: "Love worketh no ill to his neighbour: therefore love is the fulfilling [pleroma] of the law." Love = the fullness (pleroma, G4138 — noun) of the law. Love fills the law; the law remains as the container. | Rom 13:10 | Continues | V1: "love is the fulfilling of the law" = law-continuation vocabulary. Love fulfills the law; the law is not abolished. Gate 1: PASS — "the law" in context = Decalogue (five commandments just quoted in v.9). Gate 2: PASS — pleroma = fullness/filling, not termination. Gate 3: PASS — didactic. Gate 4: PASS — consistent with E025, E028, E318 (Gal 5:14). |
 
 **Also-cited items from prior studies:**
 
@@ -246,16 +246,3 @@ All explicit statements and necessary implications from Romans that bear positio
 *Study completed: 2026-02-25*
 *Files: PROMPT.md, 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
 *Raw data: raw-data/greek-parsing.md, raw-data/parallels.md, raw-data/concept-context.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -1,6 +1,6 @@
 # Raw Strong's Lookups Output
 
-## [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} katargeo
+## G2673 katargeo
 ```
 G2673 - 32 total occurrences, 30 unique translations:
      2 (  6.2%) shall destroy
@@ -35,7 +35,7 @@ BLB Count: 27
 Occurrences: Luke 13:7; Romans 3:3; 3:31; 4:2; 4:14; 6:6; 7; 1 Corinthians 1:28; 2:6; 6:13; 13:8; 13:10; 13:11; 15:24; 15:26; 2 Corinthians 3:7; 3:11; 3:13; Galatians 3:17; 5:4; 5:11; Ephesians 2:15; 2 Thessalonians 2:8; 2 Timothy 1:10; Hebrews 2:14
 ```
 
-## [G1248](https://www.blueletterbible.org/lexicon/g1248/kjv/tr/0-1/){:target="_blank"} diakonia
+## G1248 diakonia
 ```
 G1248 - 36 total occurrences, 16 unique translations:
     12 ( 33.3%) ministry
@@ -49,7 +49,7 @@ Lexicon: diakonia - feminine noun - attendance (as a servant, etc.); figurativel
 BLB Count: 34
 ```
 
-## [G1391](https://www.blueletterbible.org/lexicon/g1391/kjv/tr/0-1/){:target="_blank"} doxa
+## G1391 doxa
 ```
 G1391 - 142 total occurrences, 14 unique translations:
     97 ( 68.3%) glory
@@ -65,7 +65,7 @@ Lexicon: doxa - feminine noun - glory (as very apparent), in a wide application
 BLB Count: 168
 ```
 
-## [G2571](https://www.blueletterbible.org/lexicon/g2571/kjv/tr/0-1/){:target="_blank"} kalumma
+## G2571 kalumma
 ```
 G2571 - 4 total occurrences, 3 unique translations:
      2 ( 50.0%) vail
@@ -77,7 +77,7 @@ BLB Count: 4
 Occurrences: Exodus 34:33; 1 Corinthians 11:4; 2 Corinthians 3:13; 3:14; 3:15; 3:16
 ```
 
-## [G1795](https://www.blueletterbible.org/lexicon/g1795/kjv/tr/0-1/){:target="_blank"} entupoo
+## G1795 entupoo
 ```
 G1795 - 1 total occurrence:
      1 (100%) engraven
@@ -87,7 +87,7 @@ BLB Count: 1
 Occurrence: 2 Corinthians 3:7
 ```
 
-## [G3035](https://www.blueletterbible.org/lexicon/g3035/kjv/tr/0-1/){:target="_blank"} lithinos
+## G3035 lithinos
 ```
 G3035 - 2 total occurrences:
      1 ( 50.0%) of stone
@@ -98,7 +98,7 @@ BLB Count: 3
 Occurrences: John 2:6; 2 Corinthians 3:3; Revelation 9:20
 ```
 
-## [G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} engrapho
+## G1449 engrapho
 ```
 G1449 - 2 total occurrences:
      2 (100%) written
@@ -108,7 +108,7 @@ BLB Count: 2
 Occurrences: Luke 10:20; 2 Corinthians 3:2; 3:3
 ```
 
-## [G2631](https://www.blueletterbible.org/lexicon/g2631/kjv/tr/0-1/){:target="_blank"} katakrima
+## G2631 katakrima
 ```
 G2631 - 3 total occurrences:
      3 (100%) condemnation
@@ -118,7 +118,7 @@ BLB Count: 3
 Occurrences: Romans 5:16; 5:18; 8:1
 ```
 
-## [G2633](https://www.blueletterbible.org/lexicon/g2633/kjv/tr/0-1/){:target="_blank"} katakrisis
+## G2633 katakrisis
 ```
 G2633 - 2 total occurrences:
      1 ( 50.0%) of condemnation
@@ -129,7 +129,7 @@ BLB Count: 2
 Occurrences: 2 Corinthians 3:9; 7:3
 ```
 
-## [G3009](https://www.blueletterbible.org/lexicon/g3009/kjv/tr/0-1/){:target="_blank"} leitourgia
+## G3009 leitourgia
 ```
 G3009 - 4 total occurrences:
      2 ( 50.0%) ministry
@@ -141,7 +141,7 @@ BLB Count: 6
 Occurrences: Numbers 8:22; 16:9; 18:4; 2 Chronicles 31:2; Luke 1:23; 2 Corinthians 9:12; Philippians 2:17; 2:30; Hebrews 8:6; 9:21
 ```
 
-## [G4109](https://www.blueletterbible.org/lexicon/g4109/kjv/tr/0-1/){:target="_blank"} plax
+## G4109 plax
 ```
 G4109 - 3 total occurrences:
      3 (100%) tables
@@ -151,7 +151,7 @@ BLB Count: 3
 Occurrences: 2 Corinthians 3:3; Hebrews 9:4
 ```
 
-## [G1121](https://www.blueletterbible.org/lexicon/g1121/kjv/tr/0-1/){:target="_blank"} gramma
+## G1121 gramma
 ```
 G1121 - 13 total occurrences, 11 unique translations:
      2 ( 15.4%) bill
@@ -163,7 +163,7 @@ BLB Count: 15
 Occurrences: Luke 16:6; 23:38; John 5:47; 7:15; Acts 26:24; 28:21; Romans 2:27; 2:29; 7:6; 2 Corinthians 3:6; 3:7; Galatians 6:11; 2 Timothy 3:15
 ```
 
-## [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} pneuma
+## G4151 pneuma
 ```
 G4151 - 342 total occurrences, 29 unique translations:
     85 ( 24.9%) Ghost
@@ -176,7 +176,7 @@ Lexicon: pneuma - neuter noun - a current of air, i.e. breath (blast) or a breez
 BLB Count: 385
 ```
 
-## [G1392](https://www.blueletterbible.org/lexicon/g1392/kjv/tr/0-1/){:target="_blank"} doxazo
+## G1392 doxazo
 ```
 G1392 - 42 total occurrences, 23 unique translations:
      9 ( 21.4%) glorified
@@ -189,7 +189,7 @@ BLB Count: 62
 Key: Exodus 34:29 and 34:35 (LXX uses doxazo for Moses' face shining); 2 Corinthians 3:10
 ```
 
-## [G2665](https://www.blueletterbible.org/lexicon/g2665/kjv/tr/0-1/){:target="_blank"} katapetasma
+## G2665 katapetasma
 ```
 G2665 - 6 total occurrences:
      6 (100%) veil
@@ -200,7 +200,7 @@ Occurrences: Exodus 26:31; 26:33; 26:37; 27:16; 38:18; Leviticus 16:2; 16:12; 16
 Note: katapetasma = temple veil (distinct from kalumma = personal/spiritual veil)
 ```
 
-## [H2801](https://www.blueletterbible.org/lexicon/h2801/kjv/wlc/0-1/){:target="_blank"} charath
+## H2801 charath
 ```
 H2801 - 1 total occurrence:
      1 (100%) graven
@@ -210,7 +210,7 @@ BLB Count: 1
 Occurrence: Exodus 32:16
 ```
 
-## [H3789](https://www.blueletterbible.org/lexicon/h3789/kjv/wlc/0-1/){:target="_blank"} kathab
+## H3789 kathab
 ```
 H3789 - 248 total occurrences, 89 unique translations:
     89 ( 35.9%) written
@@ -221,7 +221,7 @@ BLB Count: 223
 Key occurrences: Exodus 24:12; 31:18; 32:15; 34:1; 34:27; Deuteronomy 9:10; 10:4; Jeremiah 31:33
 ```
 
-## [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah
+## H8451 torah
 ```
 H8451 - 244 total occurrences, 47 unique translations:
     60 ( 24.6%) the law

@@ -1,13 +1,13 @@
 # Raw Strong's Lookup Data
 
-## [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} -- shabbath (sabbath)
+## H7676 -- shabbath (sabbath)
 
 **Transliteration:** shabbath
 **Pronunciation:** shab-bawth
 **Part of Speech:** masculine/feminine noun (n-f)
 **BLB Count:** 108
 **KJV Occurrences:** 109 total, 26 unique translations
-**Definition:** Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"}; intermission, i.e. (specifically) the Sabbath
+**Definition:** Intensive from H7673; intermission, i.e. (specifically) the Sabbath
 
 ### Translation Distribution
 | Count | % | Translation |
@@ -26,14 +26,14 @@
 
 ---
 
-## [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} -- shabbathon (sabbath rest)
+## H7677 -- shabbathon (sabbath rest)
 
 **Transliteration:** shabbathon
 **Pronunciation:** shab-baw-thone
 **Part of Speech:** masculine noun (n-m)
 **BLB Count:** 11
 **KJV Occurrences:** 11 total, 3 unique translations
-**Definition:** From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday
+**Definition:** From H7676; a sabbatism or special holiday
 
 ### Translation Distribution
 | Count | % | Translation |
@@ -44,7 +44,7 @@
 
 ---
 
-## [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} -- shabath (to cease/rest)
+## H7673 -- shabath (to cease/rest)
 
 **Transliteration:** shabath
 **Pronunciation:** shaw-bath
@@ -70,14 +70,14 @@
 
 ---
 
-## [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} -- moed (appointed time/feast)
+## H4150 -- moed (appointed time/feast)
 
 **Transliteration:** moed
 **Pronunciation:** mo-ade
 **Part of Speech:** masculine noun (n-m)
 **BLB Count:** 223
 **KJV Occurrences:** 229 total, 68 unique translations
-**Definition:** From [H3259](https://www.blueletterbible.org/lexicon/h3259/kjv/wlc/0-1/){:target="_blank"}; properly, an appointment, i.e. a fixed time or season; specifically, a festival; conventionally a year; by implication, an assembly (as convened for a definite purpose); technically the congregation; by extension, the place of meeting; also a signal (as appointed beforehand).
+**Definition:** From H3259; properly, an appointment, i.e. a fixed time or season; specifically, a festival; conventionally a year; by implication, an assembly (as convened for a definite purpose); technically the congregation; by extension, the place of meeting; also a signal (as appointed beforehand).
 
 ### Translation Distribution (top entries)
 | Count | % | Translation |
@@ -96,14 +96,14 @@
 
 ---
 
-## [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} -- chag (feast/festival)
+## H2282 -- chag (feast/festival)
 
 **Transliteration:** chag
 **Pronunciation:** khag
 **Part of Speech:** masculine noun (n-m)
 **BLB Count:** 62
 **KJV Occurrences:** 69 total, 28 unique translations
-**Definition:** From [H2287](https://www.blueletterbible.org/lexicon/h2287/kjv/wlc/0-1/){:target="_blank"}; a festival, or a victim therefor: (solemn) feast (day), sacrifice, solemnity.
+**Definition:** From H2287; a festival, or a victim therefor: (solemn) feast (day), sacrifice, solemnity.
 
 ### Translation Distribution (top entries)
 | Count | % | Translation |
@@ -119,14 +119,14 @@
 
 ---
 
-## [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} -- bad (separation/apart/beside)
+## H905 -- bad (separation/apart/beside)
 
 **Transliteration:** bad
 **Pronunciation:** bad
 **Part of Speech:** masculine noun (n-m)
 **BLB Count:** 56
 **KJV Occurrences:** 203 total, 43 unique translations
-**Definition:** From [H909](https://www.blueletterbible.org/lexicon/h909/kjv/wlc/0-1/){:target="_blank"}; properly, separation; by implication, a part of the body, branch of a tree, bar for carrying; figuratively, chief of a city; especially (with prepositional prefix) as an adverb, apart, only, besides.
+**Definition:** From H909; properly, separation; by implication, a part of the body, branch of a tree, bar for carrying; figuratively, chief of a city; especially (with prepositional prefix) as an adverb, apart, only, besides.
 
 ### Translation Distribution (top entries)
 | Count | % | Translation |
@@ -146,14 +146,14 @@
 
 ---
 
-## [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} -- zakar (to remember)
+## H2142 -- zakar (to remember)
 
 **Transliteration:** zakar
 **Pronunciation:** zaw-kar
 **Part of Speech:** verb (v)
 **BLB Count:** 233
 **KJV Occurrences:** 279 total, 140 unique translations
-**Definition:** A primitive root; properly, to mark (so as to be recognized), i.e. to remember; by implication, to mention; also as denominative from [H2145](https://www.blueletterbible.org/lexicon/h2145/kjv/wlc/0-1/){:target="_blank"}, to be male.
+**Definition:** A primitive root; properly, to mark (so as to be recognized), i.e. to remember; by implication, to mention; also as denominative from H2145, to be male.
 
 ### Translation Distribution (top entries)
 | Count | % | Translation |
@@ -173,14 +173,14 @@
 
 ---
 
-## [H6944](https://www.blueletterbible.org/lexicon/h6944/kjv/wlc/0-1/){:target="_blank"} -- qodesh (holiness/sacred)
+## H6944 -- qodesh (holiness/sacred)
 
 **Transliteration:** qodesh
 **Pronunciation:** ko-desh
 **Part of Speech:** masculine noun (n-m)
 **BLB Count:** 468
 **KJV Occurrences:** 452 total, 90 unique translations
-**Definition:** From [H6942](https://www.blueletterbible.org/lexicon/h6942/kjv/wlc/0-1/){:target="_blank"}; a sacred place or thing; rarely abstract, sanctity.
+**Definition:** From H6942; a sacred place or thing; rarely abstract, sanctity.
 
 ### Translation Distribution (top entries)
 | Count | % | Translation |
@@ -198,7 +198,7 @@
 
 ---
 
-## [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} -- sabbaton (sabbath)
+## G4521 -- sabbaton (sabbath)
 
 **Transliteration:** sabbaton
 **Pronunciation:** sab-bat-on
@@ -224,14 +224,14 @@
 
 ---
 
-## [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} -- sabbatismos (sabbath-keeping)
+## G4520 -- sabbatismos (sabbath-keeping)
 
 **Transliteration:** sabbatismos
 **Pronunciation:** sab-bat-is-mos
 **Part of Speech:** masculine noun (n-m)
 **BLB Count:** 1
 **KJV Occurrences:** 1 total, 1 unique translation
-**Definition:** From a derivative of [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}; a "sabbatism," i.e. (figuratively) the repose of Christianity (as a type of heaven).
+**Definition:** From a derivative of G4521; a "sabbatism," i.e. (figuratively) the repose of Christianity (as a type of heaven).
 
 ### Translation Distribution
 | Count | % | Translation |
@@ -242,7 +242,7 @@
 
 ---
 
-## [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} -- skia (shadow)
+## G4639 -- skia (shadow)
 
 **Transliteration:** skia
 **Pronunciation:** skee-ah
@@ -262,14 +262,14 @@
 
 ---
 
-## [G444](https://www.blueletterbible.org/lexicon/g444/kjv/tr/0-1/){:target="_blank"} -- anthropos (man/human being)
+## G444 -- anthropos (man/human being)
 
 **Transliteration:** anthropos
 **Pronunciation:** anth-ro-pos
 **Part of Speech:** masculine noun (n-m)
 **BLB Count:** 559
 **KJV Occurrences:** 487 total, 36 unique translations
-**Definition:** From [G435](https://www.blueletterbible.org/lexicon/g435/kjv/tr/0-1/){:target="_blank"} and ops (the countenance); man-faced, i.e. a human being.
+**Definition:** From G435 and ops (the countenance); man-faced, i.e. a human being.
 
 ### Translation Distribution (top entries)
 | Count | % | Translation |
@@ -287,7 +287,7 @@
 
 ---
 
-## [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} -- ginomai (to become/come into being)
+## G1096 -- ginomai (to become/come into being)
 
 **Transliteration:** ginomai
 **Pronunciation:** ghin-om-ahee
@@ -314,14 +314,14 @@
 
 ---
 
-## [G52](https://www.blueletterbible.org/lexicon/g52/kjv/tr/0-1/){:target="_blank"} -- agnoia (ignorance)
+## G52 -- agnoia (ignorance)
 
 **Transliteration:** agnoia
 **Pronunciation:** ag-noy-ah
 **Part of Speech:** feminine noun (n-f)
 **BLB Count:** 4
 **KJV Occurrences:** 4 total, 2 unique translations
-**Definition:** From [G50](https://www.blueletterbible.org/lexicon/g50/kjv/tr/0-1/){:target="_blank"}; ignorance (properly, the quality).
+**Definition:** From G50; ignorance (properly, the quality).
 
 ### Translation Distribution
 | Count | % | Translation |
@@ -333,14 +333,14 @@
 
 ---
 
-## [G5237](https://www.blueletterbible.org/lexicon/g5237/kjv/tr/0-1/){:target="_blank"} -- huperhorao (to overlook/wink at)
+## G5237 -- huperhorao (to overlook/wink at)
 
 **Transliteration:** huperhorao
 **Pronunciation:** hoop-er-i-do
 **Part of Speech:** verb (v)
 **BLB Count:** 1
 **KJV Occurrences:** 1 total, 1 unique translation
-**Definition:** From [G5228](https://www.blueletterbible.org/lexicon/g5228/kjv/tr/0-1/){:target="_blank"} and [G3708](https://www.blueletterbible.org/lexicon/g3708/kjv/tr/0-1/){:target="_blank"}; to overlook, i.e. not punish.
+**Definition:** From G5228 and G3708; to overlook, i.e. not punish.
 
 ### Translation Distribution
 | Count | % | Translation |
@@ -351,14 +351,14 @@
 
 ---
 
-## [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} -- metanoeo (to repent)
+## G3340 -- metanoeo (to repent)
 
 **Transliteration:** metanoeo
 **Pronunciation:** met-an-o-eh-o
 **Part of Speech:** verb (v)
 **BLB Count:** 34
 **KJV Occurrences:** 36 total, 21 unique translations
-**Definition:** From [G3326](https://www.blueletterbible.org/lexicon/g3326/kjv/tr/0-1/){:target="_blank"} and [G3539](https://www.blueletterbible.org/lexicon/g3539/kjv/tr/0-1/){:target="_blank"}; to think differently or afterwards, i.e. reconsider (morally, feel compunction).
+**Definition:** From G3326 and G3539; to think differently or afterwards, i.e. reconsider (morally, feel compunction).
 
 ### Translation Distribution (top entries)
 | Count | % | Translation |

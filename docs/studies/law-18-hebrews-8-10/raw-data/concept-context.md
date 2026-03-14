@@ -95,7 +95,7 @@ Book: Hebrews | Author: Hebrews
 
 Result: "No theological concepts found in HEB 10:9"
 
-Note: The tool did not find mapped theological concepts for this verse's Strong's numbers (G337 anaireo, [G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"} histemi, [G4413](https://www.blueletterbible.org/lexicon/g4413/kjv/tr/0-1/){:target="_blank"} protos). This is a tool limitation, not a substantive finding.
+Note: The tool did not find mapped theological concepts for this verse's Strong's numbers (G337 anaireo, G2476 histemi, G4413 protos). This is a tool limitation, not a substantive finding.
 
 ---
 

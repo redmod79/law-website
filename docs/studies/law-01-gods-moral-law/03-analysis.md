@@ -95,7 +95,7 @@ What is God's moral law? What is its basis, nature, and scope? Investigate the D
 ##### Deuteronomy 31:9, 24-26 (Contrast: Book of the Law placed BESIDE the Ark)
 **Context:** Near the end of Moses' life, he completes writing "this law" (the book of the law -- the broader legislation) and gives instructions for its placement.
 **Direct statement:** "Moses wrote this law" (v. 9). "Moses had made an end of writing the words of this law in a book" (v. 24). "Take this book of the law, and put it in the side of the ark of the covenant of the LORD your God, that it may be there for a witness against thee" (v. 26).
-**Key observations:** The book of the law is placed "in the side of" (mitstsad, [H6654](https://www.blueletterbible.org/lexicon/h6654/kjv/wlc/0-1/){:target="_blank"}, meaning beside/at the side of) the ark -- NOT inside it. This contrasts with the Ten Commandments which were placed INSIDE the ark (Deuteronomy 10:5; 1 Kings 8:9). Two different repositories for two different documents: the Decalogue inside, the broader law code beside. The book of the law is called "a witness against thee" (v. 26) -- it testifies against the people. The tablets inside the ark are called "the testimony" -- they are God's witness of His covenant.
+**Key observations:** The book of the law is placed "in the side of" (mitstsad, H6654, meaning beside/at the side of) the ark -- NOT inside it. This contrasts with the Ten Commandments which were placed INSIDE the ark (Deuteronomy 10:5; 1 Kings 8:9). Two different repositories for two different documents: the Decalogue inside, the broader law code beside. The book of the law is called "a witness against thee" (v. 26) -- it testifies against the people. The tablets inside the ark are called "the testimony" -- they are God's witness of His covenant.
 
 ##### 1 Kings 8:9
 **Context:** Solomon's dedication of the temple. The ark is placed in the Most Holy Place.
@@ -220,7 +220,7 @@ The word "perfect" (tamiym, H8549) means "complete, whole, without blemish." The
 ##### Psalm 111:7-10
 **Context:** A psalm praising God's works and faithfulness.
 **Direct statement:** "All his commandments are sure. They stand fast for ever and ever, and are done in truth and uprightness" (vv. 7-8). "He hath commanded his covenant for ever" (v. 9).
-**Key observations:** The commandments "stand fast for ever and ever" (ad, [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} + olam, H5769). This is the strongest Hebrew expression for perpetuity. The covenant is "for ever." The commandments are "sure" (amen -- reliable, faithful, established).
+**Key observations:** The commandments "stand fast for ever and ever" (ad, H5703 + olam, H5769). This is the strongest Hebrew expression for perpetuity. The covenant is "for ever." The commandments are "sure" (amen -- reliable, faithful, established).
 
 ##### Psalm 119:89, 152, 160
 **Context:** The psalmist's meditation on the permanence of God's word/law.
@@ -627,16 +627,3 @@ What is "vanishing" -- the law itself or the old covenant arrangement? The same 
 
 *Analysis completed: 2026-02-23*
 *Source files: PROMPT.md, 01-topics.md, 02-verses.md, 04-word-studies.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

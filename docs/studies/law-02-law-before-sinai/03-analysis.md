@@ -93,7 +93,7 @@ What evidence exists for the moral law operating from creation to Sinai? If the 
 **Context:** Cain and Abel bring offerings. God accepts Abel's but not Cain's. Cain murders Abel. God confronts Cain.
 **Direct statement:** "If thou doest not well, sin [chattath, H2403] lieth at the door" (v.7). "What hast thou done? the voice of thy brother's blood crieth unto me from the ground" (v.10). "Now art thou cursed from the earth" (v.11).
 **Key observations:**
-1. Verse 7 uses the word "sin" (chattath, [H2403](https://www.blueletterbible.org/lexicon/h2403/kjv/wlc/0-1/){:target="_blank"} -- from chata, H2398). This is the standard OT word for sin. Sin is named and identified before Sinai.
+1. Verse 7 uses the word "sin" (chattath, H2403 -- from chata, H2398). This is the standard OT word for sin. Sin is named and identified before Sinai.
 2. God warns Cain before the act (vv.6-7), indicating foreknowledge of moral danger and an expectation that Cain should know better.
 3. After the murder, God investigates ("What hast thou done?"), pronounces a curse (v.11), and enforces a penalty (vv.11-12).
 4. Cain acknowledges the justice of the punishment: "My punishment is greater than I can bear" (v.13). He does not protest that no law prohibited murder.
@@ -486,16 +486,3 @@ Paul states this principle, then notes "nevertheless death reigned from Adam to 
 
 ### The Absence of an Explicit Sabbath Command in Genesis 2
 The text of Genesis 2:2-3 describes what God did (rested, blessed, sanctified) but does not contain an explicit command to humans to observe the seventh day. The command first appears in Exodus 16 (pre-Sinai) and then formally in Exodus 20:8-11. The Abolished position cites this absence as evidence the Sabbath was not commanded at creation. The Continues position notes that Genesis 2:2-3 records the institution (blessing and sanctifying a day for a purpose beyond God's own rest), and the fourth commandment explicitly roots itself in this creation act.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

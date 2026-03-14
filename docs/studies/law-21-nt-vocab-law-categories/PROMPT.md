@@ -202,48 +202,48 @@ Retrieve full entries for: COMMANDMENTS, ORDINANCE, LAW, DECALOGUE, DECREES, OBE
 
 ### Primary Greek Terms (the five core law terms)
 
-1. **[G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole** -- "commandment, injunction, order" -- 71 NT occurrences
+1. **G1785 entole** -- "commandment, injunction, order" -- 71 NT occurrences
    - KJV: "commandment" 52x, "commandments" 14x, etc.
    - For the mapping table: retrieve ALL 71 occurrences and classify each by identifiable content
 
-2. **[G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos** -- "law, custom, principle" -- 197 NT occurrences
+2. **G3551 nomos** -- "law, custom, principle" -- 197 NT occurrences
    - KJV: "law" 95x, "the law" 49x, "of the law" 14x, etc.
    - For the mapping table: sample representative passages where content is identifiable, track article presence
 
-3. **[G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} dogma** -- "decree, ordinance" -- 5 NT occurrences (COMPLETE SET)
+3. **G1378 dogma** -- "decree, ordinance" -- 5 NT occurrences (COMPLETE SET)
    - Luke 2:1, Acts 16:4, Acts 17:7, Eph 2:15, Col 2:14
    - ALL five must be mapped with identifiable content
 
-4. **[G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} cheirographon** -- "handwriting, certificate of debt" -- 1 NT occurrence (hapax)
+4. **G5498 cheirographon** -- "handwriting, certificate of debt" -- 1 NT occurrence (hapax)
    - Col 2:14 only
    - Must determine identifiable referent
 
-5. **[G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma** -- "ordinance, righteous requirement, righteous act" -- 10 NT occurrences (COMPLETE SET)
+5. **G1345 dikaioma** -- "ordinance, righteous requirement, righteous act" -- 10 NT occurrences (COMPLETE SET)
    - Luk 1:6, Rom 1:32, Rom 2:26, Rom 5:16, Rom 5:18, Rom 8:4, Heb 9:1, Heb 9:10, Rev 15:4, Rev 19:8
    - ALL ten must be mapped with identifiable content
 
 ### Related Greek Terms
 
-6. **[G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} dogmatizo** -- "to subject to ordinances" -- Col 2:20 only
-7. **[G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} katargeo** -- "to render idle, abolish, make void" -- Used in abolition passages: Eph 2:15, Rom 3:31, 2 Cor 3:7,11,13,14
-8. **[G4338](https://www.blueletterbible.org/lexicon/g4338/kjv/tr/0-1/){:target="_blank"} proseloo** -- "to nail to" -- Col 2:14 only
-9. **[G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} skia** -- "shadow" -- Heb 10:1, Col 2:17, Heb 8:5
-10. **[G1778](https://www.blueletterbible.org/lexicon/g1778/kjv/tr/0-1/){:target="_blank"} entalma** -- "injunction, religious precept" -- Mat 15:9, Mar 7:7, Col 2:22
-11. **[G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} anomia** -- "lawlessness, transgression of law" -- Mat 7:23; 13:41; 23:28; 24:12; Rom 4:7; 6:19; 1 Jhn 3:4
-12. **[G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} anomos** -- "lawless, without law" -- 1 Cor 9:21; 2 Thes 2:8; 1 Tim 1:9
-13. **[G5084](https://www.blueletterbible.org/lexicon/g5084/kjv/tr/0-1/){:target="_blank"} teresis** -- "a watching, observance" -- 1 Cor 7:19 ("the keeping of the commandments")
-14. **[G4560](https://www.blueletterbible.org/lexicon/g4560/kjv/tr/0-1/){:target="_blank"} sarkinos** -- "fleshly, carnal" -- Heb 7:16 ("entoles sarkines")
-15. **[G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} dikaiosyne** -- "righteousness" -- 92 occurrences; related to dikaioma
-16. **[G3548](https://www.blueletterbible.org/lexicon/g3548/kjv/tr/0-1/){:target="_blank"} nomothesia** -- "legislation, giving of the law" -- Rom 9:4 only
-17. **[G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} ennomos** -- "within law, lawful" -- 1 Cor 9:21
-18. **[G3891](https://www.blueletterbible.org/lexicon/g3891/kjv/tr/0-1/){:target="_blank"} paranomeo** -- "to transgress the law" -- Acts 23:3
+6. **G1379 dogmatizo** -- "to subject to ordinances" -- Col 2:20 only
+7. **G2673 katargeo** -- "to render idle, abolish, make void" -- Used in abolition passages: Eph 2:15, Rom 3:31, 2 Cor 3:7,11,13,14
+8. **G4338 proseloo** -- "to nail to" -- Col 2:14 only
+9. **G4639 skia** -- "shadow" -- Heb 10:1, Col 2:17, Heb 8:5
+10. **G1778 entalma** -- "injunction, religious precept" -- Mat 15:9, Mar 7:7, Col 2:22
+11. **G458 anomia** -- "lawlessness, transgression of law" -- Mat 7:23; 13:41; 23:28; 24:12; Rom 4:7; 6:19; 1 Jhn 3:4
+12. **G459 anomos** -- "lawless, without law" -- 1 Cor 9:21; 2 Thes 2:8; 1 Tim 1:9
+13. **G5084 teresis** -- "a watching, observance" -- 1 Cor 7:19 ("the keeping of the commandments")
+14. **G4560 sarkinos** -- "fleshly, carnal" -- Heb 7:16 ("entoles sarkines")
+15. **G1343 dikaiosyne** -- "righteousness" -- 92 occurrences; related to dikaioma
+16. **G3548 nomothesia** -- "legislation, giving of the law" -- Rom 9:4 only
+17. **G1772 ennomos** -- "within law, lawful" -- 1 Cor 9:21
+18. **G3891 paranomeo** -- "to transgress the law" -- Acts 23:3
 
 ### Hebrew Background Terms (LXX connections)
-19. **[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah** -- Maps to nomos (G3551) 188x in LXX
-20. **[H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} mitsvah** -- Maps to entole (G1785) 153x in LXX
-21. **[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} choq** -- Maps to dikaioma (G1345) 52x in LXX
-22. **[H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} chuqqah** -- Maps to dikaioma 35x, nomimos 32x in LXX
-23. **[H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} mishpat** -- Maps to krima (G2917) 175x in LXX
+19. **H8451 torah** -- Maps to nomos (G3551) 188x in LXX
+20. **H4687 mitsvah** -- Maps to entole (G1785) 153x in LXX
+21. **H2706 choq** -- Maps to dikaioma (G1345) 52x in LXX
+22. **H2708 chuqqah** -- Maps to dikaioma 35x, nomimos 32x in LXX
+23. **H4941 mishpat** -- Maps to krima (G2917) 175x in LXX
 
 ---
 
@@ -531,16 +531,3 @@ Must investigate passages that potentially BREAK the vocabulary pattern:
 5. **The Affirm/Abolish Vocabulary Comparison**: Which Greek terms appear in affirmation passages? Which appear in abolition passages? Is the vocabulary partition between these two groups consistent?
 
 The research agent should REFERENCE law-20's data (do not re-derive what law-20 already established) but must EXTEND it by adding the content-identification layer and building the comprehensive mapping table.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

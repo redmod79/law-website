@@ -35,7 +35,7 @@
 **Transliteration:** sab-bat-is-mos'
 **Part of Speech:** Masculine noun
 **Occurrences:** 1 (hapax legomenon)
-**Definition:** From a derivative of [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}; a "sabbatism," i.e. the repose of Christianity (as a type of future rest)
+**Definition:** From a derivative of G4521; a "sabbatism," i.e. the repose of Christianity (as a type of future rest)
 
 **Key Usage:** Heb 4:9 only. The -ismos suffix denotes practice/observance (cf. baptismos = practice of baptizing). The author switches from katapausis (rest, used 8 times in Heb 3-4) to sabbatismos in v.9 only, indicating a deliberate word choice. The verb apoleipetai (Present Passive Indicative) = "is currently remaining/left behind."
 
@@ -73,7 +73,7 @@
 **Transliteration:** dog'-mah
 **Part of Speech:** Neuter noun
 **Occurrences:** 5
-**Definition:** From the base of [G1380](https://www.blueletterbible.org/lexicon/g1380/kjv/tr/0-1/){:target="_blank"} (dokeo); a law (civil, ceremonial, or ecclesiastical)
+**Definition:** From the base of G1380 (dokeo); a law (civil, ceremonial, or ecclesiastical)
 
 **All 5 NT Occurrences:**
 1. **Luk 2:1** -- "a decree [dogma] from Caesar Augustus" (civil/imperial)
@@ -91,7 +91,7 @@
 **Transliteration:** dog-mat-id'-zo
 **Part of Speech:** Verb
 **Occurrences:** 1 (hapax legomenon in NT)
-**Definition:** From [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma); to prescribe by statute, i.e. (reflexively) to submit to ceremonial rules
+**Definition:** From G1378 (dogma); to prescribe by statute, i.e. (reflexively) to submit to ceremonial rules
 
 **Key Usage:** Col 2:20 only -- "Why...are ye subject to ordinances [dogmatizesthe]?" The verbal form of dogma. Paul uses the same root (dogma in v.14, dogmatizo in v.20) to link what was nailed to the cross with the ordinances the Colossians are submitting to.
 
@@ -124,7 +124,7 @@
 **Transliteration:** dee-ak'-ree-sis
 **Part of Speech:** Feminine noun
 **Occurrences:** 3
-**Definition:** From [G1252](https://www.blueletterbible.org/lexicon/g1252/kjv/tr/0-1/){:target="_blank"}; judicial estimation: discerning, disputation
+**Definition:** From G1252; judicial estimation: discerning, disputation
 
 **All 3 NT Occurrences:**
 1. **Rom 14:1** -- "not to doubtful disputations [diakriseis dialogismon]"
@@ -177,7 +177,7 @@
 **Transliteration:** shab-bawth'
 **Part of Speech:** Masculine/feminine noun
 **Occurrences:** 108
-**Definition:** Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath); intermission, i.e. (specifically) the Sabbath: (every) sabbath
+**Definition:** Intensive from H7673 (shabath); intermission, i.e. (specifically) the Sabbath: (every) sabbath
 
 **Usage Notes:** Used for both the weekly Sabbath (Exo 20:8,10,11; Lev 23:3) and in the ceremonial triad "feasts/new moons/sabbaths" (2 Chr 31:3; Eze 45:17; 1 Chr 23:31). The context determines whether weekly or ceremonial sabbaths are in view. In Lev 23:38, "shabbetot YHWH" (sabbaths of the LORD) is explicitly separated from the feasts by millibad.
 
@@ -188,7 +188,7 @@
 **Transliteration:** shab-baw-thone'
 **Part of Speech:** Masculine noun
 **Occurrences:** 11
-**Definition:** From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday: rest, sabbath
+**Definition:** From H7676; a sabbatism or special holiday: rest, sabbath
 
 **Usage Distribution:**
 - Weekly Sabbath: Lev 23:3 (shabbath shabbathown -- "sabbath of rest")
@@ -255,19 +255,6 @@ The zakar/skia directional contrast: zakar points backward to creation; skia poi
 **Transliteration:** kho'-desh
 **Part of Speech:** Masculine noun
 **Occurrences:** 276
-**Definition:** From [H2318](https://www.blueletterbible.org/lexicon/h2318/kjv/wlc/0-1/){:target="_blank"} (chadash); the new moon; by implication a month
+**Definition:** From H2318 (chadash); the new moon; by implication a month
 
 **Key Usage:** Appears in the ceremonial triad with feasts and sabbaths: 1 Chr 23:31, 2 Chr 31:3, Eze 45:17, Hos 2:11, Isa 1:13. Col 2:16 uses the Greek equivalent noumenia (G3561). Isa 66:23 uses chodesh alongside shabbath for new-earth worship.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

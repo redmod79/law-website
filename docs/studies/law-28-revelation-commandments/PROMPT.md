@@ -89,15 +89,15 @@ What commandments are in Revelation and what do they mean? Investigate Rev 12:17
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole (commandment, injunction) | Core word -- "commandments" in Rev 12:17; 14:12; 22:14. 71 NT occurrences. Without qualifier = moral law (prior studies law-20, law-21 established). |
-| [G3141](https://www.blueletterbible.org/lexicon/g3141/kjv/tr/0-1/){:target="_blank"} | martyria (testimony, witness, evidence) | "Testimony of Jesus" in Rev 12:17; 19:10; 1:2; 1:9; 6:9; 12:11; 20:4. 37 NT occurrences. |
-| [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} | pistis (faith, persuasion, credence) | "Faith of Jesus" in Rev 14:12; also Rev 2:13,19; 13:10. 244 NT occurrences. |
-| [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} | hupomone (patience, endurance, constancy) | "Patience of the saints" in Rev 14:12; also Rev 1:9; 2:2,19; 3:10; 13:10. 32 NT occurrences. |
-| [G2003](https://www.blueletterbible.org/lexicon/g2003/kjv/tr/0-1/){:target="_blank"} | epitage (injunction, decree) | Alternate commandment term -- 7 NT occurrences, for comparison with entole. |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma (decree, ordinance) | What was abolished (Col 2:14; Eph 2:15). NEVER used for God's moral commandments. Contrast term. |
-| [G1778](https://www.blueletterbible.org/lexicon/g1778/kjv/tr/0-1/){:target="_blank"} | entalma (commandment, precept) | "Commandments of men" (Mat 15:9; Mrk 7:7; Col 2:22). Contrast with entole for God's commands. |
-| [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} | propheteia (prophecy, prediction) | Connected to martyria -- Rev 19:10 "the testimony of Jesus IS the spirit of prophecy." |
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos (law) | Broader law term. Contrast with entole usage in Revelation. |
+| G1785 | entole (commandment, injunction) | Core word -- "commandments" in Rev 12:17; 14:12; 22:14. 71 NT occurrences. Without qualifier = moral law (prior studies law-20, law-21 established). |
+| G3141 | martyria (testimony, witness, evidence) | "Testimony of Jesus" in Rev 12:17; 19:10; 1:2; 1:9; 6:9; 12:11; 20:4. 37 NT occurrences. |
+| G4102 | pistis (faith, persuasion, credence) | "Faith of Jesus" in Rev 14:12; also Rev 2:13,19; 13:10. 244 NT occurrences. |
+| G5281 | hupomone (patience, endurance, constancy) | "Patience of the saints" in Rev 14:12; also Rev 1:9; 2:2,19; 3:10; 13:10. 32 NT occurrences. |
+| G2003 | epitage (injunction, decree) | Alternate commandment term -- 7 NT occurrences, for comparison with entole. |
+| G1378 | dogma (decree, ordinance) | What was abolished (Col 2:14; Eph 2:15). NEVER used for God's moral commandments. Contrast term. |
+| G1778 | entalma (commandment, precept) | "Commandments of men" (Mat 15:9; Mrk 7:7; Col 2:22). Contrast with entole for God's commands. |
+| G4394 | propheteia (prophecy, prediction) | Connected to martyria -- Rev 19:10 "the testimony of Jesus IS the spirit of prophecy." |
+| G3551 | nomos (law) | Broader law term. Contrast with entole usage in Revelation. |
 
 ### Related Existing Studies
 
@@ -154,7 +154,7 @@ You are the Research Agent. Execute this study by:
 5. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (include full chapters for Rev 12, 14, 22; also Gen 2-3 for tree of life; Exo 20 for Decalogue; Dan 7:25; Ecc 12:13-14)
-   - `04-word-studies.md` - Strong's research for [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole), [G3141](https://www.blueletterbible.org/lexicon/g3141/kjv/tr/0-1/){:target="_blank"} (martyria), [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} (pistis), [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} (hupomone), [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma), [G1778](https://www.blueletterbible.org/lexicon/g1778/kjv/tr/0-1/){:target="_blank"} (entalma), [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} (propheteia)
+   - `04-word-studies.md` - Strong's research for G1785 (entole), G3141 (martyria), G4102 (pistis), G5281 (hupomone), G1378 (dogma), G1778 (entalma), G4394 (propheteia)
    - `raw-data/` - Raw tool output organized by category
 6. **Greek parsing is critical for this study.** Run greek_parser.py on Rev 12:17, Rev 14:12, Rev 22:14, and Rev 19:10. Run greek_text_compare.py on Rev 22:14. Parse the genitive constructions (entolas tou theou, martyrian Iesou, pistin Iesou) to determine whether they are objective, subjective, or possessive genitives.
 7. Run cross-testament parallels for Rev 12:17, Rev 14:12, Rev 22:14, Rev 14:7, and Rev 19:10 (both OT and NT).
@@ -167,16 +167,3 @@ answer-question
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-28-revelation-commandments/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

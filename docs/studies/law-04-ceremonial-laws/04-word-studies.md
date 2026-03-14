@@ -1,6 +1,6 @@
 # Word Studies
 
-## [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} - skia (shadow)
+## G4639 - skia (shadow)
 **Original:** σκιά
 **Transliteration:** skiá
 **Part of Speech:** feminine noun
@@ -23,7 +23,7 @@ The word skia is applied specifically to the ceremonial system -- sacrifices, fe
 
 ---
 
-## [G5179](https://www.blueletterbible.org/lexicon/g5179/kjv/tr/0-1/){:target="_blank"} - typos (type, pattern, figure)
+## G5179 - typos (type, pattern, figure)
 **Original:** τύπος
 **Transliteration:** týpos
 **Part of Speech:** masculine noun
@@ -44,7 +44,7 @@ Applied to the tabernacle pattern Moses received (Acts 7:44; Heb 8:5), establish
 
 ---
 
-## [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} - dogma (decree, ordinance)
+## G1378 - dogma (decree, ordinance)
 **Original:** δόγμα
 **Transliteration:** dógma
 **Part of Speech:** neuter noun
@@ -68,7 +68,7 @@ Applied to the tabernacle pattern Moses received (Acts 7:44; Heb 8:5), establish
 
 ---
 
-## [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} - dogmatizo (to subject to ordinances)
+## G1379 - dogmatizo (to subject to ordinances)
 **Original:** δογματίζω
 **Transliteration:** dogmatízō
 **Part of Speech:** verb
@@ -85,7 +85,7 @@ The verbal form of dogma, used only once in the NT, in the same context as Col 2
 
 ---
 
-## [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} - cheirographon (handwriting)
+## G5498 - cheirographon (handwriting)
 **Original:** χειρόγραφον
 **Transliteration:** cheirógraphon
 **Part of Speech:** neuter noun
@@ -102,7 +102,7 @@ The verbal form of dogma, used only once in the NT, in the same context as Col 2
 
 ---
 
-## [G4376](https://www.blueletterbible.org/lexicon/g4376/kjv/tr/0-1/){:target="_blank"} - prosphora (offering, presentation)
+## G4376 - prosphora (offering, presentation)
 **Original:** προσφορά
 **Transliteration:** prosphorá
 **Part of Speech:** feminine noun
@@ -124,7 +124,7 @@ Concentrated in Heb 10 where the argument contrasts the repeated, insufficient L
 
 ---
 
-## [G2378](https://www.blueletterbible.org/lexicon/g2378/kjv/tr/0-1/){:target="_blank"} - thysia (sacrifice)
+## G2378 - thysia (sacrifice)
 **Original:** θυσία
 **Transliteration:** thysía
 **Part of Speech:** feminine noun
@@ -148,15 +148,15 @@ The dominant noun for sacrifice in the NT, especially in Hebrews where 15 of 27 
 
 ---
 
-## [H2076](https://www.blueletterbible.org/lexicon/h2076/kjv/wlc/0-1/){:target="_blank"} - zabach (to slaughter in sacrifice) / [H2077](https://www.blueletterbible.org/lexicon/h2077/kjv/wlc/0-1/){:target="_blank"} - zebach (sacrifice)
+## H2076 - zabach (to slaughter in sacrifice) / H2077 - zebach (sacrifice)
 **Original:** זָבַח / זֶבַח
 **Transliteration:** zâbach / zebach
 **Part of Speech:** verb / masculine noun
 **Definition:** to slaughter an animal (usually in sacrifice) / a slaughter, the flesh of an animal; a sacrifice
 
 ### Occurrences
-- [H2076](https://www.blueletterbible.org/lexicon/h2076/kjv/wlc/0-1/){:target="_blank"} (verb): 149 occurrences
-- [H2077](https://www.blueletterbible.org/lexicon/h2077/kjv/wlc/0-1/){:target="_blank"} (noun): 166 occurrences
+- H2076 (verb): 149 occurrences
+- H2077 (noun): 166 occurrences
 
 ### Key Verses
 - **Dan 9:27** -- uses zebach: "he shall cause the sacrifice [zebach] and the oblation to cease"
@@ -169,7 +169,7 @@ The primary OT vocabulary for animal sacrifice. Used in Dan 9:27 for the sacrifi
 
 ---
 
-## [H8002](https://www.blueletterbible.org/lexicon/h8002/kjv/wlc/0-1/){:target="_blank"} - shelem (peace offering)
+## H8002 - shelem (peace offering)
 **Original:** שֶׁלֶם
 **Transliteration:** shelem
 **Part of Speech:** masculine noun
@@ -187,7 +187,7 @@ The peace offering (shelem, from shalom) was a voluntary, thanksgiving sacrifice
 
 ---
 
-## [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} - kippur (atonement, expiation)
+## H3725 - kippur (atonement, expiation)
 **Original:** כִּפֻּר
 **Transliteration:** kippur
 **Part of Speech:** masculine plural noun
@@ -204,7 +204,7 @@ The source of "Yom Kippur" (Day of Atonement). The entire Day of Atonement cerem
 
 ---
 
-## [G2409](https://www.blueletterbible.org/lexicon/g2409/kjv/tr/0-1/){:target="_blank"} - hiereus (priest) / [G2420](https://www.blueletterbible.org/lexicon/g2420/kjv/tr/0-1/){:target="_blank"} - hierosyne (priesthood)
+## G2409 - hiereus (priest) / G2420 - hierosyne (priesthood)
 **Original:** ἱερεύς / ἱερωσύνη
 **Transliteration:** hiereús / hierōsýnē
 **Part of Speech:** masculine noun / feminine noun
@@ -225,7 +225,7 @@ Hebrews argues that the Levitical priesthood was temporary and has been supersed
 
 ---
 
-## [G4061](https://www.blueletterbible.org/lexicon/g4061/kjv/tr/0-1/){:target="_blank"} - peritome (circumcision)
+## G4061 - peritome (circumcision)
 **Original:** περιτομή
 **Transliteration:** peritomḗ
 **Part of Speech:** feminine noun
@@ -247,7 +247,7 @@ Paul explicitly declares circumcision "nothing" while simultaneously affirming "
 
 ---
 
-## [G3316](https://www.blueletterbible.org/lexicon/g3316/kjv/tr/0-1/){:target="_blank"} - mesites (mediator)
+## G3316 - mesites (mediator)
 **Original:** μεσίτης
 **Transliteration:** mesítēs
 **Part of Speech:** masculine noun
@@ -273,7 +273,7 @@ In Gal 3:19, the law that was "ordained by angels in the hand of a mediator" is 
 
 ---
 
-## [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} - dikaioma (ordinance, righteous requirement)
+## G1345 - dikaioma (ordinance, righteous requirement)
 **Original:** δικαίωμα
 **Transliteration:** dikaíōma
 **Part of Speech:** neuter noun
@@ -295,7 +295,7 @@ In Heb 9:1,10, dikaioma is explicitly modified by "of divine service" and "carna
 
 ---
 
-## [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} - towrah (law, instruction)
+## H8451 - towrah (law, instruction)
 **Original:** תּוֹרָה
 **Transliteration:** tôwrâh
 **Part of Speech:** feminine noun
@@ -316,16 +316,3 @@ In Heb 9:1,10, dikaioma is explicitly modified by "of divine service" and "carna
 
 ### Significance
 Towrah has a broad semantic range: it can refer to specific ceremonial regulations (Lev 7:37 -- "the law of the burnt offering"), to the whole Pentateuch, or to God's instruction generally. Context determines the referent. In Deu 31:9,24,26, "this law" refers to the book Moses wrote and placed BESIDE the Ark -- distinct from the Ten Commandments placed INSIDE the Ark (Deu 10:5). This contextual distinction is crucial for understanding which "law" is in view in any given passage.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

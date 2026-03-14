@@ -96,7 +96,7 @@ The study database returned extensive prior analysis on the five Greek law terms
 - Conclusion path: D:/bible/bible-studies/law-07-law-of-moses/CONCLUSION.md
 
 #### 8. law-01-gods-moral-law (RELEVANT -- word study foundation)
-- Word studies on [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole, [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} dogma, [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma, [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos
+- Word studies on G1785 entole, G1378 dogma, G1345 dikaioma, G3551 nomos
 - The Nomos/Entole Cluster table mapping all related NT Greek law terms
 - Conclusion path: D:/bible/bible-studies/law-01-gods-moral-law/CONCLUSION.md
 
@@ -172,7 +172,7 @@ Retrieve full entries for: COMMANDMENTS, ORDINANCE, DECREES, LAW, DECALOGUE, LEG
 
 ### The Five Core Greek Terms (Primary Focus)
 
-1. **[G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole** -- "commandment, injunction, order"
+1. **G1785 entole** -- "commandment, injunction, order"
    - 71 NT occurrences (KJV: "commandment" 52x, "commandments" 14x, etc.)
    - Used for Decalogue: Mat 19:17-19, Mark 10:19, Rom 7:7-12, Rom 13:9
    - Used for Jesus's commands: Jhn 14:15, 15:10
@@ -181,14 +181,14 @@ Retrieve full entries for: COMMANDMENTS, ORDINANCE, DECREES, LAW, DECALOGUE, LEG
    - Critical passage: Eph 2:15 (entole qualified by en dogmasin)
    - 1 Cor 7:19: entole distinguished from circumcision (ceremonial rite)
 
-2. **[G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos** -- "law, custom, principle"
+2. **G3551 nomos** -- "law, custom, principle"
    - 197 NT occurrences (KJV: "law" 95x, "the law" 49x, "of the law" 14x, etc.)
    - Widest semantic range of all NT law terms
    - At least four Pauline senses: Torah/code, Decalogue specifically, operating principle, Pentateuch as Scripture-witness
    - Article usage question: articular ho nomos vs. anarthrous nomos -- does this signal different referents?
    - Key passages: Rom 3:27 (nomos ergon vs. nomos pisteos), Rom 7:7-8:4 (nomos = Decalogue by quotation), Gal 3:19-24 (nomos added), Heb 8:10/10:16 (nomos on hearts)
 
-3. **[G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} dogma** -- "decree, ordinance, dogma"
+3. **G1378 dogma** -- "decree, ordinance, dogma"
    - Only 5 NT occurrences (KJV: "decrees" 2x, "a decree" 1x, "ordinances" 1x, "of ordinances" 1x)
    - Luke 2:1 -- Caesar's decree (civil/imperial)
    - Acts 16:4 -- Jerusalem Council decrees (ecclesiastical)
@@ -196,9 +196,9 @@ Retrieve full entries for: COMMANDMENTS, ORDINANCE, DECREES, LAW, DECALOGUE, LEG
    - Eph 2:15 -- "law of commandments contained in ordinances" (abolished)
    - Col 2:14 -- "handwriting of ordinances" (nailed to cross)
    - NEVER used for God's moral commandments
-   - Verbal form: [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} dogmatizo -- Col 2:20 only ("subject to ordinances")
+   - Verbal form: G1379 dogmatizo -- Col 2:20 only ("subject to ordinances")
 
-4. **[G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} cheirographon** -- "handwriting, certificate of debt"
+4. **G5498 cheirographon** -- "handwriting, certificate of debt"
    - Hapax legomenon -- Col 2:14 ONLY
    - Compound of cheir (G5495, hand) + grapho (G1125, write)
    - Literally "something hand-written"
@@ -206,7 +206,7 @@ Retrieve full entries for: COMMANDMENTS, ORDINANCE, DECREES, LAW, DECALOGUE, LEG
    - Greco-Roman legal background: a debt certificate or bond
    - Key phrase: "to cheirographon tois dogmasin" -- "the handwriting in/by the ordinances"
 
-5. **[G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma** -- "ordinance, righteous requirement, righteous act"
+5. **G1345 dikaioma** -- "ordinance, righteous requirement, righteous act"
    - 10 NT occurrences (KJV: "ordinances" 3x, "righteousness" 3x, "judgment" 1x, "justification" 1x, etc.)
    - Dual semantic range:
      - Ceremonial statutes: Heb 9:1 ("ordinances of divine service"), Heb 9:10 ("carnal ordinances" = dikaiomata sarkos)
@@ -218,27 +218,27 @@ Retrieve full entries for: COMMANDMENTS, ORDINANCE, DECREES, LAW, DECALOGUE, LEG
 
 ### Related Greek Terms for Word Studies
 
-6. **[G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} dogmatizo** -- "to subject to ordinances" -- Col 2:20 only (verbal form of dogma)
-7. **[G3548](https://www.blueletterbible.org/lexicon/g3548/kjv/tr/0-1/){:target="_blank"} nomothesia** -- "legislation, giving of the law" -- Rom 9:4 only
-8. **[G3549](https://www.blueletterbible.org/lexicon/g3549/kjv/tr/0-1/){:target="_blank"} nomotheteo** -- "to legislate, to establish law" -- Heb 7:11; 8:6
-9. **[G3544](https://www.blueletterbible.org/lexicon/g3544/kjv/tr/0-1/){:target="_blank"} nomikos** -- "pertaining to law, lawyer" -- Mat 22:35; Luk 7:30; 10:25; 11:45,46,52; 14:3; Tit 3:9,13
-10. **[G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} nomimos** -- "lawfully" -- 1 Tim 1:8; 2 Tim 2:5
-11. **[G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} ennomos** -- "within law, lawful" -- Acts 19:39; 1 Cor 9:21
-12. **[G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} anomos** -- "lawless, without law" -- Mark 15:28; Luk 22:37; Acts 2:23; 1 Cor 9:21; 2 Thes 2:8; 1 Tim 1:9; 2 Pet 2:8
-13. **[G460](https://www.blueletterbible.org/lexicon/g460/kjv/tr/0-1/){:target="_blank"} anomos (adv.)** -- "lawlessly" -- Rom 2:12
-14. **[G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} anomia** -- "lawlessness, transgression of law" -- Mat 7:23; 13:41; 23:28; 24:12; Rom 4:7; 6:19; 2 Cor 6:14; 2 Thes 2:3,7; Tit 2:14; Heb 1:9; 10:17; 1 Jhn 3:4
-15. **[G3891](https://www.blueletterbible.org/lexicon/g3891/kjv/tr/0-1/){:target="_blank"} paranomeo** -- "to transgress the law" -- Acts 23:3
-16. **[G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} dikaiosyne** -- "righteousness" -- Related to dikaioma; 92 occurrences
-17. **[G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} dikaioo** -- "to justify, declare righteous" -- Related to dikaioma; 40 occurrences
-18. **[G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} skia** -- "shadow" -- Applied to ceremonial system: Heb 10:1; Col 2:17; Heb 8:5
-19. **[G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} katargeo** -- "to render idle, abolish, make void" -- Used in abolition passages: Eph 2:15, Rom 3:31, 2 Cor 3:7,11,13,14
+6. **G1379 dogmatizo** -- "to subject to ordinances" -- Col 2:20 only (verbal form of dogma)
+7. **G3548 nomothesia** -- "legislation, giving of the law" -- Rom 9:4 only
+8. **G3549 nomotheteo** -- "to legislate, to establish law" -- Heb 7:11; 8:6
+9. **G3544 nomikos** -- "pertaining to law, lawyer" -- Mat 22:35; Luk 7:30; 10:25; 11:45,46,52; 14:3; Tit 3:9,13
+10. **G3545 nomimos** -- "lawfully" -- 1 Tim 1:8; 2 Tim 2:5
+11. **G1772 ennomos** -- "within law, lawful" -- Acts 19:39; 1 Cor 9:21
+12. **G459 anomos** -- "lawless, without law" -- Mark 15:28; Luk 22:37; Acts 2:23; 1 Cor 9:21; 2 Thes 2:8; 1 Tim 1:9; 2 Pet 2:8
+13. **G460 anomos (adv.)** -- "lawlessly" -- Rom 2:12
+14. **G458 anomia** -- "lawlessness, transgression of law" -- Mat 7:23; 13:41; 23:28; 24:12; Rom 4:7; 6:19; 2 Cor 6:14; 2 Thes 2:3,7; Tit 2:14; Heb 1:9; 10:17; 1 Jhn 3:4
+15. **G3891 paranomeo** -- "to transgress the law" -- Acts 23:3
+16. **G1343 dikaiosyne** -- "righteousness" -- Related to dikaioma; 92 occurrences
+17. **G1344 dikaioo** -- "to justify, declare righteous" -- Related to dikaioma; 40 occurrences
+18. **G4639 skia** -- "shadow" -- Applied to ceremonial system: Heb 10:1; Col 2:17; Heb 8:5
+19. **G2673 katargeo** -- "to render idle, abolish, make void" -- Used in abolition passages: Eph 2:15, Rom 3:31, 2 Cor 3:7,11,13,14
 
 ### Hebrew Background Terms (LXX connections)
-20. **[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah** -- "instruction, law" -- Maps to nomos (G3551) 188x in LXX
-21. **[H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} mitsvah** -- "commandment" -- Maps to entole (G1785) 153x in LXX
-22. **[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} choq** -- "statute, decree" -- Maps to dikaioma (G1345) 52x in LXX (among other Greek terms)
-23. **[H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} chuqqah** -- "statute, ordinance" -- Maps to dikaioma 35x, nomimos 32x in LXX
-24. **[H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} mishpat** -- "judgment, ordinance" -- Maps to krima (G2917) 175x in LXX
+20. **H8451 torah** -- "instruction, law" -- Maps to nomos (G3551) 188x in LXX
+21. **H4687 mitsvah** -- "commandment" -- Maps to entole (G1785) 153x in LXX
+22. **H2706 choq** -- "statute, decree" -- Maps to dikaioma (G1345) 52x in LXX (among other Greek terms)
+23. **H2708 chuqqah** -- "statute, ordinance" -- Maps to dikaioma 35x, nomimos 32x in LXX
+24. **H4941 mishpat** -- "judgment, ordinance" -- Maps to krima (G2917) 175x in LXX
 
 ---
 
@@ -296,7 +296,7 @@ Dogma appears only 5 times in the NT. Prior studies found it is NEVER used for G
 Cheirographon appears only in Col 2:14 -- a hapax legomenon. Prior studies established: compound of cheir (hand) + grapho (write) = "hand-written document." This contrasts with the Decalogue written by God's finger.
 
 **Research needed:**
-- Full lexical analysis of [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} cheirographon
+- Full lexical analysis of G5498 cheirographon
 - Greco-Roman papyri and legal background: Was cheirographon a debt certificate, IOU, or legal bond?
 - What does "to cheirographon tois dogmasin" mean -- "the handwriting IN the ordinances" or "the handwriting CONSISTING OF the ordinances"?
 - The dative tois dogmasin: instrumental ("by means of ordinances"), locative ("in the sphere of ordinances"), or appositional ("namely, the ordinances")?
@@ -467,16 +467,3 @@ The Abolished position argues:
 5. **Must produce NEW E/N/I items** not already in the master evidence file, focusing on the specific grammatical and lexical patterns that have not yet been formally classified.
 
 The research agent should USE prior study findings as established ground but must independently verify through the tool chain and discover new material, especially on the article pattern question and any passages where the vocabulary pattern breaks down.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

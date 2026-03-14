@@ -106,24 +106,24 @@ This study is part of the law series. Read `D:/bible/bible-studies/law-series-me
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | torah (law, instruction) | Core term in "my law" (torati) -- Jer 31:33 |
-| [H3789](https://www.blueletterbible.org/lexicon/h3789/kjv/wlc/0-1/){:target="_blank"} | kathab (to write) | "Write it in their hearts" -- same verb as writing Decalogue on stone (Exo 34:1; Deu 10:2, 4) |
-| [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"} | leb (heart) | New covenant destination: "in their hearts" |
-| [H3824](https://www.blueletterbible.org/lexicon/h3824/kjv/wlc/0-1/){:target="_blank"} | lebab (heart, inner man) | Alternate form: "heart" in covenant passages |
-| [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} | choq (statute) | "My statutes" in Eze 36:27; Eze 11:19-20 |
-| [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} | chuqqah (statute, ordinance) | Alternate form of statute in covenant passages |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment, ordinance) | "My judgments" in Eze 36:27 |
-| [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} | berith (covenant) | Covenant terminology -- Jer 31:31-32; Deu 4:13 |
-| [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} | karath (to cut [a covenant]) | Covenant-making verb |
-| [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} | chaqaq (to engrave, inscribe) | Engraving/inscribing law -- relevant to writing on hearts |
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos (law) | NT equivalent of torah; "my laws" (nomous mou) in Heb 8:10; 10:16 |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma (righteous requirement) | "Righteousness of the law" in Rom 8:4 |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma (ordinance, decree) | Used in abolition texts (Col 2:14; Eph 2:15); NEVER used for Decalogue |
-| [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} | dikaiosyne (righteousness) | Righteousness vocabulary in new covenant contexts |
-| [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} | katargeo (to render inoperative) | "Done away" / "abolished" -- used in abolition passages but also denied by Paul (Rom 3:31) |
-| [G3548](https://www.blueletterbible.org/lexicon/g3548/kjv/tr/0-1/){:target="_blank"} | nomothesia (legislation, law-giving) | Law-giving concept in new covenant discussion |
-| [H6662](https://www.blueletterbible.org/lexicon/h6662/kjv/wlc/0-1/){:target="_blank"} | tsaddiyq (righteous) | OT righteousness vocabulary |
-| [H6666](https://www.blueletterbible.org/lexicon/h6666/kjv/wlc/0-1/){:target="_blank"} | tsedaqah (righteousness) | OT righteousness; connected to law-keeping |
+| H8451 | torah (law, instruction) | Core term in "my law" (torati) -- Jer 31:33 |
+| H3789 | kathab (to write) | "Write it in their hearts" -- same verb as writing Decalogue on stone (Exo 34:1; Deu 10:2, 4) |
+| H3820 | leb (heart) | New covenant destination: "in their hearts" |
+| H3824 | lebab (heart, inner man) | Alternate form: "heart" in covenant passages |
+| H2706 | choq (statute) | "My statutes" in Eze 36:27; Eze 11:19-20 |
+| H2708 | chuqqah (statute, ordinance) | Alternate form of statute in covenant passages |
+| H4941 | mishpat (judgment, ordinance) | "My judgments" in Eze 36:27 |
+| H1285 | berith (covenant) | Covenant terminology -- Jer 31:31-32; Deu 4:13 |
+| H3772 | karath (to cut [a covenant]) | Covenant-making verb |
+| H2710 | chaqaq (to engrave, inscribe) | Engraving/inscribing law -- relevant to writing on hearts |
+| G3551 | nomos (law) | NT equivalent of torah; "my laws" (nomous mou) in Heb 8:10; 10:16 |
+| G1345 | dikaioma (righteous requirement) | "Righteousness of the law" in Rom 8:4 |
+| G1378 | dogma (ordinance, decree) | Used in abolition texts (Col 2:14; Eph 2:15); NEVER used for Decalogue |
+| G1343 | dikaiosyne (righteousness) | Righteousness vocabulary in new covenant contexts |
+| G2673 | katargeo (to render inoperative) | "Done away" / "abolished" -- used in abolition passages but also denied by Paul (Rom 3:31) |
+| G3548 | nomothesia (legislation, law-giving) | Law-giving concept in new covenant discussion |
+| H6662 | tsaddiyq (righteous) | OT righteousness vocabulary |
+| H6666 | tsedaqah (righteousness) | OT righteousness; connected to law-keeping |
 
 ### Related Existing Studies
 
@@ -195,15 +195,15 @@ You are the Research Agent. Execute this study by:
 - Run concept_context.py for JER 31:33, HEB 8:10, ROM 8:4
 
 **Word Studies (04-word-studies.md):**
-- [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (torah) -- full usage range, especially with possessive suffixes
-- [H3789](https://www.blueletterbible.org/lexicon/h3789/kjv/wlc/0-1/){:target="_blank"} (kathab) -- all instances where God is subject of writing, especially writing law
-- [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"}/H3824 (leb/lebab) -- usage in covenant and law contexts
-- [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}/H2708 (choq/chuqqah) -- relationship to Decalogue and broader legislation
-- [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} (mishpat) -- relationship to Decalogue and broader legislation
-- [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos) -- usage with possessive "mou" in Hebrews
-- [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma) -- singular vs. plural usage; Rom 8:4 specifically
-- [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma) -- all NT occurrences; verify it is NEVER used for Decalogue
-- [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} (katargeo) -- usage in 2 Cor 3 and Rom 3:31
+- H8451 (torah) -- full usage range, especially with possessive suffixes
+- H3789 (kathab) -- all instances where God is subject of writing, especially writing law
+- H3820/H3824 (leb/lebab) -- usage in covenant and law contexts
+- H2706/H2708 (choq/chuqqah) -- relationship to Decalogue and broader legislation
+- H4941 (mishpat) -- relationship to Decalogue and broader legislation
+- G3551 (nomos) -- usage with possessive "mou" in Hebrews
+- G1345 (dikaioma) -- singular vs. plural usage; Rom 8:4 specifically
+- G1378 (dogma) -- all NT occurrences; verify it is NEVER used for Decalogue
+- G2673 (katargeo) -- usage in 2 Cor 3 and Rom 3:31
 
 **Topic Entries (01-topics.md):**
 - Retrieve full Nave's entries for: COVENANT, LAW, COMMANDMENTS, MORAL LAW, TEN COMMANDMENTS, JUDGMENTS
@@ -216,16 +216,3 @@ answer-question
 ---
 *Scoped: 2026-02-24*
 *Folder: bible-studies/law-11-written-on-hearts/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -5,7 +5,7 @@ Is the seventh-day Sabbath still binding today? Strong's research for all 15 lis
 
 ---
 
-## [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} -- sabbaton (Greek "Sabbath")
+## G4521 -- sabbaton (Greek "Sabbath")
 **Original:** sabbaton
 **Transliteration:** sab'-bat-on
 **Part of Speech:** Neuter noun
@@ -26,7 +26,7 @@ sabbaton is the central NT term for the Sabbath. It appears in every Acts passag
 
 ---
 
-## [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} -- sabbatismos (Sabbath-keeping)
+## G4520 -- sabbatismos (Sabbath-keeping)
 **Original:** sabbatismos
 **Transliteration:** sab-bat-is-mos'
 **Part of Speech:** Masculine noun
@@ -41,7 +41,7 @@ This is the single most important word in this study. The author of Hebrews uses
 
 ---
 
-## [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} -- etho/eiothos (custom/habit)
+## G1486 -- etho/eiothos (custom/habit)
 **Original:** etho
 **Transliteration:** eth'-o
 **Part of Speech:** Verb
@@ -59,11 +59,11 @@ Luke uses the IDENTICAL construction kata to eiothos (Perfect Active Participle)
 
 ---
 
-## [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} -- shabbath (Hebrew "sabbath")
+## H7676 -- shabbath (Hebrew "sabbath")
 **Original:** shabbath
 **Transliteration:** shab-bawth'
 **Part of Speech:** Masculine/Feminine noun
-**Definition:** Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath); intermission, i.e., specifically the Sabbath.
+**Definition:** Intensive from H7673 (shabath); intermission, i.e., specifically the Sabbath.
 **Occurrences:** 108
 
 ### Key Verses
@@ -79,11 +79,11 @@ Core OT Sabbath term. Distinguished from shabbathown (H7677) in Lev 23 -- the we
 
 ---
 
-## [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} -- shabbathown (sabbatism/rest)
+## H7677 -- shabbathown (sabbatism/rest)
 **Original:** shabbathown
 **Transliteration:** shab-baw-thone'
 **Part of Speech:** Masculine noun
-**Definition:** From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday; rest, sabbath.
+**Definition:** From H7676; a sabbatism or special holiday; rest, sabbath.
 **Occurrences:** 11
 
 ### Key Verses
@@ -95,11 +95,11 @@ Used for both the weekly Sabbath (Lev 23:3, shabbath shabbathown) and ceremonial
 
 ---
 
-## [G2663](https://www.blueletterbible.org/lexicon/g2663/kjv/tr/0-1/){:target="_blank"} -- katapausis (rest)
+## G2663 -- katapausis (rest)
 **Original:** katapausis
 **Transliteration:** kat-ap'-ow-sis
 **Part of Speech:** Feminine noun
-**Definition:** From [G2664](https://www.blueletterbible.org/lexicon/g2664/kjv/tr/0-1/){:target="_blank"}; reposing down, i.e., (by Hebraism) abode; rest.
+**Definition:** From G2664; reposing down, i.e., (by Hebraism) abode; rest.
 **Occurrences:** 9
 
 ### Key Verses
@@ -112,11 +112,11 @@ Used 8 times in Heb 3-4 for "rest" in the general sense. The author deliberately
 
 ---
 
-## [G620](https://www.blueletterbible.org/lexicon/g620/kjv/tr/0-1/){:target="_blank"} -- apoleipo (to leave remaining)
+## G620 -- apoleipo (to leave remaining)
 **Original:** apoleipo
 **Transliteration:** ap-ol-ipe'-o
 **Part of Speech:** Verb
-**Definition:** From [G575](https://www.blueletterbible.org/lexicon/g575/kjv/tr/0-1/){:target="_blank"} and [G3007](https://www.blueletterbible.org/lexicon/g3007/kjv/tr/0-1/){:target="_blank"}; to leave behind (passively, remain).
+**Definition:** From G575 and G3007; to leave behind (passively, remain).
 **Occurrences:** 6
 
 ### Key Verses
@@ -131,7 +131,7 @@ In Heb 4:9, apoleipetai is **Present Passive Indicative** -- "is currently being
 
 ---
 
-## [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} -- skia (shadow)
+## G4639 -- skia (shadow)
 **Original:** skia
 **Transliteration:** skee'-ah
 **Part of Speech:** Feminine noun
@@ -151,7 +151,7 @@ skia in all three NT theological uses (Col 2:17; Heb 8:5; Heb 10:1) is applied t
 
 ---
 
-## [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} -- zakar (remember)
+## H2142 -- zakar (remember)
 **Original:** zakar
 **Transliteration:** zaw-kar'
 **Part of Speech:** Verb
@@ -169,11 +169,11 @@ zakar is the quintessential MEMORIAL verb in the OT. It always looks BACKWARD to
 
 ---
 
-## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} -- entole (commandment)
+## G1785 -- entole (commandment)
 **Original:** entole
 **Transliteration:** en-tol-ay'
 **Part of Speech:** Feminine noun
-**Definition:** From [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"}; injunction, i.e., an authoritative prescription.
+**Definition:** From G1781; injunction, i.e., an authoritative prescription.
 **Occurrences:** 71
 
 ### Key Verses
@@ -190,11 +190,11 @@ entole (unqualified, with "of God") consistently refers to the moral law / Decal
 
 ---
 
-## [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} -- olam (perpetual/everlasting)
+## H5769 -- olam (perpetual/everlasting)
 **Original:** olam
 **Transliteration:** o-lawm'
 **Part of Speech:** Masculine noun
-**Definition:** From [H5956](https://www.blueletterbible.org/lexicon/h5956/kjv/wlc/0-1/){:target="_blank"}; properly concealed, i.e., the vanishing point; generally, time out of mind; practically, eternity; perpetual, everlasting, forever.
+**Definition:** From H5956; properly concealed, i.e., the vanishing point; generally, time out of mind; practically, eternity; perpetual, everlasting, forever.
 **Occurrences:** 439
 
 ### Key Verses
@@ -209,11 +209,11 @@ The Sabbath is designated as berit olam ("perpetual covenant") in Exo 31:16 and 
 
 ---
 
-## [G4864](https://www.blueletterbible.org/lexicon/g4864/kjv/tr/0-1/){:target="_blank"} -- synagoge (synagogue)
+## G4864 -- synagoge (synagogue)
 **Original:** synagoge
 **Transliteration:** soon-ag-o-gay'
 **Part of Speech:** Feminine noun
-**Definition:** From [G4863](https://www.blueletterbible.org/lexicon/g4863/kjv/tr/0-1/){:target="_blank"}; an assemblage of persons; specifically a Jewish "synagogue."
+**Definition:** From G4863; an assemblage of persons; specifically a Jewish "synagogue."
 **Occurrences:** 57
 
 ### Key Verses
@@ -226,7 +226,7 @@ The synagogue was the standard venue for Sabbath worship in the apostolic period
 
 ---
 
-## [H226](https://www.blueletterbible.org/lexicon/h226/kjv/wlc/0-1/){:target="_blank"} -- oth (sign)
+## H226 -- oth (sign)
 **Original:** oth
 **Transliteration:** oth
 **Part of Speech:** Feminine noun
@@ -247,7 +247,7 @@ The Sabbath is designated as an oth (sign) between God and His people, indicatin
 
 ---
 
-## [H6942](https://www.blueletterbible.org/lexicon/h6942/kjv/wlc/0-1/){:target="_blank"} -- qadash (to sanctify)
+## H6942 -- qadash (to sanctify)
 **Original:** qadash
 **Transliteration:** kaw-dash'
 **Part of Speech:** Verb
@@ -266,11 +266,11 @@ God performed three actions on the seventh day at creation: He rested (shabath),
 
 ---
 
-## [G752](https://www.blueletterbible.org/lexicon/g752/kjv/tr/0-1/){:target="_blank"} -- archisynagogos (ruler of the synagogue)
+## G752 -- archisynagogos (ruler of the synagogue)
 **Original:** archisynagogos
 **Transliteration:** ar-khee-soon-ag'-o-gos
 **Part of Speech:** Masculine noun
-**Definition:** From [G746](https://www.blueletterbible.org/lexicon/g746/kjv/tr/0-1/){:target="_blank"} and [G4864](https://www.blueletterbible.org/lexicon/g4864/kjv/tr/0-1/){:target="_blank"}; director of the synagogue services.
+**Definition:** From G746 and G4864; director of the synagogue services.
 **Occurrences:** 9
 
 ### Key Verses
@@ -343,16 +343,3 @@ The archisynagogos (synagogue ruler) is the one who invites speakers on the Sabb
 
 ---
 *Research gathered: 2026-02-26*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -1,6 +1,6 @@
 # Word Studies
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} -- nomos (law)
+## G3551 -- nomos (law)
 
 **Original:** nomos
 **Transliteration:** nómos
@@ -40,7 +40,7 @@ James uses distinctive qualifiers for nomos found nowhere else in the NT: "perfe
 
 ---
 
-## [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} -- teleios (perfect)
+## G5046 -- teleios (perfect)
 
 **Original:** teleios
 **Transliteration:** téleios
@@ -78,7 +78,7 @@ Psa 19:7 says "The law of the LORD is **perfect** (H8549 tamim/temimah)." The LX
 
 ---
 
-## [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} -- eleutheria (liberty, freedom)
+## G1657 -- eleutheria (liberty, freedom)
 
 **Original:** eleutheria
 **Transliteration:** eleuthería
@@ -119,7 +119,7 @@ James alone in the NT pairs eleutheria with nomos. For Paul, eleutheria is freed
 
 ---
 
-## [G937](https://www.blueletterbible.org/lexicon/g937/kjv/tr/0-1/){:target="_blank"} -- basilikos (royal, kingly)
+## G937 -- basilikos (royal, kingly)
 
 **Original:** basilikos
 **Transliteration:** basilikós
@@ -145,7 +145,7 @@ The word's root (basileus = king) connects to James' mention of "heirs of the ki
 
 ---
 
-## [G2635](https://www.blueletterbible.org/lexicon/g2635/kjv/tr/0-1/){:target="_blank"} -- katalaleo (to speak evil of)
+## G2635 -- katalaleo (to speak evil of)
 
 **Original:** katalaleo
 **Transliteration:** katalaléō
@@ -164,7 +164,7 @@ James' unique argument: speaking evil of a brother (katalaleo) IS speaking evil 
 
 ---
 
-## [G2923](https://www.blueletterbible.org/lexicon/g2923/kjv/tr/0-1/){:target="_blank"} -- krites (judge)
+## G2923 -- krites (judge)
 
 **Original:** krites
 **Transliteration:** kritḗs
@@ -184,7 +184,7 @@ James uses krites 4 times. In 4:11-12, he contrasts the human role (doer of the 
 
 ---
 
-## [G3550](https://www.blueletterbible.org/lexicon/g3550/kjv/tr/0-1/){:target="_blank"} -- nomothetes (lawgiver)
+## G3550 -- nomothetes (lawgiver)
 
 **Original:** nomothetes
 **Transliteration:** nomothetēs
@@ -203,7 +203,7 @@ Classical Greek uses: Plato and Demosthenes used nomothetes for human legislator
 
 ---
 
-## [G3848](https://www.blueletterbible.org/lexicon/g3848/kjv/tr/0-1/){:target="_blank"} -- parabates (transgressor)
+## G3848 -- parabates (transgressor)
 
 **Original:** parabates
 **Transliteration:** parabátēs
@@ -224,7 +224,7 @@ James uses parabates 2 of 5 NT times. In both uses, the law identifies and convi
 
 ---
 
-## [G3879](https://www.blueletterbible.org/lexicon/g3879/kjv/tr/0-1/){:target="_blank"} -- parakupto (to look intently into)
+## G3879 -- parakupto (to look intently into)
 
 **Original:** parakupto
 **Transliteration:** parakýptō
@@ -245,7 +245,7 @@ This is a striking verb choice. James uses the SAME word used for looking intent
 
 ---
 
-## [G2072](https://www.blueletterbible.org/lexicon/g2072/kjv/tr/0-1/){:target="_blank"} -- esoptron (mirror, looking glass)
+## G2072 -- esoptron (mirror, looking glass)
 
 **Original:** esoptron
 **Transliteration:** ésoptron
@@ -263,7 +263,7 @@ James uses the law-as-mirror metaphor. The mirror (esoptron) shows one's "natura
 
 ---
 
-## [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} -- anomia (lawlessness)
+## G458 -- anomia (lawlessness)
 
 **Original:** anomia
 **Transliteration:** anomía
@@ -282,7 +282,7 @@ While James does not use anomia, the concept is central to his argument. James u
 
 ## Hebrew Background Terms
 
-### [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} -- torah (law, instruction)
+### H8451 -- torah (law, instruction)
 
 **Original:** torah / towrah
 **Transliteration:** tôwrâh
@@ -293,7 +293,7 @@ While James does not use anomia, the concept is central to his argument. James u
 
 **Significance:** Torah is the Hebrew behind James' Greek nomos. The LXX consistently translates torah as nomos. Torah means "instruction/direction" -- it is inherently positive, guiding rather than merely prohibiting. This background illuminates why James can call the law "perfect" and "of liberty" -- torah in its Hebrew conception is God's instruction for life.
 
-### [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} -- mitsvah (commandment)
+### H4687 -- mitsvah (commandment)
 
 **Original:** mitsvah
 **Transliteration:** mitsvâh
@@ -304,7 +304,7 @@ While James does not use anomia, the concept is central to his argument. James u
 
 **Significance:** Mitsvah is the specific "commandment" behind the individual Decalogue commands James cites (Exo 20:13-14). The LXX translates mitsvah as entole. Notably, James uses nomos (law) rather than entole (commandment) throughout his epistle -- he always speaks of the LAW as a whole, never of individual commandments in isolation.
 
-### [H1865](https://www.blueletterbible.org/lexicon/h1865/kjv/wlc/0-1/){:target="_blank"} -- deror (liberty, freedom)
+### H1865 -- deror (liberty, freedom)
 
 **Original:** deror
 **Transliteration:** dᵉrôwr
@@ -322,7 +322,7 @@ While James does not use anomia, the concept is central to his argument. James u
 
 **Significance:** Deror is used exclusively for formal, proclaimed liberation -- the jubilee release of slaves and debts. Isaiah 61:1 uses it for Messianic liberation. This OT background for "liberty" connects to James' "law of liberty" (eleutheria) -- the law itself is an instrument of proclaimed freedom, echoing the jubilee tradition.
 
-### [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} -- mishpat (judgment, justice)
+### H4941 -- mishpat (judgment, justice)
 
 **Original:** mishpat
 **Transliteration:** mishpâṭ
@@ -333,7 +333,7 @@ While James does not use anomia, the concept is central to his argument. James u
 
 **Significance:** Mishpat connects to James' theme of judgment (krites/krino) throughout the epistle. God's mishpat (justice/judgment) is the standard -- He is the one who judges (Jas 4:12), and believers will be "judged by the law of liberty" (Jas 2:12).
 
-### [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} -- choq (statute, decree)
+### H2706 -- choq (statute, decree)
 
 **Original:** choq
 **Transliteration:** chôq
@@ -353,31 +353,31 @@ While James does not use anomia, the concept is central to his argument. James u
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| ho | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Nom Sg M |
-| de | de | [G1161](https://www.blueletterbible.org/lexicon/g1161/kjv/tr/0-1/){:target="_blank"} | Conjunction |
-| parakupsas | parakupto | [G3879](https://www.blueletterbible.org/lexicon/g3879/kjv/tr/0-1/){:target="_blank"} | Aorist Active Participle, Nom Sg M |
-| eis | eis | [G1519](https://www.blueletterbible.org/lexicon/g1519/kjv/tr/0-1/){:target="_blank"} | Preposition |
-| nomon | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg M |
-| teleion | teleios | [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} | Adjective, Acc Sg M |
-| ton | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Acc Sg M |
-| tes | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Gen Sg F |
-| eleutherias | eleutheria | [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg F |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | Conjunction |
-| parameinas | parameno | [G3887](https://www.blueletterbible.org/lexicon/g3887/kjv/tr/0-1/){:target="_blank"} | Aorist Active Participle, Nom Sg M |
-| ouk | ou | [G3756](https://www.blueletterbible.org/lexicon/g3756/kjv/tr/0-1/){:target="_blank"} | Negative particle |
-| akroates | akroates | [G202](https://www.blueletterbible.org/lexicon/g202/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg M ("hearer") |
-| epilesmones | epilesmone | [G1953](https://www.blueletterbible.org/lexicon/g1953/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg F ("forgetfulness") |
-| genomenos | ginomai | [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} | Aorist Middle Participle, Nom Sg M |
-| alla | alla | [G235](https://www.blueletterbible.org/lexicon/g235/kjv/tr/0-1/){:target="_blank"} | Conjunction |
-| poietes | poietes | [G4163](https://www.blueletterbible.org/lexicon/g4163/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg M ("doer") |
-| ergou | ergon | [G2041](https://www.blueletterbible.org/lexicon/g2041/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg N ("work") |
-| houtos | houtos | [G3778](https://www.blueletterbible.org/lexicon/g3778/kjv/tr/0-1/){:target="_blank"} | Demonstrative, Nom Sg M |
-| makarios | makarios | [G3107](https://www.blueletterbible.org/lexicon/g3107/kjv/tr/0-1/){:target="_blank"} | Adjective, Nom Sg M ("blessed") |
-| en | en | [G1722](https://www.blueletterbible.org/lexicon/g1722/kjv/tr/0-1/){:target="_blank"} | Preposition |
-| te | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Dat Sg F |
-| poiesei | poiesis | [G4162](https://www.blueletterbible.org/lexicon/g4162/kjv/tr/0-1/){:target="_blank"} | Noun, Dat Sg F ("doing") |
-| autou | autos | [G846](https://www.blueletterbible.org/lexicon/g846/kjv/tr/0-1/){:target="_blank"} | Pronoun, Gen Sg M |
-| estai | eimi | [G1510](https://www.blueletterbible.org/lexicon/g1510/kjv/tr/0-1/){:target="_blank"} | Future Middle Indicative, 3rd Sg |
+| ho | ho | G3588 | Article, Nom Sg M |
+| de | de | G1161 | Conjunction |
+| parakupsas | parakupto | G3879 | Aorist Active Participle, Nom Sg M |
+| eis | eis | G1519 | Preposition |
+| nomon | nomos | G3551 | Noun, Acc Sg M |
+| teleion | teleios | G5046 | Adjective, Acc Sg M |
+| ton | ho | G3588 | Article, Acc Sg M |
+| tes | ho | G3588 | Article, Gen Sg F |
+| eleutherias | eleutheria | G1657 | Noun, Gen Sg F |
+| kai | kai | G2532 | Conjunction |
+| parameinas | parameno | G3887 | Aorist Active Participle, Nom Sg M |
+| ouk | ou | G3756 | Negative particle |
+| akroates | akroates | G202 | Noun, Nom Sg M ("hearer") |
+| epilesmones | epilesmone | G1953 | Noun, Gen Sg F ("forgetfulness") |
+| genomenos | ginomai | G1096 | Aorist Middle Participle, Nom Sg M |
+| alla | alla | G235 | Conjunction |
+| poietes | poietes | G4163 | Noun, Nom Sg M ("doer") |
+| ergou | ergon | G2041 | Noun, Gen Sg N ("work") |
+| houtos | houtos | G3778 | Demonstrative, Nom Sg M |
+| makarios | makarios | G3107 | Adjective, Nom Sg M ("blessed") |
+| en | en | G1722 | Preposition |
+| te | ho | G3588 | Article, Dat Sg F |
+| poiesei | poiesis | G4162 | Noun, Dat Sg F ("doing") |
+| autou | autos | G846 | Pronoun, Gen Sg M |
+| estai | eimi | G1510 | Future Middle Indicative, 3rd Sg |
 
 **Key grammatical notes:**
 - parakupsas (aorist participle) -- the action of "looking intently into" precedes and conditions the main verb estai ("shall be")
@@ -390,22 +390,22 @@ While James does not use anomia, the concept is central to his argument. James u
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| ei | ei | [G1487](https://www.blueletterbible.org/lexicon/g1487/kjv/tr/0-1/){:target="_blank"} | Conditional particle |
-| mentoi | mentoi | [G3305](https://www.blueletterbible.org/lexicon/g3305/kjv/tr/0-1/){:target="_blank"} | Conjunction ("indeed, however") |
-| nomon | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg M |
-| teleite | teleo | [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 2nd Pl ("you fulfill/complete") |
-| basilikon | basilikos | [G937](https://www.blueletterbible.org/lexicon/g937/kjv/tr/0-1/){:target="_blank"} | Adjective, Acc Sg M ("royal") |
-| kata | kata | [G2596](https://www.blueletterbible.org/lexicon/g2596/kjv/tr/0-1/){:target="_blank"} | Preposition ("according to") |
-| ten | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Acc Sg F |
-| graphen | graphe | [G1124](https://www.blueletterbible.org/lexicon/g1124/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg F ("scripture") |
-| Agapeseis | agapao | [G25](https://www.blueletterbible.org/lexicon/g25/kjv/tr/0-1/){:target="_blank"} | Future Active Indicative, 2nd Sg ("you shall love") |
-| ton | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Acc Sg M |
-| plesion | plesion | [G4139](https://www.blueletterbible.org/lexicon/g4139/kjv/tr/0-1/){:target="_blank"} | Adverb (used as noun, "neighbor") |
-| sou | su | [G4771](https://www.blueletterbible.org/lexicon/g4771/kjv/tr/0-1/){:target="_blank"} | Pronoun, Gen Sg ("your") |
-| hos | hos | [G5613](https://www.blueletterbible.org/lexicon/g5613/kjv/tr/0-1/){:target="_blank"} | Adverb ("as") |
-| seauton | seautou | [G4572](https://www.blueletterbible.org/lexicon/g4572/kjv/tr/0-1/){:target="_blank"} | Reflexive, Acc Sg M ("yourself") |
-| kalos | kalos | [G2573](https://www.blueletterbible.org/lexicon/g2573/kjv/tr/0-1/){:target="_blank"} | Adverb ("well") |
-| poieite | poieo | [G4160](https://www.blueletterbible.org/lexicon/g4160/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 2nd Pl ("you do") |
+| ei | ei | G1487 | Conditional particle |
+| mentoi | mentoi | G3305 | Conjunction ("indeed, however") |
+| nomon | nomos | G3551 | Noun, Acc Sg M |
+| teleite | teleo | G5055 | Present Active Indicative, 2nd Pl ("you fulfill/complete") |
+| basilikon | basilikos | G937 | Adjective, Acc Sg M ("royal") |
+| kata | kata | G2596 | Preposition ("according to") |
+| ten | ho | G3588 | Article, Acc Sg F |
+| graphen | graphe | G1124 | Noun, Acc Sg F ("scripture") |
+| Agapeseis | agapao | G25 | Future Active Indicative, 2nd Sg ("you shall love") |
+| ton | ho | G3588 | Article, Acc Sg M |
+| plesion | plesion | G4139 | Adverb (used as noun, "neighbor") |
+| sou | su | G4771 | Pronoun, Gen Sg ("your") |
+| hos | hos | G5613 | Adverb ("as") |
+| seauton | seautou | G4572 | Reflexive, Acc Sg M ("yourself") |
+| kalos | kalos | G2573 | Adverb ("well") |
+| poieite | poieo | G4160 | Present Active Indicative, 2nd Pl ("you do") |
 
 **Key grammatical notes:**
 - teleite (G5055 teleo) -- "you fulfill/complete/carry out" -- present tense, indicating ongoing action
@@ -418,19 +418,19 @@ While James does not use anomia, the concept is central to his argument. James u
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| hostis | hostis | [G3748](https://www.blueletterbible.org/lexicon/g3748/kjv/tr/0-1/){:target="_blank"} | Relative pronoun, Nom Sg M ("whoever") |
-| gar | gar | [G1063](https://www.blueletterbible.org/lexicon/g1063/kjv/tr/0-1/){:target="_blank"} | Conjunction ("for") |
-| holon | holos | [G3650](https://www.blueletterbible.org/lexicon/g3650/kjv/tr/0-1/){:target="_blank"} | Adjective, Acc Sg M ("whole, entire") |
-| ton | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Acc Sg M |
-| nomon | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg M |
-| terese | tereo | [G5083](https://www.blueletterbible.org/lexicon/g5083/kjv/tr/0-1/){:target="_blank"} | Aorist Active Subjunctive, 3rd Sg ("shall keep") |
-| ptaise | ptaio | [G4417](https://www.blueletterbible.org/lexicon/g4417/kjv/tr/0-1/){:target="_blank"} | Aorist Active Subjunctive, 3rd Sg ("shall stumble/offend") |
-| de | de | [G1161](https://www.blueletterbible.org/lexicon/g1161/kjv/tr/0-1/){:target="_blank"} | Conjunction ("but") |
-| en | en | [G1722](https://www.blueletterbible.org/lexicon/g1722/kjv/tr/0-1/){:target="_blank"} | Preposition ("in") |
-| heni | heis | [G1520](https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/){:target="_blank"} | Adjective, Dat Sg M ("one") |
-| gegonen | ginomai | [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} | Perfect Active Indicative, 3rd Sg ("has become") |
-| panton | pas | [G3956](https://www.blueletterbible.org/lexicon/g3956/kjv/tr/0-1/){:target="_blank"} | Adjective, Gen Pl M ("of all") |
-| enochos | enochos | [G1777](https://www.blueletterbible.org/lexicon/g1777/kjv/tr/0-1/){:target="_blank"} | Adjective, Nom Sg M ("guilty, liable") |
+| hostis | hostis | G3748 | Relative pronoun, Nom Sg M ("whoever") |
+| gar | gar | G1063 | Conjunction ("for") |
+| holon | holos | G3650 | Adjective, Acc Sg M ("whole, entire") |
+| ton | ho | G3588 | Article, Acc Sg M |
+| nomon | nomos | G3551 | Noun, Acc Sg M |
+| terese | tereo | G5083 | Aorist Active Subjunctive, 3rd Sg ("shall keep") |
+| ptaise | ptaio | G4417 | Aorist Active Subjunctive, 3rd Sg ("shall stumble/offend") |
+| de | de | G1161 | Conjunction ("but") |
+| en | en | G1722 | Preposition ("in") |
+| heni | heis | G1520 | Adjective, Dat Sg M ("one") |
+| gegonen | ginomai | G1096 | Perfect Active Indicative, 3rd Sg ("has become") |
+| panton | pas | G3956 | Adjective, Gen Pl M ("of all") |
+| enochos | enochos | G1777 | Adjective, Nom Sg M ("guilty, liable") |
 
 **Key grammatical notes:**
 - holon ton nomon -- "the whole law" -- articular, emphasizing totality
@@ -443,24 +443,24 @@ While James does not use anomia, the concept is central to his argument. James u
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| ho | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Nom Sg M ("the one") |
-| gar | gar | [G1063](https://www.blueletterbible.org/lexicon/g1063/kjv/tr/0-1/){:target="_blank"} | Conjunction ("for") |
-| eipon | lego | [G3004](https://www.blueletterbible.org/lexicon/g3004/kjv/tr/0-1/){:target="_blank"} | Aorist Active Participle, Nom Sg M ("having said") |
-| Me | me | [G3361](https://www.blueletterbible.org/lexicon/g3361/kjv/tr/0-1/){:target="_blank"} | Negative particle |
-| moicheuses | moicheuo | [G3431](https://www.blueletterbible.org/lexicon/g3431/kjv/tr/0-1/){:target="_blank"} | Aorist Active Subjunctive, 2nd Sg ("you shall not commit adultery") |
-| eipen | lego | [G3004](https://www.blueletterbible.org/lexicon/g3004/kjv/tr/0-1/){:target="_blank"} | Aorist Active Indicative, 3rd Sg ("said") |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | Conjunction ("also") |
-| Me | me | [G3361](https://www.blueletterbible.org/lexicon/g3361/kjv/tr/0-1/){:target="_blank"} | Negative particle |
-| phoneuses | phoneuo | [G5407](https://www.blueletterbible.org/lexicon/g5407/kjv/tr/0-1/){:target="_blank"} | Aorist Active Subjunctive, 2nd Sg ("you shall not murder") |
-| ei | ei | [G1487](https://www.blueletterbible.org/lexicon/g1487/kjv/tr/0-1/){:target="_blank"} | Conditional particle |
-| de | de | [G1161](https://www.blueletterbible.org/lexicon/g1161/kjv/tr/0-1/){:target="_blank"} | Conjunction ("but") |
-| ou | ou | [G3756](https://www.blueletterbible.org/lexicon/g3756/kjv/tr/0-1/){:target="_blank"} | Negative particle |
-| moicheueis | moicheuo | [G3431](https://www.blueletterbible.org/lexicon/g3431/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 2nd Sg ("you do not commit adultery") |
-| phoneueis | phoneuo | [G5407](https://www.blueletterbible.org/lexicon/g5407/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 2nd Sg ("you murder") |
-| de | de | [G1161](https://www.blueletterbible.org/lexicon/g1161/kjv/tr/0-1/){:target="_blank"} | Conjunction |
-| gegonas | ginomai | [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} | Perfect Active Indicative, 2nd Sg ("you have become") |
-| parabates | parabates | [G3848](https://www.blueletterbible.org/lexicon/g3848/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg M ("transgressor") |
-| nomou | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg M ("of the law") |
+| ho | ho | G3588 | Article, Nom Sg M ("the one") |
+| gar | gar | G1063 | Conjunction ("for") |
+| eipon | lego | G3004 | Aorist Active Participle, Nom Sg M ("having said") |
+| Me | me | G3361 | Negative particle |
+| moicheuses | moicheuo | G3431 | Aorist Active Subjunctive, 2nd Sg ("you shall not commit adultery") |
+| eipen | lego | G3004 | Aorist Active Indicative, 3rd Sg ("said") |
+| kai | kai | G2532 | Conjunction ("also") |
+| Me | me | G3361 | Negative particle |
+| phoneuses | phoneuo | G5407 | Aorist Active Subjunctive, 2nd Sg ("you shall not murder") |
+| ei | ei | G1487 | Conditional particle |
+| de | de | G1161 | Conjunction ("but") |
+| ou | ou | G3756 | Negative particle |
+| moicheueis | moicheuo | G3431 | Present Active Indicative, 2nd Sg ("you do not commit adultery") |
+| phoneueis | phoneuo | G5407 | Present Active Indicative, 2nd Sg ("you murder") |
+| de | de | G1161 | Conjunction |
+| gegonas | ginomai | G1096 | Perfect Active Indicative, 2nd Sg ("you have become") |
+| parabates | parabates | G3848 | Noun, Nom Sg M ("transgressor") |
+| nomou | nomos | G3551 | Noun, Gen Sg M ("of the law") |
 
 **Key grammatical notes:**
 - ho eipon ("the one having said") -- the SUBJECT (God) is identified as the speaker of BOTH commands
@@ -473,17 +473,17 @@ While James does not use anomia, the concept is central to his argument. James u
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| houtos | houto | [G3779](https://www.blueletterbible.org/lexicon/g3779/kjv/tr/0-1/){:target="_blank"} | Adverb ("so, thus") |
-| laleite | laleo | [G2980](https://www.blueletterbible.org/lexicon/g2980/kjv/tr/0-1/){:target="_blank"} | Present Active Imperative, 2nd Pl ("speak!") |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | Conjunction ("and") |
-| houtos | houto | [G3779](https://www.blueletterbible.org/lexicon/g3779/kjv/tr/0-1/){:target="_blank"} | Adverb ("so, thus") |
-| poieite | poieo | [G4160](https://www.blueletterbible.org/lexicon/g4160/kjv/tr/0-1/){:target="_blank"} | Present Active Imperative, 2nd Pl ("do!") |
-| hos | hos | [G5613](https://www.blueletterbible.org/lexicon/g5613/kjv/tr/0-1/){:target="_blank"} | Adverb ("as") |
-| dia | dia | [G1223](https://www.blueletterbible.org/lexicon/g1223/kjv/tr/0-1/){:target="_blank"} | Preposition ("by/through") |
-| nomou | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg M ("law") |
-| eleutherias | eleutheria | [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg F ("of liberty") |
-| mellontes | mello | [G3195](https://www.blueletterbible.org/lexicon/g3195/kjv/tr/0-1/){:target="_blank"} | Present Active Participle, Nom Pl M ("being about to") |
-| krinesthai | krino | [G2919](https://www.blueletterbible.org/lexicon/g2919/kjv/tr/0-1/){:target="_blank"} | Present Passive Infinitive ("to be judged") |
+| houtos | houto | G3779 | Adverb ("so, thus") |
+| laleite | laleo | G2980 | Present Active Imperative, 2nd Pl ("speak!") |
+| kai | kai | G2532 | Conjunction ("and") |
+| houtos | houto | G3779 | Adverb ("so, thus") |
+| poieite | poieo | G4160 | Present Active Imperative, 2nd Pl ("do!") |
+| hos | hos | G5613 | Adverb ("as") |
+| dia | dia | G1223 | Preposition ("by/through") |
+| nomou | nomos | G3551 | Noun, Gen Sg M ("law") |
+| eleutherias | eleutheria | G1657 | Noun, Gen Sg F ("of liberty") |
+| mellontes | mello | G3195 | Present Active Participle, Nom Pl M ("being about to") |
+| krinesthai | krino | G2919 | Present Passive Infinitive ("to be judged") |
 
 **Key grammatical notes:**
 - laleite...poieite -- IMPERATIVE mood, commands: "Speak and do!"
@@ -496,32 +496,32 @@ While James does not use anomia, the concept is central to his argument. James u
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| Me | me | [G3361](https://www.blueletterbible.org/lexicon/g3361/kjv/tr/0-1/){:target="_blank"} | Negative particle |
-| katalaleite | katalaleo | [G2635](https://www.blueletterbible.org/lexicon/g2635/kjv/tr/0-1/){:target="_blank"} | Present Active Imperative, 2nd Pl ("do not speak evil!") |
-| allelon | allelon | [G240](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/){:target="_blank"} | Reciprocal pronoun, Gen Pl M ("of one another") |
-| adelphoi | adelphos | [G80](https://www.blueletterbible.org/lexicon/g80/kjv/tr/0-1/){:target="_blank"} | Noun, Vocative Pl M ("brothers!") |
-| ho | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Nom Sg M |
-| katalalon | katalaleo | [G2635](https://www.blueletterbible.org/lexicon/g2635/kjv/tr/0-1/){:target="_blank"} | Present Active Participle, Nom Sg M ("the one speaking evil") |
-| adelphou | adelphos | [G80](https://www.blueletterbible.org/lexicon/g80/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg M ("of a brother") |
-| e | e | [G2228](https://www.blueletterbible.org/lexicon/g2228/kjv/tr/0-1/){:target="_blank"} | Particle ("or") |
-| krinon | krino | [G2919](https://www.blueletterbible.org/lexicon/g2919/kjv/tr/0-1/){:target="_blank"} | Present Active Participle, Nom Sg M ("judging") |
-| ton adelphon | adelphos | [G80](https://www.blueletterbible.org/lexicon/g80/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg M ("the brother") |
-| autou | autos | [G846](https://www.blueletterbible.org/lexicon/g846/kjv/tr/0-1/){:target="_blank"} | Pronoun, Gen Sg M ("his") |
-| katalalei | katalaleo | [G2635](https://www.blueletterbible.org/lexicon/g2635/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 3rd Sg ("speaks evil of") |
-| nomou | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg M ("the law") |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | Conjunction ("and") |
-| krinei | krino | [G2919](https://www.blueletterbible.org/lexicon/g2919/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 3rd Sg ("judges") |
-| nomon | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg M ("the law") |
-| ei | ei | [G1487](https://www.blueletterbible.org/lexicon/g1487/kjv/tr/0-1/){:target="_blank"} | Conditional particle |
-| de | de | [G1161](https://www.blueletterbible.org/lexicon/g1161/kjv/tr/0-1/){:target="_blank"} | Conjunction ("but") |
-| nomon | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg M ("the law") |
-| krineis | krino | [G2919](https://www.blueletterbible.org/lexicon/g2919/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 2nd Sg ("you judge") |
-| ouk | ou | [G3756](https://www.blueletterbible.org/lexicon/g3756/kjv/tr/0-1/){:target="_blank"} | Negative particle |
-| ei | eimi | [G1510](https://www.blueletterbible.org/lexicon/g1510/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 2nd Sg ("you are") |
-| poietes | poietes | [G4163](https://www.blueletterbible.org/lexicon/g4163/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg M ("a doer") |
-| nomou | nomos | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg M ("of the law") |
-| alla | alla | [G235](https://www.blueletterbible.org/lexicon/g235/kjv/tr/0-1/){:target="_blank"} | Conjunction ("but") |
-| krites | krites | [G2923](https://www.blueletterbible.org/lexicon/g2923/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg M ("a judge") |
+| Me | me | G3361 | Negative particle |
+| katalaleite | katalaleo | G2635 | Present Active Imperative, 2nd Pl ("do not speak evil!") |
+| allelon | allelon | G240 | Reciprocal pronoun, Gen Pl M ("of one another") |
+| adelphoi | adelphos | G80 | Noun, Vocative Pl M ("brothers!") |
+| ho | ho | G3588 | Article, Nom Sg M |
+| katalalon | katalaleo | G2635 | Present Active Participle, Nom Sg M ("the one speaking evil") |
+| adelphou | adelphos | G80 | Noun, Gen Sg M ("of a brother") |
+| e | e | G2228 | Particle ("or") |
+| krinon | krino | G2919 | Present Active Participle, Nom Sg M ("judging") |
+| ton adelphon | adelphos | G80 | Noun, Acc Sg M ("the brother") |
+| autou | autos | G846 | Pronoun, Gen Sg M ("his") |
+| katalalei | katalaleo | G2635 | Present Active Indicative, 3rd Sg ("speaks evil of") |
+| nomou | nomos | G3551 | Noun, Gen Sg M ("the law") |
+| kai | kai | G2532 | Conjunction ("and") |
+| krinei | krino | G2919 | Present Active Indicative, 3rd Sg ("judges") |
+| nomon | nomos | G3551 | Noun, Acc Sg M ("the law") |
+| ei | ei | G1487 | Conditional particle |
+| de | de | G1161 | Conjunction ("but") |
+| nomon | nomos | G3551 | Noun, Acc Sg M ("the law") |
+| krineis | krino | G2919 | Present Active Indicative, 2nd Sg ("you judge") |
+| ouk | ou | G3756 | Negative particle |
+| ei | eimi | G1510 | Present Active Indicative, 2nd Sg ("you are") |
+| poietes | poietes | G4163 | Noun, Nom Sg M ("a doer") |
+| nomou | nomos | G3551 | Noun, Gen Sg M ("of the law") |
+| alla | alla | G235 | Conjunction ("but") |
+| krites | krites | G2923 | Noun, Nom Sg M ("a judge") |
 
 **Key grammatical notes:**
 - nomos appears 4x in this single verse -- James hammers the law's authority
@@ -534,24 +534,24 @@ While James does not use anomia, the concept is central to his argument. James u
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| heis | heis | [G1520](https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/){:target="_blank"} | Adjective, Nom Sg M ("one") |
-| estin | eimi | [G1510](https://www.blueletterbible.org/lexicon/g1510/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 3rd Sg ("is") |
-| nomothetes | nomothetes | [G3550](https://www.blueletterbible.org/lexicon/g3550/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg M ("lawgiver") -- HAPAX |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | Conjunction ("and") |
-| krites | krites | [G2923](https://www.blueletterbible.org/lexicon/g2923/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg M ("judge") |
-| ho | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Nom Sg M ("the one") |
-| dunamenos | dunamai | [G1410](https://www.blueletterbible.org/lexicon/g1410/kjv/tr/0-1/){:target="_blank"} | Present Middle/Passive Participle, Nom Sg M ("being able") |
-| sosai | sozo | [G4982](https://www.blueletterbible.org/lexicon/g4982/kjv/tr/0-1/){:target="_blank"} | Aorist Active Infinitive ("to save") |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | Conjunction ("and") |
-| apolesai | apollumi | [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | Aorist Active Infinitive ("to destroy") |
-| su | su | [G4771](https://www.blueletterbible.org/lexicon/g4771/kjv/tr/0-1/){:target="_blank"} | Pronoun, Nom Sg ("you") |
-| de | de | [G1161](https://www.blueletterbible.org/lexicon/g1161/kjv/tr/0-1/){:target="_blank"} | Conjunction ("but/however") |
-| tis | tis | [G5101](https://www.blueletterbible.org/lexicon/g5101/kjv/tr/0-1/){:target="_blank"} | Interrogative, Nom Sg M ("who?") |
-| ei | eimi | [G1510](https://www.blueletterbible.org/lexicon/g1510/kjv/tr/0-1/){:target="_blank"} | Present Active Indicative, 2nd Sg ("are") |
-| ho | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Nom Sg M ("the one") |
-| krinon | krino | [G2919](https://www.blueletterbible.org/lexicon/g2919/kjv/tr/0-1/){:target="_blank"} | Present Active Participle, Nom Sg M ("judging") |
-| ton | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Article, Acc Sg M |
-| plesion | plesion | [G4139](https://www.blueletterbible.org/lexicon/g4139/kjv/tr/0-1/){:target="_blank"} | Adverb (used as noun, "neighbor") |
+| heis | heis | G1520 | Adjective, Nom Sg M ("one") |
+| estin | eimi | G1510 | Present Active Indicative, 3rd Sg ("is") |
+| nomothetes | nomothetes | G3550 | Noun, Nom Sg M ("lawgiver") -- HAPAX |
+| kai | kai | G2532 | Conjunction ("and") |
+| krites | krites | G2923 | Noun, Nom Sg M ("judge") |
+| ho | ho | G3588 | Article, Nom Sg M ("the one") |
+| dunamenos | dunamai | G1410 | Present Middle/Passive Participle, Nom Sg M ("being able") |
+| sosai | sozo | G4982 | Aorist Active Infinitive ("to save") |
+| kai | kai | G2532 | Conjunction ("and") |
+| apolesai | apollumi | G622 | Aorist Active Infinitive ("to destroy") |
+| su | su | G4771 | Pronoun, Nom Sg ("you") |
+| de | de | G1161 | Conjunction ("but/however") |
+| tis | tis | G5101 | Interrogative, Nom Sg M ("who?") |
+| ei | eimi | G1510 | Present Active Indicative, 2nd Sg ("are") |
+| ho | ho | G3588 | Article, Nom Sg M ("the one") |
+| krinon | krino | G2919 | Present Active Participle, Nom Sg M ("judging") |
+| ton | ho | G3588 | Article, Acc Sg M |
+| plesion | plesion | G4139 | Adverb (used as noun, "neighbor") |
 
 **Key grammatical notes:**
 - heis estin nomothetes kai krites -- "ONE is [both] lawgiver and judge" -- emphatic heis (one) at the beginning
@@ -559,16 +559,3 @@ While James does not use anomia, the concept is central to his argument. James u
 - ho dunamenos sosai kai apolesai -- "the one being able to save and to destroy" -- identifies this lawgiver/judge as God
 - su de tis ei -- "but you, who are you?" -- rhetorical question challenging human presumption
 - ho krinon ton plesion -- "the one judging THE NEIGHBOR" -- ton plesion echoes Jas 2:8's "love thy neighbor"
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

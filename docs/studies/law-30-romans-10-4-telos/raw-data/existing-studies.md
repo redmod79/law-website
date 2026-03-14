@@ -71,4 +71,4 @@
 ### Telos word study data (31 chunks)
 - law-16: "telos (G5056) -- end / goal / purpose -- From tello (to set out for a definite point or goal)"
 - law-16: "The 1 Timothy 1:5 Parallel: identical construction (telos + law/commandment)"
-- law-01: "[G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"}: teleios (perfect) -- from telos, 'end, goal, completion'"
+- law-01: "G5046: teleios (perfect) -- from telos, 'end, goal, completion'"

@@ -1,6 +1,6 @@
 # Word Studies
 
-## [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} -- torah (law, instruction)
+## H8451 -- torah (law, instruction)
 **Original:** תּוֹרָה (towrah)
 **Transliteration:** towrah
 **Pronunciation:** to-raw
@@ -37,7 +37,7 @@ In Jeremiah, torah appears 11 times. With possessive "my" (God speaking): Jer 6:
 
 ---
 
-## [H3789](https://www.blueletterbible.org/lexicon/h3789/kjv/wlc/0-1/){:target="_blank"} -- kathab (to write)
+## H3789 -- kathab (to write)
 **Original:** כָּתַב (kathab)
 **Transliteration:** kathab
 **Pronunciation:** kaw-thab
@@ -78,7 +78,7 @@ Critical connection: The SAME verb (kathab) is used for both writing on stone AN
 
 ---
 
-## [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"} -- leb (heart)
+## H3820 -- leb (heart)
 **Original:** לֵב (leb)
 **Transliteration:** leb
 **Pronunciation:** labe
@@ -94,7 +94,7 @@ Critical connection: The SAME verb (kathab) is used for both writing on stone AN
 - **Eze 11:19** -- "I will give them one heart (leb)"
 - **Eze 36:26** -- "A new heart (leb) also will I give you"
 
-## [H3824](https://www.blueletterbible.org/lexicon/h3824/kjv/wlc/0-1/){:target="_blank"} -- lebab (heart, inner man)
+## H3824 -- lebab (heart, inner man)
 **Original:** לֵבָב (lebab)
 **Transliteration:** lebab
 **Pronunciation:** lay-bawb
@@ -114,15 +114,15 @@ Both leb and lebab are used interchangeably in covenant contexts. The new covena
 
 ---
 
-## [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} -- choq (statute, decree) / [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} -- chuqqah (statute, ordinance)
-**[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} Original:** חֹק (choq)
+## H2706 -- choq (statute, decree) / H2708 -- chuqqah (statute, ordinance)
+**H2706 Original:** חֹק (choq)
 **Transliteration:** choq
 **Pronunciation:** khoke
 **Part of Speech:** masculine noun
 **Definition:** An enactment; hence, an appointment (of time, space, quantity, labor or usage).
 **Total OT occurrences:** 134 (127 BLB count)
 
-**[H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} Original:** חֻקָּה (chuqqah)
+**H2708 Original:** חֻקָּה (chuqqah)
 **Transliteration:** chuqqah
 **Pronunciation:** khook-kaw
 **Part of Speech:** feminine noun
@@ -159,7 +159,7 @@ Key observation from Deu 4:13-14: The "covenant" (= ten commandments) and the "s
 
 ---
 
-## [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} -- mishpat (judgment, ordinance)
+## H4941 -- mishpat (judgment, ordinance)
 **Original:** מִשְׁפָּט (mishpat)
 **Transliteration:** mishpat
 **Pronunciation:** mish-pawt
@@ -186,7 +186,7 @@ Like choq, mishpat has a broader semantic range than the Decalogue. It covers ju
 
 ---
 
-## [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} -- berith (covenant)
+## H1285 -- berith (covenant)
 **Original:** בְּרִית (berith)
 **Transliteration:** berith
 **Pronunciation:** ber-eeth
@@ -214,7 +214,7 @@ This explicit identification is the interpretive key: when Jer 31:31-33 speaks o
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} -- nomos (law)
+## G3551 -- nomos (law)
 **Original:** νόμος (nomos)
 **Transliteration:** nomos
 **Pronunciation:** nom'-os
@@ -246,7 +246,7 @@ Context determines which meaning applies.
 
 ---
 
-## [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} -- dikaioma (righteous requirement)
+## G1345 -- dikaioma (righteous requirement)
 **Original:** δικαίωμα (dikaioma)
 **Transliteration:** dikaioma
 **Pronunciation:** dik-ah'-yo-mah
@@ -276,7 +276,7 @@ This singular/plural distinction is relevant: Rom 8:4 speaks of THE righteousnes
 
 ---
 
-## [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} -- dogma (ordinance, decree)
+## G1378 -- dogma (ordinance, decree)
 **Original:** δόγμα (dogma)
 **Transliteration:** dogma
 **Pronunciation:** dog'-mah
@@ -303,7 +303,7 @@ It is never used for the Ten Commandments or the moral law. The two "abolition" 
 
 ---
 
-## [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} -- katargeo (to render inoperative, abolish)
+## G2673 -- katargeo (to render inoperative, abolish)
 **Original:** καταργέω (katargeo)
 **Transliteration:** katargeo
 **Pronunciation:** kat-arg-eh'-o
@@ -335,7 +335,7 @@ Paul directly denies that faith katargeo-s the law. The same verb used for "abol
 
 ---
 
-## [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} -- karath (to cut [a covenant])
+## H3772 -- karath (to cut [a covenant])
 **Original:** karath
 **Transliteration:** karath
 **Pronunciation:** kaw-rath
@@ -365,7 +365,7 @@ The verb karath links the new covenant (Jer 31:31-33) to the same covenant-makin
 
 ---
 
-## [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} -- chaqaq (to engrave, inscribe)
+## H2710 -- chaqaq (to engrave, inscribe)
 **Original:** chaqaq
 **Transliteration:** chaqaq
 **Pronunciation:** khaw-kak
@@ -395,7 +395,7 @@ Key passages:
 
 ---
 
-## [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} -- dikaiosyne (righteousness)
+## G1343 -- dikaiosyne (righteousness)
 **Original:** dikaiosyne
 **Transliteration:** dikaiosyne
 **Pronunciation:** dik-ah-yos-oo-nay
@@ -411,7 +411,7 @@ Key passages:
 | the righteousness | 9 | 11.2% |
 
 ### Relationship to dikaioma (G1345)
-[G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} (dikaiosyne) and [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma) are related but distinct:
+G1343 (dikaiosyne) and G1345 (dikaioma) are related but distinct:
 - **dikaiosyne** = the quality/state of righteousness (abstract)
 - **dikaioma** = the righteous requirement/deed (concrete)
 
@@ -425,7 +425,7 @@ The distinction matters for Rom 8:4: Paul uses dikaioma (concrete requirement), 
 
 ---
 
-## [G3548](https://www.blueletterbible.org/lexicon/g3548/kjv/tr/0-1/){:target="_blank"} -- nomothesia (legislation, law-giving)
+## G3548 -- nomothesia (legislation, law-giving)
 **Original:** nomothesia
 **Transliteration:** nomothesia
 **Pronunciation:** nom-oth-es-ee-ah
@@ -440,9 +440,9 @@ Paul lists the "giving of the law" as one of Israel's privileges alongside coven
 
 ---
 
-## [H6662](https://www.blueletterbible.org/lexicon/h6662/kjv/wlc/0-1/){:target="_blank"} -- tsaddiyq (righteous) / [H6666](https://www.blueletterbible.org/lexicon/h6666/kjv/wlc/0-1/){:target="_blank"} -- tsedaqah (righteousness)
+## H6662 -- tsaddiyq (righteous) / H6666 -- tsedaqah (righteousness)
 
-### [H6662](https://www.blueletterbible.org/lexicon/h6662/kjv/wlc/0-1/){:target="_blank"} -- tsaddiyq
+### H6662 -- tsaddiyq
 **Original:** tsaddiyq
 **Transliteration:** tsaddiyq
 **Pronunciation:** tsad-deek
@@ -458,7 +458,7 @@ Paul lists the "giving of the law" as one of Israel's privileges alongside coven
 | righteous | 27 | 12.9% |
 | just | 12 | 5.7% |
 
-### [H6666](https://www.blueletterbible.org/lexicon/h6666/kjv/wlc/0-1/){:target="_blank"} -- tsedaqah
+### H6666 -- tsedaqah
 **Original:** tsedaqah
 **Transliteration:** tsedaqah
 **Pronunciation:** tsed-aw-kaw
@@ -495,16 +495,3 @@ The concept of God "writing" (kathab) is rendered in the NT quotations with grap
 
 ---
 *Retrieved: 2026-02-24*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

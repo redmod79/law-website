@@ -73,23 +73,23 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} | sabbaton (Sabbath) -- 68 occurrences | Core term -- the Greek word for Sabbath in every NT controversy passage |
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | shabbath (Sabbath) -- 108 occurrences | Core OT term -- the Hebrew word in the Fourth Commandment and Isaiah 58:13 |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | shabbathown (sabbatism/rest) -- 11 occurrences | Intensive form of sabbath; "sabbath of rest" |
-| [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} | sabbatismos (sabbath-keeping) -- 1 occurrence | Hebrews 4:9 hapax -- "there remaineth a sabbatismos" |
-| [G2962](https://www.blueletterbible.org/lexicon/g2962/kjv/tr/0-1/){:target="_blank"} | kurios (Lord) -- 748 occurrences | "The Son of man is Lord (kurios) of the sabbath" (Mark 2:28) |
-| [G1832](https://www.blueletterbible.org/lexicon/g1832/kjv/tr/0-1/){:target="_blank"} | exesti (lawful) -- 32 occurrences | Central to every controversy: "Is it lawful (exesti) to heal on the sabbath?" (Mat 12:10,12; Mark 3:4; Luke 6:9; 14:3) |
-| [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} | etho (custom/habitual) -- 4 occurrences | Luke 4:16 "as his custom was" (eiothos); Acts 17:2 "as his manner was" |
-| [G2323](https://www.blueletterbible.org/lexicon/g2323/kjv/tr/0-1/){:target="_blank"} | therapeuo (heal) -- 43 occurrences | Used in Sabbath healing narratives (Mat 12:10; Mark 3:2; Luke 6:7; 13:14; 14:3; John 5:10) |
-| [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"} | luo (loose/break) -- 37 occurrences | Luke 13:15-16 (loosing animals/loosing from bondage); John 5:18 (accused of "breaking" the sabbath); Mat 5:19 (breaking commandments) |
-| [G15](https://www.blueletterbible.org/lexicon/g15/kjv/tr/0-1/){:target="_blank"} | agathopoieo (do good) -- 9 occurrences | Mark 3:4 "Is it lawful to do good (agathopoiesai) on the sabbath?" |
-| [G338](https://www.blueletterbible.org/lexicon/g338/kjv/tr/0-1/){:target="_blank"} | anaitios (guiltless/blameless) -- 2 occurrences | Mat 12:7 "ye would not have condemned the guiltless" |
-| [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | kataluo (destroy/demolish) -- 17 occurrences | Mat 5:17 "I am not come to destroy" -- connection to Sabbath via law-permanence |
-| [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} | pleroo (fulfil) -- 90 occurrences | Mat 5:17 "but to fulfil" -- what "fulfil" means for the Sabbath commandment |
-| [H6026](https://www.blueletterbible.org/lexicon/h6026/kjv/wlc/0-1/){:target="_blank"} | anag (delight/delicate) -- connected to Isaiah 58:13 "call the sabbath a delight" |
-| [H3513](https://www.blueletterbible.org/lexicon/h3513/kjv/wlc/0-1/){:target="_blank"} | kabad (honour/glory) -- connected to Isaiah 58:13 "honourable" |
-| [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} | ginomai (come into being) -- Mark 2:27 "the sabbath was made (egeneto) for man" |
-| [G444](https://www.blueletterbible.org/lexicon/g444/kjv/tr/0-1/){:target="_blank"} | anthropos (man/humanity) -- Mark 2:27 "made for man (anthropon)" -- generic humanity, not Jewish-specific |
+| G4521 | sabbaton (Sabbath) -- 68 occurrences | Core term -- the Greek word for Sabbath in every NT controversy passage |
+| H7676 | shabbath (Sabbath) -- 108 occurrences | Core OT term -- the Hebrew word in the Fourth Commandment and Isaiah 58:13 |
+| H7677 | shabbathown (sabbatism/rest) -- 11 occurrences | Intensive form of sabbath; "sabbath of rest" |
+| G4520 | sabbatismos (sabbath-keeping) -- 1 occurrence | Hebrews 4:9 hapax -- "there remaineth a sabbatismos" |
+| G2962 | kurios (Lord) -- 748 occurrences | "The Son of man is Lord (kurios) of the sabbath" (Mark 2:28) |
+| G1832 | exesti (lawful) -- 32 occurrences | Central to every controversy: "Is it lawful (exesti) to heal on the sabbath?" (Mat 12:10,12; Mark 3:4; Luke 6:9; 14:3) |
+| G1486 | etho (custom/habitual) -- 4 occurrences | Luke 4:16 "as his custom was" (eiothos); Acts 17:2 "as his manner was" |
+| G2323 | therapeuo (heal) -- 43 occurrences | Used in Sabbath healing narratives (Mat 12:10; Mark 3:2; Luke 6:7; 13:14; 14:3; John 5:10) |
+| G3089 | luo (loose/break) -- 37 occurrences | Luke 13:15-16 (loosing animals/loosing from bondage); John 5:18 (accused of "breaking" the sabbath); Mat 5:19 (breaking commandments) |
+| G15 | agathopoieo (do good) -- 9 occurrences | Mark 3:4 "Is it lawful to do good (agathopoiesai) on the sabbath?" |
+| G338 | anaitios (guiltless/blameless) -- 2 occurrences | Mat 12:7 "ye would not have condemned the guiltless" |
+| G2647 | kataluo (destroy/demolish) -- 17 occurrences | Mat 5:17 "I am not come to destroy" -- connection to Sabbath via law-permanence |
+| G4137 | pleroo (fulfil) -- 90 occurrences | Mat 5:17 "but to fulfil" -- what "fulfil" means for the Sabbath commandment |
+| H6026 | anag (delight/delicate) -- connected to Isaiah 58:13 "call the sabbath a delight" |
+| H3513 | kabad (honour/glory) -- connected to Isaiah 58:13 "honourable" |
+| G1096 | ginomai (come into being) -- Mark 2:27 "the sabbath was made (egeneto) for man" |
+| G444 | anthropos (man/humanity) -- Mark 2:27 "made for man (anthropon)" -- generic humanity, not Jewish-specific |
 
 ### Related Existing Studies
 | Study | Question | Relevance |
@@ -131,7 +131,7 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 
 2. **Three key declarations classified:** "The sabbath was made for man" (Mark 2:27), "The Son of man is Lord of the sabbath" (Mark 2:28), "It is lawful to do well on the sabbath days" (Mat 12:12). Each must be analyzed for what it explicitly says and what each position infers.
 
-3. **Jesus's habitual Sabbath practice:** Luke 4:16 (eiothos, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} -- settled custom); Luke 4:31; Mark 1:21; Mark 6:2. The same eiothos construction appears in Acts 17:2 for Paul.
+3. **Jesus's habitual Sabbath practice:** Luke 4:16 (eiothos, G1486 -- settled custom); Luke 4:31; Mark 1:21; Mark 6:2. The same eiothos construction appears in Acts 17:2 for Paul.
 
 4. **Isaiah 58:13-14 as objective Sabbath-keeping guidelines:** The tool found ISA 58:13,14 in the SABBATH topic entry. This provides God's own standard: (a) "turn away thy foot from the sabbath" (cease commerce/labor), (b) "from doing thy pleasure on my holy day" (prioritize God's purposes), (c) "call the sabbath a delight, the holy of the LORD, honourable" (positive attitude), (d) "not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words" (self-surrender). This addresses the objection that Sabbath-keeping standards are subjective.
 
@@ -159,7 +159,7 @@ You are the Research Agent. Execute this study by:
 6. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (retrieve EVERY verse listed above from kjv.txt)
-   - `04-word-studies.md` - Strong's research for all listed numbers (G4521, [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}, [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"}, [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"}, [G2962](https://www.blueletterbible.org/lexicon/g2962/kjv/tr/0-1/){:target="_blank"}, [G1832](https://www.blueletterbible.org/lexicon/g1832/kjv/tr/0-1/){:target="_blank"}, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, [G2323](https://www.blueletterbible.org/lexicon/g2323/kjv/tr/0-1/){:target="_blank"}, [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"}, [G15](https://www.blueletterbible.org/lexicon/g15/kjv/tr/0-1/){:target="_blank"}, [G338](https://www.blueletterbible.org/lexicon/g338/kjv/tr/0-1/){:target="_blank"}, [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"}, [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"}, [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"}, [G444](https://www.blueletterbible.org/lexicon/g444/kjv/tr/0-1/){:target="_blank"}, [H6026](https://www.blueletterbible.org/lexicon/h6026/kjv/wlc/0-1/){:target="_blank"}, H3513)
+   - `04-word-studies.md` - Strong's research for all listed numbers (G4521, H7676, H7677, G4520, G2962, G1832, G1486, G2323, G3089, G15, G338, G2647, G4137, G1096, G444, H6026, H3513)
    - `raw-data/` - Raw tool output organized by category
 7. Run cross-testament parallels for key verses: Mark 2:27-28, Mat 12:12, Isaiah 58:13-14, Luke 4:16, Hebrews 4:9
 8. Retrieve Greek parsing for key verses: Mark 2:27-28 (egeneto, anthropon, kurios), Luke 4:16 (eiothos), Mat 12:12 (exesti), John 5:18 (eluen/luo), Luke 13:15-16 (luo/edei)
@@ -185,16 +185,3 @@ answer-question
 ---
 *Scoped: 2026-02-24*
 *Folder: bible-studies/law-13-jesus-and-sabbath/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Data
 
-## [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} -- shabbath (Sabbath)
+## H7676 -- shabbath (Sabbath)
 - Transliteration: shabbath
 - Pronunciation: shab-bawth
 - POS: masculine/feminine noun
@@ -10,7 +10,7 @@
 - Top translations: "the sabbath" (42, 38.5%), "my sabbaths" (14, 12.8%), "on the sabbath" (11, 10.1%), "a sabbath" (7, 6.4%)
 - NEVER translated as "lunar rest day" or anything related to the moon
 
-## [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} -- shabbathon (sabbatism)
+## H7677 -- shabbathon (sabbatism)
 - Transliteration: shabbathon
 - Pronunciation: shab-baw-thone
 - POS: masculine noun
@@ -19,7 +19,7 @@
 - 11 total occurrences, 3 unique translations: "of rest" (7, 63.6%), "a sabbath" (3, 27.3%), "the rest" (1, 9.1%)
 - Used in: Exo 16:23; 31:15; 35:2; Lev 16:31; 23:3,24,32,39(2x); 25:4,5
 
-## [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} -- shabath (verb: to cease)
+## H7673 -- shabath (verb: to cease)
 - Transliteration: shabath
 - Pronunciation: shaw-bath
 - POS: verb
@@ -29,7 +29,7 @@
 - Top: "to cease" (19, 17.3%), "cease" (5, 4.5%), "ceased" (4, 3.6%), "rest" (3, 2.7%)
 - Used in Gen 2:2,3 for God's rest on the seventh day; NEVER carries a lunar meaning
 
-## [H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"} -- chodesh (new moon, month)
+## H2320 -- chodesh (new moon, month)
 - Transliteration: chodesh
 - Pronunciation: kho-desh
 - POS: masculine noun
@@ -40,7 +40,7 @@
 - Primarily means "month" (calendar unit); "new moon" is the secondary meaning
 - Key appearances: 1Sa 20:5,18,24,27; 2Ki 4:23; 1Ch 23:31; 2Ch 2:4; 8:13; 31:3; Isa 1:13,14; 66:23; Eze 46:1,6; Hos 2:13; Amo 8:5
 
-## [H3394](https://www.blueletterbible.org/lexicon/h3394/kjv/wlc/0-1/){:target="_blank"} -- yareach (moon)
+## H3394 -- yareach (moon)
 - Transliteration: yareach
 - Pronunciation: yaw-ray-akh
 - POS: masculine noun
@@ -50,7 +50,7 @@
 - Key: Gen 37:9; Psa 104:19; Jos 10:12; Isa 13:10; 60:19
 - NEVER appears in any Sabbath context; never governs the weekly Sabbath
 
-## [H3842](https://www.blueletterbible.org/lexicon/h3842/kjv/wlc/0-1/){:target="_blank"} -- levanah (moon, "the white one")
+## H3842 -- levanah (moon, "the white one")
 - Transliteration: levanah
 - Pronunciation: leb-aw-naw
 - POS: feminine noun
@@ -59,7 +59,7 @@
 - Only 3 uses: Song 6:10; Isa 24:23; 30:26
 - Extremely rare; purely poetic; NEVER connected to Sabbath
 
-## [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} -- moed (appointed time, festival, congregation)
+## H4150 -- moed (appointed time, festival, congregation)
 - Transliteration: moed
 - Pronunciation: mo-ade
 - POS: masculine noun
@@ -71,7 +71,7 @@
 - NEVER used as a synonym for the weekly sabbath (shabbath, H7676)
 - Key: Gen 1:14 ("and for seasons"); Lev 23:2,4,37,44; Psa 104:19
 
-## [H226](https://www.blueletterbible.org/lexicon/h226/kjv/wlc/0-1/){:target="_blank"} -- oth (sign, token)
+## H226 -- oth (sign, token)
 - Transliteration: oth
 - Pronunciation: oth
 - POS: feminine noun
@@ -81,7 +81,7 @@
 - Key: Gen 1:14 (lights for signs); Exo 31:13,17 (Sabbath as sign); Eze 20:12,20 (my sabbaths as sign)
 - The Sabbath itself IS a sign (oth) -- but is not governed by the luminaries' signs
 
-## [H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/){:target="_blank"} -- yom (day)
+## H3117 -- yom (day)
 - Transliteration: yom
 - Pronunciation: yome
 - POS: masculine noun
@@ -90,7 +90,7 @@
 - 2729 total occurrences, 305 unique translations: "day" (674, 24.7%), "days" (312, 11.4%)
 - Key: Gen 1:14 (lights for days); Gen 2:2-3 (the seventh day)
 
-## [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} -- bad (separation, apart, besides)
+## H905 -- bad (separation, apart, besides)
 - Transliteration: bad
 - Pronunciation: bad
 - POS: masculine noun
@@ -99,7 +99,7 @@
 - 203 total occurrences, 43 unique translations: "beside" (33, 16.3%), "alone" (32, 15.8%), "only" (30, 14.8%), "apart" (11, 5.4%)
 - Key: Lev 23:38 -- millibad (min+le+bad) = "apart from, besides, separate from"
 
-## [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} -- chag (festival, pilgrimage feast)
+## H2282 -- chag (festival, pilgrimage feast)
 - Transliteration: chag
 - Pronunciation: khag
 - POS: masculine noun
@@ -109,7 +109,7 @@
 - NEVER used for the weekly Sabbath; exclusively for annual pilgrimage feasts
 - Key: Exo 23:14-17; Lev 23:6,34,39,41; Deu 16:16
 
-## [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} -- shabua (week, period of seven)
+## H7620 -- shabua (week, period of seven)
 - Transliteration: shabua
 - Pronunciation: shaw-boo-ah
 - POS: masculine noun
@@ -119,7 +119,7 @@
 - Related to sheba (seven); confirms the seven-day pattern
 - Key: Dan 9:24-27 ("weeks"); Exo 34:22; Num 28:26 (feast of weeks)
 
-## [H3677](https://www.blueletterbible.org/lexicon/h3677/kjv/wlc/0-1/){:target="_blank"} -- kece (full moon)
+## H3677 -- kece (full moon)
 - Transliteration: kece
 - Pronunciation: keh-seh
 - POS: masculine noun
@@ -129,7 +129,7 @@
 - Refers to the full moon festival, NOT the weekly Sabbath
 - Key: Psa 81:3 -- "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day"
 
-## [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} -- shvi'i (seventh)
+## H7637 -- shvi'i (seventh)
 - Transliteration: shvi'i
 - Pronunciation: sheb-ee-ee
 - POS: adjective
@@ -138,7 +138,7 @@
 - 98 total occurrences: "the seventh" (48, 49.0%), "seventh" (40, 40.8%)
 - Key: Gen 2:2-3 (the seventh day); Exo 20:10 (the seventh day is the sabbath)
 
-## [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} -- sabbaton (Sabbath, week)
+## G4521 -- sabbaton (Sabbath, week)
 - Transliteration: sabbaton
 - Pronunciation: sab-bat-on
 - POS: neuter noun
@@ -148,7 +148,7 @@
 - Fixed weekly term used consistently in all four Gospels and Acts
 - Key: Mat 28:1; Mrk 15:42; 16:1,2; Luk 23:56; 24:1; Jhn 19:31; 20:1; Act 13:14,27,42,44; 16:13; 17:2; 18:4; Col 2:16
 
-## [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} -- paraskeue (Preparation = Friday)
+## G3904 -- paraskeue (Preparation = Friday)
 - Transliteration: paraskeue
 - Pronunciation: par-ask-yoo-ay
 - POS: feminine noun
@@ -159,7 +159,7 @@
 - A FIXED name for Friday -- modern Greek still calls Friday "Paraskeue"
 - Proves fixed weekly cycle; impossible with floating lunar sabbath
 
-## [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} -- prosabbaton (before-Sabbath)
+## G4315 -- prosabbaton (before-Sabbath)
 - Transliteration: prosabbaton
 - Pronunciation: pros-ab-bat-on
 - POS: neuter noun
@@ -169,7 +169,7 @@
 - Compound: pro + sabbaton = "before-Sabbath"
 - Proves the day before the Sabbath was predictable and had a name
 
-## [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} -- etho (custom, habit)
+## G1486 -- etho (custom, habit)
 - Transliteration: etho
 - Pronunciation: eth-o
 - POS: verb
@@ -181,7 +181,7 @@
 - Key: Luk 4:16 -- "as his custom was" (kata to eiothos auto) -- Jesus's settled Sabbath custom
 - A settled custom REQUIRES regular, predictable recurrence -- incompatible with floating lunar sabbath
 
-## [G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"} -- noumenia (new moon)
+## G3561 -- noumenia (new moon)
 - Transliteration: noumenia
 - Pronunciation: noo-may-nee-ah
 - POS: feminine noun

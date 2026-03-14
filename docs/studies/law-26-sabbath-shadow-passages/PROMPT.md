@@ -102,7 +102,7 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 **Sabbath in the Decalogue and creation:**
 - Gen 2:2-3 (God rested, blessed, sanctified the seventh day at creation)
 - Exo 20:8-11 (Fourth Commandment: "Remember the sabbath day...For in six days the LORD made heaven and earth")
-- Exo 20:8 (zakar, [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} -- "Remember" -- memorial verb pointing backward to creation)
+- Exo 20:8 (zakar, H2142 -- "Remember" -- memorial verb pointing backward to creation)
 - Mrk 2:27 ("The sabbath was made [egeneto] for man [anthropon]")
 
 **Sabbath continuing in prophecy:**
@@ -117,25 +117,25 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} | sabbaton -- Greek "Sabbath" (68 occ.) | The key word in Col 2:16; genitive plural sabbaton could refer to weekly or ceremonial sabbaths |
-| [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} | sabbatismos -- "Sabbath-keeping" (1 occ.) | Hapax legomenon in Heb 4:9; -ismos suffix = practice; relevant to whether Sabbath continues |
-| [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} | skia -- "shadow" (7 occ.) | Col 2:17 "shadow of things to come"; Heb 8:5, 10:1 applied to ceremonial system; never to Decalogue |
-| [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} | cheirographon -- "handwriting" (1 occ.) | Hapax legomenon in Col 2:14; cheir (hand) + grapho (write) = "hand-written document" |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma -- "decree/ordinance" (5 occ.) | Col 2:14 (dogmasin); Eph 2:15; never used for the Decalogue; all 5 uses = civil or ceremonial |
-| [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} | dogmatizo -- "subject to ordinances" (1 occ.) | Col 2:20; verbal form of dogma; the only NT occurrence |
-| [G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"} | noumenia -- "new moon" (1 occ.) | Col 2:16 only; the Greek transliteration of Hebrew chodesh (new moon) |
-| [G1859](https://www.blueletterbible.org/lexicon/g1859/kjv/tr/0-1/){:target="_blank"} | heorte -- "feast/festival" (27 occ.) | Col 2:16 "holyday"; used for Jewish feasts throughout NT |
-| [G1253](https://www.blueletterbible.org/lexicon/g1253/kjv/tr/0-1/){:target="_blank"} | diakrisis -- "discerning/disputation" (3 occ.) | Rom 14:1 "doubtful disputations"; key to identifying the Rom 14 genre as adiaphora |
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | shabbath -- Hebrew "sabbath" (108 occ.) | Core OT term; "the sabbaths of the LORD" in Lev 23:38 |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | shabbathown -- "sabbatism/rest" (11 occ.) | Used for both weekly Sabbath (Lev 23:3) and ceremonial rest days (Lev 23:24,39) |
-| [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} | moed -- "appointed time/feast" (223 occ.) | "Feasts" in Lev 23:2,4,37,44; weekly Sabbath is never called moed |
-| [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} | chag -- "feast/festival" (62 occ.) | Pilgrimage feasts; weekly Sabbath is never called chag |
-| [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} | bad/millibad -- "apart from/beside" | Critical preposition in Lev 23:38 separating feast sabbaths from weekly sabbaths |
-| [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} | zakar -- "remember" (233 occ.) | Memorial verb opening Fourth Commandment (Exo 20:8); backward-pointing, not forward (shadow) |
-| [H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"} | chodesh -- "new moon/month" (283 occ.) | OT "new moon"; appears in the ceremonial triad with feasts and sabbaths |
-| [G4983](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} | soma -- "body" (146 occ.) | Col 2:17 "the body [soma] is of Christ"; the substance casting the shadow |
-| [G1813](https://www.blueletterbible.org/lexicon/g1813/kjv/tr/0-1/){:target="_blank"} | exaleipho -- "to blot out" (5 occ.) | Col 2:14 "blotting out the handwriting"; the act of erasure |
-| [G4338](https://www.blueletterbible.org/lexicon/g4338/kjv/tr/0-1/){:target="_blank"} | proseloo -- "to nail to" (1 occ.) | Hapax legomenon in Col 2:14 "nailing it to his cross" |
+| G4521 | sabbaton -- Greek "Sabbath" (68 occ.) | The key word in Col 2:16; genitive plural sabbaton could refer to weekly or ceremonial sabbaths |
+| G4520 | sabbatismos -- "Sabbath-keeping" (1 occ.) | Hapax legomenon in Heb 4:9; -ismos suffix = practice; relevant to whether Sabbath continues |
+| G4639 | skia -- "shadow" (7 occ.) | Col 2:17 "shadow of things to come"; Heb 8:5, 10:1 applied to ceremonial system; never to Decalogue |
+| G5498 | cheirographon -- "handwriting" (1 occ.) | Hapax legomenon in Col 2:14; cheir (hand) + grapho (write) = "hand-written document" |
+| G1378 | dogma -- "decree/ordinance" (5 occ.) | Col 2:14 (dogmasin); Eph 2:15; never used for the Decalogue; all 5 uses = civil or ceremonial |
+| G1379 | dogmatizo -- "subject to ordinances" (1 occ.) | Col 2:20; verbal form of dogma; the only NT occurrence |
+| G3561 | noumenia -- "new moon" (1 occ.) | Col 2:16 only; the Greek transliteration of Hebrew chodesh (new moon) |
+| G1859 | heorte -- "feast/festival" (27 occ.) | Col 2:16 "holyday"; used for Jewish feasts throughout NT |
+| G1253 | diakrisis -- "discerning/disputation" (3 occ.) | Rom 14:1 "doubtful disputations"; key to identifying the Rom 14 genre as adiaphora |
+| H7676 | shabbath -- Hebrew "sabbath" (108 occ.) | Core OT term; "the sabbaths of the LORD" in Lev 23:38 |
+| H7677 | shabbathown -- "sabbatism/rest" (11 occ.) | Used for both weekly Sabbath (Lev 23:3) and ceremonial rest days (Lev 23:24,39) |
+| H4150 | moed -- "appointed time/feast" (223 occ.) | "Feasts" in Lev 23:2,4,37,44; weekly Sabbath is never called moed |
+| H2282 | chag -- "feast/festival" (62 occ.) | Pilgrimage feasts; weekly Sabbath is never called chag |
+| H905 | bad/millibad -- "apart from/beside" | Critical preposition in Lev 23:38 separating feast sabbaths from weekly sabbaths |
+| H2142 | zakar -- "remember" (233 occ.) | Memorial verb opening Fourth Commandment (Exo 20:8); backward-pointing, not forward (shadow) |
+| H2320 | chodesh -- "new moon/month" (283 occ.) | OT "new moon"; appears in the ceremonial triad with feasts and sabbaths |
+| G4983 | soma -- "body" (146 occ.) | Col 2:17 "the body [soma] is of Christ"; the substance casting the shadow |
+| G1813 | exaleipho -- "to blot out" (5 occ.) | Col 2:14 "blotting out the handwriting"; the act of erasure |
+| G4338 | proseloo -- "to nail to" (1 occ.) | Hapax legomenon in Col 2:14 "nailing it to his cross" |
 
 ### Related Existing Studies
 | Study | Relevance |
@@ -200,7 +200,7 @@ You are the Research Agent. Execute this study by:
 6. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (retrieve EVERY verse listed above from kjv.txt)
-   - `04-word-studies.md` - Strong's research for all listed numbers (G4521, [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"}, [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"}, [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"}, [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}, [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"}, [G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"}, [G1859](https://www.blueletterbible.org/lexicon/g1859/kjv/tr/0-1/){:target="_blank"}, [G1253](https://www.blueletterbible.org/lexicon/g1253/kjv/tr/0-1/){:target="_blank"}, [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}, [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"}, [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"}, [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"}, [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"}, [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"}, [H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"}, [G4983](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"}, [G1813](https://www.blueletterbible.org/lexicon/g1813/kjv/tr/0-1/){:target="_blank"}, G4338)
+   - `04-word-studies.md` - Strong's research for all listed numbers (G4521, G4520, G4639, G5498, G1378, G1379, G3561, G1859, G1253, H7676, H7677, H4150, H2282, H905, H2142, H2320, G4983, G1813, G4338)
    - `raw-data/` - Raw tool output organized by category
 7. Run cross-testament parallels for key verses: Col 2:14, Col 2:16-17, Rom 14:5, Eze 45:17, Lev 23:37-38, 2 Chr 31:3, Hos 2:11
 8. Retrieve Hebrew/Greek parsing for key verses: Col 2:14 (exaleipsas, cheirographon, dogmasin, proseloo), Col 2:16 (heortes, neomenias, sabbaton), Col 2:17 (skia, soma), Rom 14:1 (dialogismoi), Rom 14:5 (hemera, krino), Eze 45:17 (meat/drink/feasts/new moons/sabbaths), Lev 23:38 (millibad, shabbetot YHWH)
@@ -229,16 +229,3 @@ answer-question
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-26-sabbath-shadow-passages/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

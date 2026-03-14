@@ -52,7 +52,7 @@ The Sabbath command shares all seven unique markers identified for the Decalogue
 
 ### What the Text Says
 
-Leviticus 23:3 lists the weekly Sabbath first, then v.4 begins: "These are the feasts of the LORD." Verse 38 states that all the preceding festival observances are "beside the sabbaths of the LORD" (millibad, [H4480](https://www.blueletterbible.org/lexicon/h4480/kjv/wlc/0-1/){:target="_blank"}+[H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} -- "apart from/besides"). The weekly Sabbath has distinct vocabulary: shabbath shabbathon (Lev 23:3) with "all work" prohibition, whereas annual rest days use shabbathon alone with "servile work" prohibition.
+Leviticus 23:3 lists the weekly Sabbath first, then v.4 begins: "These are the feasts of the LORD." Verse 38 states that all the preceding festival observances are "beside the sabbaths of the LORD" (millibad, H4480+H905 -- "apart from/besides"). The weekly Sabbath has distinct vocabulary: shabbath shabbathon (Lev 23:3) with "all work" prohibition, whereas annual rest days use shabbathon alone with "servile work" prohibition.
 
 Numbers 28-29 organizes offerings by temporal frequency, placing the weekly Sabbath (Num 28:9-10) in its own category between the daily offering and the monthly new moon offering.
 
@@ -126,7 +126,7 @@ Jesus instructs His followers to pray about the Sabbath in the context of an eve
 
 **Acts 16:13 (Philippi):** "On the sabbath we went out of the city by a river side, where prayer was wont to be made." There was no synagogue in Philippi; Paul sought Sabbath worship by the riverside.
 
-**Acts 17:1-2 (Thessalonica):** "Paul, as his manner was [kata to eiothos], went in unto them, and three sabbath days reasoned with them out of the scriptures." Luke uses the identical Greek construction (kata to eiothos, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, Perfect Active Participle) for Paul as he used for Jesus in Luke 4:16.
+**Acts 17:1-2 (Thessalonica):** "Paul, as his manner was [kata to eiothos], went in unto them, and three sabbath days reasoned with them out of the scriptures." Luke uses the identical Greek construction (kata to eiothos, G1486, Perfect Active Participle) for Paul as he used for Jesus in Luke 4:16.
 
 **Acts 18:4, 11 (Corinth):** "He reasoned in the synagogue every sabbath [kata pan sabbaton], and persuaded the Jews and the Greeks." The verb dielegeto (G1256, Imperfect Middle/Passive Indicative) indicates ongoing, habitual action. Paul's time in Corinth was "a year and six months" (v.11) -- approximately 78 Sabbaths of teaching Jews AND Greeks.
 
@@ -401,16 +401,3 @@ These texts state that accountability corresponds to knowledge. The Continues po
 
 ---
 *Analysis completed: 2026-02-26*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

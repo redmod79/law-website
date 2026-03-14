@@ -75,7 +75,7 @@ The seven primary NT abolition passages (Col 2:14-17, Eph 2:15, Heb 7:12, Heb 9:
 | E38 | Col 2:20-22: "Why...are ye subject to ordinances (dogmatizesthe), (Touch not; taste not; handle not; Which all are to perish with the using;) after the commandments and doctrines of men (entalmata kai didaskalias ton anthropon)?" Paul identifies the "ordinances" as "commandments and doctrines of men." | Col 2:20-22 | Neutral | Textual fact: Paul identifies the ordinances. Both sides must accept. -> See new E254 below. |
 | E39 | "Honour thy father and mother; (which is the first commandment [entole, G1785] with promise;) That it may be well with thee, and thou mayest live long on the earth." Paul quotes the 5th Decalogue commandment (Exo 20:12) as binding in the SAME epistle where Eph 2:15 abolishes "the law of commandments in ordinances." | Eph 6:2-3 | Continues | V1: Yes (Decalogue commandment cited as authoritative; distinction indicator -- same epistle that abolishes dogma-qualified law cites Decalogue as binding). Gate 1: PASS -- entole here is identified by its content (5th commandment) as the Decalogue. Gate 2: PASS -- imperative mood (tima = "honour"), called entole with epangelia (promise). Gate 3: PASS -- didactic epistle. Gate 4: PASS -- consistent with E020/E143, E016/E025. -> See new master item below. |
 | E40 | Katargeo (G2673) is used in Eph 2:15 (katargesas, Aor Act Ptcp: "having abolished...the law of commandments in ordinances") and in Rom 3:31 (katargoumen, Pres Act Ind: "Do we then make void the law through faith? God forbid: yea, we establish the law"). The same Greek word appears in both an abolition context and an emphatic denial-of-abolition context. | Eph 2:15; Rom 3:31 | Neutral | Grammatical/lexical observation both sides must accept: the same verb katargeo (G2673) appears in both passages. -> See new master item below. |
-| E41 | The Greek construction in Eph 2:15 narrows progressively: ton nomon (the law, [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}, Acc Sg M) -> ton entolon (of the commandments, [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}, Gen Pl F) -> en dogmasin (in ordinances, [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}, Dat Pl N). Each successive genitive/prepositional phrase restricts the referent of "the law" to a narrower category. | Eph 2:15 (grammar) | Neutral | Grammatical observation both sides must accept: the three-layer construction is visible in the Greek text. -> See new master item below. |
+| E41 | The Greek construction in Eph 2:15 narrows progressively: ton nomon (the law, G3551, Acc Sg M) -> ton entolon (of the commandments, G1785, Gen Pl F) -> en dogmasin (in ordinances, G1378, Dat Pl N). Each successive genitive/prepositional phrase restricts the referent of "the law" to a narrower category. | Eph 2:15 (grammar) | Neutral | Grammatical observation both sides must accept: the three-layer construction is visible in the Greek text. -> See new master item below. |
 
 ### Necessary Implications
 
@@ -307,7 +307,7 @@ Every E-item classified as Continues or Neutral has been traced through Tree 3 a
 - N4 (Heb 10:1-9 + 10:16): Direct textual juxtaposition in same passage. #4a (verified connection). Documented.
 - I6 resolution: Grammar (E32/N5) determines reading. #4a (verified connection -- same verse, same sentence). Documented.
 - I7 resolution: OT calendar pattern (1 Chr 23:31; 2 Chr 2:4; Ezek 45:17) + Lev 23:37-38. #4a (shared vocabulary heorte/neomenia/sabbaton). Documented.
-- N7 (katargeo in Eph 2:15 + Rom 3:31): Same lemma [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} in both passages. #4a (verified connection -- same author, same verb). Documented.
+- N7 (katargeo in Eph 2:15 + Rom 3:31): Same lemma G2673 in both passages. #4a (verified connection -- same author, same verb). Documented.
 - N8 (Eph 2:15 + Eph 6:2-3): Same epistle, same author. #4a (verified connection -- within one document). Documented.
 - I8 resolution: Narrowing construction (E41), same-epistle Decalogue citation (E39/N8), katargeo distinction (E40/N7), dogma vocabulary (N2). #4a (multiple verified connections within same epistle). Documented.
 
@@ -444,16 +444,3 @@ Every E-item classified as Continues or Neutral has been traced through Tree 3 a
 ---
 *Study updated: 2026-02-23*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

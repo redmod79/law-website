@@ -77,22 +77,22 @@ What specific laws continue and what specific laws ceased? Produce a comprehensi
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole (commandment) | Core term: used for moral/Decalogue commands without qualifier; ceremonial uses always carry qualifier (sarkines, en dogmasin, anthropon) |
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos (law) | Broadest law term: used in 4+ senses (Torah, Decalogue, principle, Pentateuch-as-Scripture); articular/anarthrous pattern is tendency not absolute code |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma (decree/ordinance) | Never used for Decalogue; 5 NT occurrences: civil decrees (2), ecclesiastical (1), abolished ceremonial (2) |
-| [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} | dogmatizo (subject to ordinances) | Col 2:20: content = dietary/purity regulations; "commandments and doctrines of men" |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma (ordinance/righteous requirement) | Singular articular = moral standard (Rom 8:4); plural + modifier = ceremonial ordinances (Heb 9:1,10) |
-| [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} | cheirographon (handwriting) | Col 2:14: compound cheir+grapho = "hand-written"; Decalogue was "written with the finger of God" (different authorship) |
-| [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} | katargeo (abolish, make void, render idle) | 2 Cor 3:7,11,13: object is the glory/ministry, not the law; Eph 2:15: abolished the law of commandments in ordinances |
-| [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} | pleroo (fulfil) | Mat 5:17: Jesus came to "fulfil" the law; distinguished from kataluo ("destroy") |
-| [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | kataluo (destroy/dissolve) | Mat 5:17: what Jesus did NOT come to do to the law |
-| [G3198](https://www.blueletterbible.org/lexicon/g3198/kjv/tr/0-1/){:target="_blank"} | Melchisedek | Heb 7:1-28: Melchizedek priesthood, tithing, priesthood change |
-| [G2420](https://www.blueletterbible.org/lexicon/g2420/kjv/tr/0-1/){:target="_blank"} | hierosyne (priesthood) | Heb 7:11-12,24: priesthood changed, law changed |
-| [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} | mitsvah (commandment) | Hebrew equivalent of entole; "the commandments" in OT |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment/ordinance) | Hebrew term for judicial regulations |
-| [H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"} | tahowr (clean/pure) | Gen 7:2: "of every clean beast" — pre-Mosaic clean/unclean distinction |
-| [G536](https://www.blueletterbible.org/lexicon/g536/kjv/tr/0-1/){:target="_blank"} | aparche (firstfruits) | Connected to offering/tithe concepts |
-| [H4442](https://www.blueletterbible.org/lexicon/h4442/kjv/wlc/0-1/){:target="_blank"} | Malki-Tsedeq (Melchizedek) | Gen 14:18: king of Salem, priest of the most high God |
+| G1785 | entole (commandment) | Core term: used for moral/Decalogue commands without qualifier; ceremonial uses always carry qualifier (sarkines, en dogmasin, anthropon) |
+| G3551 | nomos (law) | Broadest law term: used in 4+ senses (Torah, Decalogue, principle, Pentateuch-as-Scripture); articular/anarthrous pattern is tendency not absolute code |
+| G1378 | dogma (decree/ordinance) | Never used for Decalogue; 5 NT occurrences: civil decrees (2), ecclesiastical (1), abolished ceremonial (2) |
+| G1379 | dogmatizo (subject to ordinances) | Col 2:20: content = dietary/purity regulations; "commandments and doctrines of men" |
+| G1345 | dikaioma (ordinance/righteous requirement) | Singular articular = moral standard (Rom 8:4); plural + modifier = ceremonial ordinances (Heb 9:1,10) |
+| G5498 | cheirographon (handwriting) | Col 2:14: compound cheir+grapho = "hand-written"; Decalogue was "written with the finger of God" (different authorship) |
+| G2673 | katargeo (abolish, make void, render idle) | 2 Cor 3:7,11,13: object is the glory/ministry, not the law; Eph 2:15: abolished the law of commandments in ordinances |
+| G4137 | pleroo (fulfil) | Mat 5:17: Jesus came to "fulfil" the law; distinguished from kataluo ("destroy") |
+| G2647 | kataluo (destroy/dissolve) | Mat 5:17: what Jesus did NOT come to do to the law |
+| G3198 | Melchisedek | Heb 7:1-28: Melchizedek priesthood, tithing, priesthood change |
+| G2420 | hierosyne (priesthood) | Heb 7:11-12,24: priesthood changed, law changed |
+| H4687 | mitsvah (commandment) | Hebrew equivalent of entole; "the commandments" in OT |
+| H4941 | mishpat (judgment/ordinance) | Hebrew term for judicial regulations |
+| H2889 | tahowr (clean/pure) | Gen 7:2: "of every clean beast" — pre-Mosaic clean/unclean distinction |
+| G536 | aparche (firstfruits) | Connected to offering/tithe concepts |
+| H4442 | Malki-Tsedeq (Melchizedek) | Gen 14:18: king of Salem, priest of the most high God |
 
 ### Related Existing Studies
 
@@ -260,16 +260,3 @@ answer-question
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-29-what-continues-what-ceased/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -1,6 +1,6 @@
 # Raw Strong's Lookups
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} - nomos (law)
+## G3551 - nomos (law)
 **169 total occurrences, 11 unique translations:**
 - 95 (56.2%) "law"
 - 49 (29.0%) "the law"
@@ -19,7 +19,7 @@
 - Definition: from a primary nemo (to parcel out, especially food or grazing)
 - Occurrences in Galatians: 2:19(x2), 2:21, 3(chapter), 3:13, 3:17, 3:18, 3:23(x2), 3:24(x2), 4:4, 4:21, 5:3, 5:4, 5:14(x2), 5:18, 5:23, 6:2, 6:13
 
-## [G3807](https://www.blueletterbible.org/lexicon/g3807/kjv/tr/0-1/){:target="_blank"} - paidagogos (schoolmaster)
+## G3807 - paidagogos (schoolmaster)
 **3 total occurrences, 3 unique translations:**
 - 1 (33.3%) "instructors"
 - 1 (33.3%) "schoolmaster"
@@ -34,7 +34,7 @@
 - Definition: from [pais] and a reduplicated form of [ago]; a boy-leader, i.e. a servant
 - Occurrences: 1 Corinthians 4:15; Galatians 3:24, 3:25
 
-## [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} - dikaioo (justify)
+## G1344 - dikaioo (justify)
 **43 total occurrences, 30 unique translations:**
 - 7 (16.3%) "justified"
 - 4 (9.3%) "is justified"
@@ -53,7 +53,7 @@
 - Key occurrences in Galatians: 2:16(x2), 2:17, 3:8, 3:11, 3:24, 5:4
 - Key occurrences in Romans: 2:13, 3:4, 3:20, 3:24, 3:26, 3:28(x2), 3:30(x2), 4:2(x2), 4:5, 5:1, 5:9, 6:7, 8:30, 8:33, 10:10
 
-## [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} - eleutheria (liberty)
+## G1657 - eleutheria (liberty)
 **9 total occurrences, 1 unique translation:**
 - 9 (100%) "liberty"
 
@@ -66,7 +66,7 @@
 - Definition: from [eleutheros]; freedom (legitimate or licentious, chiefly moral)
 - Occurrences: Rom 8:21; 1 Cor 10:29; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; Jas 1:25; 2:12; 1 Pet 2:16; 2 Pet 2:19
 
-## [G4747](https://www.blueletterbible.org/lexicon/g4747/kjv/tr/0-1/){:target="_blank"} - stoicheion (elements/rudiments)
+## G4747 - stoicheion (elements/rudiments)
 **7 total occurrences, 4 unique translations:**
 - 2 (28.6%) "elements"
 - 2 (28.6%) "rudiments"
@@ -83,7 +83,7 @@
 - Occurrences: Gal 4:3(x2), 4:9(x2); Col 2:8(x2), 2:20(x2); Heb 5:12, 5:13; 2 Pet 3:10, 3:12
 - Note: Acts 15:10 also listed in usage outline (probably related context)
 
-## [G1805](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/){:target="_blank"} - exagorazo (redeem)
+## G1805 - exagorazo (redeem)
 **4 total occurrences, 4 unique translations:**
 - 1 (25%) "hath redeemed"
 - 1 (25%) "redeem"
@@ -99,7 +99,7 @@
 - Definition: from [ek] and [agorazo]; to buy up, i.e. ransom; figuratively, to rescue from
 - Occurrences: Dan 2:8; Gal 3:13; 4:5; Eph 5:16; Col 4:5
 
-## [G4061](https://www.blueletterbible.org/lexicon/g4061/kjv/tr/0-1/){:target="_blank"} - peritome (circumcision)
+## G4061 - peritome (circumcision)
 **32 total occurrences, 7 unique translations:**
 - 17 (53.1%) "circumcision"
 - 7 (21.9%) "the circumcision"

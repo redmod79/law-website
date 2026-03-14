@@ -136,36 +136,36 @@ Three queries were run, plus lexicon lookups for key terms.
 
 | Strong's | Word | Definition | Relevance |
 |----------|------|-----------|-----------|
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (מִשְׁפָּט) | Judgment, justice, ordinance, legal right, claim, verdict, case law. From [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} (shaphat). 448 occurrences. Translated as "judgment" (296x), "manner" (38x), "right" (18x), "cause" (12x), "ordinance" (11x), "lawful" (7x), etc. Used in Exo 21:1 for the "judgments" (mishpatim) that define civil/judicial legislation. | Core term -- the word for the civil/judicial laws being investigated |
-| [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} | choq (חֹק) | Statute, ordinance, decree, prescribed limit. From [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} (chaqaq -- to engrave, inscribe, decree). Refers to prescribed regulations, boundary, appointed time/portion. | Key term for distinguishing types of laws; used alongside mishpat and mitsvah |
-| [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} | chuqqah (חֻקָּה) | Statute, ordinance (feminine form of H2706). | Variant form of statute terminology |
-| [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} | shaphat (שָׁפַט) | To judge, govern, vindicate, punish. Root of mishpat (H4941). | The verbal root of the core term |
-| [H1777](https://www.blueletterbible.org/lexicon/h1777/kjv/wlc/0-1/){:target="_blank"} | din (דִּין) | To judge, contend, plead. Refers to executing judgment, acting as advocate or judge. | Alternative judicial term |
-| [H6064](https://www.blueletterbible.org/lexicon/h6064/kjv/wlc/0-1/){:target="_blank"} | anash (עָנַשׁ) | To fine, penalize, punish by fine. | Financial penalty term |
-| [H8545](https://www.blueletterbible.org/lexicon/h8545/kjv/wlc/0-1/){:target="_blank"} | temurah (תְּמוּרָה) | Exchange, recompense, restitution. | Compensation/restitution term |
-| [H1498](https://www.blueletterbible.org/lexicon/h1498/kjv/wlc/0-1/){:target="_blank"} | gazel (גָּזֵל) | Plunder, robbery, that which was taken violently. | Theft/property crime term |
-| [H817](https://www.blueletterbible.org/lexicon/h817/kjv/wlc/0-1/){:target="_blank"} | asham (אָשָׁם) | Guilt, guilt offering, trespass offering. | Overlap between civil penalty and ceremonial offering |
-| [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} | chaqaq (חָקַק) | To engrave, inscribe, decree, enact. | Root of choq -- legislative enactment |
-| [H1881](https://www.blueletterbible.org/lexicon/h1881/kjv/wlc/0-1/){:target="_blank"} | dath (דָּת) | Decree, law, edict. | Legal/judicial decree term |
-| [H6416](https://www.blueletterbible.org/lexicon/h6416/kjv/wlc/0-1/){:target="_blank"} | peliliy (פְּלִילִי) | Judicial, for a judge to decide. | Judicial assessment term |
-| [H8196](https://www.blueletterbible.org/lexicon/h8196/kjv/wlc/0-1/){:target="_blank"} | shephowt (שְׁפוֹט) | Judgment, sentence. | Judgment/sentence term |
-| [H4896](https://www.blueletterbible.org/lexicon/h4896/kjv/wlc/0-1/){:target="_blank"} | mishtar (מִשְׁטָר) | Authority, dominion, rule. | Governmental authority term |
+| H4941 | mishpat (מִשְׁפָּט) | Judgment, justice, ordinance, legal right, claim, verdict, case law. From H8199 (shaphat). 448 occurrences. Translated as "judgment" (296x), "manner" (38x), "right" (18x), "cause" (12x), "ordinance" (11x), "lawful" (7x), etc. Used in Exo 21:1 for the "judgments" (mishpatim) that define civil/judicial legislation. | Core term -- the word for the civil/judicial laws being investigated |
+| H2706 | choq (חֹק) | Statute, ordinance, decree, prescribed limit. From H2710 (chaqaq -- to engrave, inscribe, decree). Refers to prescribed regulations, boundary, appointed time/portion. | Key term for distinguishing types of laws; used alongside mishpat and mitsvah |
+| H2708 | chuqqah (חֻקָּה) | Statute, ordinance (feminine form of H2706). | Variant form of statute terminology |
+| H8199 | shaphat (שָׁפַט) | To judge, govern, vindicate, punish. Root of mishpat (H4941). | The verbal root of the core term |
+| H1777 | din (דִּין) | To judge, contend, plead. Refers to executing judgment, acting as advocate or judge. | Alternative judicial term |
+| H6064 | anash (עָנַשׁ) | To fine, penalize, punish by fine. | Financial penalty term |
+| H8545 | temurah (תְּמוּרָה) | Exchange, recompense, restitution. | Compensation/restitution term |
+| H1498 | gazel (גָּזֵל) | Plunder, robbery, that which was taken violently. | Theft/property crime term |
+| H817 | asham (אָשָׁם) | Guilt, guilt offering, trespass offering. | Overlap between civil penalty and ceremonial offering |
+| H2710 | chaqaq (חָקַק) | To engrave, inscribe, decree, enact. | Root of choq -- legislative enactment |
+| H1881 | dath (דָּת) | Decree, law, edict. | Legal/judicial decree term |
+| H6416 | peliliy (פְּלִילִי) | Judicial, for a judge to decide. | Judicial assessment term |
+| H8196 | shephowt (שְׁפוֹט) | Judgment, sentence. | Judgment/sentence term |
+| H4896 | mishtar (מִשְׁטָר) | Authority, dominion, rule. | Governmental authority term |
 
 #### Legal Terminology (Greek -- NT references)
 
 | Strong's | Word | Definition | Relevance |
 |----------|------|-----------|-----------|
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma (δόγμα) | Decree, ordinance -- "a law civil, ceremonial or ecclesiastical." Used in Col 2:14; Eph 2:15. | Key term -- identifies what was "nailed to cross" as ordinances/decrees, not moral law |
-| [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} | krisis (κρίσις) | Judgment, justice, condemnation. | NT judgment/justice term |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma (δικαίωμα) | Equitable deed, statute, righteous requirement. Used in Rom 8:4 "righteousness of the law." | Righteous requirement/statute term |
-| [G2922](https://www.blueletterbible.org/lexicon/g2922/kjv/tr/0-1/){:target="_blank"} | kriterion (κριτήριον) | Rule of judging, tribunal, court. | Judicial tribunal term |
-| [G2923](https://www.blueletterbible.org/lexicon/g2923/kjv/tr/0-1/){:target="_blank"} | krites (κριτής) | Judge, one who passes judgment. | NT judge term |
-| [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} | dogmatizo (δογματίζω) | To decree, subject to ordinances (Col 2:20). | Verb form -- being subject to decrees |
-| [G3544](https://www.blueletterbible.org/lexicon/g3544/kjv/tr/0-1/){:target="_blank"} | nomikos (νομικός) | Pertaining to law, lawyer, expert in the law. | Legal expert term |
-| [G661](https://www.blueletterbible.org/lexicon/g661/kjv/tr/0-1/){:target="_blank"} | apotino (ἀποτίνω) | To pay, repay, make restitution. | Restitution/payment term |
-| [G5098](https://www.blueletterbible.org/lexicon/g5098/kjv/tr/0-1/){:target="_blank"} | timoria (τιμωρία) | Punishment, penalty. | Punishment term |
-| [G2809](https://www.blueletterbible.org/lexicon/g2809/kjv/tr/0-1/){:target="_blank"} | klemma (κλέμμα) | Theft, stolen property. | Theft term |
-| [G2813](https://www.blueletterbible.org/lexicon/g2813/kjv/tr/0-1/){:target="_blank"} | klepto (κλέπτω) | To steal. | Theft verb |
+| G1378 | dogma (δόγμα) | Decree, ordinance -- "a law civil, ceremonial or ecclesiastical." Used in Col 2:14; Eph 2:15. | Key term -- identifies what was "nailed to cross" as ordinances/decrees, not moral law |
+| G2920 | krisis (κρίσις) | Judgment, justice, condemnation. | NT judgment/justice term |
+| G1345 | dikaioma (δικαίωμα) | Equitable deed, statute, righteous requirement. Used in Rom 8:4 "righteousness of the law." | Righteous requirement/statute term |
+| G2922 | kriterion (κριτήριον) | Rule of judging, tribunal, court. | Judicial tribunal term |
+| G2923 | krites (κριτής) | Judge, one who passes judgment. | NT judge term |
+| G1379 | dogmatizo (δογματίζω) | To decree, subject to ordinances (Col 2:20). | Verb form -- being subject to decrees |
+| G3544 | nomikos (νομικός) | Pertaining to law, lawyer, expert in the law. | Legal expert term |
+| G661 | apotino (ἀποτίνω) | To pay, repay, make restitution. | Restitution/payment term |
+| G5098 | timoria (τιμωρία) | Punishment, penalty. | Punishment term |
+| G2809 | klemma (κλέμμα) | Theft, stolen property. | Theft term |
+| G2813 | klepto (κλέπτω) | To steal. | Theft verb |
 
 ### Related Existing Studies
 
@@ -221,13 +221,13 @@ Derived from tool discoveries, not training knowledge:
 
 2. **Relationship of civil laws to the Decalogue.** Many Nave's entries show civil laws that map directly to Decalogue commandments -- e.g., theft restitution formulas (Exo 22:1-9) relate to "Thou shalt not steal"; personal injury penalties (Exo 21:12-14) relate to "Thou shalt not kill"; property damage (Exo 21:28-36) relates to property rights. Investigate whether the mishpatim function as case-law applications of moral principles.
 
-3. **Hebrew vocabulary for law types.** From Gen 26:5 (law-02) and Deu 4:13-14 (law-03): the Bible uses mishmereth (charge), mitsvah (commandment), chuqqah (statute), towrah (law), mishpat (judgment). These terms appear together and may represent different functional categories. [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} (mishpat) specifically denotes "case law" -- judicial decisions, verdicts, legal rights. This is distinct from [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} (choq) which denotes enacted statutes/decrees and [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} (mitsvah) which denotes direct commandments.
+3. **Hebrew vocabulary for law types.** From Gen 26:5 (law-02) and Deu 4:13-14 (law-03): the Bible uses mishmereth (charge), mitsvah (commandment), chuqqah (statute), towrah (law), mishpat (judgment). These terms appear together and may represent different functional categories. H4941 (mishpat) specifically denotes "case law" -- judicial decisions, verdicts, legal rights. This is distinct from H2706 (choq) which denotes enacted statutes/decrees and H4687 (mitsvah) which denotes direct commandments.
 
 4. **The theocratic context of civil law.** Nave's THEOCRACY and GOVERNMENT entries reveal: Israel was a theocracy (EXO 19:8; DEU 33:2-5; JDG 8:23) until they rejected it (1SA 8:7,19; 1SA 12:12). Civil laws were given within this theocratic framework. What happens to laws designed for a theocratic nation-state when that nation-state no longer exists? This intersects with the "application of moral principles" question -- if the underlying moral principle endures but the specific civil application was nation-specific, the principle persists even if the penalty form changes.
 
 5. **The servant/slavery laws as a test case.** The SERVANT topic reveals extensive civil legislation (Exo 21:1-11, Lev 25:39-55, Deu 15:12-18). These laws regulate an institution that no longer exists in the same form. How do they relate to moral principles (human dignity, justice, mercy)? The jubilee/release provisions suggest moral principles underlying civil regulations.
 
-6. **Whether the Bible itself distinguishes civil from ceremonial.** Law-04 showed the Bible distinguishes ceremonial laws (shadow, type, imposed until, carnal ordinances) from the Decalogue. Does the Bible similarly distinguish civil laws from ceremonial laws? Or are civil and ceremonial both in the "Stage 2" category with no textual distinction between them? The [H817](https://www.blueletterbible.org/lexicon/h817/kjv/wlc/0-1/){:target="_blank"} (asham -- guilt/trespass offering) intersection between civil penalties and ceremonial offerings suggests overlap.
+6. **Whether the Bible itself distinguishes civil from ceremonial.** Law-04 showed the Bible distinguishes ceremonial laws (shadow, type, imposed until, carnal ordinances) from the Decalogue. Does the Bible similarly distinguish civil laws from ceremonial laws? Or are civil and ceremonial both in the "Stage 2" category with no textual distinction between them? The H817 (asham -- guilt/trespass offering) intersection between civil penalties and ceremonial offerings suggests overlap.
 
 7. **NT treatment of civil/judicial law.** Do NT authors cite, modify, or set aside specific civil laws? Look for NT references to Exodus 21-23 civil provisions. Paul's reference to "the powers that be" (Rom 13:1-7) as God-ordained may transfer the judicial function from theocratic Israel to civil government generally. 1 Cor 6:1-8 (going to law before unbelievers vs. settling within the church) also bears on judicial procedure.
 
@@ -256,14 +256,14 @@ You are the Research Agent. Execute this study by:
      - **1 Cor 6:1-8** (NT on judicial disputes)
      - **Mat 5:38-42** (Jesus and "eye for eye")
      - **All verses from Nave's entries listed above**
-   - `04-word-studies.md` - Strong's research for: [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} (mishpat), [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} (choq), [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} (chuqqah), [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} (shaphat), [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} (mitsvah), [H6064](https://www.blueletterbible.org/lexicon/h6064/kjv/wlc/0-1/){:target="_blank"} (anash), [H817](https://www.blueletterbible.org/lexicon/h817/kjv/wlc/0-1/){:target="_blank"} (asham), [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma), [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma), [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (krisis)
+   - `04-word-studies.md` - Strong's research for: H4941 (mishpat), H2706 (choq), H2708 (chuqqah), H8199 (shaphat), H4687 (mitsvah), H6064 (anash), H817 (asham), G1378 (dogma), G1345 (dikaioma), G2920 (krisis)
    - `raw-data/` - Raw tool output organized by category
 7. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
 **Special instructions for this study:**
 - Retrieve the FULL text of Exodus 21-23 (every verse) -- this is the primary corpus
 - Run cross-testament parallels for key civil law passages (Exo 21:12-14, 22:1-4, 23:1-9) to find NT citations or allusions
-- Look up how [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} (mishpat) is used outside Exodus 21-23 to determine its semantic range
+- Look up how H4941 (mishpat) is used outside Exodus 21-23 to determine its semantic range
 - Check whether "statutes" (chuqqot) and "judgments" (mishpatim) are distinguished in the text or used interchangeably
 - Investigate Deu 17:8-13 (the judicial appeal system) and its significance for civil law structure
 
@@ -273,16 +273,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-05-civil-judicial-laws/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -422,21 +422,8 @@ Key concepts: RIGHTEOUSNESS, LAW, FULFILLMENT, FLESH, SPIRIT
 - **Romans 3:20** -- By the deeds of the law shall no flesh be justified (flesh, law, righteousness)
 - **Romans 10:4-5** -- Christ the end of the law for righteousness (law, righteousness)
 - **Romans 13:8, 10** -- Love is the fulfilling of the law (fulfillment, law)
-- **Romans 2:26** -- Uncircumcision keeping "the righteousness of the law" (uses [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma)
+- **Romans 2:26** -- Uncircumcision keeping "the righteousness of the law" (uses G1345 dikaioma)
 - **Galatians 5:16** -- Walk in the Spirit, and ye shall not fulfil the lust of the flesh (flesh, spirit, walk)
 
 ---
 *Retrieved: 2026-02-24*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -83,7 +83,7 @@ Hebrews 8-10 develops a single sustained argument with the following structure:
 
 **8:13** -- "In that he saith, A new [covenant], he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away."
 
-- **Direct statement:** By saying "new," God has made the first "old" (pepalaioken, [G3822](https://www.blueletterbible.org/lexicon/g3822/kjv/tr/0-1/){:target="_blank"}, Perfect Active Indicative -- completed action). That which is "decaying" and "growing old" is "near vanishing" (engys aphanismou).
+- **Direct statement:** By saying "new," God has made the first "old" (pepalaioken, G3822, Perfect Active Indicative -- completed action). That which is "decaying" and "growing old" is "near vanishing" (engys aphanismou).
 - **Greek note (gender analysis):**
   - First clause: "A new" (Kainen) = Accusative Singular FEMININE; "the first" (ten proten) = Accusative Singular FEMININE. Both agree with diatheke (covenant, feminine).
   - Second clause: "that which decayeth" (to palaioumenon) = Nominative Singular NEUTER; "waxeth old" (geraskon) = Nominative Singular NEUTER. These do NOT agree with diatheke (feminine).
@@ -121,11 +121,11 @@ Hebrews 8-10 develops a single sustained argument with the following structure:
 
 **9:10** -- "[Which stood] only in meats and drinks, and divers washings, and carnal ordinances, imposed until the time of reformation."
 
-- **Direct statement:** The tabernacle service consisted "only" (monon) in: (1) meats (bromasin, G1033), (2) drinks (pomasin, G4188), (3) diverse washings (diaphorois baptismois, G909), (4) carnal ordinances (dikaiomata sarkos, [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} + G4561). These were "imposed" (epikeimena, G1945) "until the time of reformation" (mechri kairou diorthoseos, G1357).
+- **Direct statement:** The tabernacle service consisted "only" (monon) in: (1) meats (bromasin, G1033), (2) drinks (pomasin, G4188), (3) diverse washings (diaphorois baptismois, G909), (4) carnal ordinances (dikaiomata sarkos, G1345 + G4561). These were "imposed" (epikeimena, G1945) "until the time of reformation" (mechri kairou diorthoseos, G1357).
 - **Key observations:**
   1. The text DEFINES what the "carnal ordinances" are: regulations about food, drink, and ritual washings. These are ceremonial/ritual regulations.
   2. The word "carnal" (sarkos) = "of the flesh" -- pertaining to physical/external matters. This contrasts with the "conscience" (suneidesis) that the sacrificial system could not reach (v. 9).
-  3. "Imposed until" (mechri) = a built-in temporal limit. These ordinances had an expiration date: "the time of reformation" (diorthosis, [G1357](https://www.blueletterbible.org/lexicon/g1357/kjv/tr/0-1/){:target="_blank"} -- a NT hapax legomenon meaning "setting right/correction").
+  3. "Imposed until" (mechri) = a built-in temporal limit. These ordinances had an expiration date: "the time of reformation" (diorthosis, G1357 -- a NT hapax legomenon meaning "setting right/correction").
   4. The word "only" (monon) is restrictive: the first covenant's service consisted ONLY in these external, physical regulations.
 - **Greek note:** dikaiomata sarkos -- the same root word (dikaioma) is used in Rom 8:4 ("the righteousness/requirement of the law might be fulfilled in us"), but with a different modifier. In Heb 9:10, the modifier sarkos ("of flesh/carnal") limits the referent to physical/external regulations. In Rom 8:4, there is no such limiting modifier. Context determines meaning.
 - **Cross-reference:** Col 2:16-17 lists "meat, drink, holyday, new moon, sabbath days" as "a shadow of things to come." The Hebrews author similarly lists "meats, drinks, washings" as the content of the carnal ordinances. *(Examined in depth in law-04 and law-08.)*
@@ -135,7 +135,7 @@ Hebrews 8-10 develops a single sustained argument with the following structure:
 **9:11-12** -- "But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands...Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption."
 
 - **Direct statement:** Christ entered a superior tabernacle with his own blood (not animal blood) and obtained "eternal redemption" (aionion lytrosin).
-- **Key observation:** The contrast is between animal blood (goats and calves) and Christ's blood. The "once" (ephapax, [G2178](https://www.blueletterbible.org/lexicon/g2178/kjv/tr/0-1/){:target="_blank"} -- "once for all") in v. 12 establishes the finality of Christ's sacrifice versus the repetition of the Levitical system.
+- **Key observation:** The contrast is between animal blood (goats and calves) and Christ's blood. The "once" (ephapax, G2178 -- "once for all") in v. 12 establishes the finality of Christ's sacrifice versus the repetition of the Levitical system.
 
 **9:13-14** -- "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: How much more shall the blood of Christ...purge your conscience from dead works to serve the living God?"
 
@@ -333,16 +333,3 @@ The argument is about the REPLACEMENT OF THE SACRIFICIAL SYSTEM by Christ's once
 6. **The "once for all" (ephapax) refrain** appears three times (7:27, 9:12, 10:10), each time contrasting Christ's single sacrifice with the Levitical system's repetition.
 
 7. **Heb 10:26-29 presupposes continuing moral obligation.** "Willful sin" and the a fortiori comparison with Moses' law assume a continuing standard of right and wrong.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

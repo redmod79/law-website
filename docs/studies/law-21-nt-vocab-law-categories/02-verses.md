@@ -487,7 +487,7 @@ Does the NT vocabulary systematically distinguish moral law from ceremonial and/
 - Context for Acts 16:4 (dogma): The Jerusalem Council "decrees" concerned dietary/purity matters for Gentile converts
 
 **1 Timothy 1:5,8-10** -- "Now the end of the commandment is charity out of a pure heart...But we know that the law [is] good, if a man use it lawfully; Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners..."
-- Note: v.5 uses entole (G1785 -- but check: this may be parangelia [G3852](https://www.blueletterbible.org/lexicon/g3852/kjv/tr/0-1/){:target="_blank"} not entole); v.8 uses nomos
+- Note: v.5 uses entole (G1785 -- but check: this may be parangelia G3852 not entole); v.8 uses nomos
 - The vice list in vv.9-10 maps to Decalogue violations: murderers of fathers/mothers (5th), manslayers (6th), whoremongers (7th), menstealers (8th), liars/perjured (9th)
 
 **Titus 1:14** -- "Not giving heed to Jewish fables, and commandments of men, that turn from the truth."
@@ -496,20 +496,7 @@ Does the NT vocabulary systematically distinguish moral law from ceremonial and/
 
 **Matthew 15:9 / Mark 7:7** -- "But in vain they do worship me, teaching [for] doctrines the commandments of men."
 - Greek: entalma (G1778), NOT entole (G1785) -- different word
-- But [G1778](https://www.blueletterbible.org/lexicon/g1778/kjv/tr/0-1/){:target="_blank"} is cognate of [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}; the "commandments of men" concept uses a related term
+- But G1778 is cognate of G1785; the "commandments of men" concept uses a related term
 
 **Colossians 2:22** -- "Which all are to perish with the using; after the commandments and doctrines of men?"
 - Greek: entalma (G1778) and didaskalia (G1319) -- again, the related word entalma for human precepts
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

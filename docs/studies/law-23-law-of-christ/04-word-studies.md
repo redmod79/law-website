@@ -5,7 +5,7 @@ What is the "law of Christ" (Gal 6:2), the "law of the Spirit of life" (Rom 8:2)
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} -- nomos (law)
+## G3551 -- nomos (law)
 
 **Original:** nómos
 **Transliteration:** nomos
@@ -61,7 +61,7 @@ Paul uses nomos in at least **four distinct senses**:
 
 ---
 
-## [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} -- ennomos (within law, lawful)
+## G1772 -- ennomos (within law, lawful)
 
 **Original:** énnomos
 **Transliteration:** ennomos
@@ -84,7 +84,7 @@ The compound adjective ennomos = en + nomos literally means "in law" or "within 
 
 ---
 
-## [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} -- anomos (without law, lawless)
+## G459 -- anomos (without law, lawless)
 
 **Original:** ánomos
 **Transliteration:** anomos
@@ -115,7 +115,7 @@ Paul's self-description: He is NOT anomos theou (not lawless toward God) but rat
 
 ---
 
-## [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} -- eleutheria (liberty, freedom)
+## G1657 -- eleutheria (liberty, freedom)
 
 **Original:** eleuthería
 **Transliteration:** eleutheria
@@ -142,7 +142,7 @@ The term appears in both Pauline and non-Pauline writings. The connection betwee
 
 ---
 
-## [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} -- pistis (faith)
+## G4102 -- pistis (faith)
 
 **Original:** pístis
 **Transliteration:** pistis
@@ -157,7 +157,7 @@ The genitive pisteos modifies nomos. Paul asks "by what kind (poiou) of law?" --
 
 ---
 
-## [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} -- teleios (perfect, complete)
+## G5046 -- teleios (perfect, complete)
 
 **Original:** téleios
 **Transliteration:** teleios
@@ -173,7 +173,7 @@ teleion is Acc Sg M, modifying nomon. The law is described as "perfect" (complet
 
 ---
 
-## [G937](https://www.blueletterbible.org/lexicon/g937/kjv/tr/0-1/){:target="_blank"} -- basilikos (royal, kingly)
+## G937 -- basilikos (royal, kingly)
 
 **Original:** basilikós
 **Transliteration:** basilikos
@@ -195,7 +195,7 @@ James 2:8 is the only use of basilikos for a law. The "royal law" (nomon basilik
 
 ---
 
-## [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} -- dikaiosune (righteousness)
+## G1343 -- dikaiosune (righteousness)
 
 **Original:** dikaiosýne
 **Transliteration:** dikaiosune
@@ -209,7 +209,7 @@ Israel pursued this "law of righteousness" but did not attain it -- because they
 
 ---
 
-## [G266](https://www.blueletterbible.org/lexicon/g266/kjv/tr/0-1/){:target="_blank"} -- hamartia (sin)
+## G266 -- hamartia (sin)
 
 **Original:** hamartía
 **Transliteration:** hamartia
@@ -225,7 +225,7 @@ Israel pursued this "law of righteousness" but did not attain it -- because they
 
 ---
 
-## [G3563](https://www.blueletterbible.org/lexicon/g3563/kjv/tr/0-1/){:target="_blank"} -- nous (mind)
+## G3563 -- nous (mind)
 
 **Original:** noûs
 **Transliteration:** nous
@@ -239,7 +239,7 @@ The "law of my mind" is the governing principle of the renewed mind, which wars 
 
 ---
 
-## [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} -- thanatos (death)
+## G2288 -- thanatos (death)
 
 **Original:** thánatos
 **Transliteration:** thanatos
@@ -252,7 +252,7 @@ The "law of my mind" is the governing principle of the renewed mind, which wars 
 
 ---
 
-## [G2041](https://www.blueletterbible.org/lexicon/g2041/kjv/tr/0-1/){:target="_blank"} -- ergon (work, deed)
+## G2041 -- ergon (work, deed)
 
 **Original:** érgon
 **Transliteration:** ergon
@@ -266,7 +266,7 @@ The "works" principle is contrasted with the "faith" principle. Boasting is excl
 
 ---
 
-## [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} -- anomia (lawlessness, iniquity)
+## G458 -- anomia (lawlessness, iniquity)
 
 **Original:** anomía
 **Transliteration:** anomia
@@ -288,7 +288,7 @@ The "works" principle is contrasted with the "faith" principle. Boasting is excl
 
 ---
 
-## [G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} -- kainos (new)
+## G2537 -- kainos (new)
 
 **Original:** kainós
 **Transliteration:** kainos
@@ -306,7 +306,7 @@ Kainos means new in quality or character, not new in time (that would be neos). 
 
 ---
 
-## [G3550](https://www.blueletterbible.org/lexicon/g3550/kjv/tr/0-1/){:target="_blank"} -- nomothetes (lawgiver)
+## G3550 -- nomothetes (lawgiver)
 
 **Original:** nomothetes
 **Transliteration:** nomothetes
@@ -333,8 +333,8 @@ Greek: **Allelōn ta barē bastazete, kai houtōs anaplērōsete ton nomon tou C
 
 ### 1 Corinthians 9:21
 Greek: **tois anomois hōs anomos, mē ōn anomos theou all' ennomos Christou, hina kerdanō tous anomous.**
-- **anomos** (3x) -- [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"}, Nom Sg M (adjective). "Lawless, without law."
-- **ennomos** -- [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"}, Nom Sg M (adjective). "Within-law, law-bound."
+- **anomos** (3x) -- G459, Nom Sg M (adjective). "Lawless, without law."
+- **ennomos** -- G1772, Nom Sg M (adjective). "Within-law, law-bound."
 - **theou** / **Christou** -- Both Gen Sg M. Objective genitive: "lawless toward God" / "in-law to Christ."
 - **mē ōn** -- Pres Act Ptcp + negative. Concessive: "not being [lawless]" -- present participle = ongoing state.
 - **hina kerdanō** -- Purpose clause with Aorist Active Subjunctive: "so that I might gain."
@@ -343,7 +343,7 @@ Greek: **tois anomois hōs anomos, mē ōn anomos theou all' ennomos Christou, h
 Greek: **ho gar nomos tou Pneumatos tēs zōēs en Christō Iēsou ēleutherōsen se apo tou nomou tēs hamartias kai tou thanatou.**
 - **ho nomos** (1st) -- Nom Sg M with article. Subject of the sentence.
 - **tou Pneumatos tēs zōēs** -- Double genitive chain: "of the Spirit of life." Spirit is the agent, life is the quality.
-- **ēleutherōsen** -- [G1659](https://www.blueletterbible.org/lexicon/g1659/kjv/tr/0-1/){:target="_blank"} eleutheroō. Aorist Active Indicative 3S. "Set free" -- completed action.
+- **ēleutherōsen** -- G1659 eleutheroō. Aorist Active Indicative 3S. "Set free" -- completed action.
 - **tou nomou** (2nd) -- Gen Sg M with article. "From the law of sin and death."
 - **tēs hamartias kai tou thanatou** -- Twin genitives: "of sin and of death."
 
@@ -368,8 +368,8 @@ Greek: **blepō de heteron nomon en tois melesin mou antistrateuomenon tō nomō
 Greek: **ho de parakupsas eis nomon teleion ton tēs eleutherias kai parameinas, ouk akroatēs epilēsmonēs genomenos alla poiētēs ergou, houtos makarios en tē poiēsei autou estai.**
 - **nomon teleion** -- Acc Sg M, anarthrous. "A perfect law" -- qualitative emphasis.
 - **ton tēs eleutherias** -- Article (Acc Sg M) + Gen Sg F. "The [law] of liberty." The article here is resumptive, identifying this as a known entity.
-- **parakupsas** -- Aor Act Ptcp Nom Sg M. [G3879](https://www.blueletterbible.org/lexicon/g3879/kjv/tr/0-1/){:target="_blank"} "look carefully into, peer into." Same word used in 1 Pet 1:12 of angels "desiring to look into" salvation.
-- **parameinas** -- Aor Act Ptcp Nom Sg M. [G3887](https://www.blueletterbible.org/lexicon/g3887/kjv/tr/0-1/){:target="_blank"} "continue beside, remain." Persistence.
+- **parakupsas** -- Aor Act Ptcp Nom Sg M. G3879 "look carefully into, peer into." Same word used in 1 Pet 1:12 of angels "desiring to look into" salvation.
+- **parameinas** -- Aor Act Ptcp Nom Sg M. G3887 "continue beside, remain." Persistence.
 - **poiētēs ergou** -- "Doer of work" -- not just hearer but active practitioner.
 - **estai** -- Fut Mid Ind 3S. "Will be" blessed -- future result.
 
@@ -396,16 +396,3 @@ Greek: **ara oun autos egō tō men noi douleuō nomō theou, tē de sarki nomō
 ---
 *Research gathered: 2026-02-26*
 *Study: law-23-law-of-christ*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -53,8 +53,8 @@ Each E-item has been processed through Tree 1 (Tier Classification) and Tree 3 (
 | E2 | Jesus presents "if thou wilt be perfect (teleios)" as an additional step beyond keeping the Decalogue commandments, not as a replacement for them. The commandment-keeping is accepted; the further condition is offered as addition. | Mat 19:21 | Neutral | E343 |
 | E3 | The scribe states that love to God and neighbor is "more than all whole burnt offerings and sacrifices" -- explicitly distinguishing moral commands from ceremonial obligations -- and Jesus affirms: "Thou art not far from the kingdom of God." | Mrk 12:33-34 | Continues | E344 |
 | E4 | Jesus says "Thou hast answered right: this do, and thou shalt live" -- presenting commandment-doing as the condition for life, structurally parallel to Mat 19:17. | Luk 10:28 | Continues | E345 |
-| E5 | The word used for "new" in John's "new commandment" is [G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} (kainos = new in quality/freshness), not [G3501](https://www.blueletterbible.org/lexicon/g3501/kjv/tr/0-1/){:target="_blank"} (neos = new in time). Textually observable lexical choice. | Jhn 13:34; 1 Jhn 2:7-8; 2 Jhn 1:5 | Neutral | E346 |
-| E6 | The "new commandment" (Jhn 13:34) uses [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole) -- the same word used throughout for Jesus's commandments, the Father's commandments, and "the commandments of God" in Revelation. | Jhn 13:34; 14:15; 14:31; 15:10; Rev 12:17; 14:12; 22:14 | Neutral | E347 |
+| E5 | The word used for "new" in John's "new commandment" is G2537 (kainos = new in quality/freshness), not G3501 (neos = new in time). Textually observable lexical choice. | Jhn 13:34; 1 Jhn 2:7-8; 2 Jhn 1:5 | Neutral | E346 |
+| E6 | The "new commandment" (Jhn 13:34) uses G1785 (entole) -- the same word used throughout for Jesus's commandments, the Father's commandments, and "the commandments of God" in Revelation. | Jhn 13:34; 14:15; 14:31; 15:10; Rev 12:17; 14:12; 22:14 | Neutral | E347 |
 | E7 | John explicitly states the love commandment is "an old commandment which ye had from the beginning" (v.7) -- the same commandment he immediately also calls "a new commandment" (v.8). Simultaneously old in content and new in quality. | 1 Jhn 2:7-8 | Continues | E348 |
 | E8 | John writes "not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another" -- explicitly denying neos-newness and pointing to pre-existing origin. | 2 Jhn 1:5-6 | Continues | E349 |
 | E9 | Jesus states "If ye love me, keep my commandments" -- double definite article + possessive = emphatic specific reference -- linking love for Jesus to keeping His specific commandments. | Jhn 14:15 | Continues | E350 |
@@ -70,7 +70,7 @@ Each E-item has been processed through Tree 1 (Tier Classification) and Tree 3 (
 | E19 | In Antithesis 6, Jesus corrects "hate thine enemy" -- a phrase not found in the OT text -- distinguishing the biblical commandment (Lev 19:18) from human tradition. | Mat 5:43-44 | Neutral | E360 |
 | E20 | Jesus explicitly calls the 5th Decalogue commandment "the commandment of God" (entolen tou Theou) in both Mat 15:3 and Mrk 7:8,9,13 -- defending a specific Decalogue commandment as binding against the Corban tradition. | Mat 15:3-9; Mrk 7:8-13 | Continues | E361 |
 | E21 | Jesus states "I know that his commandment is life everlasting" -- equating the Father's entole with everlasting life, paralleling Mat 19:17 and Luk 10:28. | Jhn 12:50 | Continues | E362 |
-| E22 | Colossians 2:14 uses [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma, "ordinance/decree") for what was "nailed to the cross" -- not [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole, "commandment"). | Col 2:14 | Neutral | E363 |
+| E22 | Colossians 2:14 uses G1378 (dogma, "ordinance/decree") for what was "nailed to the cross" -- not G1785 (entole, "commandment"). | Col 2:14 | Neutral | E363 |
 | E23 | Ephesians 2:15 describes what was abolished as "the law of commandments contained in ordinances (en dogmasin)" -- the dogmatic/ordinance dimension was abolished. | Eph 2:15 | Neutral | E364 |
 | E24 | Jesus identifies the Golden Rule as "the law and the prophets" (Mat 7:12) -- the same phrase used in Mat 5:17 and Mat 22:40. | Mat 7:12 | Continues | E365 |
 
@@ -98,7 +98,7 @@ Each E-item has been processed through Tree 1 (Tier Classification) and Tree 3 (
 |---|---|---|---|---|
 | N1 | Since Jesus uses the same word (entole) for "my commandments" and "my Father's commandments" in the same verse (Jhn 15:10), and presents His own keeping of the Father's commandments as the model for disciples, the text necessarily implies a single unified commandment-authority chain: Father's commandments -> Jesus's commandments -> disciples' commandment-keeping. | E293 (Jhn 15:10), E350 (Jhn 14:15), E351 (Jhn 14:31) | Continues | N072 |
 | N2 | The equation "the sin IS the lawlessness" (he hamartia estin he anomia) in 1 Jhn 3:4 is a convertible definitional equation: both nouns carry the definite article with copulative estin. Every act of sin is necessarily an act of lawlessness, and every act of lawlessness is necessarily sin. | E023 (1 Jhn 3:4) | Continues | N073 |
-| N3 | The NT consistently uses [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole) for what continues -- Jesus's commandments, the Father's commandments, commandments of God in Revelation -- and [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma) for what was abolished. This is an observable vocabulary distinction. | E363, E364, E350, E347, E031-E033 | Neutral | N074 |
+| N3 | The NT consistently uses G1785 (entole) for what continues -- Jesus's commandments, the Father's commandments, commandments of God in Revelation -- and G1378 (dogma) for what was abolished. This is an observable vocabulary distinction. | E363, E364, E350, E347, E031-E033 | Neutral | N074 |
 | N4 | In all four Gospels, there is no recorded instance of Jesus explicitly revoking, abolishing, or declaring any of the Ten Commandments obsolete or no longer binding. Every recorded treatment of specific Decalogue commandments involves citation as path to life, heart-level deepening, defense as "commandment of God," or use of their violation (anomia) as eschatological disqualifier. | E342, E359, E361, E354, E355 | Continues | N075 |
 
 ---
@@ -210,16 +210,3 @@ No Abolished E-items or N-items were found in this study. Every Abolished claim 
 
 *Study completed: 2026-02-24*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

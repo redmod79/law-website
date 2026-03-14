@@ -1,13 +1,13 @@
 # Word Studies
 
-## shabbath -- [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (noun)
+## shabbath -- H7676 (noun)
 **Original:** שַׁבָּת
 **Transliteration:** shabbath
 **Pronunciation:** shab-bawth
 **Part of Speech:** masculine/feminine noun
 **Occurrences:** 108-109
 
-**Definition:** From [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath); intermission, i.e. (specifically) the Sabbath -- (every) sabbath.
+**Definition:** From H7673 (shabath); intermission, i.e. (specifically) the Sabbath -- (every) sabbath.
 
 ### Translations
 | Translation | Count | Percentage |
@@ -28,14 +28,14 @@
 
 ---
 
-## shabbathown -- [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} (noun)
+## shabbathown -- H7677 (noun)
 **Original:** שַׁבָּתוֹן
 **Transliteration:** shabbathown
 **Pronunciation:** shab-baw-thone
 **Part of Speech:** masculine noun
 **Occurrences:** 11
 
-**Definition:** From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday -- rest, sabbath.
+**Definition:** From H7676; a sabbatism or special holiday -- rest, sabbath.
 
 ### Translations
 | Translation | Count | Percentage |
@@ -54,7 +54,7 @@
 
 ---
 
-## shabath -- [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (verb)
+## shabath -- H7673 (verb)
 **Original:** שָׁבַת
 **Transliteration:** shabath
 **Pronunciation:** shaw-bath
@@ -81,7 +81,7 @@
 
 ---
 
-## moed -- [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (noun)
+## moed -- H4150 (noun)
 **Original:** מוֹעֵד
 **Transliteration:** moed
 **Pronunciation:** mo-ade
@@ -105,7 +105,7 @@
 
 ---
 
-## chag -- [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} (noun)
+## chag -- H2282 (noun)
 **Original:** חַג
 **Transliteration:** chag
 **Pronunciation:** khag
@@ -129,7 +129,7 @@
 
 ---
 
-## bad / millibad -- [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} (noun/preposition)
+## bad / millibad -- H905 (noun/preposition)
 **Original:** בַּד
 **Transliteration:** bad
 **Pronunciation:** bad
@@ -157,7 +157,7 @@
 
 ---
 
-## zakar -- [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} (verb)
+## zakar -- H2142 (verb)
 **Original:** זָכַר
 **Transliteration:** zakar
 **Pronunciation:** zaw-kar
@@ -183,7 +183,7 @@
 
 ---
 
-## sabbaton -- [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} (noun)
+## sabbaton -- G4521 (noun)
 **Original:** σάββατον
 **Transliteration:** sabbaton
 **Pronunciation:** sab-bat-on
@@ -209,7 +209,7 @@
 
 ---
 
-## sabbatismos -- [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} (noun)
+## sabbatismos -- G4520 (noun)
 **Original:** σαββατισμός
 **Transliteration:** sabbatismos
 **Pronunciation:** sab-bat-is-mos
@@ -225,13 +225,13 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 ### Grammatical Analysis (from greek_parser.py)
 | Word | Lemma | Strong's | Parsing |
 |---|---|---|---|
-| ara | ara | [G686](https://www.blueletterbible.org/lexicon/g686/kjv/tr/0-1/){:target="_blank"} | Particle (therefore/so then) |
-| apoleipetai | apoleipo | [G620](https://www.blueletterbible.org/lexicon/g620/kjv/tr/0-1/){:target="_blank"} | Present Passive Indicative 3rd Sg -- "is currently remaining" |
-| sabbatismos | sabbatismos | [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} | Nominative Singular Masculine |
-| to | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Dative Singular Masculine (the) |
-| lao | laos | [G2992](https://www.blueletterbible.org/lexicon/g2992/kjv/tr/0-1/){:target="_blank"} | Dative Singular Masculine (people) |
-| tou | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | Genitive Singular Masculine (of the) |
-| theou | theos | [G2316](https://www.blueletterbible.org/lexicon/g2316/kjv/tr/0-1/){:target="_blank"} | Genitive Singular Masculine (God) |
+| ara | ara | G686 | Particle (therefore/so then) |
+| apoleipetai | apoleipo | G620 | Present Passive Indicative 3rd Sg -- "is currently remaining" |
+| sabbatismos | sabbatismos | G4520 | Nominative Singular Masculine |
+| to | ho | G3588 | Dative Singular Masculine (the) |
+| lao | laos | G2992 | Dative Singular Masculine (people) |
+| tou | ho | G3588 | Genitive Singular Masculine (of the) |
+| theou | theos | G2316 | Genitive Singular Masculine (God) |
 
 ### Critical Observations
 1. **Hapax legomenon** -- occurs only here in the entire NT
@@ -242,7 +242,7 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 
 ---
 
-## skia -- [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} (noun)
+## skia -- G4639 (noun)
 **Original:** σκιά
 **Transliteration:** skia
 **Pronunciation:** skee-ah
@@ -271,7 +271,7 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 
 ---
 
-## anthropos -- [G444](https://www.blueletterbible.org/lexicon/g444/kjv/tr/0-1/){:target="_blank"} (noun)
+## anthropos -- G444 (noun)
 **Original:** ἄνθρωπος
 **Transliteration:** anthropos
 **Pronunciation:** anth-ro-pos
@@ -296,7 +296,7 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 
 ---
 
-## ginomai -- [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} (verb)
+## ginomai -- G1096 (verb)
 **Original:** γίνομαι
 **Transliteration:** ginomai
 **Pronunciation:** ghin-om-ahee
@@ -315,7 +315,7 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 
 ---
 
-## agnoia -- [G52](https://www.blueletterbible.org/lexicon/g52/kjv/tr/0-1/){:target="_blank"} (noun)
+## agnoia -- G52 (noun)
 **Original:** ἄγνοια
 **Transliteration:** agnoia
 **Pronunciation:** ag-noy-ah
@@ -339,7 +339,7 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 
 ---
 
-## hupereidon -- [G5237](https://www.blueletterbible.org/lexicon/g5237/kjv/tr/0-1/){:target="_blank"} (verb)
+## hupereidon -- G5237 (verb)
 **Original:** ὑπερείδω
 **Transliteration:** hupereidon
 **Pronunciation:** hoop-er-i-do
@@ -357,7 +357,7 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 
 ---
 
-## metanoeo -- [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} (verb)
+## metanoeo -- G3340 (verb)
 **Original:** μετανοέω
 **Transliteration:** metanoeo
 **Pronunciation:** met-an-o-eh-o
@@ -383,7 +383,7 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 
 ---
 
-## qodesh -- [H6944](https://www.blueletterbible.org/lexicon/h6944/kjv/wlc/0-1/){:target="_blank"} (noun)
+## qodesh -- H6944 (noun)
 **Original:** קֹדֶשׁ
 **Transliteration:** qodesh
 **Pronunciation:** ko-desh
@@ -407,16 +407,3 @@ Greek text: **ara apoleipetai sabbatismos to lao tou theou**
 - Isa 58:13 -- "my holy [qodesh] day" (God calls the Sabbath "my holy day")
 - Neh 9:14 -- "thy holy [qodesh] sabbath"
 - The Sabbath is consistently designated as qodesh (holy/set apart) -- the same vocabulary used for the most sacred things in Israel's worship
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

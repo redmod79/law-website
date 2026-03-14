@@ -5,7 +5,7 @@ What did Jesus specifically teach about the law and commandments across all four
 
 ---
 
-## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} -- entole (commandment)
+## G1785 -- entole (commandment)
 
 **Original:** ἐντολή
 **Transliteration:** entole
@@ -13,7 +13,7 @@ What did Jesus specifically teach about the law and commandments across all four
 **Part of Speech:** Feminine noun
 **Total KJV Occurrences:** 43 (BLB count: 71 including LXX)
 
-**Definition:** From [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"} (entellomai); injunction, i.e. an authoritative prescription. An authoritative command.
+**Definition:** From G1781 (entellomai); injunction, i.e. an authoritative prescription. An authoritative command.
 
 ### Translations in KJV
 | Translation | Count | % |
@@ -67,7 +67,7 @@ The same word (entole) is used for:
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} -- nomos (law)
+## G3551 -- nomos (law)
 
 **Original:** νόμος
 **Transliteration:** nomos
@@ -103,7 +103,7 @@ The same word (entole) is used for:
 
 ---
 
-## [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} -- anomia (lawlessness/iniquity)
+## G458 -- anomia (lawlessness/iniquity)
 
 **Original:** ἀνομία
 **Transliteration:** anomia
@@ -111,7 +111,7 @@ The same word (entole) is used for:
 **Part of Speech:** Feminine noun
 **Total KJV Occurrences:** 13 (BLB count: 15 including LXX)
 
-**Definition:** From [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} (anomos); illegality, i.e. violation of law or (genitive case) wickedness.
+**Definition:** From G459 (anomos); illegality, i.e. violation of law or (genitive case) wickedness.
 
 ### Translations in KJV
 | Translation | Count | % |
@@ -158,7 +158,7 @@ Both Jesus and John presuppose a law (nomos) against which sin (anomia = a-nomos
 
 ---
 
-## [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} -- anomos (lawless, adj.)
+## G459 -- anomos (lawless, adj.)
 
 **Original:** ἄνομος
 **Transliteration:** anomos
@@ -166,7 +166,7 @@ Both Jesus and John presuppose a law (nomos) against which sin (anomia = a-nomos
 **Part of Speech:** Adjective
 **Total KJV Occurrences:** 10 (BLB count: 10)
 
-**Definition:** From [G1](https://www.blueletterbible.org/lexicon/g1/kjv/tr/0-1/){:target="_blank"} (alpha negative) and [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos); lawless, i.e. (negatively) not subject to (the Jewish) law; (by implication, a Gentile), or (positively) wicked.
+**Definition:** From G1 (alpha negative) and G3551 (nomos); lawless, i.e. (negatively) not subject to (the Jewish) law; (by implication, a Gentile), or (positively) wicked.
 
 ### Translations in KJV
 | Translation | Count | % |
@@ -187,7 +187,7 @@ Both Jesus and John presuppose a law (nomos) against which sin (anomia = a-nomos
 
 ---
 
-## [G460](https://www.blueletterbible.org/lexicon/g460/kjv/tr/0-1/){:target="_blank"} -- anomos (lawlessly, adv.)
+## G460 -- anomos (lawlessly, adv.)
 
 **Original:** ἀνόμως
 **Transliteration:** anomos (adverb)
@@ -195,14 +195,14 @@ Both Jesus and John presuppose a law (nomos) against which sin (anomia = a-nomos
 **Part of Speech:** Adverb
 **Total KJV Occurrences:** 2
 
-**Definition:** Adverb from [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"}; lawlessly, i.e. (specially) not amenable to (the Jewish) law.
+**Definition:** Adverb from G459; lawlessly, i.e. (specially) not amenable to (the Jewish) law.
 
 ### Occurrences
 - **Rom 2:12** -- "as many as have sinned **without law** [anomos] shall also perish **without law** [anomos]"
 
 ---
 
-## [G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} -- kainos (new, in quality)
+## G2537 -- kainos (new, in quality)
 
 **Original:** καινός
 **Transliteration:** kainos
@@ -210,7 +210,7 @@ Both Jesus and John presuppose a law (nomos) against which sin (anomia = a-nomos
 **Part of Speech:** Adjective
 **Total KJV Occurrences:** 39 (BLB count: 44 including LXX)
 
-**Definition:** Of uncertain affinity; new (especially in freshness; while [G3501](https://www.blueletterbible.org/lexicon/g3501/kjv/tr/0-1/){:target="_blank"} neos is properly "new" in time).
+**Definition:** Of uncertain affinity; new (especially in freshness; while G3501 neos is properly "new" in time).
 
 ### Translations in KJV
 | Translation | Count | % |
@@ -243,7 +243,7 @@ Kainos is consistently used for qualitative renewal or deepening:
 
 ---
 
-## [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} -- kataluo (destroy/demolish)
+## G2647 -- kataluo (destroy/demolish)
 
 **Original:** καταλύω
 **Transliteration:** kataluo
@@ -251,7 +251,7 @@ Kainos is consistently used for qualitative renewal or deepening:
 **Part of Speech:** Verb
 **Total KJV Occurrences:** 20 (BLB count: 17)
 
-**Definition:** From [G2596](https://www.blueletterbible.org/lexicon/g2596/kjv/tr/0-1/){:target="_blank"} (kata, down) and [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"} (luo, to loosen); to loosen down (disintegrate), i.e. (by implication) to demolish (literally or figuratively).
+**Definition:** From G2596 (kata, down) and G3089 (luo, to loosen); to loosen down (disintegrate), i.e. (by implication) to demolish (literally or figuratively).
 
 ### Translations in KJV
 | Translation | Count | % |
@@ -281,7 +281,7 @@ Kainos is consistently used for qualitative renewal or deepening:
 
 ---
 
-## [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} -- pleroo (fulfill/fill full)
+## G4137 -- pleroo (fulfill/fill full)
 
 **Original:** πληρόω
 **Transliteration:** pleroo
@@ -289,7 +289,7 @@ Kainos is consistently used for qualitative renewal or deepening:
 **Part of Speech:** Verb
 **Total KJV Occurrences:** 72 (BLB count: 90 including LXX)
 
-**Definition:** From [G4134](https://www.blueletterbible.org/lexicon/g4134/kjv/tr/0-1/){:target="_blank"} (pleres, full); to make replete, i.e. (literally) to cram (a net), level up (a hollow), or (figuratively) to furnish, satisfy, execute, finish, verify.
+**Definition:** From G4134 (pleres, full); to make replete, i.e. (literally) to cram (a net), level up (a hollow), or (figuratively) to furnish, satisfy, execute, finish, verify.
 
 ### Translations in KJV
 | Translation | Count | % |
@@ -309,7 +309,7 @@ Kainos is consistently used for qualitative renewal or deepening:
 
 ---
 
-## [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} -- ennomos (in-law, lawful)
+## G1772 -- ennomos (in-law, lawful)
 
 **Original:** ἔννομος
 **Transliteration:** ennomos
@@ -317,7 +317,7 @@ Kainos is consistently used for qualitative renewal or deepening:
 **Part of Speech:** Adjective
 **Total KJV Occurrences:** 2
 
-**Definition:** From [G1722](https://www.blueletterbible.org/lexicon/g1722/kjv/tr/0-1/){:target="_blank"} (en, in) and [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos, law); (subjectively) legal, or (objectively) subject to law.
+**Definition:** From G1722 (en, in) and G3551 (nomos, law); (subjectively) legal, or (objectively) subject to law.
 
 ### Occurrences
 - **Acts 19:39** -- "in a **lawful** [ennomo] assembly"
@@ -328,7 +328,7 @@ Paul describes himself as ennomos Christou -- "in-law to Christ" or "under the l
 
 ---
 
-## [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} -- dogmatizo (decree/dogmatize)
+## G1379 -- dogmatizo (decree/dogmatize)
 
 **Original:** δογματίζω
 **Transliteration:** dogmatizo
@@ -336,7 +336,7 @@ Paul describes himself as ennomos Christou -- "in-law to Christ" or "under the l
 **Part of Speech:** Verb
 **Total KJV Occurrences:** 1
 
-**Definition:** From [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma); to prescribe by statute, i.e. (reflexively) to submit to ceremonial rule.
+**Definition:** From G1378 (dogma); to prescribe by statute, i.e. (reflexively) to submit to ceremonial rule.
 
 ### Occurrence
 - **Col 2:20** -- "why...are ye subject to **ordinances** [dogmatizesthe]?"
@@ -346,7 +346,7 @@ This is the only NT occurrence. It refers specifically to submitting to decrees/
 
 ---
 
-## [G5218](https://www.blueletterbible.org/lexicon/g5218/kjv/tr/0-1/){:target="_blank"} -- hupakoe (obedience)
+## G5218 -- hupakoe (obedience)
 
 **Original:** ὑπακοή
 **Transliteration:** hupakoe
@@ -354,7 +354,7 @@ This is the only NT occurrence. It refers specifically to submitting to decrees/
 **Part of Speech:** Feminine noun
 **Total KJV Occurrences:** 15
 
-**Definition:** From [G5219](https://www.blueletterbible.org/lexicon/g5219/kjv/tr/0-1/){:target="_blank"} (hupakouo); attentive hearkening, i.e. (by implication) compliance or submission.
+**Definition:** From G5219 (hupakouo); attentive hearkening, i.e. (by implication) compliance or submission.
 
 ### Translations in KJV
 | Translation | Count | % |
@@ -376,7 +376,7 @@ This is the only NT occurrence. It refers specifically to submitting to decrees/
 
 ---
 
-## [G1398](https://www.blueletterbible.org/lexicon/g1398/kjv/tr/0-1/){:target="_blank"} -- douleuo (serve)
+## G1398 -- douleuo (serve)
 
 **Original:** δουλεύω
 **Transliteration:** douleuo
@@ -384,7 +384,7 @@ This is the only NT occurrence. It refers specifically to submitting to decrees/
 **Part of Speech:** Verb
 **Total KJV Occurrences:** 25
 
-**Definition:** From [G1401](https://www.blueletterbible.org/lexicon/g1401/kjv/tr/0-1/){:target="_blank"} (doulos, slave); to be a slave to (literal or figurative, involuntary or voluntary).
+**Definition:** From G1401 (doulos, slave); to be a slave to (literal or figurative, involuntary or voluntary).
 
 ### Translations in KJV
 | Translation | Count | % |
@@ -410,11 +410,11 @@ Greek: ἐντολὴν καινὴν δίδωμι ὑμῖν, ἵνα ἀγαπ
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| ἐντολὴν | ἐντολή | [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg F |
-| καινὴν | καινός | [G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} | Adj, Acc Sg F |
-| δίδωμι | δίδωμι | [G1325](https://www.blueletterbible.org/lexicon/g1325/kjv/tr/0-1/){:target="_blank"} | Verb, Pres Act Ind, 1st Sg |
-| ἀγαπᾶτε | ἀγαπάω | [G25](https://www.blueletterbible.org/lexicon/g25/kjv/tr/0-1/){:target="_blank"} | Verb, Pres Act Subj, 2nd Pl |
-| ἠγάπησα | ἀγαπάω | [G25](https://www.blueletterbible.org/lexicon/g25/kjv/tr/0-1/){:target="_blank"} | Verb, Aor Act Ind, 1st Sg |
+| ἐντολὴν | ἐντολή | G1785 | Noun, Acc Sg F |
+| καινὴν | καινός | G2537 | Adj, Acc Sg F |
+| δίδωμι | δίδωμι | G1325 | Verb, Pres Act Ind, 1st Sg |
+| ἀγαπᾶτε | ἀγαπάω | G25 | Verb, Pres Act Subj, 2nd Pl |
+| ἠγάπησα | ἀγαπάω | G25 | Verb, Aor Act Ind, 1st Sg |
 
 **Notes:** The "new" (kainen, G2537) modifies "commandment" (entolen, G1785). The purpose clause (hina + subjunctive) shows the commandment's content: "that you should love [agapate] one another." The standard is Christ's love (kathos egapesa humas = "as I have loved you"), stated in the aorist tense indicating completed action.
 
@@ -423,14 +423,14 @@ Greek: Πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνο
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| Πᾶς | πᾶς | [G3956](https://www.blueletterbible.org/lexicon/g3956/kjv/tr/0-1/){:target="_blank"} | Adj, Nom Sg M ("everyone") |
-| ποιῶν | ποιέω | [G4160](https://www.blueletterbible.org/lexicon/g4160/kjv/tr/0-1/){:target="_blank"} | Verb, Pres Act Ptcp, Nom Sg M ("doing/committing") |
-| ἁμαρτίαν | ἁμαρτία | [G266](https://www.blueletterbible.org/lexicon/g266/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg F ("sin") |
-| ἀνομίαν | ἀνομία | [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg F ("lawlessness") |
-| ποιεῖ | ποιέω | [G4160](https://www.blueletterbible.org/lexicon/g4160/kjv/tr/0-1/){:target="_blank"} | Verb, Pres Act Ind, 3rd Sg ("does/commits") |
-| ἁμαρτία | ἁμαρτία | [G266](https://www.blueletterbible.org/lexicon/g266/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg F ("sin") |
-| ἐστὶν | εἰμί | [G1510](https://www.blueletterbible.org/lexicon/g1510/kjv/tr/0-1/){:target="_blank"} | Verb, Pres Act Ind, 3rd Sg ("is") |
-| ἀνομία | ἀνομία | [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} | Noun, Nom Sg F ("lawlessness") |
+| Πᾶς | πᾶς | G3956 | Adj, Nom Sg M ("everyone") |
+| ποιῶν | ποιέω | G4160 | Verb, Pres Act Ptcp, Nom Sg M ("doing/committing") |
+| ἁμαρτίαν | ἁμαρτία | G266 | Noun, Acc Sg F ("sin") |
+| ἀνομίαν | ἀνομία | G458 | Noun, Acc Sg F ("lawlessness") |
+| ποιεῖ | ποιέω | G4160 | Verb, Pres Act Ind, 3rd Sg ("does/commits") |
+| ἁμαρτία | ἁμαρτία | G266 | Noun, Nom Sg F ("sin") |
+| ἐστὶν | εἰμί | G1510 | Verb, Pres Act Ind, 3rd Sg ("is") |
+| ἀνομία | ἀνομία | G458 | Noun, Nom Sg F ("lawlessness") |
 
 **Notes:** The structure is an identity statement: "he hamartia estin he anomia" = "the sin IS the lawlessness." Both nouns have the definite article (he), making this a convertible proposition: sin = lawlessness and lawlessness = sin. The present tense participle (poion) indicates habitual/ongoing action. The equation is absolute: sin is defined as anomia (lawlessness).
 
@@ -439,11 +439,11 @@ Greek: καὶ τότε ὁμολογήσω αὐτοῖς ὅτι Οὐδέπο
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| ὁμολογήσω | ὁμολογέω | [G3670](https://www.blueletterbible.org/lexicon/g3670/kjv/tr/0-1/){:target="_blank"} | Verb, Fut Act Ind, 1st Sg ("I will profess/declare") |
-| ἔγνων | γινώσκω | [G1097](https://www.blueletterbible.org/lexicon/g1097/kjv/tr/0-1/){:target="_blank"} | Verb, Aor Act Ind, 1st Sg ("I knew") |
-| ἀποχωρεῖτε | ἀποχωρέω | [G672](https://www.blueletterbible.org/lexicon/g672/kjv/tr/0-1/){:target="_blank"} | Verb, Pres Act Impv, 2nd Pl ("depart") |
-| ἐργαζόμενοι | ἐργάζομαι | [G2038](https://www.blueletterbible.org/lexicon/g2038/kjv/tr/0-1/){:target="_blank"} | Verb, Pres M/P Ptcp, Nom Pl M ("working/practicing") |
-| ἀνομίαν | ἀνομία | [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg F ("lawlessness") |
+| ὁμολογήσω | ὁμολογέω | G3670 | Verb, Fut Act Ind, 1st Sg ("I will profess/declare") |
+| ἔγνων | γινώσκω | G1097 | Verb, Aor Act Ind, 1st Sg ("I knew") |
+| ἀποχωρεῖτε | ἀποχωρέω | G672 | Verb, Pres Act Impv, 2nd Pl ("depart") |
+| ἐργαζόμενοι | ἐργάζομαι | G2038 | Verb, Pres M/P Ptcp, Nom Pl M ("working/practicing") |
+| ἀνομίαν | ἀνομία | G458 | Noun, Acc Sg F ("lawlessness") |
 
 **Notes:** "Hoi ergazomenoi ten anomian" = "the ones working the lawlessness." The present participle (ergazomenoi) indicates ongoing, habitual practice of lawlessness. The definite article before anomian (ten anomian) points to a specific, recognized lawlessness -- not vague wickedness but violation of THE law. Jesus rejects them not for lack of religious activity (they prophesied, cast out devils, did works) but for practicing lawlessness.
 
@@ -452,29 +452,16 @@ Greek: Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι 
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| ἀποδεκατοῦτε | ἀποδεκατόω | [G586](https://www.blueletterbible.org/lexicon/g586/kjv/tr/0-1/){:target="_blank"} | Verb, Pres Act Ind, 2nd Pl ("you tithe") |
-| ἀφήκατε | ἀφίημι | [G863](https://www.blueletterbible.org/lexicon/g863/kjv/tr/0-1/){:target="_blank"} | Verb, Aor Act Ind, 2nd Pl ("you have left/neglected") |
-| βαρύτερα | βαρύς | [G926](https://www.blueletterbible.org/lexicon/g926/kjv/tr/0-1/){:target="_blank"} | Adj, Acc Pl N, Comparative ("weightier") |
-| νόμου | νόμος | [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | Noun, Gen Sg M ("of the law") |
-| κρίσιν | κρίσις | [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg F ("judgment/justice") |
-| ἔλεος | ἔλεος | [G1656](https://www.blueletterbible.org/lexicon/g1656/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg N ("mercy") |
-| πίστιν | πίστις | [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} | Noun, Acc Sg F ("faith/faithfulness") |
-| ἔδει | δεῖ | [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} | Verb, Impf Act Ind, 3rd Sg ("it was necessary") |
-| ποιῆσαι | ποιέω | [G4160](https://www.blueletterbible.org/lexicon/g4160/kjv/tr/0-1/){:target="_blank"} | Verb, Aor Act Inf ("to do") |
-| κἀκεῖνα | κἀκεῖνος | [G2548](https://www.blueletterbible.org/lexicon/g2548/kjv/tr/0-1/){:target="_blank"} | Dem Pron, Acc Pl N ("and those things") |
-| ἀφεῖναι | ἀφίημι | [G863](https://www.blueletterbible.org/lexicon/g863/kjv/tr/0-1/){:target="_blank"} | Verb, Aor Act Inf ("to leave/neglect") |
+| ἀποδεκατοῦτε | ἀποδεκατόω | G586 | Verb, Pres Act Ind, 2nd Pl ("you tithe") |
+| ἀφήκατε | ἀφίημι | G863 | Verb, Aor Act Ind, 2nd Pl ("you have left/neglected") |
+| βαρύτερα | βαρύς | G926 | Adj, Acc Pl N, Comparative ("weightier") |
+| νόμου | νόμος | G3551 | Noun, Gen Sg M ("of the law") |
+| κρίσιν | κρίσις | G2920 | Noun, Acc Sg F ("judgment/justice") |
+| ἔλεος | ἔλεος | G1656 | Noun, Acc Sg N ("mercy") |
+| πίστιν | πίστις | G4102 | Noun, Acc Sg F ("faith/faithfulness") |
+| ἔδει | δεῖ | G1163 | Verb, Impf Act Ind, 3rd Sg ("it was necessary") |
+| ποιῆσαι | ποιέω | G4160 | Verb, Aor Act Inf ("to do") |
+| κἀκεῖνα | κἀκεῖνος | G2548 | Dem Pron, Acc Pl N ("and those things") |
+| ἀφεῖναι | ἀφίημι | G863 | Verb, Aor Act Inf ("to leave/neglect") |
 
 **Notes:** "Ta barutera tou nomou" = "the weightier things of the law." The comparative adjective barutera (heavier/weightier) implies the law has matters of differing weight -- not that some are dispensable, but that some are more fundamental. The final clause "tauta de edei poiesai kakeina me apheinai" = "these things [weightier matters] it was necessary to do, and those things [tithing] not to leave undone." The imperfect of dei (edei, "it was necessary") with the aorist infinitives creates an obligation statement: BOTH the weightier AND the lesser matters of the law must be done.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

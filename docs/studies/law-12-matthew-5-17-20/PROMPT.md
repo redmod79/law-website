@@ -85,12 +85,12 @@ Note: Nave's LAW topic has a "TEMPORARY" section that explicitly includes Mat 5:
 
 | Strong's | Word | Definition | NT Occurrences | Relevance |
 |----------|------|------------|----------------|-----------|
-| [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | kataluo | "to loosen down (disintegrate), i.e. (literally) to demolish; figuratively to halt for the night; to destroy, dissolve, come to nought, overthrow, throw down" | 17 | Core term in Mat 5:17 -- "Think not that I am come to destroy (katalusai)" -- Jesus' emphatic denial |
-| [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} | pleroo | "to make replete, i.e. (literally) to cram (a net), level up (a hollow), or (figuratively) to furnish (or imbue, diffuse, influence), satisfy, execute (an office), finish (a period or task), verify (or coincide with a prediction), etc." | 90 | Core term in Mat 5:17 -- "I am not come to destroy, but to fulfil (plerosai)" |
-| [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"} | luo | "to loosen (literally or figuratively)" | 43 | Used in Mat 5:19 for "break" -- "Whosoever shall break (luse) one of these least commandments" |
-| [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} | dikaiosune | "equity (of character or act); specifically (Christian) justification" | 92 | Used in Mat 5:20 -- "Except your righteousness (dikaiosune) shall exceed the scribes and Pharisees" |
-| [G5218](https://www.blueletterbible.org/lexicon/g5218/kjv/tr/0-1/){:target="_blank"} | hupakoe | "attentive hearkening, i.e. (by implication) compliance or submission; obedience" | 15 | Concept: obedience to God's commands |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma | "an equitable deed; by implication a statute or decision; judgment, justification, ordinance, righteousness" | 10 | Used in Rom 8:4 -- "the righteousness (dikaioma) of the law fulfilled in us" |
+| G2647 | kataluo | "to loosen down (disintegrate), i.e. (literally) to demolish; figuratively to halt for the night; to destroy, dissolve, come to nought, overthrow, throw down" | 17 | Core term in Mat 5:17 -- "Think not that I am come to destroy (katalusai)" -- Jesus' emphatic denial |
+| G4137 | pleroo | "to make replete, i.e. (literally) to cram (a net), level up (a hollow), or (figuratively) to furnish (or imbue, diffuse, influence), satisfy, execute (an office), finish (a period or task), verify (or coincide with a prediction), etc." | 90 | Core term in Mat 5:17 -- "I am not come to destroy, but to fulfil (plerosai)" |
+| G3089 | luo | "to loosen (literally or figuratively)" | 43 | Used in Mat 5:19 for "break" -- "Whosoever shall break (luse) one of these least commandments" |
+| G1343 | dikaiosune | "equity (of character or act); specifically (Christian) justification" | 92 | Used in Mat 5:20 -- "Except your righteousness (dikaiosune) shall exceed the scribes and Pharisees" |
+| G5218 | hupakoe | "attentive hearkening, i.e. (by implication) compliance or submission; obedience" | 15 | Concept: obedience to God's commands |
+| G1345 | dikaioma | "an equitable deed; by implication a statute or decision; judgment, justification, ordinance, righteousness" | 10 | Used in Rom 8:4 -- "the righteousness (dikaioma) of the law fulfilled in us" |
 
 **Key kataluo (G2647) occurrences to examine:**
 - Mat 5:17 -- "Think not that I am come to destroy the law" (2x in verse)
@@ -204,7 +204,7 @@ You are the Research Agent. Execute this study by:
      - Luk 16:17 (parallel permanence statement)
      - Rom 3:31; Rom 8:4; Rom 13:8-10 (law established/fulfilled)
      - Cross-references from Nave's entries
-   - `04-word-studies.md` - Strong's research for [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} (kataluo), [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} (pleroo), [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"} (luo), [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} (dikaiosune), [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma)
+   - `04-word-studies.md` - Strong's research for G2647 (kataluo), G4137 (pleroo), G3089 (luo), G1343 (dikaiosune), G1345 (dikaioma)
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -214,16 +214,3 @@ answer-question
 ---
 *Scoped: 2026-02-24*
 *Folder: bible-studies/law-12-matthew-5-17-20/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

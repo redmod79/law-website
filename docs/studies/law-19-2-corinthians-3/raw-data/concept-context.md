@@ -5,8 +5,8 @@
 **Verse:** "But if the ministration of death, written [and] engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which [glory] was to be done away:"
 
 **Concepts Identified:**
-- DEATH: [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (thanatos)
-- GLORY: [G1391](https://www.blueletterbible.org/lexicon/g1391/kjv/tr/0-1/){:target="_blank"} (doxa)
+- DEATH: G2288 (thanatos)
+- GLORY: G1391 (doxa)
 
 ### Same Chapter (2 Corinthians 3) -- 5 verses with GLORY concept:
 1. 2 Cor 3:10 -- "that which was made glorious had no glory...by reason of the glory that excelleth"
@@ -31,10 +31,10 @@
 **Verse:** "[Forasmuch as ye are] manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."
 
 **Concepts Identified:**
-- MESSIAH: [G5547](https://www.blueletterbible.org/lexicon/g5547/kjv/tr/0-1/){:target="_blank"} (Christos)
-- SPIRIT: [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (pneuma)
-- LIFE: [G2198](https://www.blueletterbible.org/lexicon/g2198/kjv/tr/0-1/){:target="_blank"} (zoe/zao)
-- HEART: [G2588](https://www.blueletterbible.org/lexicon/g2588/kjv/tr/0-1/){:target="_blank"} (kardia)
+- MESSIAH: G5547 (Christos)
+- SPIRIT: G4151 (pneuma)
+- LIFE: G2198 (zoe/zao)
+- HEART: G2588 (kardia)
 
 ### Same Chapter (2 Corinthians 3) -- 8 verses:
 1. 2 Cor 3:14 [MESSIAH] -- "which [vail] is done away in Christ"
@@ -57,8 +57,8 @@
 **Verse:** "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which [vail] is done away in Christ."
 
 **Concepts Identified:**
-- COVENANT: [G1242](https://www.blueletterbible.org/lexicon/g1242/kjv/tr/0-1/){:target="_blank"} (diatheke)
-- MESSIAH: [G5547](https://www.blueletterbible.org/lexicon/g5547/kjv/tr/0-1/){:target="_blank"} (Christos)
+- COVENANT: G1242 (diatheke)
+- MESSIAH: G5547 (Christos)
 
 ### Same Chapter (2 Corinthians 3) -- 3 verses:
 1. 2 Cor 3:3 [MESSIAH] -- "the epistle of Christ"
@@ -76,8 +76,8 @@
 **Verse:** "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, [even] as by the Spirit of the Lord."
 
 **Concepts Identified:**
-- GLORY: [G1391](https://www.blueletterbible.org/lexicon/g1391/kjv/tr/0-1/){:target="_blank"} (doxa) -- appears 3x in this verse
-- SPIRIT: [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (pneuma)
+- GLORY: G1391 (doxa) -- appears 3x in this verse
+- SPIRIT: G4151 (pneuma)
 
 ### Same Chapter (2 Corinthians 3) -- 8 verses:
 1. 2 Cor 3:8 [GLORY, SPIRIT] -- "the ministration of the spirit be rather glorious"

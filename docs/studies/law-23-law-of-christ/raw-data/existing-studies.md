@@ -33,7 +33,7 @@
 ## law-14: Jesus' Law Teachings
 
 **Key findings directly relevant:**
-- [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} ennomos word study: 2 NT occurrences -- Acts 19:39 ("lawful assembly") and 1 Cor 9:21 ("ennomos Christou"). Paul as "in-law to Christ."
+- G1772 ennomos word study: 2 NT occurrences -- Acts 19:39 ("lawful assembly") and 1 Cor 9:21 ("ennomos Christou"). Paul as "in-law to Christ."
 
 ## law-10: New Covenant and Law
 

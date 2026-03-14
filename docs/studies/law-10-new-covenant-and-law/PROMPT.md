@@ -99,26 +99,26 @@ The research and analysis agents MUST read the conclusions from all prior studie
 
 | Strong's | Word | Transliteration | Relevance |
 |----------|------|----------------|-----------|
-| [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} | בְּרִית | berith (covenant) | Core concept -- the covenant being compared old vs new |
-| [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} | כָּרַת | karath (cut/make covenant) | How covenants are established |
-| [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"} | לֵב | leb (heart) | Where new covenant law is placed (Jer 31:33) |
-| [H3212](https://www.blueletterbible.org/lexicon/h3212/kjv/wlc/0-1/){:target="_blank"} | יָלַךְ | yalak (walk) | Walking in God's statutes (Eze 36:27) |
-| [H8085](https://www.blueletterbible.org/lexicon/h8085/kjv/wlc/0-1/){:target="_blank"} | שָׁמַע | shama (hear/obey) | Obedience component of covenant |
-| [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} | חָקַק | chaqaq (engrave/decree) | Law written/engraved -- connects to writing on hearts |
-| [H6662](https://www.blueletterbible.org/lexicon/h6662/kjv/wlc/0-1/){:target="_blank"} | צַדִּיק | tsaddiq (righteous) | Righteousness standard in covenant |
-| [H6666](https://www.blueletterbible.org/lexicon/h6666/kjv/wlc/0-1/){:target="_blank"} | צְדָקָה | tsedaqah (righteousness) | Righteousness as covenant requirement |
-| [G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} | ἐγγράφω | engrapho (write/inscribe) | Writing law on hearts (Heb 8:10, 10:16) |
-| [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} | πίστις | pistis (faith) | Faith that establishes law (Rom 3:31) |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | ἐντολή | entole (commandment) | Commandments in new covenant context (1 John 5:3) |
-| [G5218](https://www.blueletterbible.org/lexicon/g5218/kjv/tr/0-1/){:target="_blank"} | ὑπακοή | hupakoe (obedience) | Obedience of faith (Rom 1:5, 16:26) |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | δικαίωμα | dikaioma (righteous requirement/ordinance) | Righteousness of the law fulfilled in us (Rom 8:4) |
-| [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} | δικαιοσύνη | dikaiosyne (righteousness) | Righteousness through faith and law |
-| [G1397](https://www.blueletterbible.org/lexicon/g1397/kjv/tr/0-1/){:target="_blank"} | δουλεία | douleia (slavery/bondage) | Contrast old covenant bondage vs new covenant freedom |
-| [G1450](https://www.blueletterbible.org/lexicon/g1450/kjv/tr/0-1/){:target="_blank"} | ἔγγυος | enguos (guarantor/surety) | Jesus as guarantor of better covenant (Heb 7:22) |
-| [G3980](https://www.blueletterbible.org/lexicon/g3980/kjv/tr/0-1/){:target="_blank"} | πειθαρχέω | peitharcheo (obey authority) | Obedience to God's authority |
-| [G1384](https://www.blueletterbible.org/lexicon/g1384/kjv/tr/0-1/){:target="_blank"} | δόκιμος | dokimos (approved/tested) | Tested/approved in covenant faithfulness |
-| [G570](https://www.blueletterbible.org/lexicon/g570/kjv/tr/0-1/){:target="_blank"} | ἀπιστία | apistia (unbelief) | Israel's unbelief that broke old covenant |
-| [G802](https://www.blueletterbible.org/lexicon/g802/kjv/tr/0-1/){:target="_blank"} | ἀσύνθετος | asunthetos (covenant-breaking) | Breaking covenant (Rom 1:31) |
+| H1285 | בְּרִית | berith (covenant) | Core concept -- the covenant being compared old vs new |
+| H3772 | כָּרַת | karath (cut/make covenant) | How covenants are established |
+| H3820 | לֵב | leb (heart) | Where new covenant law is placed (Jer 31:33) |
+| H3212 | יָלַךְ | yalak (walk) | Walking in God's statutes (Eze 36:27) |
+| H8085 | שָׁמַע | shama (hear/obey) | Obedience component of covenant |
+| H2710 | חָקַק | chaqaq (engrave/decree) | Law written/engraved -- connects to writing on hearts |
+| H6662 | צַדִּיק | tsaddiq (righteous) | Righteousness standard in covenant |
+| H6666 | צְדָקָה | tsedaqah (righteousness) | Righteousness as covenant requirement |
+| G1449 | ἐγγράφω | engrapho (write/inscribe) | Writing law on hearts (Heb 8:10, 10:16) |
+| G4102 | πίστις | pistis (faith) | Faith that establishes law (Rom 3:31) |
+| G1785 | ἐντολή | entole (commandment) | Commandments in new covenant context (1 John 5:3) |
+| G5218 | ὑπακοή | hupakoe (obedience) | Obedience of faith (Rom 1:5, 16:26) |
+| G1345 | δικαίωμα | dikaioma (righteous requirement/ordinance) | Righteousness of the law fulfilled in us (Rom 8:4) |
+| G1343 | δικαιοσύνη | dikaiosyne (righteousness) | Righteousness through faith and law |
+| G1397 | δουλεία | douleia (slavery/bondage) | Contrast old covenant bondage vs new covenant freedom |
+| G1450 | ἔγγυος | enguos (guarantor/surety) | Jesus as guarantor of better covenant (Heb 7:22) |
+| G3980 | πειθαρχέω | peitharcheo (obey authority) | Obedience to God's authority |
+| G1384 | δόκιμος | dokimos (approved/tested) | Tested/approved in covenant faithfulness |
+| G570 | ἀπιστία | apistia (unbelief) | Israel's unbelief that broke old covenant |
+| G802 | ἀσύνθετος | asunthetos (covenant-breaking) | Breaking covenant (Rom 1:31) |
 
 ### Related Existing Studies (from semantic_studies.py)
 
@@ -137,7 +137,7 @@ The research and analysis agents MUST read the conclusions from all prior studie
 ### Focus Areas
 The following focus areas are derived from the tool discoveries above and build on the cumulative findings of studies 1-9:
 
-1. **Law Written on Hearts (Jer 31:33 / Heb 8:10 / Heb 10:16):** What specific law is written on hearts in the new covenant? The Hebrew and Greek vocabulary (H2710 chaqaq "engrave," [G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} engrapho "inscribe") connects to physical writing on stone. Does the text identify WHICH law is written? Does the parallel between stone tablets and heart-writing imply the same Decalogue content?
+1. **Law Written on Hearts (Jer 31:33 / Heb 8:10 / Heb 10:16):** What specific law is written on hearts in the new covenant? The Hebrew and Greek vocabulary (H2710 chaqaq "engrave," G1449 engrapho "inscribe") connects to physical writing on stone. Does the text identify WHICH law is written? Does the parallel between stone tablets and heart-writing imply the same Decalogue content?
 
 2. **Spirit-Empowered Obedience (Eze 36:26-27 / Rom 8:4):** Ezekiel 36:26-27 promises a new heart and God's Spirit to cause walking in "my statutes" and keeping "my judgments." What do these terms (choqqim/mishpatim) refer to? Romans 8:4 says the dikaioma (G1345 -- righteous requirement) of the law is "fulfilled in us who walk... after the Spirit." Is this the moral law's requirement being fulfilled, or something else entirely?
 
@@ -149,7 +149,7 @@ The following focus areas are derived from the tool discoveries above and build 
 
 6. **Covenant Continuity vs. Discontinuity:** The COVENANT topic in Nave's includes references to "perpetual" and "everlasting" covenants (Gen 17:7,13,19; Jer 32:40; Eze 37:26; Heb 13:20). How does the concept of an everlasting covenant relate to the moral law's permanence? Is the new covenant a replacement or a renewal/internalization?
 
-7. **Obedience in the New Covenant:** Multiple Strong's numbers cluster around obedience (G5218 hupakoe, [G3980](https://www.blueletterbible.org/lexicon/g3980/kjv/tr/0-1/){:target="_blank"} peitharcheo, [H8085](https://www.blueletterbible.org/lexicon/h8085/kjv/wlc/0-1/){:target="_blank"} shama). Paul speaks of "obedience of faith" (Rom 1:5, 16:26). Is new covenant obedience qualitatively different from old covenant obedience, or is it the same obedience with a different power source?
+7. **Obedience in the New Covenant:** Multiple Strong's numbers cluster around obedience (G5218 hupakoe, G3980 peitharcheo, H8085 shama). Paul speaks of "obedience of faith" (Rom 1:5, 16:26). Is new covenant obedience qualitatively different from old covenant obedience, or is it the same obedience with a different power source?
 
 8. **Grace and Law Relationship (Rom 6:14-15 / Tit 2:11-12):** The GRACE and SALVATION topics intersect with LAW. Rom 6:14 says "ye are not under the law, but under grace." Does this mean the law is abolished, or that believers are no longer under condemnation by the law? Titus 2:11-12 says grace teaches us to live "soberly, righteously, and godly" -- does this echo moral law standards?
 
@@ -169,8 +169,8 @@ You are the Research Agent. Execute this study by:
      - **Key passages:** Jer 31:31-34, Heb 8:6-13, Heb 10:15-18, Eze 36:26-27, Rom 3:31, Rom 8:1-4, 1 John 5:2-3
      - **Supporting passages from tool discoveries:** John 14:15,21, John 15:10, Rev 12:17, Rev 14:12, Rom 6:14-15, Rom 13:8-10, Gal 3:19-25, Gal 5:14, Tit 2:11-12, Heb 7:11-12,18-22, Heb 13:20, 2 Cor 3:3-6, Jer 32:40, Eze 11:19-20, Eze 37:26, Psa 37:31, Psa 40:8, Psa 19:7-11, Psa 111:7-8, Mat 5:17-19, Luk 16:17, Jam 1:25, Jam 2:8-12, 1 John 2:3-4, 1 John 3:22-24, Rom 1:5, Rom 7:7-14,22, Rom 16:26, Heb 5:8-9, Deu 6:5-6, Deu 30:6,10-14, Gen 17:7,13,19, Isa 54:10, Isa 55:3
    - `04-word-studies.md` - Strong's research for all listed numbers:
-     - Hebrew: [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} (berith), [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} (karath), [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"} (leb), [H3212](https://www.blueletterbible.org/lexicon/h3212/kjv/wlc/0-1/){:target="_blank"} (yalak), [H8085](https://www.blueletterbible.org/lexicon/h8085/kjv/wlc/0-1/){:target="_blank"} (shama), [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} (chaqaq), [H6662](https://www.blueletterbible.org/lexicon/h6662/kjv/wlc/0-1/){:target="_blank"} (tsaddiq), [H6666](https://www.blueletterbible.org/lexicon/h6666/kjv/wlc/0-1/){:target="_blank"} (tsedaqah)
-     - Greek: [G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} (engrapho), [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} (pistis), [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole), [G5218](https://www.blueletterbible.org/lexicon/g5218/kjv/tr/0-1/){:target="_blank"} (hupakoe), [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma), [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} (dikaiosyne), [G1397](https://www.blueletterbible.org/lexicon/g1397/kjv/tr/0-1/){:target="_blank"} (douleia), [G1450](https://www.blueletterbible.org/lexicon/g1450/kjv/tr/0-1/){:target="_blank"} (enguos), [G570](https://www.blueletterbible.org/lexicon/g570/kjv/tr/0-1/){:target="_blank"} (apistia), [G802](https://www.blueletterbible.org/lexicon/g802/kjv/tr/0-1/){:target="_blank"} (asunthetos)
+     - Hebrew: H1285 (berith), H3772 (karath), H3820 (leb), H3212 (yalak), H8085 (shama), H2710 (chaqaq), H6662 (tsaddiq), H6666 (tsedaqah)
+     - Greek: G1449 (engrapho), G4102 (pistis), G1785 (entole), G5218 (hupakoe), G1345 (dikaioma), G1343 (dikaiosyne), G1397 (douleia), G1450 (enguos), G570 (apistia), G802 (asunthetos)
    - `raw-data/` - Raw tool output organized by category
 8. Run cross-testament parallels (BOTH --hybrid-ot AND --hybrid-nt) for at minimum: Jer 31:33, Heb 8:10, Heb 10:16, Eze 36:27, Rom 3:31, Rom 8:4, 1 John 5:3
 9. Run Greek parsing on: Heb 8:8-10, Heb 10:15-16, Rom 3:31, Rom 8:4, 1 John 5:3, 2 Cor 3:3,6
@@ -183,16 +183,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-10-new-covenant-and-law/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -164,21 +164,21 @@ Key verses from Psalm 119 for this study:
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | torah (law, instruction) | Core term -- "a precept or statute, especially the Decalogue or Pentateuch" (219 OT occurrences) |
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos (law) | Primary NT term for law (197 occurrences); used in ROM 7:7,12,14 for moral law |
-| [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} | mitsvah (commandment) | "A command, whether human or divine" (181 occurrences); used in PSA 19:8; GEN 26:5 |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole (commandment) | NT term for God's authoritative moral commands (71 occurrences); used in ROM 7:8-12; REV 12:17; 14:12; 22:14 |
-| [H676](https://www.blueletterbible.org/lexicon/h676/kjv/wlc/0-1/){:target="_blank"} | etsba (finger) | "Something to seize with, a finger" (32 occurrences); used in EXO 31:18; DEU 9:10 ("finger of God") |
-| [G1147](https://www.blueletterbible.org/lexicon/g1147/kjv/tr/0-1/){:target="_blank"} | daktylos (finger) | Greek term for finger (5 occurrences) |
-| [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} | choq (statute, decree) | "An enactment; an appointment; statute" (127 occurrences); used in DEU 4:1,5,6,8; PSA 119:5 |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment, ordinance) | "A verdict; a sentence or formal decree; justice" (421 occurrences); used in PSA 19:9; 119:7,43,160 |
-| [G40](https://www.blueletterbible.org/lexicon/g40/kjv/tr/0-1/){:target="_blank"} | hagios (holy) | "Sacred" (229 occurrences); used in ROM 7:12 ("the law is holy") |
-| [G4152](https://www.blueletterbible.org/lexicon/g4152/kjv/tr/0-1/){:target="_blank"} | pneumatikos (spiritual) | "Non-carnal, ethereal" (26 occurrences); used in ROM 7:14 ("the law is spiritual") |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma (statute, righteous requirement) | Used for both moral (ROM 2:26; 8:4) and ceremonial contexts (HEB 9:1,10) |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma (decree, ordinance) | Used for ceremonial decrees nailed to cross (COL 2:14; EPH 2:15) -- NEVER used for moral commandments |
-| [G3037](https://www.blueletterbible.org/lexicon/g3037/kjv/tr/0-1/){:target="_blank"} | lithos (stone) | "A stone" (38 occurrences); relevant to tables of stone context |
-| [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} | teleios (perfect, complete) | Used in relation to perfection of God and His law |
-| [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} | ad (perpetuity, forever) | "Duration, advance, perpetuity" (44 occurrences); used in PSA 111:8; 119:44 |
+| H8451 | torah (law, instruction) | Core term -- "a precept or statute, especially the Decalogue or Pentateuch" (219 OT occurrences) |
+| G3551 | nomos (law) | Primary NT term for law (197 occurrences); used in ROM 7:7,12,14 for moral law |
+| H4687 | mitsvah (commandment) | "A command, whether human or divine" (181 occurrences); used in PSA 19:8; GEN 26:5 |
+| G1785 | entole (commandment) | NT term for God's authoritative moral commands (71 occurrences); used in ROM 7:8-12; REV 12:17; 14:12; 22:14 |
+| H676 | etsba (finger) | "Something to seize with, a finger" (32 occurrences); used in EXO 31:18; DEU 9:10 ("finger of God") |
+| G1147 | daktylos (finger) | Greek term for finger (5 occurrences) |
+| H2706 | choq (statute, decree) | "An enactment; an appointment; statute" (127 occurrences); used in DEU 4:1,5,6,8; PSA 119:5 |
+| H4941 | mishpat (judgment, ordinance) | "A verdict; a sentence or formal decree; justice" (421 occurrences); used in PSA 19:9; 119:7,43,160 |
+| G40 | hagios (holy) | "Sacred" (229 occurrences); used in ROM 7:12 ("the law is holy") |
+| G4152 | pneumatikos (spiritual) | "Non-carnal, ethereal" (26 occurrences); used in ROM 7:14 ("the law is spiritual") |
+| G1345 | dikaioma (statute, righteous requirement) | Used for both moral (ROM 2:26; 8:4) and ceremonial contexts (HEB 9:1,10) |
+| G1378 | dogma (decree, ordinance) | Used for ceremonial decrees nailed to cross (COL 2:14; EPH 2:15) -- NEVER used for moral commandments |
+| G3037 | lithos (stone) | "A stone" (38 occurrences); relevant to tables of stone context |
+| G5046 | teleios (perfect, complete) | Used in relation to perfection of God and His law |
+| H5703 | ad (perpetuity, forever) | "Duration, advance, perpetuity" (44 occurrences); used in PSA 111:8; 119:44 |
 
 ### Related Existing Studies
 
@@ -233,7 +233,7 @@ You are the Research Agent. Execute this study by:
 5. Write research files to this folder (`D:/bible/bible-studies/law-01-gods-moral-law/`):
    - `01-topics.md` - Nave's topics and full entries (DECALOGUE, LAW, COMMANDMENTS, COVENANT, OBEDIENCE, WORD OF GOD, SIN, HOLINESS)
    - `02-verses.md` - All verse texts retrieved with context, organized by the categories above (A through E)
-   - `04-word-studies.md` - Strong's research for [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}, [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}, [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"}, [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}, [H676](https://www.blueletterbible.org/lexicon/h676/kjv/wlc/0-1/){:target="_blank"}, [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}, [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"}, [G40](https://www.blueletterbible.org/lexicon/g40/kjv/tr/0-1/){:target="_blank"}, [G4152](https://www.blueletterbible.org/lexicon/g4152/kjv/tr/0-1/){:target="_blank"}, [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}, [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}
+   - `04-word-studies.md` - Strong's research for H8451, G3551, H4687, G1785, H676, H2706, H4941, G40, G4152, G1345, G1378
    - `raw-data/` - Raw tool output organized by category
 6. **CRITICAL**: Retrieve BOTH continuation AND abolition passages. The Nave's LAW entry "TEMPORARY" section lists passages cited by the Abolished position. These MUST be retrieved alongside the continuation passages per the law series methodology.
 7. Run cross-testament parallels for the primary verses (EXO 20:1-17, ROM 7:12, ROM 7:14, PSA 19:7, PSA 111:7-8, 1JN 3:4, REV 14:12)
@@ -245,16 +245,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-01-gods-moral-law/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

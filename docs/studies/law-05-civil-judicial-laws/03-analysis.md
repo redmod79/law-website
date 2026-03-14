@@ -488,19 +488,19 @@ In Matthew 5, Jesus addresses both the moral commandment ("Thou shalt not kill,"
 
 ## Word Study Insights
 
-### [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} (mishpat) -- Case Law
+### H4941 (mishpat) -- Case Law
 Mishpat specifically denotes judicial case law -- verdicts, legal rights, judicial decisions. It is functionally distinct from choq (enacted statute) and mitsvah (direct command). The 448 occurrences show a consistent semantic range focused on the judicial process and its outcomes.
 
-### [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} (choq) -- Enacted Statute
+### H2706 (choq) -- Enacted Statute
 Choq denotes regulations prescribed by authority -- enacted decrees. The pairing "statutes and judgments" (chuqqim u-mishpatim) in Deu 4:1, 5, 8, 14 suggests the Bible recognizes a functional distinction between enacted regulations and case-law judgments.
 
-### [H817](https://www.blueletterbible.org/lexicon/h817/kjv/wlc/0-1/){:target="_blank"} (asham) -- Guilt/Trespass Offering
+### H817 (asham) -- Guilt/Trespass Offering
 Asham bridges the civil-ceremonial divide. Its dual meaning (guilt/penalty and trespass offering) embodies the overlap between the civil and ceremonial dimensions of the law.
 
-### [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma) -- Decree/Ordinance
+### G1378 (dogma) -- Decree/Ordinance
 The lexical definition of dogma -- "a law (civil, ceremonial or ecclesiastical)" -- is significant for law-05. The cessation passages (Col 2:14; Eph 2:15) use dogma for what was abolished. If dogma encompasses civil ordinances, then the civil provisions (as formal regulations of the theocratic state) may fall within the scope of what was "nailed to the cross," alongside the ceremonial system.
 
-### [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (krisis) -- Judgment/Justice
+### G2920 (krisis) -- Judgment/Justice
 In Mat 23:23, Jesus identifies krisis (judgment/justice) as one of "the weightier matters of the law" alongside mercy and faith. The judicial principle is classified as a "weightier matter" -- not a temporary regulation.
 
 ---
@@ -522,16 +522,3 @@ This passage presents a problem for any clean separation of categories. If the t
 ---
 
 *Analysis completed: 2026-02-23*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

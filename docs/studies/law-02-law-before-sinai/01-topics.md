@@ -90,7 +90,7 @@ What evidence exists for the moral law operating from creation to Sinai? Investi
 - **Clean and unclean:** GEN 8:20; LEV 7:21; 11; 20:25; DEU 14:3-20; ACT 10:11-15; 1TI 4:3-5
 - **Offered in sacrifice:** GEN 4:4; 7:2-8; 8:20
 
-**Relevance to study:** Gen 7:2 records God's instruction to Noah to take seven of clean animals and two of unclean -- before Sinai, before the Leviticus 11 codification. Gen 8:20 records sacrifice of clean animals. The word [H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"} (tahowr, "clean") is used in Gen 7:2, its earliest occurrence. This shows the clean/unclean distinction predates Sinai.
+**Relevance to study:** Gen 7:2 records God's instruction to Noah to take seven of clean animals and two of unclean -- before Sinai, before the Leviticus 11 codification. Gen 8:20 records sacrifice of clean animals. The word H2889 (tahowr, "clean") is used in Gen 7:2, its earliest occurrence. This shows the clean/unclean distinction predates Sinai.
 
 ### HOMICIDE
 - **Felonious, or Murder:** GEN 4:9-12; 9:5,6; EXO 20:13; DEU 5:17; ROM 13:9; 1JN 3:12,15
@@ -157,16 +157,3 @@ What evidence exists for the moral law operating from creation to Sinai? Investi
 
 ### ABOMINATION (from search)
 - Things abominable to God include: adultery (LEV 18:20), sodomy (LEV 18:22,23), offering children in sacrifice (LEV 18:21) -- many of these were practiced (and judged) before Sinai
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

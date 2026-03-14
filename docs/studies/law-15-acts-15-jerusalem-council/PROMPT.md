@@ -150,48 +150,48 @@ INVESTIGATIVE METHODOLOGY:
 **Yoke/bondage concepts:**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G2218](https://www.blueletterbible.org/lexicon/g2218/kjv/tr/0-1/){:target="_blank"} | zygos (yoke) | Peter's "yoke" on Gentile disciples (Acts 15:10); Jesus' yoke (Mat 11:29-30) |
-| [G1397](https://www.blueletterbible.org/lexicon/g1397/kjv/tr/0-1/){:target="_blank"} | douleia (bondage/slavery) | Bondage concept (Gal 4:24; 5:1; Rom 8:15,21; Heb 2:15) |
-| [G1402](https://www.blueletterbible.org/lexicon/g1402/kjv/tr/0-1/){:target="_blank"} | douloo (to enslave) | Enslavement vocabulary |
-| [G2615](https://www.blueletterbible.org/lexicon/g2615/kjv/tr/0-1/){:target="_blank"} | katadouloo (to enslave utterly) | Gal 2:4 -- "bring into bondage" |
+| G2218 | zygos (yoke) | Peter's "yoke" on Gentile disciples (Acts 15:10); Jesus' yoke (Mat 11:29-30) |
+| G1397 | douleia (bondage/slavery) | Bondage concept (Gal 4:24; 5:1; Rom 8:15,21; Heb 2:15) |
+| G1402 | douloo (to enslave) | Enslavement vocabulary |
+| G2615 | katadouloo (to enslave utterly) | Gal 2:4 -- "bring into bondage" |
 
 **Circumcision concepts:**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G4061](https://www.blueletterbible.org/lexicon/g4061/kjv/tr/0-1/){:target="_blank"} | peritome (circumcision) | Core term in Acts 15 debate; 29 NT occurrences |
-| [G4059](https://www.blueletterbible.org/lexicon/g4059/kjv/tr/0-1/){:target="_blank"} | peritemno (to circumcise) | Verb form -- the act demanded by the Judaizers |
-| [H4135](https://www.blueletterbible.org/lexicon/h4135/kjv/wlc/0-1/){:target="_blank"} | mul (to circumcise) | OT Hebrew root |
-| [H6189](https://www.blueletterbible.org/lexicon/h6189/kjv/wlc/0-1/){:target="_blank"} | arel (uncircumcised) | Uncircumcision terminology |
+| G4061 | peritome (circumcision) | Core term in Acts 15 debate; 29 NT occurrences |
+| G4059 | peritemno (to circumcise) | Verb form -- the act demanded by the Judaizers |
+| H4135 | mul (to circumcise) | OT Hebrew root |
+| H6189 | arel (uncircumcised) | Uncircumcision terminology |
 
 **Gentile/nation/foreigner concepts:**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [H1471](https://www.blueletterbible.org/lexicon/h1471/kjv/wlc/0-1/){:target="_blank"} | gowy (nation/Gentile) | Core OT term for nations/Gentiles |
-| [G1482](https://www.blueletterbible.org/lexicon/g1482/kjv/tr/0-1/){:target="_blank"} | ethnikos (Gentile/heathen) | NT adjective for Gentile identity |
-| [G241](https://www.blueletterbible.org/lexicon/g241/kjv/tr/0-1/){:target="_blank"} | allogenes (foreigner) | "Stranger" -- foreign identity |
-| [G246](https://www.blueletterbible.org/lexicon/g246/kjv/tr/0-1/){:target="_blank"} | allophylos (foreign/Gentile) | "One of another nation" |
-| [G4847](https://www.blueletterbible.org/lexicon/g4847/kjv/tr/0-1/){:target="_blank"} | sympolites (fellow-citizen) | Eph 2:19 -- believers as fellow-citizens |
-| [G4174](https://www.blueletterbible.org/lexicon/g4174/kjv/tr/0-1/){:target="_blank"} | politeia (citizenship/commonwealth) | Eph 2:12 -- "commonwealth of Israel" |
-| [G3941](https://www.blueletterbible.org/lexicon/g3941/kjv/tr/0-1/){:target="_blank"} | paroikos (foreigner/stranger) | Eph 2:19 -- "no more strangers and foreigners" |
-| [H1616](https://www.blueletterbible.org/lexicon/h1616/kjv/wlc/0-1/){:target="_blank"} | ger (sojourner/stranger) | OT stranger who dwells among Israel |
-| [H5236](https://www.blueletterbible.org/lexicon/h5236/kjv/wlc/0-1/){:target="_blank"} | nekar (foreign/foreigner) | OT foreigner terminology |
+| H1471 | gowy (nation/Gentile) | Core OT term for nations/Gentiles |
+| G1482 | ethnikos (Gentile/heathen) | NT adjective for Gentile identity |
+| G241 | allogenes (foreigner) | "Stranger" -- foreign identity |
+| G246 | allophylos (foreign/Gentile) | "One of another nation" |
+| G4847 | sympolites (fellow-citizen) | Eph 2:19 -- believers as fellow-citizens |
+| G4174 | politeia (citizenship/commonwealth) | Eph 2:12 -- "commonwealth of Israel" |
+| G3941 | paroikos (foreigner/stranger) | Eph 2:19 -- "no more strangers and foreigners" |
+| H1616 | ger (sojourner/stranger) | OT stranger who dwells among Israel |
+| H5236 | nekar (foreign/foreigner) | OT foreigner terminology |
 
 **Four prohibitions concepts:**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G4202](https://www.blueletterbible.org/lexicon/g4202/kjv/tr/0-1/){:target="_blank"} | porneia (fornication) | One of the four prohibitions |
-| [G4203](https://www.blueletterbible.org/lexicon/g4203/kjv/tr/0-1/){:target="_blank"} | porneuo (to commit fornication) | Verb form |
-| [H1818](https://www.blueletterbible.org/lexicon/h1818/kjv/wlc/0-1/){:target="_blank"} | dam (blood) | Blood prohibition -- from Gen 9:4 forward |
-| [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} | bdelygma (abomination/idolatry) | Idolatry term |
-| [G2712](https://www.blueletterbible.org/lexicon/g2712/kjv/tr/0-1/){:target="_blank"} | kateidolos (wholly given to idolatry) | Idolatry descriptor |
-| [H2181](https://www.blueletterbible.org/lexicon/h2181/kjv/wlc/0-1/){:target="_blank"} | zanah (to commit adultery/harlotry) | OT sexual immorality root |
+| G4202 | porneia (fornication) | One of the four prohibitions |
+| G4203 | porneuo (to commit fornication) | Verb form |
+| H1818 | dam (blood) | Blood prohibition -- from Gen 9:4 forward |
+| G946 | bdelygma (abomination/idolatry) | Idolatry term |
+| G2712 | kateidolos (wholly given to idolatry) | Idolatry descriptor |
+| H2181 | zanah (to commit adultery/harlotry) | OT sexual immorality root |
 
 **Grafted olive tree concepts:**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G65](https://www.blueletterbible.org/lexicon/g65/kjv/tr/0-1/){:target="_blank"} | agrielaios (wild olive tree) | Rom 11:17,24 -- Gentiles as wild olive branches |
-| [G2565](https://www.blueletterbible.org/lexicon/g2565/kjv/tr/0-1/){:target="_blank"} | kallielaios (cultivated olive tree) | Rom 11:24 -- Israel's cultivated olive tree |
-| [G2798](https://www.blueletterbible.org/lexicon/g2798/kjv/tr/0-1/){:target="_blank"} | klados (branch) | Rom 11:16-21 -- branches broken off / grafted in |
+| G65 | agrielaios (wild olive tree) | Rom 11:17,24 -- Gentiles as wild olive branches |
+| G2565 | kallielaios (cultivated olive tree) | Rom 11:24 -- Israel's cultivated olive tree |
+| G2798 | klados (branch) | Rom 11:16-21 -- branches broken off / grafted in |
 
 ### Related Existing Studies
 
@@ -233,13 +233,13 @@ Derived from tool discoveries, the research agent should investigate:
 
 1. **The specific question before the council (Acts 15:5):** What exactly did the Pharisees demand? Examine the Greek syntax of "to circumcise them, and to command them to keep the law of Moses" -- are these two separate demands or one compound demand? Prior study (law-07) notes circumcision is singled out alongside "the law of Moses" with two infinitives joined by "te."
 
-2. **Peter's "yoke" (Acts 15:10):** What is the yoke? Prior studies identified this as the ceremonial/Mosaic system requirement. Compare with Jesus' yoke (Mat 11:29-30) and Gal 5:1. Examine [G2218](https://www.blueletterbible.org/lexicon/g2218/kjv/tr/0-1/){:target="_blank"} (zygos) usage. Does Peter mean the moral law is a yoke, or the ceremonial system as a soteriological requirement?
+2. **Peter's "yoke" (Acts 15:10):** What is the yoke? Prior studies identified this as the ceremonial/Mosaic system requirement. Compare with Jesus' yoke (Mat 11:29-30) and Gal 5:1. Examine G2218 (zygos) usage. Does Peter mean the moral law is a yoke, or the ceremonial system as a soteriological requirement?
 
 3. **James's ruling and the four prohibitions (Acts 15:20,29):** Why these four? Are they moral or ceremonial? What connects pollutions of idols, fornication, things strangled, and blood? Do these correspond to pre-Sinai/universal moral obligations (Gen 9:4 blood; idolatry and fornication as universal prohibitions)? Are they the "Noahide" minimum? Or are they accommodations for Jewish-Gentile fellowship? The tool found STRANGLED in Nave's with only Acts 15 references, suggesting this is a unique prohibition.
 
 4. **Acts 15:21 -- "Moses read in synagogues every sabbath":** What is the function of this verse in James's argument? Does it assume ongoing Sabbath synagogue attendance by believing Gentiles? Does it mean "Moses is widely available, so they will learn the rest"? Or does it explain why only four items are specified (Moses covers the rest)? The SYNAGOGUE topic confirms Scripture reading on Sabbath was the regular practice (NEH 8:1-8; ACT 13:14-44; 17:2). The LAW topic confirms "In synagogues LUK 4:16,32; ACT 13:14-52; 15:21."
 
-5. **The "we're Gentiles" objection:** Investigate whether converted believers retain their pre-conversion identity as "Gentiles." Collect all past-tense references to Gentile identity (Eph 2:11-13; 1 Cor 12:2; 1 Pet 2:9-10). Examine the grafting metaphor (Rom 11:17-24) -- [G65](https://www.blueletterbible.org/lexicon/g65/kjv/tr/0-1/){:target="_blank"} (agrielaios, wild olive) and [G2565](https://www.blueletterbible.org/lexicon/g2565/kjv/tr/0-1/){:target="_blank"} (kallielaios, cultivated olive). Examine [G4847](https://www.blueletterbible.org/lexicon/g4847/kjv/tr/0-1/){:target="_blank"} (sympolites, fellow-citizen) and [G4174](https://www.blueletterbible.org/lexicon/g4174/kjv/tr/0-1/){:target="_blank"} (politeia, commonwealth) in Eph 2:12,19. Does the new covenant being made with "the house of Israel" (Heb 8:10; Jer 31:31) have implications for Gentile believers who are grafted into Israel?
+5. **The "we're Gentiles" objection:** Investigate whether converted believers retain their pre-conversion identity as "Gentiles." Collect all past-tense references to Gentile identity (Eph 2:11-13; 1 Cor 12:2; 1 Pet 2:9-10). Examine the grafting metaphor (Rom 11:17-24) -- G65 (agrielaios, wild olive) and G2565 (kallielaios, cultivated olive). Examine G4847 (sympolites, fellow-citizen) and G4174 (politeia, commonwealth) in Eph 2:12,19. Does the new covenant being made with "the house of Israel" (Heb 8:10; Jer 31:31) have implications for Gentile believers who are grafted into Israel?
 
 6. **Relationship of four prohibitions to moral law:** Fornication (porneia) is clearly a moral prohibition. Idolatry violates the first two commandments. Blood and strangled -- are these moral (Gen 9:4 precedes Sinai) or ceremonial? Examine Lev 17:10-14 in context. Are these four the minimum moral floor or the full extent of Gentile obligation?
 
@@ -310,16 +310,16 @@ Retrieve full text with surrounding context for ALL verses listed in the Verse R
 - Eph 2:19 (fellow-citizens)
 
 **Word studies (04-word-studies.md):**
-- [G2218](https://www.blueletterbible.org/lexicon/g2218/kjv/tr/0-1/){:target="_blank"} zygos (yoke) -- all 6 NT occurrences, context analysis
-- [G4061](https://www.blueletterbible.org/lexicon/g4061/kjv/tr/0-1/){:target="_blank"} peritome (circumcision) -- key contextual occurrences
-- [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} dogma (ordinance/decree) -- all 5 NT occurrences (Luke 2:1; Acts 16:4; 17:7; Eph 2:15; Col 2:14)
-- [G4174](https://www.blueletterbible.org/lexicon/g4174/kjv/tr/0-1/){:target="_blank"} politeia (commonwealth/citizenship) -- Eph 2:12 context
-- [G4847](https://www.blueletterbible.org/lexicon/g4847/kjv/tr/0-1/){:target="_blank"} sympolites (fellow-citizen) -- Eph 2:19
-- [G65](https://www.blueletterbible.org/lexicon/g65/kjv/tr/0-1/){:target="_blank"} agrielaios (wild olive) -- Rom 11:17,24
-- [G2565](https://www.blueletterbible.org/lexicon/g2565/kjv/tr/0-1/){:target="_blank"} kallielaios (cultivated olive) -- Rom 11:24
-- [G4202](https://www.blueletterbible.org/lexicon/g4202/kjv/tr/0-1/){:target="_blank"} porneia (fornication) -- semantic range in Acts 15 context
-- [G1482](https://www.blueletterbible.org/lexicon/g1482/kjv/tr/0-1/){:target="_blank"} ethnikos (Gentile) -- NT usage pattern
-- [H1471](https://www.blueletterbible.org/lexicon/h1471/kjv/wlc/0-1/){:target="_blank"} gowy (nation/Gentile) -- OT usage pattern
+- G2218 zygos (yoke) -- all 6 NT occurrences, context analysis
+- G4061 peritome (circumcision) -- key contextual occurrences
+- G1378 dogma (ordinance/decree) -- all 5 NT occurrences (Luke 2:1; Acts 16:4; 17:7; Eph 2:15; Col 2:14)
+- G4174 politeia (commonwealth/citizenship) -- Eph 2:12 context
+- G4847 sympolites (fellow-citizen) -- Eph 2:19
+- G65 agrielaios (wild olive) -- Rom 11:17,24
+- G2565 kallielaios (cultivated olive) -- Rom 11:24
+- G4202 porneia (fornication) -- semantic range in Acts 15 context
+- G1482 ethnikos (Gentile) -- NT usage pattern
+- H1471 gowy (nation/Gentile) -- OT usage pattern
 
 **Concept context (run concept_context.py):**
 - Acts 15:10 (to find conceptual parallels for the "yoke" statement)
@@ -331,16 +331,3 @@ answer-question
 ---
 *Scoped: 2026-02-24*
 *Folder: bible-studies/law-15-acts-15-jerusalem-council/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

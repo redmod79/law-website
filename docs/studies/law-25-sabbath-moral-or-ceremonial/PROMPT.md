@@ -60,9 +60,9 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 - 2 Chr 31:3; Eze 45:17; Hos 2:11 (OT ceremonial triad: feasts/new moons/sabbaths)
 
 **Criterion 5 -- Typological function (shadow vs. memorial):**
-- Exo 20:8 (zakar, [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} -- "Remember" -- memorial verb pointing backward)
+- Exo 20:8 (zakar, H2142 -- "Remember" -- memorial verb pointing backward)
 - Exo 20:11 (creation rationale -- past tense verbs: "made," "rested," "blessed," "hallowed")
-- Col 2:17 (skia, [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} -- "shadow of things to come" -- forward-pointing)
+- Col 2:17 (skia, G4639 -- "shadow of things to come" -- forward-pointing)
 - Heb 10:1 ("the law having a shadow of good things to come")
 - Heb 8:5 (earthly sanctuary as shadow of heavenly)
 - Exo 31:16-17 ("a perpetual covenant...a sign for ever")
@@ -108,22 +108,22 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | shabbath -- "sabbath" (108 occurrences) | Core OT term: the weekly Sabbath in the Decalogue and "the sabbaths of the LORD" in Lev 23:38 |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | shabbathown -- "sabbatism/rest" (11 occurrences) | Used for both weekly Sabbath (Lev 23:3) and ceremonial rest days (Lev 23:24,39); distribution pattern is critical |
-| [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} | shabath (verb) -- "to cease/rest" (110 occurrences) | The verb in Gen 2:2 (God "rested"); root of both shabbath and shabbathown |
-| [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} | moed -- "appointed time/feast" (223 occurrences) | "Feasts" in Lev 23:2,4,37,44; "seasons" in Gen 1:14. Weekly Sabbath is never called moed |
-| [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} | chag -- "feast/festival" (62 occurrences) | Pilgrimage feasts; weekly Sabbath is never called chag |
-| [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} | bad/millibad -- "apart from/beside" | The critical preposition in Lev 23:38 separating feast sabbaths from weekly Sabbaths |
-| [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} | zakar -- "remember" (233 occurrences) | The memorial verb opening the Fourth Commandment (Exo 20:8) |
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} | sabbaton -- Greek "Sabbath" (68 occurrences) | NT Sabbath term; the referent in Col 2:16 |
-| [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} | sabbatismos -- "Sabbath-keeping" (1 occurrence) | Hapax legomenon in Heb 4:9: "there remaineth a sabbatismos to the people of God" |
-| [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} | skia -- "shadow" (7 occurrences) | Theological use in Col 2:17, Heb 8:5, 10:1 for the ceremonial system |
-| [G444](https://www.blueletterbible.org/lexicon/g444/kjv/tr/0-1/){:target="_blank"} | anthropos -- "man/humanity" (559 occurrences) | Mark 2:27 "made for man (anthropon)" -- generic humanity, not Jewish-specific |
-| [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} | ginomai -- "come into being/was made" (678 occurrences) | Mark 2:27 "the sabbath was made (egeneto)" -- Aorist pointing to creation event |
-| [G52](https://www.blueletterbible.org/lexicon/g52/kjv/tr/0-1/){:target="_blank"} | agnoia -- "ignorance" (4 occurrences) | Acts 17:30 "the times of this ignorance" -- accountability principle |
-| [G5237](https://www.blueletterbible.org/lexicon/g5237/kjv/tr/0-1/){:target="_blank"} | hupereidon -- "overlook/wink at" (1 occurrence) | Acts 17:30 "God winked at" -- forbearance toward ignorance |
-| [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} | metanoeo -- "repent" (34 occurrences) | Acts 17:30 "commandeth all men every where to repent" |
-| [H6944](https://www.blueletterbible.org/lexicon/h6944/kjv/wlc/0-1/){:target="_blank"} | qodesh -- "holy/set apart" (470 occurrences) | "Holy convocation" in Lev 23:3; "holy sabbath" in Exo 16:23; Isa 58:13 "my holy day" |
+| H7676 | shabbath -- "sabbath" (108 occurrences) | Core OT term: the weekly Sabbath in the Decalogue and "the sabbaths of the LORD" in Lev 23:38 |
+| H7677 | shabbathown -- "sabbatism/rest" (11 occurrences) | Used for both weekly Sabbath (Lev 23:3) and ceremonial rest days (Lev 23:24,39); distribution pattern is critical |
+| H7673 | shabath (verb) -- "to cease/rest" (110 occurrences) | The verb in Gen 2:2 (God "rested"); root of both shabbath and shabbathown |
+| H4150 | moed -- "appointed time/feast" (223 occurrences) | "Feasts" in Lev 23:2,4,37,44; "seasons" in Gen 1:14. Weekly Sabbath is never called moed |
+| H2282 | chag -- "feast/festival" (62 occurrences) | Pilgrimage feasts; weekly Sabbath is never called chag |
+| H905 | bad/millibad -- "apart from/beside" | The critical preposition in Lev 23:38 separating feast sabbaths from weekly Sabbaths |
+| H2142 | zakar -- "remember" (233 occurrences) | The memorial verb opening the Fourth Commandment (Exo 20:8) |
+| G4521 | sabbaton -- Greek "Sabbath" (68 occurrences) | NT Sabbath term; the referent in Col 2:16 |
+| G4520 | sabbatismos -- "Sabbath-keeping" (1 occurrence) | Hapax legomenon in Heb 4:9: "there remaineth a sabbatismos to the people of God" |
+| G4639 | skia -- "shadow" (7 occurrences) | Theological use in Col 2:17, Heb 8:5, 10:1 for the ceremonial system |
+| G444 | anthropos -- "man/humanity" (559 occurrences) | Mark 2:27 "made for man (anthropon)" -- generic humanity, not Jewish-specific |
+| G1096 | ginomai -- "come into being/was made" (678 occurrences) | Mark 2:27 "the sabbath was made (egeneto)" -- Aorist pointing to creation event |
+| G52 | agnoia -- "ignorance" (4 occurrences) | Acts 17:30 "the times of this ignorance" -- accountability principle |
+| G5237 | hupereidon -- "overlook/wink at" (1 occurrence) | Acts 17:30 "God winked at" -- forbearance toward ignorance |
+| G3340 | metanoeo -- "repent" (34 occurrences) | Acts 17:30 "commandeth all men every where to repent" |
+| H6944 | qodesh -- "holy/set apart" (470 occurrences) | "Holy convocation" in Lev 23:3; "holy sabbath" in Exo 16:23; Isa 58:13 "my holy day" |
 
 ### Related Existing Studies
 | Study | Relevance |
@@ -195,7 +195,7 @@ You are the Research Agent. Execute this study by:
 6. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (retrieve EVERY verse listed above from kjv.txt)
-   - `04-word-studies.md` - Strong's research for all listed numbers (H7676, [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"}, [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"}, [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"}, [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"}, [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"}, [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"}, [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}, [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"}, [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"}, [G444](https://www.blueletterbible.org/lexicon/g444/kjv/tr/0-1/){:target="_blank"}, [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"}, [G52](https://www.blueletterbible.org/lexicon/g52/kjv/tr/0-1/){:target="_blank"}, [G5237](https://www.blueletterbible.org/lexicon/g5237/kjv/tr/0-1/){:target="_blank"}, [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"}, H6944)
+   - `04-word-studies.md` - Strong's research for all listed numbers (H7676, H7677, H7673, H4150, H2282, H905, H2142, G4521, G4520, G4639, G444, G1096, G52, G5237, G3340, H6944)
    - `raw-data/` - Raw tool output organized by category
 7. Run cross-testament parallels for key verses: Gen 2:2-3, Exo 20:8-11, Lev 23:37-38, Mrk 2:27, Heb 4:9, Isa 56:6, Acts 17:30
 8. Retrieve Hebrew/Greek parsing for key verses: Gen 2:2-3 (shabath, barakh, qadash), Exo 20:8 (zakar), Lev 23:38 (millibad shabbetot YHWH), Mrk 2:27 (egeneto, anthropon), Heb 4:9 (apoleipetai sabbatismos), Acts 17:30 (hupereidon, agnoia, metanoeo)
@@ -240,16 +240,3 @@ answer-question
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-25-sabbath-moral-or-ceremonial/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

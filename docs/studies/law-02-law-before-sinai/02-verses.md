@@ -301,7 +301,7 @@ What evidence exists for the moral law operating from creation to Sinai?
 >
 > **Genesis 26:11** And Abimelech charged all [his] people, saying, He that toucheth this man or his wife shall surely be put to death.
 
-**Notes:** Abimelech (a Philistine) recognizes that adultery brings "guiltiness" (asham, [H817](https://www.blueletterbible.org/lexicon/h817/kjv/wlc/0-1/){:target="_blank"} -- the same word used for guilt/trespass offerings in Leviticus). He enforces a death penalty for the offense. A Gentile king applies this moral standard before Sinai.
+**Notes:** Abimelech (a Philistine) recognizes that adultery brings "guiltiness" (asham, H817 -- the same word used for guilt/trespass offerings in Leviticus). He enforces a death penalty for the offense. A Gentile king applies this moral standard before Sinai.
 
 ### Genesis 38:24 (Judah and Tamar)
 
@@ -517,7 +517,7 @@ What evidence exists for the moral law operating from creation to Sinai?
 >
 > **2 Peter 2:8** (For that righteous man dwelling among them, in seeing and hearing, vexed [his] righteous soul from day to day with [their] unlawful deeds;)
 
-**Notes:** Peter calls the pre-Sinai deeds of the Sodomites "unlawful" (athesmos, [G113](https://www.blueletterbible.org/lexicon/g113/kjv/tr/0-1/){:target="_blank"} -- "lawless/wicked"). Noah is called "a preacher of righteousness" (v.5). Lot is "righteous" and the Sodomites' deeds are "unlawful" (v.8). This NT commentary applies law-vocabulary to pre-Sinai acts.
+**Notes:** Peter calls the pre-Sinai deeds of the Sodomites "unlawful" (athesmos, G113 -- "lawless/wicked"). Noah is called "a preacher of righteousness" (v.5). Lot is "righteous" and the Sodomites' deeds are "unlawful" (v.8). This NT commentary applies law-vocabulary to pre-Sinai acts.
 
 ---
 
@@ -560,16 +560,3 @@ Cross-testament parallel searches were run for 8 key verse groups using both --h
 ### Romans 5:13 (Sin Before the Law)
 - **NT Parallels:** **Rom 7:8** (0.481, "iniquity, law"), **Rom 7:7** (0.448, "iniquity, law"), **Rom 6:14** (0.440, "iniquity, law"), **Rom 3:20** (0.437, "iniquity, law"), **1Co 15:56** (0.417, "iniquity, law"), **1Jn 3:4** (0.405, "iniquity"), **Rom 4:15** (0.401, "iniquity, law"), Rom 2:12 (0.395, "law") -- Paul's entire sin-and-law argument in Romans 5-8 forms a tightly connected cluster with Rom 5:13. 1Jn 3:4 ("sin is the transgression of the law") is particularly significant for the study question.
 - **OT Parallels:** Isa 13:11 (0.388, "iniquity, world"), Eze 18:21 (0.368, "iniquity").
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

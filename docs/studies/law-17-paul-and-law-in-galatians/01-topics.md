@@ -102,16 +102,3 @@ What is Paul arguing in Galatians regarding the law? Investigate Gal 2:16 (not j
 4. **CIRCUMCISION: "Necessity of, falsely taught by Judaizing Christians"** -- ACT 15:1 identifies the specific controversy.
 5. **JUSTIFICATION** -- All the Galatians justification passages (2:14-21; 3:6,8,9,11,21,22,24; 4:21-31; 5:4-6) are grouped together under justification.
 6. **FAITH IN CHRIST** -- GAL 2:16 and 3:1-29 are listed specifically under "Faith in Christ," not merely general faith.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -23,7 +23,7 @@ This study investigates whether the biblical seventh-day Sabbath can be identifi
 
 ### Exodus 16:22-25
 **Context:** The sixth day arrives; the people gather twice as much bread.
-**Direct statement:** "This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD" (v. 23). Moses uses "shabbath shabbathon" (sabbath of complete rest, [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} + H7677), the most emphatic Sabbath designation in Hebrew.
+**Direct statement:** "This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD" (v. 23). Moses uses "shabbath shabbathon" (sabbath of complete rest, H7676 + H7677), the most emphatic Sabbath designation in Hebrew.
 **Key observations:**
 - The phrase "the holy sabbath" uses qodesh (H6944), the same root word used in Genesis 2:3 where God "sanctified" the seventh day.
 - The sixth-day provision did not spoil (v. 24), while on other days leftover manna bred worms (v. 20). This is a threefold miracle: (1) manna appears six days, (2) double portion on the sixth, (3) preservation overnight before the Sabbath.
@@ -338,19 +338,19 @@ Evidence tier: **N** -- The complete absence of any NT dispute about which day i
 
 ## Word Study Insights
 
-### [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath) -- 108 OT Uses
+### H7676 (shabbath) -- 108 OT Uses
 The word shabbath appears 108 times in the OT, spanning from Exodus 16 (pre-Sinai) to post-exile Nehemiah. It is used consistently for the weekly rest day across the entire biblical timeline. It never carries a meaning of uncertainty, variability, or unknown identity. The Sabbath is always treated as an identifiable, specific day.
 
-### [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} (sabbaton) -- 68 NT Uses
+### G4521 (sabbaton) -- 68 NT Uses
 The Greek sabbaton has a dual function: it refers to both "the Sabbath day" and "the week" (as in "first day of the week" = mia ton sabbaton). This dual usage is significant: **the week was counted FROM the Sabbath.** The Sabbath anchored the entire weekly cycle. This confirms the Sabbath was the fixed reference point from which other days were identified.
 
-### [G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} (paraskeue) -- 6 NT Uses
+### G3904 (paraskeue) -- 6 NT Uses
 All six occurrences are in the crucifixion narratives. This is a fixed day-name meaning "Preparation" = the day before the Sabbath = Friday. A fixed day-name requires a fixed weekly cycle. Modern Greek preserves this word as the name for Friday.
 
-### [G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} (prosabbaton) -- 1 NT Use (Hapax Legomenon)
+### G4315 (prosabbaton) -- 1 NT Use (Hapax Legomenon)
 The compound word "before-Sabbath" appears only in Mark 15:42, where it defines paraskeue. The coining of this word is itself evidence: you do not create a compound day-name unless the reference day (the Sabbath) is predictable and fixed.
 
-### [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} (sabbatismos) -- 1 NT Use (Hapax Legomenon)
+### G4520 (sabbatismos) -- 1 NT Use (Hapax Legomenon)
 The -ismos suffix in Greek denotes practice or observance. Hebrews 4:9 says "There remaineth therefore a sabbatismos to the people of God." The author switches from katapausis (generic rest, used 8 times in Hebrews 3-4) to sabbatismos ONLY in 4:9 -- a deliberate word choice indicating that what remains is specifically Sabbath-KEEPING, not merely abstract rest. This implies the Sabbath is an identifiable practice that continues.
 
 ---
@@ -434,16 +434,3 @@ The "Lost/Unknown" argument has ZERO explicit statements or necessary implicatio
 
 *Analysis completed: 2026-02-26*
 *Study: law-33-calendar-continuity*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

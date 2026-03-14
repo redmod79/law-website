@@ -50,14 +50,14 @@ What evidence exists for the moral law operating from creation to Sinai? Investi
 **C. Clean and Unclean Animals (Gen 7:2)**
 - GEN 7:2,3,5,8 -- Listed under ANIMALS: "Two of every sort preserved in the ark"
 - GEN 8:20 -- Listed under ANIMALS: "Clean and unclean"; "Offered in sacrifice"
-- GEN 7:2 -- [H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"} (tahowr, "clean") used; first occurrence of this word in Bible per Strong's concordance outline
-- GEN 8:20 -- [H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"} (tahowr) used for clean animals in sacrifice
+- GEN 7:2 -- H2889 (tahowr, "clean") used; first occurrence of this word in Bible per Strong's concordance outline
+- GEN 8:20 -- H2889 (tahowr) used for clean animals in sacrifice
 - LEV 11 -- Listed under ANIMALS: "Clean and unclean" (Sinai codification of what Noah already knew)
 - DEU 14:3-20 -- Listed under ANIMALS: "Clean and unclean"
 - LEV 20:25 -- Listed under ANIMALS: "Clean and unclean"
 
 **D. Abraham Keeping God's Laws (Gen 26:5)**
-- GEN 26:5 -- Listed under ABRAHAM: "Piety of"; referenced in [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} (mitsvah), [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (torah), [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} (choq), [H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"} (mishmereth), [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} (chuqqah) concordance entries
+- GEN 26:5 -- Listed under ABRAHAM: "Piety of"; referenced in H4687 (mitsvah), H8451 (torah), H2706 (choq), H4931 (mishmereth), H2708 (chuqqah) concordance entries
 - GEN 18:19 -- Listed under ABRAHAM: "Piety of" -- "For I know him, that he will command his children... to keep the way of the LORD"
 - GEN 12:7,8; 13:4,18; 22:3-13 -- Abraham's worship, altars, obedience
 - GEN 14:20 -- Listed under TITHES: "Paid by Abraham to Melchizedek" (pre-Sinai tithe)
@@ -78,10 +78,10 @@ What evidence exists for the moral law operating from creation to Sinai? Investi
 - EXO 16:22 -- Listed under SABBATH: "Preparations for the"
 - EXO 16:27 -- Listed under SABBATH: "VIOLATIONS OF: INSTANCES OF: Gathering manna"
 - EXO 16:4-36 -- Listed under SIN: "Desert of Sin" section and "Manna and quail given in"
-- EXO 16:4 -- [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (torah, "law") used: "that I may prove them, whether they will walk in my law, or no" -- BEFORE Sinai (Exo 19-20)
-- EXO 16:28 -- [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} (mitsvah, "commandments") used: "How long refuse ye to keep my commandments and my laws?" -- BEFORE Sinai
-- EXO 16:23 -- [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath) first explicit use in narrative context: "To morrow is the rest of the holy sabbath"
-- EXO 16:25,26,29,30 -- [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath) used repeatedly in the manna narrative
+- EXO 16:4 -- H8451 (torah, "law") used: "that I may prove them, whether they will walk in my law, or no" -- BEFORE Sinai (Exo 19-20)
+- EXO 16:28 -- H4687 (mitsvah, "commandments") used: "How long refuse ye to keep my commandments and my laws?" -- BEFORE Sinai
+- EXO 16:23 -- H7676 (shabbath) first explicit use in narrative context: "To morrow is the rest of the holy sabbath"
+- EXO 16:25,26,29,30 -- H7676 (shabbath) used repeatedly in the manna narrative
 
 **G. Additional Pre-Sinai Evidence Discovered by Tools**
 - GEN 2:16,17 -- Listed under ADAM: "History of, before he sinned" (first commandment/prohibition)
@@ -91,7 +91,7 @@ What evidence exists for the moral law operating from creation to Sinai? Investi
 - GEN 13:13 -- Listed under SODOM: "Wickedness of inhabitants" (pre-Sinai moral evaluation)
 - GEN 18:16-33 -- Listed under SODOM/ABRAHAM: Abraham's intercession; God's judgment of Sodom's wickedness
 - GEN 19:1-29 -- Listed under SODOM: destruction for sin (pre-Sinai divine judgment)
-- GEN 34:5,13,27 -- [H2930](https://www.blueletterbible.org/lexicon/h2930/kjv/wlc/0-1/){:target="_blank"} (tame, "defile") used for Dinah's defilement (pre-Sinai moral language)
+- GEN 34:5,13,27 -- H2930 (tame, "defile") used for Dinah's defilement (pre-Sinai moral language)
 - GEN 4:4 -- Listed under ANIMALS: "Offered in sacrifice" and under WORSHIP: "Acceptable to God" (pre-Sinai sacrifice)
 - ROM 5:12-21 -- Listed under SIN: "UNCLASSIFIED SCRIPTURES" and under ADAM; key argument about sin/death from Adam to Moses
 - ROM 5:13 -- "For until the law sin was in the world: but sin is not imputed when there is no law"
@@ -110,23 +110,23 @@ What evidence exists for the moral law operating from creation to Sinai? Investi
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | shabbath (sabbath) | The noun "sabbath"; first used EXO 16:23 in narrative; intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} |
-| [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} | shabath (to cease/rest) | The verb "to rest"; used GEN 2:2,3 at creation; root of shabbath |
-| [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} | shebiyiy (seventh) | Ordinal "seventh"; used for the seventh day in creation and throughout |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | shabbathown (sabbatism/rest) | "A special holiday/rest"; from [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} |
-| [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} | mitsvah (commandment) | Used in GEN 26:5 for Abraham's obedience; 181 OT occurrences; EXO 16:28 before Sinai |
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | towrah (law) | Used in GEN 26:5 for Abraham; EXO 16:4 before Sinai ("walk in my law"); 219 occurrences |
-| [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} | choq (statute/enactment) | Used in GEN 26:5 context; EXO 15:25 ("a statute and an ordinance" before Sinai) |
-| [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} | chuqqah (statute) | Used in GEN 26:5 per concordance; feminine form of [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment/ordinance) | Used in GEN 18:25 ("Shall not the Judge of all the earth do right?") and EXO 15:25 |
-| [H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"} | mishmereth (charge/guard) | Used in GEN 26:5 ("kept my charge"); 78 occurrences |
-| [H8104](https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/){:target="_blank"} | shamar (to keep/guard) | Used in GEN 2:15 (keep the garden); GEN 18:19; GEN 26:5; 468 occurrences |
-| [H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"} | tahowr (clean/pure) | Used GEN 7:2 for clean animals (BEFORE Sinai); 94 occurrences |
-| [H2930](https://www.blueletterbible.org/lexicon/h2930/kjv/wlc/0-1/){:target="_blank"} | tame (unclean/defile) | Used GEN 34:5,13,27 for defilement (BEFORE Sinai); 161 occurrences |
-| [H2931](https://www.blueletterbible.org/lexicon/h2931/kjv/wlc/0-1/){:target="_blank"} | tame (unclean, adj.) | Adjective form; "foul in a religious sense" |
-| [H2398](https://www.blueletterbible.org/lexicon/h2398/kjv/wlc/0-1/){:target="_blank"} | chata (to sin/miss) | Primary Hebrew word for sin; "to miss the mark" |
-| [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} | pesha (transgression/revolt) | "A revolt (national, moral or religious): rebellion, sin, transgression" |
-| [H2403](https://www.blueletterbible.org/lexicon/h2403/kjv/wlc/0-1/){:target="_blank"} | chattaah (sin/sin-offering) | Noun form; "an offence (sometimes habitual sinfulness)" |
+| H7676 | shabbath (sabbath) | The noun "sabbath"; first used EXO 16:23 in narrative; intensive from H7673 |
+| H7673 | shabath (to cease/rest) | The verb "to rest"; used GEN 2:2,3 at creation; root of shabbath |
+| H7637 | shebiyiy (seventh) | Ordinal "seventh"; used for the seventh day in creation and throughout |
+| H7677 | shabbathown (sabbatism/rest) | "A special holiday/rest"; from H7676 |
+| H4687 | mitsvah (commandment) | Used in GEN 26:5 for Abraham's obedience; 181 OT occurrences; EXO 16:28 before Sinai |
+| H8451 | towrah (law) | Used in GEN 26:5 for Abraham; EXO 16:4 before Sinai ("walk in my law"); 219 occurrences |
+| H2706 | choq (statute/enactment) | Used in GEN 26:5 context; EXO 15:25 ("a statute and an ordinance" before Sinai) |
+| H2708 | chuqqah (statute) | Used in GEN 26:5 per concordance; feminine form of H2706 |
+| H4941 | mishpat (judgment/ordinance) | Used in GEN 18:25 ("Shall not the Judge of all the earth do right?") and EXO 15:25 |
+| H4931 | mishmereth (charge/guard) | Used in GEN 26:5 ("kept my charge"); 78 occurrences |
+| H8104 | shamar (to keep/guard) | Used in GEN 2:15 (keep the garden); GEN 18:19; GEN 26:5; 468 occurrences |
+| H2889 | tahowr (clean/pure) | Used GEN 7:2 for clean animals (BEFORE Sinai); 94 occurrences |
+| H2930 | tame (unclean/defile) | Used GEN 34:5,13,27 for defilement (BEFORE Sinai); 161 occurrences |
+| H2931 | tame (unclean, adj.) | Adjective form; "foul in a religious sense" |
+| H2398 | chata (to sin/miss) | Primary Hebrew word for sin; "to miss the mark" |
+| H6588 | pesha (transgression/revolt) | "A revolt (national, moral or religious): rebellion, sin, transgression" |
+| H2403 | chattaah (sin/sin-offering) | Noun form; "an offence (sometimes habitual sinfulness)" |
 
 ### Related Existing Studies
 
@@ -153,13 +153,13 @@ What evidence exists for the moral law operating from creation to Sinai? Investi
 ### Focus Areas
 (Derived from tool discoveries, not training knowledge)
 
-1. **The Hebrew vocabulary of Gen 26:5** -- Tools show that ALL FIVE key terms used in Gen 26:5 (mishmereth [H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"}, mitsvah [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"}, chuqqah [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"}, towrah H8451) appear extensively in the Sinai legislation. Investigate whether this vocabulary overlap is coincidental or indicates the same laws.
+1. **The Hebrew vocabulary of Gen 26:5** -- Tools show that ALL FIVE key terms used in Gen 26:5 (mishmereth H4931, mitsvah H4687, chuqqah H2708, towrah H8451) appear extensively in the Sinai legislation. Investigate whether this vocabulary overlap is coincidental or indicates the same laws.
 
-2. **Exodus 16 as a chronological marker** -- Tools show that [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (towrah) is used in Exo 16:4 and [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} (mitsvah) in Exo 16:28, BEFORE the Sinai event of Exodus 19-20. God speaks of "my law" and "my commandments" as already existing, and tests Israel on the Sabbath commandment before formally delivering the Decalogue.
+2. **Exodus 16 as a chronological marker** -- Tools show that H8451 (towrah) is used in Exo 16:4 and H4687 (mitsvah) in Exo 16:28, BEFORE the Sinai event of Exodus 19-20. God speaks of "my law" and "my commandments" as already existing, and tests Israel on the Sabbath commandment before formally delivering the Decalogue.
 
 3. **The verb shabath (H7673) at creation vs. the noun shabbath (H7676)** -- Tools show the verb is used in Gen 2:2-3 at creation, while the noun first appears explicitly in Exo 16:23. Investigate whether this distinction matters or whether Gen 2:2-3 establishes the Sabbath institution itself.
 
-4. **Clean/unclean distinction in Genesis 7:2** -- Tools show [H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"} (tahowr, "clean") is used in Gen 7:2, the earliest occurrence. This is the same word used throughout Leviticus 11 for clean animals. Noah knew the distinction before the Mosaic codification.
+4. **Clean/unclean distinction in Genesis 7:2** -- Tools show H2889 (tahowr, "clean") is used in Gen 7:2, the earliest occurrence. This is the same word used throughout Leviticus 11 for clean animals. Noah knew the distinction before the Mosaic codification.
 
 5. **Pre-Sinai accountability for moral acts** -- Tools show God held people accountable for murder (Gen 4:9-12; 9:5-6), sexual sin (Gen 19:1-29; 20:3; 34:5,13; 39:7-9), and general wickedness (Gen 6:5-7; 18:20) before Sinai. Nave's lists these under HOMICIDE, ADULTERY, SIN, and SODOM. This raises the question: accountability requires a standard.
 
@@ -192,7 +192,7 @@ You are the Research Agent. Execute this study by:
 6. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (retrieve EVERY verse listed below)
-   - `04-word-studies.md` - Strong's research for [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}, [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"}, [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"}, [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}, [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}, [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"}, [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"}, [H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"}, [H8104](https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/){:target="_blank"}, [H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"}, [H2930](https://www.blueletterbible.org/lexicon/h2930/kjv/wlc/0-1/){:target="_blank"}, [H2398](https://www.blueletterbible.org/lexicon/h2398/kjv/wlc/0-1/){:target="_blank"}
+   - `04-word-studies.md` - Strong's research for H7676, H7673, H4687, H8451, H2706, H2708, H4941, H4931, H8104, H2889, H2930, H2398
    - `raw-data/` - Raw tool output organized by category
 7. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -258,18 +258,18 @@ You are the Research Agent. Execute this study by:
 
 For each Strong's number below, run `search_strongs.py --lookup` and `--lexicon`, and where relevant `--verses`:
 
-1. **[H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"}** (shabath) -- verb "to rest/cease" -- used Gen 2:2,3 at creation
-2. **[H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}** (shabbath) -- noun "sabbath" -- first narrative use Exo 16:23
-3. **[H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"}** (mitsvah) -- "commandment" -- used Gen 26:5
-4. **[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}** (towrah) -- "law" -- used Gen 26:5; Exo 16:4
-5. **[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}** (choq) -- "statute" -- used Exo 15:25
-6. **[H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"}** (chuqqah) -- "statute" (fem.) -- used Gen 26:5
-7. **[H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"}** (mishpat) -- "judgment/ordinance" -- used Gen 18:25; Exo 15:25
-8. **[H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"}** (mishmereth) -- "charge/guard" -- used Gen 26:5
-9. **[H8104](https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/){:target="_blank"}** (shamar) -- "to keep/guard" -- used Gen 2:15; 18:19; 26:5
-10. **[H2889](https://www.blueletterbible.org/lexicon/h2889/kjv/wlc/0-1/){:target="_blank"}** (tahowr) -- "clean/pure" -- used Gen 7:2 (earliest occurrence)
-11. **[H2930](https://www.blueletterbible.org/lexicon/h2930/kjv/wlc/0-1/){:target="_blank"}** (tame) -- "to defile/be unclean" -- used Gen 34:5,13
-12. **[H2398](https://www.blueletterbible.org/lexicon/h2398/kjv/wlc/0-1/){:target="_blank"}** (chata) -- "to sin/miss" -- primary word for sin
+1. **H7673** (shabath) -- verb "to rest/cease" -- used Gen 2:2,3 at creation
+2. **H7676** (shabbath) -- noun "sabbath" -- first narrative use Exo 16:23
+3. **H4687** (mitsvah) -- "commandment" -- used Gen 26:5
+4. **H8451** (towrah) -- "law" -- used Gen 26:5; Exo 16:4
+5. **H2706** (choq) -- "statute" -- used Exo 15:25
+6. **H2708** (chuqqah) -- "statute" (fem.) -- used Gen 26:5
+7. **H4941** (mishpat) -- "judgment/ordinance" -- used Gen 18:25; Exo 15:25
+8. **H4931** (mishmereth) -- "charge/guard" -- used Gen 26:5
+9. **H8104** (shamar) -- "to keep/guard" -- used Gen 2:15; 18:19; 26:5
+10. **H2889** (tahowr) -- "clean/pure" -- used Gen 7:2 (earliest occurrence)
+11. **H2930** (tame) -- "to defile/be unclean" -- used Gen 34:5,13
+12. **H2398** (chata) -- "to sin/miss" -- primary word for sin
 
 ### Cross-Testament Parallels to Run
 
@@ -289,16 +289,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-02-law-before-sinai/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

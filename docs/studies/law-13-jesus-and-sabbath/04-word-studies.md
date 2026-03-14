@@ -29,7 +29,7 @@ What do Jesus's Sabbath actions and teachings reveal about the Sabbath's continu
 **Part of Speech:** Masculine/feminine noun
 **Occurrences:** 108 (BLB count)
 
-**Definition:** Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath = to cease, rest); intermission, i.e. specifically the Sabbath.
+**Definition:** Intensive from H7673 (shabath = to cease, rest); intermission, i.e. specifically the Sabbath.
 
 **Translations:** the sabbath (42), my sabbaths (14), on the sabbath (11), a sabbath (7), sabbath (6), her sabbaths (4), sabbaths (3), others (22)
 
@@ -45,7 +45,7 @@ What do Jesus's Sabbath actions and teachings reveal about the Sabbath's continu
 **Part of Speech:** Masculine noun
 **Occurrences:** 11
 
-**Definition:** From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday -- rest, sabbath. An intensive/emphatic form of sabbath.
+**Definition:** From H7676; a sabbatism or special holiday -- rest, sabbath. An intensive/emphatic form of sabbath.
 
 **Translations:** of rest (7), a sabbath (3), the rest (1)
 
@@ -59,7 +59,7 @@ What do Jesus's Sabbath actions and teachings reveal about the Sabbath's continu
 **Part of Speech:** Masculine noun
 **Occurrences:** 1 (HAPAX LEGOMENON -- appears only once in the NT)
 
-**Definition:** From a derivative of [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}; a "sabbatism," i.e. the keeping/observance of the Sabbath.
+**Definition:** From a derivative of G4521; a "sabbatism," i.e. the keeping/observance of the Sabbath.
 
 **Translation:** "a rest" (KJV) in Hebrews 4:9
 
@@ -210,7 +210,7 @@ What do Jesus's Sabbath actions and teachings reveal about the Sabbath's continu
 
 **Key verse:** Mat 5:17 "Think not that I am come to destroy [katalusai] the law, or the prophets: I am not come to destroy [katalusai], but to fulfil [plerosai]."
 
-**Note:** Shares the root luo with [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"}. Jesus's emphatic double denial ("think not...I am not come to destroy") excludes any interpretation that He abolished the law, including the Sabbath commandment.
+**Note:** Shares the root luo with G3089. Jesus's emphatic double denial ("think not...I am not come to destroy") excludes any interpretation that He abolished the law, including the Sabbath commandment.
 
 ### pleroo (G4137) -- "Fulfil/fill full"
 **Original:** πληρόω
@@ -280,16 +280,3 @@ What do Jesus's Sabbath actions and teachings reveal about the Sabbath's continu
 **Key Sabbath verse:** Mark 2:27 "The sabbath was made for man [ton anthropon]"
 
 **Significance:** Anthropos is the generic term for humanity -- all human beings. It is not Ioudaios (Jew) or Israelites (Israel). The Sabbath was made for HUMANITY, not for a single nation. This aligns with its creation origin (Gen 2:2-3, before any nations existed).
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -2,9 +2,9 @@
 
 ## Tool: search_strongs.py
 
-### [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} -- kataluo
+### G2647 -- kataluo
 
-#### --lookup [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"}
+#### --lookup G2647
 ```
 G2647 - 20 total occurrences, 13 unique translations:
      3 ( 15.0%) to destroy
@@ -22,7 +22,7 @@ G2647 - 20 total occurrences, 13 unique translations:
      1 (  5.0%) I destroyed
 ```
 
-#### --lexicon [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"}
+#### --lexicon G2647
 ```
 G2647: καταλύω
 Transliteration: katalyo
@@ -33,21 +33,21 @@ Definition: from kata and luo; to loosen down (disintegrate), i.e. (by...)
 Outline: Genesis 19:2; 24:23; 24:25 Matthew 5:17; 24:2; 26:61; 27:40 Mark 13:2; 14:58; 15:29 Luke 9:12; 19:7; 21:6 Acts 5:38; 6:14 Romans 14:20 2 Corinthians 5:1 Galatians 2:18
 ```
 
-#### --verses [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} "to destroy"
+#### --verses G2647 "to destroy"
 ```
 G2647 translated as 'to destroy' (3 times): Mat 5:17 (2x), Mat 26:61
 ```
 
-#### --verses [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} "destroy"
+#### --verses G2647 "destroy"
 ```
 G2647 translated as 'destroy' (1 times): Rom 14:20
 ```
 
 ---
 
-### [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} -- pleroo
+### G4137 -- pleroo
 
-#### --lookup [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"}
+#### --lookup G4137
 ```
 G4137 - 72 total occurrences, 46 unique translations:
      8 ( 11.1%) it might be fulfilled
@@ -63,7 +63,7 @@ G4137 - 72 total occurrences, 46 unique translations:
      (and 36 additional translations each occurring once)
 ```
 
-#### --lexicon [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"}
+#### --lexicon G4137
 ```
 G4137: πληρόω
 Transliteration: pleroo
@@ -74,21 +74,21 @@ Definition: from pleres; to make replete, i.e. (literally) to cram (a net), leve
 Outline: [90 occurrences across OT LXX and NT listed]
 ```
 
-#### --verses [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} "to fulfil"
+#### --verses G4137 "to fulfil"
 ```
 G4137 translated as 'to fulfil' (3 times): Mat 3:15, Mat 5:17, Col 1:25
 ```
 
-#### --verses [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} "it might be fulfilled"
+#### --verses G4137 "it might be fulfilled"
 ```
 G4137 translated as 'it might be fulfilled' (8 times): Mat 1:22, Mat 2:15, Mat 2:23, Mat 4:14, Mat 12:17, Mat 13:35, Mat 21:4, Mat 27:35
 ```
 
 ---
 
-### [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"} -- luo
+### G3089 -- luo
 
-#### --lookup [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"}
+#### --lookup G3089
 ```
 G3089 - 37 total occurrences, 29 unique translations:
      4 ( 10.8%) loose
@@ -100,7 +100,7 @@ G3089 - 37 total occurrences, 29 unique translations:
      (and 22 additional translations)
 ```
 
-#### --lexicon [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"}
+#### --lexicon G3089
 ```
 G3089: λύω
 Transliteration: lyo
@@ -111,16 +111,16 @@ Definition: a primary verb; to "loosen" (literally or figuratively): break (up).
 Outline: [43 occurrences listed from Exodus through Revelation]
 ```
 
-#### --verses [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"} "shall break"
+#### --verses G3089 "shall break"
 ```
 G3089 translated as 'shall break' (1 times): Mat 5:19
 ```
 
 ---
 
-### [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} -- dikaiosune
+### G1343 -- dikaiosune
 
-#### --lookup [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"}
+#### --lookup G1343
 ```
 G1343 - 80 total occurrences, 12 unique translations:
     42 ( 52.5%) righteousness
@@ -131,7 +131,7 @@ G1343 - 80 total occurrences, 12 unique translations:
      (and 7 others)
 ```
 
-#### --lexicon [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"}
+#### --lexicon G1343
 ```
 G1343: δικαιοσύνη
 Transliteration: dikaiosyne
@@ -144,9 +144,9 @@ Outline: [92 occurrences listed]
 
 ---
 
-### [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} -- dikaioma
+### G1345 -- dikaioma
 
-#### --lookup [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}
+#### --lookup G1345
 ```
 G1345 - 10 total occurrences, 6 unique translations:
      3 ( 30.0%) ordinances
@@ -157,7 +157,7 @@ G1345 - 10 total occurrences, 6 unique translations:
      1 ( 10.0%) judgments
 ```
 
-#### --lexicon [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}
+#### --lexicon G1345
 ```
 G1345: δικαίωμα
 Transliteration: dikaioma

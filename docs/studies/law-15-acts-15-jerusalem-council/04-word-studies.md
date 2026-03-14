@@ -1,6 +1,6 @@
 # Word Studies
 
-## [G2218](https://www.blueletterbible.org/lexicon/g2218/kjv/tr/0-1/){:target="_blank"} -- zygos (yoke)
+## G2218 -- zygos (yoke)
 **Original:** ζυγός
 **Transliteration:** zygos
 **Part of Speech:** masculine noun
@@ -31,7 +31,7 @@
 
 ---
 
-## [G4061](https://www.blueletterbible.org/lexicon/g4061/kjv/tr/0-1/){:target="_blank"} -- peritome (circumcision)
+## G4061 -- peritome (circumcision)
 **Original:** περιτομή
 **Transliteration:** peritome
 **Part of Speech:** feminine noun
@@ -59,7 +59,7 @@
 
 ---
 
-## [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} -- dogma (decree/ordinance)
+## G1378 -- dogma (decree/ordinance)
 **Original:** δόγμα
 **Transliteration:** dogma
 **Part of Speech:** neuter noun
@@ -80,7 +80,7 @@ The word dogma is used for the Jerusalem Council's decisions (Acts 16:4) AND for
 
 ---
 
-## [G4174](https://www.blueletterbible.org/lexicon/g4174/kjv/tr/0-1/){:target="_blank"} -- politeia (citizenship/commonwealth)
+## G4174 -- politeia (citizenship/commonwealth)
 **Original:** πολιτεία
 **Transliteration:** politeia
 **Part of Speech:** feminine noun
@@ -98,7 +98,7 @@ Used only twice in the NT. In Eph 2:12 it describes what Gentile believers were 
 
 ---
 
-## [G4847](https://www.blueletterbible.org/lexicon/g4847/kjv/tr/0-1/){:target="_blank"} -- sympolites (fellow-citizen)
+## G4847 -- sympolites (fellow-citizen)
 **Original:** συμπολίτης
 **Transliteration:** sympolites
 **Part of Speech:** masculine noun
@@ -113,7 +113,7 @@ A hapax legomenon (used only once). Combined with politeia (Eph 2:12), Paul's vo
 
 ---
 
-## [G65](https://www.blueletterbible.org/lexicon/g65/kjv/tr/0-1/){:target="_blank"} -- agrielaios (wild olive tree)
+## G65 -- agrielaios (wild olive tree)
 **Original:** ἀγριέλαιος
 **Transliteration:** agrielaios
 **Part of Speech:** adjective
@@ -126,7 +126,7 @@ A hapax legomenon (used only once). Combined with politeia (Eph 2:12), Paul's vo
 
 ---
 
-## [G2565](https://www.blueletterbible.org/lexicon/g2565/kjv/tr/0-1/){:target="_blank"} -- kallielaios (cultivated olive tree)
+## G2565 -- kallielaios (cultivated olive tree)
 **Original:** καλλιέλαιος
 **Transliteration:** kallielaios
 **Part of Speech:** feminine noun
@@ -141,7 +141,7 @@ The agrielaios/kallielaios pair describes Gentile believers (wild olive) being g
 
 ---
 
-## [G4202](https://www.blueletterbible.org/lexicon/g4202/kjv/tr/0-1/){:target="_blank"} -- porneia (fornication)
+## G4202 -- porneia (fornication)
 **Original:** πορνεία
 **Transliteration:** porneia
 **Part of Speech:** feminine noun
@@ -168,7 +168,7 @@ The word covers a broad range of sexual immorality: adultery, incest, prostituti
 
 ---
 
-## [G1482](https://www.blueletterbible.org/lexicon/g1482/kjv/tr/0-1/){:target="_blank"} -- ethnikos (Gentile/heathen)
+## G1482 -- ethnikos (Gentile/heathen)
 **Original:** ἐθνικός
 **Transliteration:** ethnikos
 **Part of Speech:** masculine noun
@@ -186,7 +186,7 @@ This is the adjective form. The noun form ethnos (G1484) is far more common (164
 
 ---
 
-## [H1471](https://www.blueletterbible.org/lexicon/h1471/kjv/wlc/0-1/){:target="_blank"} -- gowy (nation/Gentile)
+## H1471 -- gowy (nation/Gentile)
 **Original:** גּוֹי
 **Transliteration:** gowy
 **Part of Speech:** masculine noun
@@ -207,7 +207,7 @@ The OT word for "nations/Gentiles." Notably, Israel itself is called a gowy in E
 
 ---
 
-## [G1397](https://www.blueletterbible.org/lexicon/g1397/kjv/tr/0-1/){:target="_blank"} -- douleia (bondage/slavery)
+## G1397 -- douleia (bondage/slavery)
 **Original:** δουλεία
 **Transliteration:** douleia
 **Part of Speech:** feminine noun
@@ -225,7 +225,7 @@ The OT word for "nations/Gentiles." Notably, Israel itself is called a gowy in E
 
 ---
 
-## [G4059](https://www.blueletterbible.org/lexicon/g4059/kjv/tr/0-1/){:target="_blank"} -- peritemno (to circumcise)
+## G4059 -- peritemno (to circumcise)
 **Original:** περιτέμνω
 **Transliteration:** peritemno
 **Part of Speech:** verb
@@ -240,7 +240,7 @@ The OT word for "nations/Gentiles." Notably, Israel itself is called a gowy in E
 
 ---
 
-## [G3941](https://www.blueletterbible.org/lexicon/g3941/kjv/tr/0-1/){:target="_blank"} -- paroikos (foreigner/stranger)
+## G3941 -- paroikos (foreigner/stranger)
 **Original:** πάροικος
 **Transliteration:** paroikos
 **Part of Speech:** adjective
@@ -257,7 +257,7 @@ The OT word for "nations/Gentiles." Notably, Israel itself is called a gowy in E
 
 ---
 
-## [G2798](https://www.blueletterbible.org/lexicon/g2798/kjv/tr/0-1/){:target="_blank"} -- klados (branch)
+## G2798 -- klados (branch)
 **Original:** κλάδος
 **Transliteration:** klados
 **Part of Speech:** masculine noun
@@ -270,7 +270,7 @@ The OT word for "nations/Gentiles." Notably, Israel itself is called a gowy in E
 
 ---
 
-## [G2615](https://www.blueletterbible.org/lexicon/g2615/kjv/tr/0-1/){:target="_blank"} -- katadouloo (to enslave utterly)
+## G2615 -- katadouloo (to enslave utterly)
 **Original:** καταδουλόω
 **Transliteration:** katadouloo
 **Part of Speech:** verb
@@ -285,7 +285,7 @@ The OT word for "nations/Gentiles." Notably, Israel itself is called a gowy in E
 
 ---
 
-## [H1818](https://www.blueletterbible.org/lexicon/h1818/kjv/wlc/0-1/){:target="_blank"} -- dam (blood)
+## H1818 -- dam (blood)
 **Original:** דָּם
 **Transliteration:** dam
 **Part of Speech:** masculine noun
@@ -297,7 +297,7 @@ The blood prohibition in Acts 15:20,29 connects to Gen 9:4 (given to Noah, pre-S
 
 ---
 
-## [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} -- bdelygma (abomination)
+## G946 -- bdelygma (abomination)
 **Original:** βδέλυγμα
 **Transliteration:** bdelygma
 **Part of Speech:** neuter noun
@@ -311,7 +311,7 @@ The blood prohibition in Acts 15:20,29 connects to Gen 9:4 (given to Noah, pre-S
 
 ---
 
-## [H1616](https://www.blueletterbible.org/lexicon/h1616/kjv/wlc/0-1/){:target="_blank"} -- ger (sojourner/stranger)
+## H1616 -- ger (sojourner/stranger)
 **Original:** גֵּר
 **Transliteration:** ger
 **Part of Speech:** masculine noun
@@ -323,7 +323,7 @@ The ger (resident alien/sojourner) was bound by certain laws in Israel -- includ
 
 ---
 
-## [G241](https://www.blueletterbible.org/lexicon/g241/kjv/tr/0-1/){:target="_blank"} -- allogenes (foreigner)
+## G241 -- allogenes (foreigner)
 **Original:** ἀλλογενής
 **Transliteration:** allogenes
 **Part of Speech:** adjective
@@ -332,7 +332,7 @@ The ger (resident alien/sojourner) was bound by certain laws in Israel -- includ
 
 ---
 
-## [G246](https://www.blueletterbible.org/lexicon/g246/kjv/tr/0-1/){:target="_blank"} -- allophylos (foreign/Gentile)
+## G246 -- allophylos (foreign/Gentile)
 **Original:** ἀλλόφυλος
 **Transliteration:** allophylos
 **Part of Speech:** adjective
@@ -341,16 +341,3 @@ The ger (resident alien/sojourner) was bound by certain laws in Israel -- includ
 
 ### Significance
 Used by Peter in Acts 10:28: "Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation." This is the same Peter who speaks at the Jerusalem Council about God showing no difference between Jew and Gentile (Acts 15:7-9).
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

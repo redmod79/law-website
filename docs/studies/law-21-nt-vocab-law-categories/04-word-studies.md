@@ -11,7 +11,7 @@ Does the NT vocabulary systematically distinguish moral law from ceremonial and/
 
 **Original:** entole (feminine noun)
 **Transliteration:** entole
-**Definition:** From [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"} (entellomai); injunction, i.e. an authoritative prescription
+**Definition:** From G1781 (entellomai); injunction, i.e. an authoritative prescription
 **BLB Count:** 71 occurrences (KJV distribution: 43 in TR database; 71 per BLB)
 **Part of Speech:** feminine noun (n-f)
 
@@ -114,7 +114,7 @@ Revelation: 12:17; 14:12; 22:14
 
 **Original:** dogma (neuter noun)
 **Transliteration:** dogma
-**Definition:** From the base of [G1380](https://www.blueletterbible.org/lexicon/g1380/kjv/tr/0-1/){:target="_blank"} (dokeo); a law (civil, ceremonial or ecclesiastical)
+**Definition:** From the base of G1380 (dokeo); a law (civil, ceremonial or ecclesiastical)
 **BLB Count:** 5 occurrences
 **Part of Speech:** neuter noun
 
@@ -145,7 +145,7 @@ Revelation: 12:17; 14:12; 22:14
 
 **Original:** dogmatizo (verb)
 **Transliteration:** dogmatizo
-**Definition:** From [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma); to prescribe by statute, i.e. (reflexively) to submit to ceremonial rules
+**Definition:** From G1378 (dogma); to prescribe by statute, i.e. (reflexively) to submit to ceremonial rules
 **BLB Count:** 1 occurrence
 **Part of Speech:** verb
 
@@ -159,7 +159,7 @@ Revelation: 12:17; 14:12; 22:14
 
 **Original:** dikaioma (neuter noun)
 **Transliteration:** dikaioma
-**Definition:** From [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} (dikaioo); an equitable deed; by implication, a statute or decision
+**Definition:** From G1344 (dikaioo); an equitable deed; by implication, a statute or decision
 **BLB Count:** 10 occurrences
 **Part of Speech:** neuter noun
 
@@ -315,7 +315,7 @@ Revelation: 12:17; 14:12; 22:14
 - Heb 10:1: "For the law having a shadow of good things to come"
 
 ### 9. entalma (G1778) -- "injunction, religious precept"
-**Definition:** From [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"}; an injunction, i.e. religious precept
+**Definition:** From G1781; an injunction, i.e. religious precept
 **BLB Count:** 3 occurrences
 **Usage:** All three contexts = HUMAN religious regulations:
 - Mat 15:9: "teaching [for] doctrines the commandments of men"
@@ -367,25 +367,25 @@ Revelation: 12:17; 14:12; 22:14
 
 ## Hebrew Background Terms (LXX Connections)
 
-### [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah -> [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos
+### H8451 torah -> G3551 nomos
 - LXX mapping: 188x (overwhelmingly dominant)
 - torah means "instruction, direction, law" -- broader than just legal code
 - nomos in LXX carries this broader semantic range
 
-### [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} mitsvah -> [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole
+### H4687 mitsvah -> G1785 entole
 - LXX mapping: 153x (highest mapping for mitsvah)
 - mitsvah means "commandment" -- specific directive
-- Also maps to [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma (27x) and [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos (18x)
+- Also maps to G1345 dikaioma (27x) and G3551 nomos (18x)
 
-### [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} choq -> [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma
+### H2706 choq -> G1345 dikaioma
 - LXX mapping: 52x (highest mapping for choq)
 - choq means "statute, decree, enactment"
-- Also maps to [G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} nomimos (18x) and [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole (22x)
+- Also maps to G3545 nomimos (18x) and G1785 entole (22x)
 
-### [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} chuqqah -> [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma
+### H2708 chuqqah -> G1345 dikaioma
 - LXX mapping: 35x
 - chuqqah means "statute, ordinance" (feminine form of choq)
-- Also maps to [G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} nomimos (32x) and [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole (23x)
+- Also maps to G3545 nomimos (32x) and G1785 entole (23x)
 - KEY: dikaioma is the LXX catch-all for multiple Hebrew law terms (law-06 finding)
 
 ---
@@ -533,16 +533,3 @@ The affirming and abolishing passages use largely DIFFERENT vocabulary:
 - **Affirming** uses: entole (unqualified), nomos, dikaioma (singular articular)
 - **Abolishing** uses: dogma, cheirographon, dikaioma (plural + modifier), skia, entole ONLY with qualifier
 - The vocabulary partition is remarkably consistent
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

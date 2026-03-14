@@ -20,7 +20,7 @@ The biblical evidence establishes that the seventh-day Sabbath remains binding. 
 
 **Luke 23:56** -- "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment." (Written by Luke after the crucifixion with no qualification that the commandment had changed.)
 
-**Hebrews 4:9** -- "There remaineth therefore a rest [sabbatismos] to the people of God." (sabbatismos, [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"}, -ismos suffix = practice/observance; apoleipetai = Present Passive Indicative, "is currently remaining.")
+**Hebrews 4:9** -- "There remaineth therefore a rest [sabbatismos] to the people of God." (sabbatismos, G4520, -ismos suffix = practice/observance; apoleipetai = Present Passive Indicative, "is currently remaining.")
 
 **Isaiah 66:22-23** -- "For as the new heavens and the new earth, which I will make, shall remain before me, saith the LORD, so shall your seed and your name remain. And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD."
 
@@ -38,8 +38,8 @@ The biblical evidence establishes that the seventh-day Sabbath remains binding. 
 | E2 | "Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work." The rationale given is: "For in six days the LORD made heaven and earth...and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it." | Exo 20:8-11 | Continues |
 | E3 | "The sabbath was made for man [anthropos, G444 -- humanity generically], and not man for the sabbath." | Mrk 2:27 | Neutral |
 | E4 | "Therefore the Son of man is Lord also of the sabbath." | Mrk 2:28 | Neutral |
-| E5 | Jesus went into the synagogue on the Sabbath day "as his custom was" (kata to eiothos, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, Perfect Active Participle -- settled ongoing habit). | Luk 4:16 | Neutral |
-| E6 | The women who followed Jesus "rested the sabbath day according to the commandment" (kata ten entolen, [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}; the definite article specifies a particular known commandment). Luke writes this after the crucifixion without qualification that the commandment had changed. | Luk 23:56 | Continues |
+| E5 | Jesus went into the synagogue on the Sabbath day "as his custom was" (kata to eiothos, G1486, Perfect Active Participle -- settled ongoing habit). | Luk 4:16 | Neutral |
+| E6 | The women who followed Jesus "rested the sabbath day according to the commandment" (kata ten entolen, G1785; the definite article specifies a particular known commandment). Luke writes this after the crucifixion without qualification that the commandment had changed. | Luk 23:56 | Continues |
 | E7 | Jesus instructs His followers: "But pray ye that your flight be not in the winter, neither on the sabbath day." The context is the destruction of Jerusalem (AD 70), approximately 40 years after the crucifixion. proseuchesthe = Present Imperative (continuous command). | Mat 24:20 | Continues |
 | E8 | Paul went to the synagogue at Antioch of Pisidia on the Sabbath day (Acts 13:14). The Gentiles requested preaching "the next sabbath" (v.42). "The next sabbath day came almost the whole city together to hear the word of God" (v.44). | Acts 13:14, 42, 44 | Neutral |
 | E9 | "For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day." | Acts 15:21 | Neutral |
@@ -485,16 +485,3 @@ Evidence items registered in D:/bible/bible-studies/law-evidence.db
 ---
 *Evidence items registered in D:/bible/bible-studies/law-evidence.db*
 *CONCLUSION completed: 2026-02-26*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

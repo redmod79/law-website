@@ -12,7 +12,7 @@ This analysis applies seven criteria systematically to determine whether the Bib
 
 Genesis 2:2-3 records three divine actions on the seventh day of creation:
 
-1. **Rested** (shabath, [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"}, Qal Wayyiqtol 3ms): "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made."
+1. **Rested** (shabath, H7673, Qal Wayyiqtol 3ms): "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made."
 2. **Blessed** (barakh, Piel Wayyiqtol 3ms): "And God blessed the seventh day."
 3. **Sanctified** (qadash, Piel Wayyiqtol 3ms): "and sanctified it: because that in it he had rested from all his work which God created and made."
 
@@ -399,16 +399,3 @@ The text states:
 10. The accountability principle (Acts 17:30, Jas 4:17, Jhn 9:41, Luk 12:47-48) establishes that knowledge increases obligation.
 
 The Abolished-position counterarguments (Col 2:16, Gal 4:9-10, Rom 14:5) cite passages where the referent (which sabbaths, which days) is not specified by the text itself. In each case, the identification of the referent requires interpretive judgment beyond what the verse alone states.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

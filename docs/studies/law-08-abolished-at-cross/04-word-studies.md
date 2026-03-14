@@ -6,7 +6,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 ## ABOLITION / REMOVAL VOCABULARY
 
-### [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} — katargeo (to abolish, make void, done away)
+### G2673 — katargeo (to abolish, make void, done away)
 
 **Lexicon Entry:**
 - Transliteration: katargeo
@@ -51,7 +51,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 ---
 
-### [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} — cheirographon (handwriting, certificate of debt)
+### G5498 — cheirographon (handwriting, certificate of debt)
 
 **Lexicon Entry:**
 - Transliteration: cheirographon
@@ -70,7 +70,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 ---
 
-### [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} — dogma (decree, ordinance)
+### G1378 — dogma (decree, ordinance)
 
 **Lexicon Entry:**
 - Transliteration: dogma
@@ -99,7 +99,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 ---
 
-### [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} — dogmatizo (to decree, subject to ordinances)
+### G1379 — dogmatizo (to decree, subject to ordinances)
 
 **Lexicon Entry:**
 - Transliteration: dogmatizo
@@ -114,7 +114,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 ---
 
-### [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} — dikaioma (ordinance, righteous judgment)
+### G1345 — dikaioma (ordinance, righteous judgment)
 
 **Lexicon Entry:**
 - Transliteration: dikaioma
@@ -143,7 +143,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 ---
 
-### [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} — kataluo (to destroy, dissolve)
+### G2647 — kataluo (to destroy, dissolve)
 
 **Lexicon Entry:**
 - Transliteration: kataluo
@@ -162,7 +162,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 ## REDEMPTION / CURSE VOCABULARY
 
-### [G1805](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/){:target="_blank"} — exagorazo (to redeem, buy out)
+### G1805 — exagorazo (to redeem, buy out)
 
 **Lexicon Entry:**
 - Transliteration: exagorazo
@@ -180,7 +180,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 **KEY OBSERVATION:** In Gal 3:13, Christ redeems us FROM THE CURSE (katara) OF the law — not from the law itself. The object of redemption is the curse/penalty, not the law.
 
-### [G1944](https://www.blueletterbible.org/lexicon/g1944/kjv/tr/0-1/){:target="_blank"} — epikataratos (accursed)
+### G1944 — epikataratos (accursed)
 
 **Lexicon Entry:**
 - Transliteration: epikataratos
@@ -198,7 +198,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 
 ## LAW VOCABULARY
 
-### [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} — nomos (law)
+### G3551 — nomos (law)
 
 **Lexicon Entry:**
 - Transliteration: nomos
@@ -214,7 +214,7 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 - Heb 10:1: "skian gar echon ho nomos" = "the law having a shadow" — identified by context as the sacrificial system
 - Gal 3:13: "ek tes kataras tou nomou" = "from the curse of the law"
 
-### [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} — entole (commandment)
+### G1785 — entole (commandment)
 
 **Lexicon Entry:**
 - Transliteration: entole
@@ -361,16 +361,3 @@ All data from Strong's Concordance lookups (search_strongs.py) and Greek parsing
 ---
 
 *Retrieved: 2026-02-23 via search_strongs.py and greek_parser.py*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

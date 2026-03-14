@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Data
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos
+## G3551 nomos
 ```
 Transliteration: nómos
 Part of Speech: masculine noun (n-m)
@@ -21,7 +21,7 @@ Translations (169 mapped):
      1 ( 0.6%) after the law
 ```
 
-## [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} ennomos
+## G1772 ennomos
 ```
 Transliteration: énnomos
 Part of Speech: adjective (adj)
@@ -33,7 +33,7 @@ Translations:
      1 (50.0%) under the law [1 Cor 9:21]
 ```
 
-## [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} anomos
+## G459 anomos
 ```
 Transliteration: ánomos
 Part of Speech: adjective (adj)
@@ -53,7 +53,7 @@ Translations:
 Verses: Mark 15:28; Luke 22:37; Acts 2:23; 1 Cor 9:21 (x2); 2 Thess 2:8; 1 Tim 1:9; 2 Pet 2:8
 ```
 
-## [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} eleutheria
+## G1657 eleutheria
 ```
 Transliteration: eleuthería
 Part of Speech: feminine noun (n-f)
@@ -66,7 +66,7 @@ Translations:
 Verses: Romans 8:21; 1 Corinthians 10:29; 2 Corinthians 3:17; Galatians 2:4; 5:1; 5:13; James 1:25; 2:12; 1 Peter 2:16; 2 Peter 2:19
 ```
 
-## [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} pistis
+## G4102 pistis
 ```
 Transliteration: pístis
 Part of Speech: feminine noun (n-f)
@@ -74,7 +74,7 @@ BLB Count: 244
 Definition: from peitho; persuasion, credence, moral conviction of religious truth
 ```
 
-## [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} pneuma
+## G4151 pneuma
 ```
 Transliteration: pneûma
 Part of Speech: neuter noun (n)
@@ -82,7 +82,7 @@ BLB Count: 385
 Definition: from pneo; a current of air, breath, breeze; by analogy a spirit
 ```
 
-## [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} teleios
+## G5046 teleios
 ```
 Transliteration: téleios
 Part of Speech: adjective (adj)
@@ -92,7 +92,7 @@ Definition: from telos; complete (in various applications)
 Verses: 1 Chr 25:8; Mat 5:48 (x2); 19:21; Rom 12:2; 1 Cor 2:6; 3:1; 13:10; 14:20; Eph 4:13; Phil 3:15 (x2); Col 1:28 (x2); 4:12; Heb 5:14; 9:11; Jas 1:4 (x2); 1:17; 1:25; 3:2; 1 Jn 4:18
 ```
 
-## [G937](https://www.blueletterbible.org/lexicon/g937/kjv/tr/0-1/){:target="_blank"} basilikos
+## G937 basilikos
 ```
 Transliteration: basilikós
 Part of Speech: adjective (adj)
@@ -102,7 +102,7 @@ Definition: from basileus; regal, belonging to or befitting a king
 Verses: John 4:46; 4:49; Acts 12:20; 12:21; James 2:8
 ```
 
-## [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} dikaiosune
+## G1343 dikaiosune
 ```
 Transliteration: dikaiosýne
 Part of Speech: feminine noun (n-f)
@@ -110,7 +110,7 @@ BLB Count: 92
 Definition: from dikaios; equity of character or act; Christian justification
 ```
 
-## [G266](https://www.blueletterbible.org/lexicon/g266/kjv/tr/0-1/){:target="_blank"} hamartia
+## G266 hamartia
 ```
 Transliteration: hamartía
 Part of Speech: feminine noun (n-f)
@@ -118,7 +118,7 @@ BLB Count: 174
 Definition: from hamartano; sin, properly abstract -- an offence, sinful act
 ```
 
-## [G3563](https://www.blueletterbible.org/lexicon/g3563/kjv/tr/0-1/){:target="_blank"} nous
+## G3563 nous
 ```
 Transliteration: noûs
 Part of Speech: masculine noun (n-m)
@@ -128,7 +128,7 @@ Definition: probably from base of ginosko; the intellect, mind (divine or human)
 Verses: Isa 40:13; Luk 24:45; Rom 1:28; 7:23; 7:25; 11:34; 12:2; 14:5; 1 Cor 1:10; 2:16 (x2); 14:14; 14:19; Eph 4:17; 4:23; Phil 4:7; Col 2:18; 2 Thess 2:2; 1 Tim 6:5; 2 Tim 3:8; Tit 1:15; Rev 13:18; 17:9
 ```
 
-## [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} thanatos
+## G2288 thanatos
 ```
 Transliteration: thánatos
 Part of Speech: masculine noun (n-m)
@@ -136,7 +136,7 @@ BLB Count: 119
 Definition: from thnesko; death (literally or figuratively)
 ```
 
-## [G2041](https://www.blueletterbible.org/lexicon/g2041/kjv/tr/0-1/){:target="_blank"} ergon
+## G2041 ergon
 ```
 Transliteration: érgon
 Part of Speech: neuter noun (n)
@@ -144,7 +144,7 @@ BLB Count: 176
 Definition: from ergo; toil (as an effort or occupation)
 ```
 
-## [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} anomia
+## G458 anomia
 ```
 Transliteration: anomía
 Part of Speech: feminine noun (n-f)
@@ -161,7 +161,7 @@ Translations:
 Verses: Psa 31:1; 32:1; Mat 7:23; 13:41; 23:28; 24:12; Rom 4:7; 6:19; 2 Cor 6:14; 2 Thess 2:8 (x2); Tit 2:14 (x2); Heb 1:9; 8:12; 10:17; 1 Jn 3:4 (x2)
 ```
 
-## [G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} kainos
+## G2537 kainos
 ```
 Transliteration: kainós
 Part of Speech: adjective (adj)
@@ -171,7 +171,7 @@ Definition: of uncertain affinity; new (especially in freshness)
 Selected key verses: Jer 31:31; Mat 26:28; Jn 13:34; 2 Cor 3:6; Gal 6:15; Eph 2:15; Heb 8:8; 8:13; 1 Jn 2:7; 2 Jn 1:5; Rev 21:5
 ```
 
-## [G3550](https://www.blueletterbible.org/lexicon/g3550/kjv/tr/0-1/){:target="_blank"} nomothetes
+## G3550 nomothetes
 ```
 No lexicon data found for G3550
 No translations found for G3550

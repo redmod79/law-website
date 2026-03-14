@@ -124,18 +124,18 @@ John 4:35-38; 5:14; 7:24; 8:11, 31-32; 12:25-26, 35-36; 13:15, 34-35; 14:1, 11, 
 
 | Strong's | Word | Occurrences | Relevance |
 |----------|------|-------------|-----------|
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole (commandment) | 43x in NT | Core term -- Jesus's "commandments" throughout John; "keep the commandments" in Synoptics |
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos (law) | 169x in NT | "The law" Jesus references; weightier matters "of the law"; Luke 16:17 |
-| [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} | anomia (lawlessness/iniquity) | 13x in NT | 1 John 3:4 definition of sin; Mat 7:23 "workers of iniquity" |
-| [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} | anomos (lawless, adj.) | 9x in NT | Those without/against law |
-| [G460](https://www.blueletterbible.org/lexicon/g460/kjv/tr/0-1/){:target="_blank"} | anomos (lawlessly, adv.) | 2x in NT | Acting without law |
-| [G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} | kainos (new, in quality) | 39x in NT | "New commandment" -- quality of newness, not replacement |
-| [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | kataluo (destroy/demolish) | 17x in NT | Mat 5:17 "Think not that I am come to destroy the law" |
-| [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} | pleroo (fulfill/fill full) | 86x in NT | Mat 5:17 "but to fulfill" -- fill full with meaning |
-| [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} | ennomos (in-law, lawful) | 2x in NT | Within/under law framework |
-| [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} | dogmatizo (decree/dogmatize) | 1x in NT | Col 2:20 -- what was decreed against (ceremonial) |
-| [G5218](https://www.blueletterbible.org/lexicon/g5218/kjv/tr/0-1/){:target="_blank"} | hupakoe (obedience) | 15x in NT | Obedience to commandments concept |
-| [G1398](https://www.blueletterbible.org/lexicon/g1398/kjv/tr/0-1/){:target="_blank"} | douleuo (serve) | 25x in NT | Serving God through obedience |
+| G1785 | entole (commandment) | 43x in NT | Core term -- Jesus's "commandments" throughout John; "keep the commandments" in Synoptics |
+| G3551 | nomos (law) | 169x in NT | "The law" Jesus references; weightier matters "of the law"; Luke 16:17 |
+| G458 | anomia (lawlessness/iniquity) | 13x in NT | 1 John 3:4 definition of sin; Mat 7:23 "workers of iniquity" |
+| G459 | anomos (lawless, adj.) | 9x in NT | Those without/against law |
+| G460 | anomos (lawlessly, adv.) | 2x in NT | Acting without law |
+| G2537 | kainos (new, in quality) | 39x in NT | "New commandment" -- quality of newness, not replacement |
+| G2647 | kataluo (destroy/demolish) | 17x in NT | Mat 5:17 "Think not that I am come to destroy the law" |
+| G4137 | pleroo (fulfill/fill full) | 86x in NT | Mat 5:17 "but to fulfill" -- fill full with meaning |
+| G1772 | ennomos (in-law, lawful) | 2x in NT | Within/under law framework |
+| G1379 | dogmatizo (decree/dogmatize) | 1x in NT | Col 2:20 -- what was decreed against (ceremonial) |
+| G5218 | hupakoe (obedience) | 15x in NT | Obedience to commandments concept |
+| G1398 | douleuo (serve) | 25x in NT | Serving God through obedience |
 
 ### Related Existing Studies
 
@@ -178,7 +178,7 @@ You are the Research Agent. Execute this study by:
 5. Write research files to this folder:
    - `01-topics.md` - Nave's topics (COMMANDMENTS, TEN COMMANDMENTS, MORAL LAW, JUDGMENT, MERCY) and full entries
    - `02-verses.md` - All verse texts retrieved with context for all eight investigation areas
-   - `04-word-studies.md` - Strong's research for [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole), [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} (anomia), [G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} (kainos), [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos), [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} (anomos), [G460](https://www.blueletterbible.org/lexicon/g460/kjv/tr/0-1/){:target="_blank"} (anomos adv.)
+   - `04-word-studies.md` - Strong's research for G1785 (entole), G458 (anomia), G2537 (kainos), G3551 (nomos), G459 (anomos), G460 (anomos adv.)
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -211,16 +211,3 @@ answer-question
 ---
 *Scoped: 2026-02-24*
 *Folder: bible-studies/law-14-jesus-law-teachings/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Data
 
-## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}: entole (commandment)
+## G1785: entole (commandment)
 
 ### Lookup
 43 total occurrences, 8 unique translations:
@@ -58,7 +58,7 @@ Revelation 12:17; 14:12; 22:14
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"}: nomos (law)
+## G3551: nomos (law)
 
 ### Lookup
 169 total occurrences, 11 unique translations:
@@ -95,7 +95,7 @@ Revelation 12:17; 14:12; 22:14
 
 ---
 
-## [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"}: dogma (decree/ordinance)
+## G1378: dogma (decree/ordinance)
 
 ### Lookup
 5 total occurrences, 4 unique translations:
@@ -120,7 +120,7 @@ Revelation 12:17; 14:12; 22:14
 
 ---
 
-## [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"}: cheirographon (handwriting)
+## G5498: cheirographon (handwriting)
 
 ### Lookup
 1 total occurrence, 1 translation:
@@ -139,7 +139,7 @@ Revelation 12:17; 14:12; 22:14
 
 ---
 
-## [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"}: dikaioma (ordinance/righteous requirement)
+## G1345: dikaioma (ordinance/righteous requirement)
 
 ### Lookup
 10 total occurrences, 6 unique translations:
@@ -168,7 +168,7 @@ Revelation 12:17; 14:12; 22:14
 
 ---
 
-## [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"}: dogmatizo (to subject to ordinances)
+## G1379: dogmatizo (to subject to ordinances)
 
 ### Lookup
 1 total occurrence:
@@ -186,7 +186,7 @@ Revelation 12:17; 14:12; 22:14
 
 ---
 
-## [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"}: katargeo (to abolish/make void)
+## G2673: katargeo (to abolish/make void)
 
 ### Lookup
 32 total occurrences, 30 unique translations (wide semantic range):
@@ -204,7 +204,7 @@ Eph 2:15 ("Having abolished"), Rom 3:31 ("Do we make void"), 2 Cor 3:7,11,13 ("d
 
 ---
 
-## [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"}: skia (shadow)
+## G4639: skia (shadow)
 
 ### Lookup
 7 total occurrences, 3 translations:
@@ -224,40 +224,40 @@ Col 2:17, Heb 8:5, Heb 10:1
 
 ---
 
-## [G3548](https://www.blueletterbible.org/lexicon/g3548/kjv/tr/0-1/){:target="_blank"}: nomothesia (legislation/giving of the law)
+## G3548: nomothesia (legislation/giving of the law)
 - 1 occurrence: Rom 9:4 -- "giving of the law"
 - Definition: legislation (specially, the institution of the Mosaic code)
 
-## [G3549](https://www.blueletterbible.org/lexicon/g3549/kjv/tr/0-1/){:target="_blank"}: nomotheteo (to legislate)
+## G3549: nomotheteo (to legislate)
 - 2 occurrences: Heb 7:11 ("received the law"), Heb 8:6 ("was established")
 - Definition: to legislate, i.e. (passively) to have (the Mosaic) enactments injoined
 
-## [G3544](https://www.blueletterbible.org/lexicon/g3544/kjv/tr/0-1/){:target="_blank"}: nomikos (pertaining to law / lawyer)
+## G3544: nomikos (pertaining to law / lawyer)
 - 9 occurrences: Mat 22:35; Luk 7:30; 10:25; 11:45,52; 14:3; Tit 3:9,13
 - Definition: according (or pertaining) to law, i.e. legal
 
-## [G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"}: nomimos (lawfully)
+## G3545: nomimos (lawfully)
 - 2 occurrences: 1 Tim 1:8; 2 Tim 2:5
 - Definition: legitimately (specially, agreeably to the rules of the Mosaic law)
 
-## [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"}: ennomos (within law/lawful)
+## G1772: ennomos (within law/lawful)
 - 2 occurrences: Acts 19:39; 1 Cor 9:21
 - Definition: (subjectively) legal, or (objectively) subject to
 
-## [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"}: anomos (lawless/without law)
+## G459: anomos (lawless/without law)
 - 10 occurrences: Mar 15:28; Luk 22:37; Acts 2:23; 1 Cor 9:21(2x); 2 Thes 2:8; 1 Tim 1:9; 2 Pet 2:8
 - Translations: "the transgressors" (2x), "without law" (2x), "wicked" (1x), "for the lawless" (1x), "unlawful" (1x)
 
-## [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"}: anomia (lawlessness/iniquity)
+## G458: anomia (lawlessness/iniquity)
 - 13 occurrences: Mat 7:23; 13:41; 23:28; 24:12; Rom 4:7; 6:19; 2 Cor 6:14; 2 Thes 2:8(2x); Tit 2:14(2x); Heb 1:9; 8:12; 10:17; 1 Jhn 3:4(2x)
 - Definition: illegality, i.e. violation of law or (genitive case) wickedness
 - Translations: "iniquity" (7x), "iniquities" (3x), "to iniquity" (1x), "unrighteousness" (1x), "of iniquity" (1x)
 
-## [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"}: dikaiosyne (righteousness)
+## G1343: dikaiosyne (righteousness)
 - 80 occurrences, primarily "righteousness"
 - Definition: equity (of character or act); specially (Christian) justification
 
-## [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"}: dikaioo (to justify)
+## G1344: dikaioo (to justify)
 - 43 occurrences
 - Definition: to render (i.e. show or regard as) just or innocent
 
@@ -265,74 +265,74 @@ Col 2:17, Heb 8:5, Heb 10:1
 
 ## LXX Mappings
 
-### [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} mitsvah -> Greek LXX
+### H4687 mitsvah -> Greek LXX
 Top mappings (by PMI-weighted score):
-1. **[G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole** -- count: 153, score: 34.01 (DOMINANT)
-2. [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} phylasso -- count: 66, score: 18.65
-3. **[G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma** -- count: 27, score: 16.13
-4. [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"} entellomai -- count: 46, score: 15.58
-5. [G2917](https://www.blueletterbible.org/lexicon/g2917/kjv/tr/0-1/){:target="_blank"} krima -- count: 17, score: 10.11
-6. **[G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos** -- count: 18, score: 9.86
+1. **G1785 entole** -- count: 153, score: 34.01 (DOMINANT)
+2. G5442 phylasso -- count: 66, score: 18.65
+3. **G1345 dikaioma** -- count: 27, score: 16.13
+4. G1781 entellomai -- count: 46, score: 15.58
+5. G2917 krima -- count: 17, score: 10.11
+6. **G3551 nomos** -- count: 18, score: 9.86
 
-### [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah -> Greek LXX
+### H8451 torah -> Greek LXX
 Top mappings:
-1. **[G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos** -- count: 188, score: 33.81 (DOMINANT)
-2. [G1125](https://www.blueletterbible.org/lexicon/g1125/kjv/tr/0-1/){:target="_blank"} grapho -- count: 32, score: 14.25
-3. [G975](https://www.blueletterbible.org/lexicon/g975/kjv/tr/0-1/){:target="_blank"} biblion -- count: 21, score: 12.05
-4. **[G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole** -- count: 23, score: 11.87
-5. **[G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma** -- count: 16, score: 10.78
-6. [G2917](https://www.blueletterbible.org/lexicon/g2917/kjv/tr/0-1/){:target="_blank"} krima -- count: 16, score: 8.86
+1. **G3551 nomos** -- count: 188, score: 33.81 (DOMINANT)
+2. G1125 grapho -- count: 32, score: 14.25
+3. G975 biblion -- count: 21, score: 12.05
+4. **G1785 entole** -- count: 23, score: 11.87
+5. **G1345 dikaioma** -- count: 16, score: 10.78
+6. G2917 krima -- count: 16, score: 8.86
 
-### [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} choq -> Greek LXX
+### H2706 choq -> Greek LXX
 Top mappings:
-1. **[G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma** -- count: 52, score: 25.04 (DOMINANT)
-2. [G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} nomimos -- count: 18, score: 17.45
-3. [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} phylasso -- count: 34, score: 14.22
-4. [G2917](https://www.blueletterbible.org/lexicon/g2917/kjv/tr/0-1/){:target="_blank"} krima -- count: 23, score: 14.16
-5. **[G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole** -- count: 22, score: 14.03
-6. [G1321](https://www.blueletterbible.org/lexicon/g1321/kjv/tr/0-1/){:target="_blank"} didasko -- count: 12, score: 12.50
+1. **G1345 dikaioma** -- count: 52, score: 25.04 (DOMINANT)
+2. G3545 nomimos -- count: 18, score: 17.45
+3. G5442 phylasso -- count: 34, score: 14.22
+4. G2917 krima -- count: 23, score: 14.16
+5. **G1785 entole** -- count: 22, score: 14.03
+6. G1321 didasko -- count: 12, score: 12.50
 
-### [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} mishpat -> Greek LXX
+### H4941 mishpat -> Greek LXX
 Top mappings:
-1. [G2917](https://www.blueletterbible.org/lexicon/g2917/kjv/tr/0-1/){:target="_blank"} krima -- count: 175, score: 29.42 (DOMINANT)
-2. [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} krisis -- count: 132, score: 26.33
-3. **[G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma** -- count: 63, score: 20.35
-4. [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} dikaiosyne -- count: 66, score: 16.51
-5. [G1342](https://www.blueletterbible.org/lexicon/g1342/kjv/tr/0-1/){:target="_blank"} dikaios -- count: 41, score: 11.47
+1. G2917 krima -- count: 175, score: 29.42 (DOMINANT)
+2. G2920 krisis -- count: 132, score: 26.33
+3. **G1345 dikaioma** -- count: 63, score: 20.35
+4. G1343 dikaiosyne -- count: 66, score: 16.51
+5. G1342 dikaios -- count: 41, score: 11.47
 
 ---
 
 ## Hebrew Source Mappings
 
-### [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole <- Hebrew Sources
+### G1785 entole <- Hebrew Sources
 Top sources:
-1. **[H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} mitsvah** -- count: 153, score: 34.01 (DOMINANT)
-2. [H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"} piqqud -- count: 19, score: 19.80
-3. [H8104](https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/){:target="_blank"} shamar -- count: 78, score: 19.53
-4. [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} chuqqah -- count: 23, score: 15.38
-5. [H6680](https://www.blueletterbible.org/lexicon/h6680/kjv/wlc/0-1/){:target="_blank"} tsavah -- count: 48, score: 14.21
-6. **[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} choq** -- count: 22, score: 14.03
-7. **[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah** -- count: 23, score: 11.87
+1. **H4687 mitsvah** -- count: 153, score: 34.01 (DOMINANT)
+2. H6490 piqqud -- count: 19, score: 19.80
+3. H8104 shamar -- count: 78, score: 19.53
+4. H2708 chuqqah -- count: 23, score: 15.38
+5. H6680 tsavah -- count: 48, score: 14.21
+6. **H2706 choq** -- count: 22, score: 14.03
+7. **H8451 torah** -- count: 23, score: 11.87
 
-### [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos <- Hebrew Sources
+### G3551 nomos <- Hebrew Sources
 Top sources:
-1. **[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah** -- count: 188, score: 33.81 (DOMINANT)
-2. [H3789](https://www.blueletterbible.org/lexicon/h3789/kjv/wlc/0-1/){:target="_blank"} kathab -- count: 34, score: 14.23
-3. [H5612](https://www.blueletterbible.org/lexicon/h5612/kjv/wlc/0-1/){:target="_blank"} sepher -- count: 26, score: 12.87
-4. **[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} choq** -- count: 17, score: 10.94
-5. **[H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} chuqqah** -- count: 15, score: 10.83
-6. [H1882](https://www.blueletterbible.org/lexicon/h1882/kjv/wlc/0-1/){:target="_blank"} dath (Aramaic) -- count: 6, score: 10.73
-7. **[H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} mitsvah** -- count: 18, score: 9.86
+1. **H8451 torah** -- count: 188, score: 33.81 (DOMINANT)
+2. H3789 kathab -- count: 34, score: 14.23
+3. H5612 sepher -- count: 26, score: 12.87
+4. **H2706 choq** -- count: 17, score: 10.94
+5. **H2708 chuqqah** -- count: 15, score: 10.83
+6. H1882 dath (Aramaic) -- count: 6, score: 10.73
+7. **H4687 mitsvah** -- count: 18, score: 9.86
 
-### [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma <- Hebrew Sources
+### G1345 dikaioma <- Hebrew Sources
 Top sources:
-1. **[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} choq** -- count: 52, score: 25.04 (DOMINANT)
-2. **[H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} chuqqah** -- count: 35, score: 21.64
-3. **[H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} mishpat** -- count: 63, score: 20.35
-4. **[H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} mitsvah** -- count: 27, score: 16.13
-5. [H8104](https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/){:target="_blank"} shamar -- count: 38, score: 14.74
-6. [H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"} piqqud -- count: 6, score: 10.78
-7. **[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah** -- count: 16, score: 10.78
+1. **H2706 choq** -- count: 52, score: 25.04 (DOMINANT)
+2. **H2708 chuqqah** -- count: 35, score: 21.64
+3. **H4941 mishpat** -- count: 63, score: 20.35
+4. **H4687 mitsvah** -- count: 27, score: 16.13
+5. H8104 shamar -- count: 38, score: 14.74
+6. H6490 piqqud -- count: 6, score: 10.78
+7. **H8451 torah** -- count: 16, score: 10.78
 
 ### Summary: LXX Translation Stability
 | Hebrew Term | Primary Greek | Count | Secondary Greek | Count |

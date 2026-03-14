@@ -101,16 +101,16 @@ This is study **law-03** in the Law of God series. The methodology file is at `D
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} | eduth (testimony) | "Tables of testimony" -- Decalogue naming convention |
-| [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} | berith (covenant) | "His covenant, even ten commandments" (Deu 4:13); "tables of the covenant" |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment) | "The judgments" (Exo 21:1); "statutes and judgments" (Deu 4:14) |
-| [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} | choq (statute/decree) | "Statutes" distinguished from "his covenant" in Deu 4:13-14 |
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | towrah (law/torah) | "This law" (Deu 31:9, 24) -- the book Moses wrote; also "a law" (Exo 24:12) |
-| [H676](https://www.blueletterbible.org/lexicon/h676/kjv/wlc/0-1/){:target="_blank"} | etsba (finger) | "Finger of God" (Exo 31:18; Deu 9:10) -- unique to the Decalogue |
-| [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} | mitsvah (commandment) | "Commandments" -- term used for both categories, requires context |
-| [G3316](https://www.blueletterbible.org/lexicon/g3316/kjv/tr/0-1/){:target="_blank"} | mesites (mediator) | "In the hand of a mediator" (Gal 3:19-20); Jesus as mediator (Heb 8:6; 9:15; 12:24) |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole (commandment) | NT term for moral commandments |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma (ordinance/decree) | Used in cessation passages (Eph 2:15; Col 2:14) -- never for moral law |
+| H5715 | eduth (testimony) | "Tables of testimony" -- Decalogue naming convention |
+| H1285 | berith (covenant) | "His covenant, even ten commandments" (Deu 4:13); "tables of the covenant" |
+| H4941 | mishpat (judgment) | "The judgments" (Exo 21:1); "statutes and judgments" (Deu 4:14) |
+| H2706 | choq (statute/decree) | "Statutes" distinguished from "his covenant" in Deu 4:13-14 |
+| H8451 | towrah (law/torah) | "This law" (Deu 31:9, 24) -- the book Moses wrote; also "a law" (Exo 24:12) |
+| H676 | etsba (finger) | "Finger of God" (Exo 31:18; Deu 9:10) -- unique to the Decalogue |
+| H4687 | mitsvah (commandment) | "Commandments" -- term used for both categories, requires context |
+| G3316 | mesites (mediator) | "In the hand of a mediator" (Gal 3:19-20); Jesus as mediator (Heb 8:6; 9:15; 12:24) |
+| G1785 | entole (commandment) | NT term for moral commandments |
+| G1378 | dogma (ordinance/decree) | Used in cessation passages (Eph 2:15; Col 2:14) -- never for moral law |
 
 ### Related Existing Studies
 | Study | Question | Relevance |
@@ -154,7 +154,7 @@ You are the Research Agent. Execute this study by:
 6. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (retrieve full passages: Exo 19:16-20:26, Exo 21:1-6, Exo 24:1-18, Exo 25:1-22, Exo 31:18, Deu 4:1-14, Deu 5:1-33, Deu 9:9-11, Deu 10:1-5, Deu 31:9-26, 1Ki 8:9, 2Ch 5:10, Neh 9:13-14, Heb 9:1-5, Heb 12:18-26, Gal 3:19-20, 2Co 3:7-14, Lev 26:46, Acts 7:38,53)
-   - `04-word-studies.md` - Strong's research for [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} (eduth), [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} (berith), [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} (mishpat), [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} (choq), [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (towrah), [H676](https://www.blueletterbible.org/lexicon/h676/kjv/wlc/0-1/){:target="_blank"} (etsba), [G3316](https://www.blueletterbible.org/lexicon/g3316/kjv/tr/0-1/){:target="_blank"} (mesites), [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} (dogma)
+   - `04-word-studies.md` - Strong's research for H5715 (eduth), H1285 (berith), H4941 (mishpat), H2706 (choq), H8451 (towrah), H676 (etsba), G3316 (mesites), G1378 (dogma)
    - `raw-data/` - Raw tool output organized by category
 7. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -173,16 +173,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-03-exodus-20-vs-later-laws/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -1,6 +1,6 @@
 # Word Studies
 
-## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} -- entole (commandment, injunction)
+## G1785 -- entole (commandment, injunction)
 
 **Greek:** ἐντολή
 **Transliteration:** entole
@@ -22,7 +22,7 @@
 | of the commandment | 1 | 2.3% |
 
 ### Definition
-From [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"} (entellomai); injunction, i.e. an authoritative prescription
+From G1781 (entellomai); injunction, i.e. an authoritative prescription
 
 ### Key Occurrences in Revelation
 - **Rev 12:17** -- "keep the commandments (tas entolas) of God"
@@ -49,7 +49,7 @@ When entole appears **unqualified** (without a modifier specifying a category), 
 
 ---
 
-## [G3141](https://www.blueletterbible.org/lexicon/g3141/kjv/tr/0-1/){:target="_blank"} -- martyria (testimony, witness, evidence)
+## G3141 -- martyria (testimony, witness, evidence)
 
 **Greek:** μαρτυρία
 **Transliteration:** martyria
@@ -68,7 +68,7 @@ When entole appears **unqualified** (without a modifier specifying a category), 
 | report | 1 | 6.2% |
 
 ### Definition
-From [G3144](https://www.blueletterbible.org/lexicon/g3144/kjv/tr/0-1/){:target="_blank"} (martys); evidence given (judicially or generally): record, report, testimony, witness.
+From G3144 (martys); evidence given (judicially or generally): record, report, testimony, witness.
 
 ### Key Occurrences in Revelation
 - **Rev 1:2** -- "the testimony (martyrian) of Jesus Christ"
@@ -90,7 +90,7 @@ Rev 19:10 provides a defining statement: "the testimony of Jesus **is** the spir
 
 ---
 
-## [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} -- pistis (faith, persuasion, credence)
+## G4102 -- pistis (faith, persuasion, credence)
 
 **Greek:** πίστις
 **Transliteration:** pistis
@@ -112,7 +112,7 @@ Rev 19:10 provides a defining statement: "the testimony of Jesus **is** the spir
 | fidelity | 1 | 0.5% |
 
 ### Definition
-From [G3982](https://www.blueletterbible.org/lexicon/g3982/kjv/tr/0-1/){:target="_blank"} (peitho); persuasion, i.e. credence; moral conviction (of religious truth).
+From G3982 (peitho); persuasion, i.e. credence; moral conviction (of religious truth).
 
 ### Key Occurrences in Revelation
 - **Rev 2:13** -- "hast not denied my faith (pistin)"
@@ -129,7 +129,7 @@ The same construction "pistis Iesou Christou" appears in Gal 2:16, Rom 3:22, and
 
 ---
 
-## [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} -- hupomone (patience, endurance, constancy)
+## G5281 -- hupomone (patience, endurance, constancy)
 
 **Greek:** ὑπομονή
 **Transliteration:** hupomone
@@ -148,7 +148,7 @@ The same construction "pistis Iesou Christou" appears in Gal 2:16, Rom 3:22, and
 | the patient waiting | 1 | 3.4% |
 
 ### Definition
-From [G5278](https://www.blueletterbible.org/lexicon/g5278/kjv/tr/0-1/){:target="_blank"} (hupomeno); cheerful (or hopeful) endurance, constancy.
+From G5278 (hupomeno); cheerful (or hopeful) endurance, constancy.
 
 ### Key Occurrences in Revelation
 - **Rev 1:9** -- "patience (hupomone) of Jesus Christ"
@@ -163,7 +163,7 @@ In Revelation, hupomone characterizes the saints under end-time persecution. Rev
 
 ---
 
-## [G2003](https://www.blueletterbible.org/lexicon/g2003/kjv/tr/0-1/){:target="_blank"} -- epitage (injunction, decree, authority)
+## G2003 -- epitage (injunction, decree, authority)
 
 **Greek:** ἐπιταγή
 **Transliteration:** epitage
@@ -180,7 +180,7 @@ In Revelation, hupomone characterizes the saints under end-time persecution. Rev
 | authority | 1 | 14.3% |
 
 ### Definition
-From [G2004](https://www.blueletterbible.org/lexicon/g2004/kjv/tr/0-1/){:target="_blank"} (epitasso); an injunction or decree; by implication, authority.
+From G2004 (epitasso); an injunction or decree; by implication, authority.
 
 ### Key Occurrences
 - Rom 16:26 -- "according to the commandment of the everlasting God"
@@ -194,7 +194,7 @@ Epitage is used for apostolic authority or divine decrees in general, NOT for mo
 
 ---
 
-## [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} -- dogma (decree, ordinance)
+## G1378 -- dogma (decree, ordinance)
 
 **Greek:** δόγμα
 **Transliteration:** dogma
@@ -211,7 +211,7 @@ Epitage is used for apostolic authority or divine decrees in general, NOT for mo
 | of ordinances | 1 | 20.0% |
 
 ### Definition
-From [G1380](https://www.blueletterbible.org/lexicon/g1380/kjv/tr/0-1/){:target="_blank"} (dokeo); a law (civil, ceremonial or ecclesiastical).
+From G1380 (dokeo); a law (civil, ceremonial or ecclesiastical).
 
 ### Key Occurrences
 - Luk 2:1 -- "a decree from Caesar Augustus"
@@ -227,7 +227,7 @@ Dogma is the word used for what was "nailed to the cross" (Col 2:14) and "abolis
 
 ---
 
-## [G1778](https://www.blueletterbible.org/lexicon/g1778/kjv/tr/0-1/){:target="_blank"} -- entalma (commandment, precept of men)
+## G1778 -- entalma (commandment, precept of men)
 
 **Greek:** ἔνταλμα
 **Transliteration:** entalma
@@ -254,7 +254,7 @@ Entalma is used EXCLUSIVELY for "commandments of men" -- human religious regulat
 
 ---
 
-## [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} -- propheteia (prophecy, prediction)
+## G4394 -- propheteia (prophecy, prediction)
 
 **Greek:** προφητεία
 **Transliteration:** propheteia
@@ -284,7 +284,7 @@ Rev 19:10 is the key verse connecting testimony (martyria) with prophecy (prophe
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} -- nomos (law)
+## G3551 -- nomos (law)
 
 **Greek:** νόμος
 **Transliteration:** nomos
@@ -336,23 +336,10 @@ Nomos (law) does NOT appear in Revelation. The book uses entole (commandment) in
   - plunontes (G4150) = washing; stolas (G4749) = robes
 - **TR (Textus Receptus/KJV):** "makarioi hoi poiountes tas entolas autou" = "Blessed are those doing his commandments"
   - poiountes (G4160) = doing; entolas (G1785) = commandments
-- **Variant:** Strong's numbers unique to N1904: [G4150](https://www.blueletterbible.org/lexicon/g4150/kjv/tr/0-1/){:target="_blank"} (wash), [G4749](https://www.blueletterbible.org/lexicon/g4749/kjv/tr/0-1/){:target="_blank"} (robes); unique to TR: [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (commandments)
+- **Variant:** Strong's numbers unique to N1904: G4150 (wash), G4749 (robes); unique to TR: G1785 (commandments)
 - The KJV follows the TR reading. Both readings connect to access to the tree of life.
 
 ### Participle Usage: terounton/terountes (keeping)
 - **Rev 12:17:** terounton (G5083) = present active participle, genitive plural masculine -- "the ones keeping" (characterizing description of the remnant)
 - **Rev 14:12:** terountes (G5083) = present active participle, nominative plural masculine -- "the ones keeping" (identifying description of the saints)
 - Present tense participle = ongoing, continuous action. Not a one-time act but habitual/characteristic keeping.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

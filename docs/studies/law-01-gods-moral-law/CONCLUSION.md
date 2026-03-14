@@ -385,7 +385,7 @@ The evidence for the law's scope extends across four dimensions:
 
 The Bible presents three independent channels through which moral law is known, each operating without dependence on the Sinai revelation:
 
-**1. Knowledge of God through nature (Rom 1:19-20; Psa 19:1-4; Acts 14:17).** Paul states that "the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse" (Romans 1:19-20). The Greek gnoston (G1110, "knowable") and phaneron (G5318, "manifest") indicate that knowledge of God's moral character is accessible through creation. Psalm 19:1-4 states "the heavens declare the glory of God" and "their line is gone out through all the earth" -- a universal testimony. Acts 14:17 records Paul telling Gentiles that God "left not himself without witness" through the natural order. The result (anapologetous, [G379](https://www.blueletterbible.org/lexicon/g379/kjv/tr/0-1/){:target="_blank"}, "without excuse") indicates moral accountability based on this natural revelation.
+**1. Knowledge of God through nature (Rom 1:19-20; Psa 19:1-4; Acts 14:17).** Paul states that "the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse" (Romans 1:19-20). The Greek gnoston (G1110, "knowable") and phaneron (G5318, "manifest") indicate that knowledge of God's moral character is accessible through creation. Psalm 19:1-4 states "the heavens declare the glory of God" and "their line is gone out through all the earth" -- a universal testimony. Acts 14:17 records Paul telling Gentiles that God "left not himself without witness" through the natural order. The result (anapologetous, G379, "without excuse") indicates moral accountability based on this natural revelation.
 
 **2. Conscience (Rom 2:14-15).** Paul states that Gentiles "which have not the law, do by nature the things contained in the law" and "shew the work of the law written in their hearts, their conscience also bearing witness." The Greek syneidesis (G4893, "conscience") describes an internal moral faculty that "accuses or excuses" (katego-rounton e kai apologoumenon). This faculty operates independently of the written Decalogue, yet attests the same moral content -- since what Gentiles do "by nature" (physei, G5449) corresponds to "the things contained in the law" (ta tou nomou).
 
@@ -447,16 +447,3 @@ The single I-D inference (I7: all law abolished) requires overriding or redefini
 *Updated: 2026-02-23 -- Added investigation angles: three biblical witnesses to moral law (nature, conscience, direct revelation) and response to the "all 613 laws are equally moral" objection.*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
 *Evidence items tracked in law-master-evidence.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

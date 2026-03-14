@@ -206,7 +206,7 @@ This is a **compilation study** — it compiles and organizes findings from 28 p
 |-------|------|
 | **Specific Law** | "The commandments of God" — explicitly distinguished from circumcision |
 | **NT Passage(s)** | 1 Cor 7:19 |
-| **Greek Term** | teresis entolon theou (G5084 + [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} + [G2316](https://www.blueletterbible.org/lexicon/g2316/kjv/tr/0-1/){:target="_blank"}, "keeping the commandments of God") vs. peritome (G4061, circumcision) |
+| **Greek Term** | teresis entolon theou (G5084 + G1785 + G2316, "keeping the commandments of God") vs. peritome (G4061, circumcision) |
 | **Evidence Tier** | E (Paul explicitly states "Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God") |
 | **Classification** | Continues |
 | **Reasoning** | Paul distinguishes moral commandments (entole) from ceremonial rites (circumcision). The moral commandments remain binding; circumcision does not. This is a direct textual distinction between categories of law. |
@@ -219,7 +219,7 @@ This is a **compilation study** — it compiles and organizes findings from 28 p
 |-------|------|
 | **Specific Law** | "The perfect law of liberty" / "the royal law" — identified as Decalogue content |
 | **NT Passage(s)** | Jas 1:25; 2:8-12 |
-| **Greek Term** | nomos teleion tes eleutherias (G3551+[G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"}+[G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"}, "perfect law of liberty"); nomos basilikon (G937, "royal law") |
+| **Greek Term** | nomos teleion tes eleutherias (G3551+G5046+G1657, "perfect law of liberty"); nomos basilikon (G937, "royal law") |
 | **Evidence Tier** | E (James identifies the content as the 6th and 7th commandments: "Do not commit adultery...Do not kill" — Jas 2:11) |
 | **Classification** | Continues |
 | **Reasoning** | James calls the law "perfect" and "of liberty," then identifies its content as the Decalogue. Christians "shall be judged by the law of liberty" (Jas 2:12). |
@@ -337,7 +337,7 @@ This is a **compilation study** — it compiles and organizes findings from 28 p
 |-------|------|
 | **Specific Law** | Requirement for Levitical descent for priestly office (Num 3:10; 18:7) |
 | **NT Passage(s)** | Heb 7:11-12,16,18 |
-| **Greek Term** | hierosyne (G2420, priesthood); entoles sarkines (G1785+[G4560](https://www.blueletterbible.org/lexicon/g4560/kjv/tr/0-1/){:target="_blank"}, "carnal commandment"); athetesis (G115, disannulling); metatithemi (G3346, changed) |
+| **Greek Term** | hierosyne (G2420, priesthood); entoles sarkines (G1785+G4560, "carnal commandment"); athetesis (G115, disannulling); metatithemi (G3346, changed) |
 | **Evidence Tier** | E (Heb 7:12: "the priesthood being changed, there is made of necessity a change also of the law"; Heb 7:16: "not after the law of a carnal commandment") |
 | **Classification** | Neutral (ceremonial law cessation — common ground) |
 | **Reasoning** | The "law" that changed is specifically the priesthood succession law, identified by the qualifier "carnal commandment" (entoles sarkines). The Melchizedek priesthood replaces the Levitical. |
@@ -362,7 +362,7 @@ This is a **compilation study** — it compiles and organizes findings from 28 p
 |-------|------|
 | **Specific Law** | Ceremonial purity regulations (meats, drinks, divers washings) |
 | **NT Passage(s)** | Heb 9:1,8-10 |
-| **Greek Term** | dikaiomata sarkos (G1345+[G4561](https://www.blueletterbible.org/lexicon/g4561/kjv/tr/0-1/){:target="_blank"}, "carnal ordinances"); dikaiomata latreias (G1345+[G2999](https://www.blueletterbible.org/lexicon/g2999/kjv/tr/0-1/){:target="_blank"}, "ordinances of divine service") |
+| **Greek Term** | dikaiomata sarkos (G1345+G4561, "carnal ordinances"); dikaiomata latreias (G1345+G2999, "ordinances of divine service") |
 | **Evidence Tier** | E (Heb 9:10 explicitly identifies the content: "meats and drinks, and divers washings, and carnal ordinances, imposed until the time of reformation") |
 | **Classification** | Neutral (ceremonial law cessation — common ground) |
 | **Prior Study** | law-04, law-08, law-18, law-21 |
@@ -459,7 +459,7 @@ This is a **compilation study** — it compiles and organizes findings from 28 p
 |-------|------|
 | **Specific Law** | "Touch not; taste not; handle not" — ascetic regulations |
 | **NT Passage(s)** | Col 2:20-23 |
-| **Greek Term** | dogmatizo (G1379, "subject to ordinances"); entalmata kai didaskalias ton anthropon (G1778+[G1319](https://www.blueletterbible.org/lexicon/g1319/kjv/tr/0-1/){:target="_blank"}+[G444](https://www.blueletterbible.org/lexicon/g444/kjv/tr/0-1/){:target="_blank"}, "commandments and doctrines of men") |
+| **Greek Term** | dogmatizo (G1379, "subject to ordinances"); entalmata kai didaskalias ton anthropon (G1778+G1319+G444, "commandments and doctrines of men") |
 | **Evidence Tier** | E (Paul identifies the content: "Touch not; taste not; handle not...after the commandments and doctrines of men") |
 | **Classification** | Neutral (Paul identifies these as human regulations, not divine commandments. The distinction between "commandments of men" and "commandments of God" is itself a law-category distinction.) |
 | **Prior Study** | law-08, law-26 |
@@ -580,16 +580,3 @@ The new covenant promise (Jer 31:33; Heb 8:10; 10:16) is not the introduction of
 
 *Analysis completed: 2026-02-26*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

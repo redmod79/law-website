@@ -5,7 +5,7 @@ What does telos (G5056) mean in Romans 10:4? Termination, goal/purpose, or fulfi
 
 ---
 
-## [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} - telos (THE CENTRAL WORD STUDY)
+## G5056 - telos (THE CENTRAL WORD STUDY)
 
 **Original:** telos
 **Transliteration:** telos
@@ -168,7 +168,7 @@ The root tello means "to set out for a definite point or goal." This etymology s
 
 ---
 
-## [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} - nomos (law)
+## G3551 - nomos (law)
 
 **Original:** nomos
 **Transliteration:** nomos
@@ -194,7 +194,7 @@ The root tello means "to set out for a definite point or goal." This etymology s
 
 ---
 
-## [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} - dikaiosune (righteousness)
+## G1343 - dikaiosune (righteousness)
 
 **Original:** dikaiosune
 **Transliteration:** dikaiosyne
@@ -216,7 +216,7 @@ The root tello means "to set out for a definite point or goal." This etymology s
 
 ---
 
-## [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} - katargeo (make void, abolish)
+## G2673 - katargeo (make void, abolish)
 
 **Original:** katargeo
 **Transliteration:** katargeo
@@ -243,7 +243,7 @@ of that which is abolished (1x), Having abolished (1x), he might destroy (1x)
 
 ---
 
-## [G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"} - histemi (stand, establish)
+## G2476 - histemi (stand, establish)
 
 **Original:** histemi
 **Transliteration:** histemi
@@ -262,7 +262,7 @@ of that which is abolished (1x), Having abolished (1x), he might destroy (1x)
 
 ---
 
-## [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} - pleroo (fulfill, fill)
+## G4137 - pleroo (fulfill, fill)
 
 **Original:** pleroo
 **Transliteration:** pleroo
@@ -285,7 +285,7 @@ was fulfilled (3x), to fulfil (3x), is fulfilled (3x), fulfilled (3x)
 
 ---
 
-## [G3807](https://www.blueletterbible.org/lexicon/g3807/kjv/tr/0-1/){:target="_blank"} - paidagogos (schoolmaster, tutor)
+## G3807 - paidagogos (schoolmaster, tutor)
 
 **Original:** paidagogos
 **Transliteration:** paidagogos
@@ -321,19 +321,19 @@ hoste ho nomos paidagogos hemon gegonen eis Christon, hina ek pisteos dikaiothom
 
 | Strong's | Word | Part of Speech | Count | Definition |
 |----------|------|---------------|-------|------------|
-| [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} | telos | noun | 42 | End, goal, purpose, completion |
-| [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} | teleo | verb | 26 | To end, complete, execute, discharge |
-| [G5048](https://www.blueletterbible.org/lexicon/g5048/kjv/tr/0-1/){:target="_blank"} | teleioo | verb | 24 | To complete, accomplish, perfect |
-| [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} | teleios | adjective | 19 | Complete, perfect, mature |
-| [G5051](https://www.blueletterbible.org/lexicon/g5051/kjv/tr/0-1/){:target="_blank"} | teleiotes | noun | 1 | Completer, finisher (Heb 12:2 only) |
-| [G5049](https://www.blueletterbible.org/lexicon/g5049/kjv/tr/0-1/){:target="_blank"} | teleios (adv) | adverb | 1 | Completely |
-| [G5050](https://www.blueletterbible.org/lexicon/g5050/kjv/tr/0-1/){:target="_blank"} | teleiosis | noun | 2 | Completion, verification |
+| G5056 | telos | noun | 42 | End, goal, purpose, completion |
+| G5055 | teleo | verb | 26 | To end, complete, execute, discharge |
+| G5048 | teleioo | verb | 24 | To complete, accomplish, perfect |
+| G5046 | teleios | adjective | 19 | Complete, perfect, mature |
+| G5051 | teleiotes | noun | 1 | Completer, finisher (Heb 12:2 only) |
+| G5049 | teleios (adv) | adverb | 1 | Completely |
+| G5050 | teleiosis | noun | 2 | Completion, verification |
 
 The word family consistently carries the sense of COMPLETION, MATURITY, and REACHING A GOAL rather than mere cessation or termination. Jesus is called the teleiotes (G5051) of faith in Heb 12:2 -- the "finisher/completer/perfecter" of faith -- not the terminator of faith.
 
 ---
 
-## [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} - pistis (faith)
+## G4102 - pistis (faith)
 
 **Original:** pistis
 **Transliteration:** pistis
@@ -350,7 +350,7 @@ The word family consistently carries the sense of COMPLETION, MATURITY, and REAC
 
 ---
 
-## [G3852](https://www.blueletterbible.org/lexicon/g3852/kjv/tr/0-1/){:target="_blank"} - paraggelia (commandment/charge)
+## G3852 - paraggelia (commandment/charge)
 
 **Original:** paraggelia
 **Transliteration:** paraggelia
@@ -383,16 +383,3 @@ Art CONJ Nom.Sg.N    Gen.Sg.F            V-3S    Nom.Sg.F
 ```
 
 **Structural identity:** Both sentences predicate telos + genitive of a law/commandment term with a nominative predicate. In 1 Tim 1:5, the meaning is unambiguously "goal/purpose" (love is the goal of the commandment). This makes the identical construction in Rom 10:4 most naturally read as "Christ is the goal/purpose of the law."
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

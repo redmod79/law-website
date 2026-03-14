@@ -19,11 +19,11 @@ The Hebrew parsing reveals four purposes for the luminaries, each introduced by 
 3. u-le-yamim (H3117) = and for **days**
 4. ve-shanim = and **years**
 
-The word used is moed (H4150), not shabbath (H7676). The weekly Sabbath is absent from this list. [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} has 223 OT uses: 146 mean "tabernacle of the congregation" (a place); when temporal, it refers to annual festivals. It is never used as a synonym for the weekly Sabbath in any biblical text.
+The word used is moed (H4150), not shabbath (H7676). The weekly Sabbath is absent from this list. H4150 has 223 OT uses: 146 mean "tabernacle of the congregation" (a place); when temporal, it refers to annual festivals. It is never used as a synonym for the weekly Sabbath in any biblical text.
 
 **Lunar-Sabbath argument:** Proponents argue that "seasons" (moadim) encompasses all appointed times including the weekly Sabbath, and since the moon governs moadim, the moon governs the Sabbath.
 
-**What the text says:** The text assigns four specific functions to the luminaries. The weekly Sabbath is not listed. [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed) and [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath) are two different Hebrew words used for two different institutions throughout the OT. Leviticus 23:37-38 explicitly separates the moadim from "the sabbaths of the LORD" using the preposition millibad ("apart from/besides"). The weekly Sabbath is never called a moed or a chag in the Pentateuch (verifiable by word search).
+**What the text says:** The text assigns four specific functions to the luminaries. The weekly Sabbath is not listed. H4150 (moed) and H7676 (shabbath) are two different Hebrew words used for two different institutions throughout the OT. Leviticus 23:37-38 explicitly separates the moadim from "the sabbaths of the LORD" using the preposition millibad ("apart from/besides"). The weekly Sabbath is never called a moed or a chag in the Pentateuch (verifiable by word search).
 
 **Cross-references:** Psalm 104:19 states: "He appointed the moon for seasons [H4150, moadim]: the sun knoweth his going down." The Hebrew parsing confirms: the subject is yareach (H3394, "moon") and the purpose is le-mo'adim (H4150, "for appointed times"). The word shabbath does not appear. If the Sabbath were governed by the moon, we would expect shabbatot to appear here. Its absence is significant.
 
@@ -118,19 +118,19 @@ Verse 37 summarizes the feasts (moadim) just described in vv. 4-36. Verse 38 say
 ## Investigation Point 4: The Hebrew Word shabbath (H7676)
 
 ### Word Study Summary
-[H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath) has 108 OT occurrences. It is always translated "sabbath" or with rest-related terminology. In every occurrence, it refers to a fixed periodic rest -- either the weekly Sabbath or, in some contexts, the sabbatical year or specific feast rest days. It never carries a lunar meaning, is never conditioned on lunar phases, and is never connected to the moon in any verse.
+H7676 (shabbath) has 108 OT occurrences. It is always translated "sabbath" or with rest-related terminology. In every occurrence, it refers to a fixed periodic rest -- either the weekly Sabbath or, in some contexts, the sabbatical year or specific feast rest days. It never carries a lunar meaning, is never conditioned on lunar phases, and is never connected to the moon in any verse.
 
 The verb shabath (H7673, 71 uses) means "to cease, rest, desist" -- a concept of cessation from activity. No lunar connotation in any of its uses. It appears in Genesis 2:2 (vayyishbot, "and he ceased"), Exodus 16:30 ("the people rested"), and Exodus 31:17 ("he rested, and was refreshed").
 
-[H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} (shabbathon, 11 uses) means "sabbatism, special holiday." When paired with shabbath (shabbath shabbathon), it is used for the weekly Sabbath (Lev 23:3) and Day of Atonement (Lev 23:32) -- both requiring "all work" prohibition. When used alone (shabbathon), it is used for Trumpets (Lev 23:24) and Tabernacles (Lev 23:39) rest days -- requiring only "servile work" prohibition. No lunar meaning in any occurrence.
+H7677 (shabbathon, 11 uses) means "sabbatism, special holiday." When paired with shabbath (shabbath shabbathon), it is used for the weekly Sabbath (Lev 23:3) and Day of Atonement (Lev 23:32) -- both requiring "all work" prohibition. When used alone (shabbathon), it is used for Trumpets (Lev 23:24) and Tabernacles (Lev 23:39) rest days -- requiring only "servile work" prohibition. No lunar meaning in any occurrence.
 
 ### Contrast with Moon-Related Words
-- [H3394](https://www.blueletterbible.org/lexicon/h3394/kjv/wlc/0-1/){:target="_blank"} (yareach, "moon"): 26 OT uses. Never appears in a Sabbath context. Never governs or determines the weekly Sabbath.
-- [H3842](https://www.blueletterbible.org/lexicon/h3842/kjv/wlc/0-1/){:target="_blank"} (levanah, "moon," poetic): 3 OT uses. Never connected to the Sabbath.
-- [H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"} (chodesh, "new moon/month"): 276 OT uses. When it appears alongside shabbath, they are always distinguished as separate items (2Ki 4:23; 1Ch 23:31; 2Ch 2:4; 8:13; 31:3; Isa 1:13; 66:23; Eze 46:1,6; Hos 2:11; Amo 8:5). No verse places chodesh in a governing relationship over shabbath.
-- [H3677](https://www.blueletterbible.org/lexicon/h3677/kjv/wlc/0-1/){:target="_blank"} (kece, "full moon"): 2 OT uses. Only in Psalm 81:3 and Proverbs 7:20. Refers to the full moon festival, not the weekly Sabbath.
+- H3394 (yareach, "moon"): 26 OT uses. Never appears in a Sabbath context. Never governs or determines the weekly Sabbath.
+- H3842 (levanah, "moon," poetic): 3 OT uses. Never connected to the Sabbath.
+- H2320 (chodesh, "new moon/month"): 276 OT uses. When it appears alongside shabbath, they are always distinguished as separate items (2Ki 4:23; 1Ch 23:31; 2Ch 2:4; 8:13; 31:3; Isa 1:13; 66:23; Eze 46:1,6; Hos 2:11; Amo 8:5). No verse places chodesh in a governing relationship over shabbath.
+- H3677 (kece, "full moon"): 2 OT uses. Only in Psalm 81:3 and Proverbs 7:20. Refers to the full moon festival, not the weekly Sabbath.
 
-**Evidence classification:** The semantic range of [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} across 108 uses showing no lunar meaning is an explicit vocabulary fact (E-tier). The absence of any shabbath-yareach/levanah/chodesh governing connection is a verifiable negative (E-tier). The consistent separation of shabbath from chodesh when both appear in a verse is an observable pattern (E-tier).
+**Evidence classification:** The semantic range of H7676 across 108 uses showing no lunar meaning is an explicit vocabulary fact (E-tier). The absence of any shabbath-yareach/levanah/chodesh governing connection is a verifiable negative (E-tier). The consistent separation of shabbath from chodesh when both appear in a verse is an observable pattern (E-tier).
 
 ---
 
@@ -201,19 +201,19 @@ The sabbath and new moon are introduced with identical syntax (waw + be + yom + 
 
 ### Comprehensive Search Results
 The research systematically checked every occurrence of the relevant Hebrew and Greek words:
-- [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath): 108 uses -- none connected to the moon
-- [H3394](https://www.blueletterbible.org/lexicon/h3394/kjv/wlc/0-1/){:target="_blank"} (yareach, "moon"): 26 uses -- none in Sabbath context
-- [H3842](https://www.blueletterbible.org/lexicon/h3842/kjv/wlc/0-1/){:target="_blank"} (levanah, "moon"): 3 uses -- none connected to the Sabbath
-- [H2320](https://www.blueletterbible.org/lexicon/h2320/kjv/wlc/0-1/){:target="_blank"} (chodesh, "new moon/month"): 276 uses -- always distinguished from shabbath when both appear
-- [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} (sabbaton): 68 NT uses -- fixed weekly term
-- [G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"} (noumenia, "new moon"): 1 NT use (Col 2:16) -- distinguished from sabbaton in the same verse
+- H7676 (shabbath): 108 uses -- none connected to the moon
+- H3394 (yareach, "moon"): 26 uses -- none in Sabbath context
+- H3842 (levanah, "moon"): 3 uses -- none connected to the Sabbath
+- H2320 (chodesh, "new moon/month"): 276 uses -- always distinguished from shabbath when both appear
+- G4521 (sabbaton): 68 NT uses -- fixed weekly term
+- G3561 (noumenia, "new moon"): 1 NT use (Col 2:16) -- distinguished from sabbaton in the same verse
 
 **Result:** Zero biblical texts connect the weekly Sabbath to the moon or any celestial body. Every passage where shabbath and chodesh/yareach appear together treats them as separate institutions.
 
 ### Psalm 81:3-4 (Full Moon Feast -- Not Weekly Sabbath)
 **Direct statement:** "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day. For this was a statute for Israel, and a law of the God of Jacob."
 
-**Key observations:** "The time appointed" = [H3677](https://www.blueletterbible.org/lexicon/h3677/kjv/wlc/0-1/){:target="_blank"} (kece = full moon). This refers to a feast trumpet, not the weekly Sabbath. The word kece (only 2 OT uses) refers to the full moon festival -- a distinct institution. The solemn feast day (chag) mentioned here is an annual feast, never the weekly Sabbath (chag is never used for the weekly Sabbath in any biblical text).
+**Key observations:** "The time appointed" = H3677 (kece = full moon). This refers to a feast trumpet, not the weekly Sabbath. The word kece (only 2 OT uses) refers to the full moon festival -- a distinct institution. The solemn feast day (chag) mentioned here is an annual feast, never the weekly Sabbath (chag is never used for the weekly Sabbath in any biblical text).
 
 ### Psalm 104:19 (Moon for moadim, Not Sabbaths)
 Already analyzed under Investigation Point 1. The Hebrew is clear: "He made the moon for moadim [H4150]." The word shabbath does not appear. The moon governs festival seasons, not weekly sabbaths.
@@ -270,7 +270,7 @@ All four Gospels record a fixed three-day sequence: Preparation (paraskeue) -> S
 ### Paul's Fixed Sabbath Practice
 - Acts 13:42,44: "the next sabbath" (to metaxu sabbaton) -- Gentiles knew exactly when it would be, one week later.
 - Acts 16:13: In Philippi (Roman colony, no synagogue), Paul observed the sabbath by a riverside. If the sabbath required lunar calculation, Paul would need a Jewish calendar authority -- but he observed it without institutional infrastructure.
-- Acts 17:2: "as his manner was" (kata to eiothos, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, Perfect Active Participle) = settled, habitual practice. A settled habit requires regular, predictable recurrence.
+- Acts 17:2: "as his manner was" (kata to eiothos, G1486, Perfect Active Participle) = settled, habitual practice. A settled habit requires regular, predictable recurrence.
 - Acts 18:4: "every sabbath" (kata pan sabbaton) = regular weekly pattern, ongoing for 18 months.
 
 **Evidence classification:** The fixed weekly terminology (paraskeue, prosabbaton, sabbaton, mia ton sabbaton) is an explicit vocabulary fact (E-tier). The Perfect Active Participle eiothos describing both Jesus's and Paul's sabbath custom confirms a settled, predictable weekly institution (E-tier).
@@ -281,23 +281,23 @@ All four Gospels record a fixed three-day sequence: Preparation (paraskeue) -> S
 
 ### Key Findings Integrated
 
-1. **[H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath):** 108 uses, always "sabbath/intermission." The word itself carries no lunar meaning. Its etymology from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath, "to cease") connects it to cessation from activity, not to celestial observation.
+1. **H7676 (shabbath):** 108 uses, always "sabbath/intermission." The word itself carries no lunar meaning. Its etymology from H7673 (shabath, "to cease") connects it to cessation from activity, not to celestial observation.
 
-2. **[H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed):** 223 uses. When temporal, refers to annual festivals. Never a synonym for the weekly sabbath. Genesis 1:14 assigns the luminaries to govern moadim; Psalm 104:19 assigns the moon for moadim. The weekly sabbath is absent from both.
+2. **H4150 (moed):** 223 uses. When temporal, refers to annual festivals. Never a synonym for the weekly sabbath. Genesis 1:14 assigns the luminaries to govern moadim; Psalm 104:19 assigns the moon for moadim. The weekly sabbath is absent from both.
 
-3. **[H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} (chag):** 62 uses. Exclusively for annual pilgrimage feasts. Never used for the weekly Sabbath. This vocabulary separation confirms the weekly Sabbath belongs to a different category.
+3. **H2282 (chag):** 62 uses. Exclusively for annual pilgrimage feasts. Never used for the weekly Sabbath. This vocabulary separation confirms the weekly Sabbath belongs to a different category.
 
-4. **[H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} (bad):** Used in the compound preposition millibad in Leviticus 23:38 to separate the sabbaths of the LORD from the annual feasts. The four-fold repetition creates emphatic separation.
+4. **H905 (bad):** Used in the compound preposition millibad in Leviticus 23:38 to separate the sabbaths of the LORD from the annual feasts. The four-fold repetition creates emphatic separation.
 
-5. **[G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} (sabbaton):** Fixed weekly term in all four Gospels and Acts. Used as a standardized day-name in the crucifixion sequence.
+5. **G4521 (sabbaton):** Fixed weekly term in all four Gospels and Acts. Used as a standardized day-name in the crucifixion sequence.
 
-6. **[G3904](https://www.blueletterbible.org/lexicon/g3904/kjv/tr/0-1/){:target="_blank"} (paraskeue):** Fixed Friday name. A floating lunar sabbath could not produce a standardized "Preparation Day." The existence of this term proves a fixed weekly cycle.
+6. **G3904 (paraskeue):** Fixed Friday name. A floating lunar sabbath could not produce a standardized "Preparation Day." The existence of this term proves a fixed weekly cycle.
 
-7. **[G4315](https://www.blueletterbible.org/lexicon/g4315/kjv/tr/0-1/){:target="_blank"} (prosabbaton):** Hapax legomenon compound (pro + sabbaton). A word coined for "the day before the Sabbath" proves the Sabbath falls on a predictable, fixed day.
+7. **G4315 (prosabbaton):** Hapax legomenon compound (pro + sabbaton). A word coined for "the day before the Sabbath" proves the Sabbath falls on a predictable, fixed day.
 
-8. **[G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} (etho):** The Perfect Active Participle eiothos ("settled custom") describes both Jesus's (Luk 4:16) and Paul's (Acts 17:2) sabbath practice. A settled custom requires fixed weekly recurrence, not monthly lunar recalculation.
+8. **G1486 (etho):** The Perfect Active Participle eiothos ("settled custom") describes both Jesus's (Luk 4:16) and Paul's (Acts 17:2) sabbath practice. A settled custom requires fixed weekly recurrence, not monthly lunar recalculation.
 
-9. **[G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"} (noumenia):** The only NT use (Col 2:16) distinguishes it from sabbaton. If sabbath were determined by the moon (noumenia), listing them separately would be redundant.
+9. **G3561 (noumenia):** The only NT use (Col 2:16) distinguishes it from sabbaton. If sabbath were determined by the moon (noumenia), listing them separately would be redundant.
 
 ---
 
@@ -355,16 +355,3 @@ Some lunar-Sabbath proponents point to the fact that certain feast sabbaths (e.g
 
 *Analysis completed: 2026-02-26*
 *Study: law-32-lunar-sabbaths*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

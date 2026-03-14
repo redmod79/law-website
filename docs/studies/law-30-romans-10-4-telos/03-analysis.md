@@ -36,11 +36,11 @@ The majority of occurrences fall into the outcome/result and perseverance catego
 
 | Strong's | Word | Meaning | NT Count |
 |----------|------|---------|----------|
-| [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} | telos | end, goal, purpose | 42 |
-| [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} | teleo | to end, complete, execute | 26 |
-| [G5048](https://www.blueletterbible.org/lexicon/g5048/kjv/tr/0-1/){:target="_blank"} | teleioo | to complete, accomplish, perfect | 24 |
-| [G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} | teleios | complete, perfect, mature | 19 |
-| [G5051](https://www.blueletterbible.org/lexicon/g5051/kjv/tr/0-1/){:target="_blank"} | teleiotes | completer, finisher | 1 (Heb 12:2) |
+| G5056 | telos | end, goal, purpose | 42 |
+| G5055 | teleo | to end, complete, execute | 26 |
+| G5048 | teleioo | to complete, accomplish, perfect | 24 |
+| G5046 | teleios | complete, perfect, mature | 19 |
+| G5051 | teleiotes | completer, finisher | 1 (Heb 12:2) |
 
 The word family consistently carries the sense of completion, maturity, and reaching an objective. In Heb 12:2, Jesus is the teleiotes (G5051) of faith -- the completer/perfecter of faith, not the terminator of faith. This is directly analogous to the Rom 10:4 question: is Christ the one who terminates the law, or the one who is the goal the law was always pointing toward?
 
@@ -531,16 +531,3 @@ The "termination" reading creates conflicts with Rom 3:31, 7:12, 8:4, 13:8-10, a
 
 *Analysis completed: 2026-02-26*
 *Study: law-30-romans-10-4-telos*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

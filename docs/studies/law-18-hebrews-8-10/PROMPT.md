@@ -147,37 +147,37 @@ Hebrews 8-10 has been examined in multiple prior studies. The research agent mus
 ## Strong's Numbers for Key Vocabulary
 
 ### Shadow/Type/Figure/Copy Vocabulary
-- **[G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} -- skia (shadow):** "shade" or "shadow" (literally or figuratively). KJV: "shadow" (4x), "a shadow" (2x), "the shadow" (1x). Applied to ceremonial system in Heb 10:1, Col 2:17, Heb 8:5.
-- **[G2683](https://www.blueletterbible.org/lexicon/g2683/kjv/tr/0-1/){:target="_blank"} -- kataskiazo (overshadow):** KJV: "shadowing" (1x). Used of cherubim in Heb 9:5.
-- **[G5179](https://www.blueletterbible.org/lexicon/g5179/kjv/tr/0-1/){:target="_blank"} -- typos (type/pattern/figure):** "a die, stamp, scar; by implication a stamp or form." KJV: "ensamples" (2x), "figures" (1x), "fashion" (1x), "manner" (1x).
-- **[G3667](https://www.blueletterbible.org/lexicon/g3667/kjv/tr/0-1/){:target="_blank"} -- homoioma (likeness/resemblance):** KJV: "made like" (1x), "similitude" (1x), "likeness" (1x).
+- **G4639 -- skia (shadow):** "shade" or "shadow" (literally or figuratively). KJV: "shadow" (4x), "a shadow" (2x), "the shadow" (1x). Applied to ceremonial system in Heb 10:1, Col 2:17, Heb 8:5.
+- **G2683 -- kataskiazo (overshadow):** KJV: "shadowing" (1x). Used of cherubim in Heb 9:5.
+- **G5179 -- typos (type/pattern/figure):** "a die, stamp, scar; by implication a stamp or form." KJV: "ensamples" (2x), "figures" (1x), "fashion" (1x), "manner" (1x).
+- **G3667 -- homoioma (likeness/resemblance):** KJV: "made like" (1x), "similitude" (1x), "likeness" (1x).
 
 ### Ordinance/Decree Vocabulary
-- **[G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} -- dikaioma (ordinance/righteous requirement):** KJV: "ordinances" (3x -- Luk 1:6; Heb 9:1; Heb 9:10), "righteousness" (3x -- Rom 5:18; Rev 15:4; 19:8), "judgment" (1x), "justification" (1x). In Heb 9:1, 10 modified by "of divine service" and "carnal."
-- **[G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} -- dogma (decree/ordinance):** KJV: "decrees" (2x), "a decree" (1x), "ordinances" (1x), "of ordinances" (1x). Used in abolition texts Col 2:14, Eph 2:15. Never used for the Decalogue.
-- **[G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} -- dogmatizo (to subject to ordinances):** KJV: "are ye subject to ordinances" (1x -- Col 2:20).
+- **G1345 -- dikaioma (ordinance/righteous requirement):** KJV: "ordinances" (3x -- Luk 1:6; Heb 9:1; Heb 9:10), "righteousness" (3x -- Rom 5:18; Rev 15:4; 19:8), "judgment" (1x), "justification" (1x). In Heb 9:1, 10 modified by "of divine service" and "carnal."
+- **G1378 -- dogma (decree/ordinance):** KJV: "decrees" (2x), "a decree" (1x), "ordinances" (1x), "of ordinances" (1x). Used in abolition texts Col 2:14, Eph 2:15. Never used for the Decalogue.
+- **G1379 -- dogmatizo (to subject to ordinances):** KJV: "are ye subject to ordinances" (1x -- Col 2:20).
 
 ### Priesthood Vocabulary
-- **[G749](https://www.blueletterbible.org/lexicon/g749/kjv/tr/0-1/){:target="_blank"} -- archiereus (high priest):** KJV: "chief priests" (47x), "high priest" (31x), "an high priest" (7x). Central term in Hebrews.
-- **[G2409](https://www.blueletterbible.org/lexicon/g2409/kjv/tr/0-1/){:target="_blank"} -- hiereus (priest):** KJV: "priests" (13x), "priest" (10x), "a priest" (5x), "high priest" (1x).
-- **[G2420](https://www.blueletterbible.org/lexicon/g2420/kjv/tr/0-1/){:target="_blank"} -- hierosyne (priesthood/sacredness):** KJV: "priesthood" (4x). Used in Heb 7:11, 12, 24.
-- **[G2405](https://www.blueletterbible.org/lexicon/g2405/kjv/tr/0-1/){:target="_blank"} -- hierateia (priestly office):** KJV: "priest's office" (1x), "office of the priesthood" (1x).
-- **[G2406](https://www.blueletterbible.org/lexicon/g2406/kjv/tr/0-1/){:target="_blank"} -- hierateuma (priestly body):** KJV: "priesthood" (2x). Used in 1Pe 2:5, 9.
-- **[H3548](https://www.blueletterbible.org/lexicon/h3548/kjv/wlc/0-1/){:target="_blank"} -- kohen (priest):** KJV: "the priest" (336x), etc. Active participle meaning "one officiating."
-- **[H3550](https://www.blueletterbible.org/lexicon/h3550/kjv/wlc/0-1/){:target="_blank"} -- kehunnah (priesthood):** KJV: "the priesthood" (5x).
+- **G749 -- archiereus (high priest):** KJV: "chief priests" (47x), "high priest" (31x), "an high priest" (7x). Central term in Hebrews.
+- **G2409 -- hiereus (priest):** KJV: "priests" (13x), "priest" (10x), "a priest" (5x), "high priest" (1x).
+- **G2420 -- hierosyne (priesthood/sacredness):** KJV: "priesthood" (4x). Used in Heb 7:11, 12, 24.
+- **G2405 -- hierateia (priestly office):** KJV: "priest's office" (1x), "office of the priesthood" (1x).
+- **G2406 -- hierateuma (priestly body):** KJV: "priesthood" (2x). Used in 1Pe 2:5, 9.
+- **H3548 -- kohen (priest):** KJV: "the priest" (336x), etc. Active participle meaning "one officiating."
+- **H3550 -- kehunnah (priesthood):** KJV: "the priesthood" (5x).
 
 ### Covenant Vocabulary
-- **[H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} -- berith (covenant):** KJV: "covenant" (260+x). The arrangement/compact, not the law content itself.
-- **[H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} -- karath (to cut):** Used in idiom "karath berith" = "cut/make a covenant." Jer 31:31 uses karath for making the new covenant.
-- **[G1242](https://www.blueletterbible.org/lexicon/g1242/kjv/tr/0-1/){:target="_blank"} -- diatheke (covenant/testament/disposition):** KJV: "covenant" (15x), "testament" (11x), "covenants" (3x). Central word in Hebrews 8-10.
-- **[G2537](https://www.blueletterbible.org/lexicon/g2537/kjv/tr/0-1/){:target="_blank"} -- kainos (new in quality):** Used for "new covenant" in Heb 8:8, 13; 9:15. Denotes newness in quality/character, not merely recent.
-- **[G3822](https://www.blueletterbible.org/lexicon/g3822/kjv/tr/0-1/){:target="_blank"} -- palaioo (to make old/obsolete):** KJV: "old" (2x), "shall wax old" (1x), "he hath made" (1x). Used in Heb 8:13.
-- **[G854](https://www.blueletterbible.org/lexicon/g854/kjv/tr/0-1/){:target="_blank"} -- aphanismos (vanishing/disappearance):** KJV: "to vanish away" (1x). Used in Heb 8:13.
+- **H1285 -- berith (covenant):** KJV: "covenant" (260+x). The arrangement/compact, not the law content itself.
+- **H3772 -- karath (to cut):** Used in idiom "karath berith" = "cut/make a covenant." Jer 31:31 uses karath for making the new covenant.
+- **G1242 -- diatheke (covenant/testament/disposition):** KJV: "covenant" (15x), "testament" (11x), "covenants" (3x). Central word in Hebrews 8-10.
+- **G2537 -- kainos (new in quality):** Used for "new covenant" in Heb 8:8, 13; 9:15. Denotes newness in quality/character, not merely recent.
+- **G3822 -- palaioo (to make old/obsolete):** KJV: "old" (2x), "shall wax old" (1x), "he hath made" (1x). Used in Heb 8:13.
+- **G854 -- aphanismos (vanishing/disappearance):** KJV: "to vanish away" (1x). Used in Heb 8:13.
 
 ### Abolish/Take Away/Establish Vocabulary
-- **[G337](https://www.blueletterbible.org/lexicon/g337/kjv/tr/0-1/){:target="_blank"} -- anaireo (to take away/remove):** Used in Heb 10:9 "he taketh away the first."
-- **[G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"} -- histemi (to establish/stand):** Used in Heb 10:9 "that he may establish the second." Also Rom 3:31 "we establish the law."
-- **[G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} -- katargeo (to abolish/make void):** Used in Eph 2:15, 2 Cor 3:7, 11, 13; Rom 3:31. Paul uses same verb to abolish dogma-qualified law AND to deny abolishing nomos.
+- **G337 -- anaireo (to take away/remove):** Used in Heb 10:9 "he taketh away the first."
+- **G2476 -- histemi (to establish/stand):** Used in Heb 10:9 "that he may establish the second." Also Rom 3:31 "we establish the law."
+- **G2673 -- katargeo (to abolish/make void):** Used in Eph 2:15, 2 Cor 3:7, 11, 13; Rom 3:31. Paul uses same verb to abolish dogma-qualified law AND to deny abolishing nomos.
 
 ---
 
@@ -275,16 +275,3 @@ This study is part of a 31-study Law of God series. The analysis agent MUST foll
 
 ## Workflow
 answer-question
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

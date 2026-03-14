@@ -36,7 +36,7 @@ Each E-item has been processed through Tree 1 (Tier Classification) and Tree 3 (
 
 | # | Explicit Statement | Reference | Position | Master ID |
 |---|---|---|---|---|
-| E1 | Jesus's "custom" (eiothos, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, Perfect Active Participle) was to go into the synagogue on the sabbath day. The Perfect tense indicates a settled, completed, ongoing habit. | Luk 4:16 | Neutral | E320 |
+| E1 | Jesus's "custom" (eiothos, G1486, Perfect Active Participle) was to go into the synagogue on the sabbath day. The Perfect tense indicates a settled, completed, ongoing habit. | Luk 4:16 | Neutral | E320 |
 | E2 | Luke uses the IDENTICAL Greek construction kata to eiothos (G1486, Perfect Active Participle) for both Jesus (Luk 4:16) and Paul (Acts 17:2) -- same author, same construction, same form. | Luk 4:16; Acts 17:2 | Neutral | E321 |
 | E3 | The exesti (G1832, "it is lawful") framework appears in 12 Sabbath controversy instances across all four Gospels. Both Pharisees and Jesus use exesti to debate WHAT is lawful on the Sabbath. | Mat 12:2,4,10,12; Mrk 2:24,26; 3:4; Luk 6:2,4,9; 14:3; Jhn 5:10 | Neutral | E322 |
 | E4 | Jesus declares His disciples "guiltless" (anaitioi, G338): "ye would not have condemned the guiltless." | Mat 12:7 | Continues | E323 |
@@ -222,16 +222,3 @@ No explicit statement or necessary implication supports the Abolished position. 
 
 *Study completed: 2026-02-24*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -52,7 +52,7 @@ Each E-item below has been processed through **Tree 1 (Tier Classification)** an
 | E18 | Imrah (H565) maps primarily to logion (G3051, "oracle/divine utterance") in the LXX (25x), distinct from dabar which maps to logos (G3056, "word"). The LXX preserved the Hebrew distinction between dabar and imrah. | LXX data; Psa 119 passim | Neutral | V1: No. V2: No. Both NO -> Neutral. (Translation fact.) | E223 (new) |
 | E19 | Yirah (H3374, "fear") appears in Psalm 19:9 in the syntactic slot of a law term, parallel with torah, eduth, piqqudim, mitsvah, and mishpatim. "The fear of the LORD is clean, enduring for ever." | Psa 19:9 | Neutral | V1: No explicit continuation/cessation vocabulary applied to yirah as law category. V2: No. Both NO -> Neutral. (Poetic/structural observation.) | E224 (new) |
 | E20 | Choq and chuqqah combined have no single dominant Greek LXX equivalent. Choq maps to dikaioma (52x), nomimos (18x), krima (23x), entole (22x). Chuqqah maps to nomimos (32x), dikaioma (35x), phylasso (39x), aionios (20x). | LXX data | Neutral | V1: No. V2: No. Both NO -> Neutral. (Translation fact showing instability of Greek rendering.) | E225 (new) |
-| E21 | Mishmereth (H4931) opens vocabulary clusters in Gen 26:5, Deu 11:1, and 1 Ki 2:3. Its root (shamar, [H8104](https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/){:target="_blank"}, "to keep, guard") gives it the meaning "the overall obligation to keep/guard." | Gen 26:5; Deu 11:1; 1Ki 2:3 | Neutral | V1: No. V2: No. Both NO -> Neutral. (Lexical/structural observation.) | E226 (new) |
+| E21 | Mishmereth (H4931) opens vocabulary clusters in Gen 26:5, Deu 11:1, and 1 Ki 2:3. Its root (shamar, H8104, "to keep, guard") gives it the meaning "the overall obligation to keep/guard." | Gen 26:5; Deu 11:1; 1Ki 2:3 | Neutral | V1: No. V2: No. Both NO -> Neutral. (Lexical/structural observation.) | E226 (new) |
 | E22 | 1 Kings 2:3 contains six law terms in one verse: mishmereth, chuqqah, mitsvah, mishpat, eduth -- all said to be "written in the torah of Moses." Torah is the umbrella containing five sub-categories. | 1Ki 2:3 | Neutral | V1: No. V2: No. Both NO -> Neutral. (Textual observation about the most comprehensive vocabulary cluster.) | E227 (new) |
 | E23 | No Hebrew law term means exclusively "moral law" or exclusively "ceremonial law." Each term's semantic range crosses the moral/ceremonial boundary. Chuqqah is used for both Passover (Exo 12:14) and general covenant faithfulness (Lev 26:3). Mitsvah is used for both Decalogue commands (Deu 5:29) and all commands generally. | Exo 12:14; Lev 26:3; Deu 5:29; Psa 119 | Neutral | V1: No. V2: No. Both NO -> Neutral. (Semantic range observation both sides must accept.) | E228 (new) |
 
@@ -312,16 +312,3 @@ The Hebrew vocabulary data neither proves nor disproves the moral/ceremonial/civ
 *Study completed: 2026-02-23*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
 *Evidence items tracked in law-master-evidence.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

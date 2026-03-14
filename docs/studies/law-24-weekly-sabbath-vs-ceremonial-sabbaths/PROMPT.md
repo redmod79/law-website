@@ -77,19 +77,19 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | shabbath -- "sabbath" (108 occurrences) | Core term: the weekly Sabbath of the Decalogue and "the sabbaths of the LORD" in Lev 23:38 |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | shabbathown -- "sabbatism/rest" (11 occurrences) | Used for feast-day rests (Lev 23:24,39) AND the weekly Sabbath (Lev 23:3); the distribution pattern is critical |
-| [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} | shabath (verb) -- "to cease/rest" (110 occurrences) | The verb in Gen 2:2 (God "rested"); root of both shabbath and shabbathown |
-| [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} | moed -- "appointed time/feast/congregation" (223 occurrences) | The word for "feasts" in Lev 23:2,4; "set feasts" in Num 29:39; "seasons" in Gen 1:14 |
-| [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} | chag -- "feast/festival" (62 occurrences) | Distinct from moed; used for the three pilgrimage feasts (Exo 23:14-17) |
-| [H4868](https://www.blueletterbible.org/lexicon/h4868/kjv/wlc/0-1/){:target="_blank"} | mishbath -- "cessation/destruction" (1 occurrence) | Rare sabbath-related noun; Lam 1:7 |
-| [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} | shbi'i -- "seventh" (93 occurrences) | "The seventh day" in creation and Fourth Commandment |
-| [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} | shabua -- "week/seven" (20 occurrences) | Root shared with sabbath; "Feast of Weeks" (shavuot) |
-| [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} | bad/millibad -- "apart from/beside" | The critical preposition in Lev 23:38 separating feast sabbaths from weekly Sabbaths |
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} | sabbaton -- Greek "Sabbath" (68 occurrences) | NT Sabbath term; the referent in Col 2:16 |
-| [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} | sabbatismos -- "Sabbath-keeping" (1 occurrence) | Heb 4:9 hapax: "there remaineth a sabbatismos to the people of God" |
-| [H4744](https://www.blueletterbible.org/lexicon/h4744/kjv/wlc/0-1/){:target="_blank"} | miqra -- "holy convocation" (23 occurrences) | Used for both the weekly Sabbath (Lev 23:3) and the annual feasts (Lev 23:4,7,8 etc.) |
-| [H6944](https://www.blueletterbible.org/lexicon/h6944/kjv/wlc/0-1/){:target="_blank"} | qodesh -- "holy/set apart" (470 occurrences) | "Holy convocation" -- used in both weekly Sabbath (Lev 23:3) and feast descriptions |
+| H7676 | shabbath -- "sabbath" (108 occurrences) | Core term: the weekly Sabbath of the Decalogue and "the sabbaths of the LORD" in Lev 23:38 |
+| H7677 | shabbathown -- "sabbatism/rest" (11 occurrences) | Used for feast-day rests (Lev 23:24,39) AND the weekly Sabbath (Lev 23:3); the distribution pattern is critical |
+| H7673 | shabath (verb) -- "to cease/rest" (110 occurrences) | The verb in Gen 2:2 (God "rested"); root of both shabbath and shabbathown |
+| H4150 | moed -- "appointed time/feast/congregation" (223 occurrences) | The word for "feasts" in Lev 23:2,4; "set feasts" in Num 29:39; "seasons" in Gen 1:14 |
+| H2282 | chag -- "feast/festival" (62 occurrences) | Distinct from moed; used for the three pilgrimage feasts (Exo 23:14-17) |
+| H4868 | mishbath -- "cessation/destruction" (1 occurrence) | Rare sabbath-related noun; Lam 1:7 |
+| H7637 | shbi'i -- "seventh" (93 occurrences) | "The seventh day" in creation and Fourth Commandment |
+| H7620 | shabua -- "week/seven" (20 occurrences) | Root shared with sabbath; "Feast of Weeks" (shavuot) |
+| H905 | bad/millibad -- "apart from/beside" | The critical preposition in Lev 23:38 separating feast sabbaths from weekly Sabbaths |
+| G4521 | sabbaton -- Greek "Sabbath" (68 occurrences) | NT Sabbath term; the referent in Col 2:16 |
+| G4520 | sabbatismos -- "Sabbath-keeping" (1 occurrence) | Heb 4:9 hapax: "there remaineth a sabbatismos to the people of God" |
+| H4744 | miqra -- "holy convocation" (23 occurrences) | Used for both the weekly Sabbath (Lev 23:3) and the annual feasts (Lev 23:4,7,8 etc.) |
+| H6944 | qodesh -- "holy/set apart" (470 occurrences) | "Holy convocation" -- used in both weekly Sabbath (Lev 23:3) and feast descriptions |
 
 ### Related Existing Studies
 | Study | Relevance |
@@ -112,7 +112,7 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 
 4. **law-02 (Law before Sinai):** The verb shabath (H7673, "to cease/rest") appears at creation (Gen 2:2-3). The noun shabbath (H7676, "sabbath") first appears in Exo 16:23. This verb-to-noun progression shows the Sabbath concept predates its formal naming.
 
-5. **law-13 (Jesus and Sabbath):** Word study on shabbathown (H7677): "From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}; a sabbatism or special holiday -- rest, sabbath." 11 occurrences. Used for both the weekly Sabbath (Exo 31:15; 35:2; Lev 23:3) and for ceremonial rest days (Lev 16:31; 23:24,32,39; 25:4-5). The shared vocabulary makes the textual distinctions (like millibad) even more important.
+5. **law-13 (Jesus and Sabbath):** Word study on shabbathown (H7677): "From H7676; a sabbatism or special holiday -- rest, sabbath." 11 occurrences. Used for both the weekly Sabbath (Exo 31:15; 35:2; Lev 23:3) and for ceremonial rest days (Lev 16:31; 23:24,32,39; 25:4-5). The shared vocabulary makes the textual distinctions (like millibad) even more important.
 
 ### Focus Areas
 (Derived from tool discoveries -- topics and verses found by Nave's, Strong's, semantic searches, and existing study data)
@@ -153,7 +153,7 @@ You are the Research Agent. Execute this study by:
 6. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (retrieve EVERY verse listed above from kjv.txt)
-   - `04-word-studies.md` - Strong's research for all listed numbers (H7676, [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"}, [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"}, [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"}, [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"}, [H4868](https://www.blueletterbible.org/lexicon/h4868/kjv/wlc/0-1/){:target="_blank"}, [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"}, [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"}, [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"}, [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}, [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"}, [H4744](https://www.blueletterbible.org/lexicon/h4744/kjv/wlc/0-1/){:target="_blank"}, H6944)
+   - `04-word-studies.md` - Strong's research for all listed numbers (H7676, H7677, H7673, H4150, H2282, H4868, H7637, H7620, H905, G4521, G4520, H4744, H6944)
    - `raw-data/` - Raw tool output organized by category
 7. Run cross-testament parallels for key verses: Lev 23:3, Lev 23:37-38, Num 28:9-10, Gen 1:14, Col 2:16-17
 8. Retrieve Hebrew parsing for key verses: Lev 23:3 (shabbath shabbathon miqra-qodesh), Lev 23:24 (shabbathon), Lev 23:32 (shabbath shabbathon), Lev 23:38 (millibad shabbetot YHWH), Gen 1:14 (moadim), Lev 25:4 (shabbath shabbathon)
@@ -195,16 +195,3 @@ answer-question
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-24-weekly-sabbath-vs-ceremonial-sabbaths/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

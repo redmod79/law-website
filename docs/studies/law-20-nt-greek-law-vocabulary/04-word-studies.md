@@ -322,12 +322,12 @@ This explains dikaioma's wide NT semantic range: it inherited the breadth of sev
 
 ## 6. Related Greek Terms
 
-### [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} dogmatizo -- "to subject to ordinances"
+### G1379 dogmatizo -- "to subject to ordinances"
 - 1 NT occurrence: Col 2:20 (verbal form of dogma)
 - Present passive indicative: "are you being subjected to ordinances?"
 - Same ceremonial/cessation domain as dogma
 
-### [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} katargeo -- "to abolish, make void, render idle"
+### G2673 katargeo -- "to abolish, make void, render idle"
 - 27 NT occurrences (32 in Strong's DB)
 - Key law-abolition passages:
   - Eph 2:15: "Having ABOLISHED...the law of commandments in ordinances"
@@ -335,35 +335,35 @@ This explains dikaioma's wide NT semantic range: it inherited the breadth of sev
   - 2 Cor 3:7,11,13: "done away" / "abolished" (re: glory, not law itself)
 - Notable: Paul uses katargeo BOTH for abolishing (Eph 2:15) AND denying abolishing (Rom 3:31)
 
-### [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} skia -- "shadow"
+### G4639 skia -- "shadow"
 - 7 NT occurrences (3 applied to ceremonial system)
 - Col 2:17: "Which are a SHADOW of things to come"
 - Heb 8:5: "serve unto the example and SHADOW of heavenly things"
 - Heb 10:1: "the law having a SHADOW of good things to come"
 - Always in ceremonial/sacrificial contexts when applied to the law
 
-### [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} anomia -- "lawlessness, transgression of law"
+### G458 anomia -- "lawlessness, transgression of law"
 - 15 NT occurrences
 - 1 Jhn 3:4: "sin IS the transgression of the law" (anomia = law-violation)
 - Mat 7:23; 13:41; 23:28; 24:12 -- "iniquity" = lawlessness
 - This term presupposes a continuing moral law against which transgression is measured
 
-### [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} anomos -- "lawless, without law"
+### G459 anomos -- "lawless, without law"
 - 10 NT occurrences
 - 1 Cor 9:21: Paul's complex usage -- "to them that are without law [anomos], as without law [anomos], (being not without law [anomos] to God, but under the law [ennomos G1772] to Christ)"
 - This shows Paul carefully distinguishes being "lawless" from being "under a different law"
 
-### [G3548](https://www.blueletterbible.org/lexicon/g3548/kjv/tr/0-1/){:target="_blank"} nomothesia -- "legislation, giving of the law"
+### G3548 nomothesia -- "legislation, giving of the law"
 - 1 occurrence: Rom 9:4 -- Israel's privilege of receiving the law
 
-### [G3549](https://www.blueletterbible.org/lexicon/g3549/kjv/tr/0-1/){:target="_blank"} nomotheteo -- "to legislate, establish law"
+### G3549 nomotheteo -- "to legislate, establish law"
 - 2 occurrences: Heb 7:11 ("received the law"), Heb 8:6 ("was established")
 
-### [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} dikaiosyne -- "righteousness"
+### G1343 dikaiosyne -- "righteousness"
 - 92 NT occurrences -- related to dikaioma
 - Broader concept of righteous character or standing
 
-### [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} dikaioo -- "to justify, declare righteous"
+### G1344 dikaioo -- "to justify, declare righteous"
 - 40 NT occurrences -- related to dikaioma
 - Forensic/legal declaration of righteousness
 
@@ -466,16 +466,3 @@ The LXX maintained torah->nomos and mitsvah->entole as stable mappings. But it C
 - τήρησις ἐντολῶν Θεοῦ (teresis entolon Theou) = "keeping of commandments of God"
 - entole is explicitly DISTINGUISHED from circumcision (ceremonial)
 - What matters = entole (moral commands of God), NOT peritome (ceremonial)
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

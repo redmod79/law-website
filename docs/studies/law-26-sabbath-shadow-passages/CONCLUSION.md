@@ -46,7 +46,7 @@ Each E-item has been processed through Tree 1 (Tier Classification) and Tree 3 (
 | E2 | "Let no man therefore [oun] judge you in meat, or in drink, or in respect of an holyday [heortes], or of the new moon [neomenias], or of the sabbath days [sabbaton]: which are a shadow [skia] of things to come [ton mellonton]; but the body [soma] is of Christ." The conjunction oun connects the items in v.16-17 to what was nailed in v.14. | Col 2:16-17 | Neutral | E055 (exists) |
 | E3 | Cheirographon (G5498) is a hapax legomenon meaning "hand-written" (cheir = hand, grapho = write). The Decalogue was "written with the finger of God" (Exo 31:18; Deu 9:10). The book of the law was written by Moses' hand (Deu 31:9, 24). | Col 2:14; Exo 31:18; Deu 31:24 | Neutral | E250 (exists) |
 | E4 | Dogma (G1378) appears 5 times in the NT: Caesar's decree (Luk 2:1), Caesar's decrees (Acts 17:7), Jerusalem Council's decrees (Acts 16:4), and the "ordinances" abolished/nailed in Eph 2:15 and Col 2:14. Dogma is never used for the Decalogue or the moral law. | Luk 2:1; Acts 16:4; Acts 17:7; Eph 2:15; Col 2:14 | Neutral | E249 (exists) |
-| E5 | Col 2:20-22: Paul identifies the "ordinances" (dogmatizesthe, [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"}, verbal form of dogma) as "Touch not; taste not; handle not; which all are to perish with the using; after the commandments and doctrines of men [entalmata kai didaskalias ton anthropon]." | Col 2:20-22 | Neutral | E254 (exists) |
+| E5 | Col 2:20-22: Paul identifies the "ordinances" (dogmatizesthe, G1379, verbal form of dogma) as "Touch not; taste not; handle not; which all are to perish with the using; after the commandments and doctrines of men [entalmata kai didaskalias ton anthropon]." | Col 2:20-22 | Neutral | E254 (exists) |
 | E6 | The OT uses a recurring triad of "feasts/new moons/sabbaths" in ceremonial calendar contexts: 2 Chr 31:3, Eze 45:17, Hos 2:11, 1 Chr 23:31, 2 Chr 2:4, 2 Chr 8:13, Neh 10:33, Isa 1:13-14. In every occurrence, this triad describes the ceremonial calendar system. | 2 Chr 31:3; Eze 45:17; Hos 2:11 | Neutral | E486 (exists) |
 | E7 | Eze 45:17 states: "It shall be the prince's part to give burnt offerings, and meat offerings, and drink offerings, in the feasts, and in the new moons, and in the sabbaths, in all solemnities of the house of Israel: he shall prepare the sin offering, and the meat offering, and the burnt offering, and the peace offerings, to make reconciliation for the house of Israel." The same categories (meat/drink/feast/new moon/sabbath) in the same order as Col 2:16, for ceremonial reconciliation. | Eze 45:17 | Neutral | E502 (new) |
 | E8 | "The law having a shadow [skia] of good things to come...can never with those sacrifices which they offered year by year continually make the comers thereunto perfect." Skia applied to the sacrificial system. | Heb 10:1 | Neutral | E056 (exists) |
@@ -332,16 +332,3 @@ The Continues position's items: 9 Explicit statements, 3 Necessary Implications,
 - CANNOT say: "All sabbaths are one unified category abolished at the cross." The text of Lev 23:37-38 explicitly distinguishes weekly sabbaths from feast sabbaths. This is an I-D inference requiring override of multiple E/N statements.
 - CANNOT say: "The Sabbath is explicitly named and abolished in any NT passage." No NT passage names the Decalogue Sabbath as abolished.
 - CANNOT say: "Col 2:16 is definitely about ONLY ceremonial sabbaths." While the I-B resolution is Strong toward ceremonial, the text does not explicitly state "ceremonial sabbaths only." The identification relies on the OT triad pattern and the Lev 23:38 distinction applied via SIS.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

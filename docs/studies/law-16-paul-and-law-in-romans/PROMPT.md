@@ -27,7 +27,7 @@ This is study #16 in the "Law of God" series. The analysis agent MUST read and f
 15. **law-15 (Acts 15 Jerusalem Council):** Council addressed circumcision/ceremonial requirement. v.21 assumes ongoing Sabbath instruction. "We're Gentiles" objection addressed by incorporation into Israel.
 
 ### Related Non-Series Study
-- **romans-10-4-telos:** Analyzed [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} (telos) in Romans 10:4. Concluded telos = "goal/purpose" (not termination), based on 1 Tim 1:5 parallel (identical construction, clearly = goal). Paul denies faith voids law (Rom 3:31). The law was schoolmaster unto Christ (Gal 3:24). The law itself testified to faith-righteousness (Rom 3:21; Deut 30:12-14 quoted in Rom 10:6-8).
+- **romans-10-4-telos:** Analyzed G5056 (telos) in Romans 10:4. Concluded telos = "goal/purpose" (not termination), based on 1 Tim 1:5 parallel (identical construction, clearly = goal). Paul denies faith voids law (Rom 3:31). The law was schoolmaster unto Christ (Gal 3:24). The law itself testified to faith-righteousness (Rom 3:21; Deut 30:12-14 quoted in Rom 10:6-8).
 
 ## Discovered Scope
 
@@ -133,39 +133,39 @@ This is study #16 in the "Law of God" series. The analysis agent MUST read and f
 
 | Strong's | Word | Definition | Relevance |
 |----------|------|-----------|-----------|
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos | law; from nemo (to parcel out) | Primary term Paul uses for "law" throughout Romans |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole | injunction; authoritative prescription | "Commandment" — used in Rom 7:8-13; 13:9 |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma | law (civil, ceremonial); a decree | "Ordinances" — used in Col 2:14; Eph 2:15; NOT used for Decalogue (per law-08) |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma | equitable deed; statute; ordinance | "Ordinance/righteousness" — used in Rom 1:32; 2:26; 5:16,18; 8:4 |
-| [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} | dogmatizo | to prescribe by statute; submit to ordinances | Col 2:20 — subjection to decrees |
-| [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} | ennomos | legal; subject to law | 1 Cor 9:21 — "under the law to Christ" |
-| [G1297](https://www.blueletterbible.org/lexicon/g1297/kjv/tr/0-1/){:target="_blank"} | diatagma | arrangement; authoritative edict | "Commandment" (1x) |
-| [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} | chuqqah | statute, ordinance, custom | OT background — "my statutes" in covenant contexts |
-| [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} | mitsvah | command (human or divine) | OT background — "commandments" in Decalogue contexts |
+| G3551 | nomos | law; from nemo (to parcel out) | Primary term Paul uses for "law" throughout Romans |
+| G1785 | entole | injunction; authoritative prescription | "Commandment" — used in Rom 7:8-13; 13:9 |
+| G1378 | dogma | law (civil, ceremonial); a decree | "Ordinances" — used in Col 2:14; Eph 2:15; NOT used for Decalogue (per law-08) |
+| G1345 | dikaioma | equitable deed; statute; ordinance | "Ordinance/righteousness" — used in Rom 1:32; 2:26; 5:16,18; 8:4 |
+| G1379 | dogmatizo | to prescribe by statute; submit to ordinances | Col 2:20 — subjection to decrees |
+| G1772 | ennomos | legal; subject to law | 1 Cor 9:21 — "under the law to Christ" |
+| G1297 | diatagma | arrangement; authoritative edict | "Commandment" (1x) |
+| H2708 | chuqqah | statute, ordinance, custom | OT background — "my statutes" in covenant contexts |
+| H4687 | mitsvah | command (human or divine) | OT background — "commandments" in Decalogue contexts |
 
 **Query 2: "justify righteousness faith grace"**
 
 | Strong's | Word | Definition | Relevance |
 |----------|------|-----------|-----------|
-| [G1347](https://www.blueletterbible.org/lexicon/g1347/kjv/tr/0-1/){:target="_blank"} | dikaiosis | acquittal (for Christ's sake); justification | "Justification" — Rom 4:25; 5:18 |
-| [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} | dikaiosyne | equity of character or act; righteousness | "Righteousness" — core term throughout Rom 1:17; 3:21-26; 4:3-13; 9:30-10:10 |
-| [G1342](https://www.blueletterbible.org/lexicon/g1342/kjv/tr/0-1/){:target="_blank"} | dikaios | equitable; innocent; holy | "Righteous/just" — Rom 1:17; 3:10,26; 5:19 |
-| [G1346](https://www.blueletterbible.org/lexicon/g1346/kjv/tr/0-1/){:target="_blank"} | dikaios (adv) | equitably; justly | "Righteously" — Rom 1:17 context |
-| [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} | pistis | persuasion; credence; moral conviction | "Faith" — core term; Rom 1:17; 3:22-31; 4:5-20; 5:1-2; 10:17 |
-| [G5487](https://www.blueletterbible.org/lexicon/g5487/kjv/tr/0-1/){:target="_blank"} | charitoo | to grace; indue with special honor | "Highly favoured" — Eph 1:6; Luk 1:28 |
-| [H6662](https://www.blueletterbible.org/lexicon/h6662/kjv/wlc/0-1/){:target="_blank"} | tsaddiyq | just; righteous | OT parallel — "the just shall live by faith" (Hab 2:4, quoted Rom 1:17) |
-| [H6666](https://www.blueletterbible.org/lexicon/h6666/kjv/wlc/0-1/){:target="_blank"} | tsedaqah | rightness; righteousness; justice | OT parallel — righteousness vocabulary in Psalms, Isaiah |
+| G1347 | dikaiosis | acquittal (for Christ's sake); justification | "Justification" — Rom 4:25; 5:18 |
+| G1343 | dikaiosyne | equity of character or act; righteousness | "Righteousness" — core term throughout Rom 1:17; 3:21-26; 4:3-13; 9:30-10:10 |
+| G1342 | dikaios | equitable; innocent; holy | "Righteous/just" — Rom 1:17; 3:10,26; 5:19 |
+| G1346 | dikaios (adv) | equitably; justly | "Righteously" — Rom 1:17 context |
+| G4102 | pistis | persuasion; credence; moral conviction | "Faith" — core term; Rom 1:17; 3:22-31; 4:5-20; 5:1-2; 10:17 |
+| G5487 | charitoo | to grace; indue with special honor | "Highly favoured" — Eph 1:6; Luk 1:28 |
+| H6662 | tsaddiyq | just; righteous | OT parallel — "the just shall live by faith" (Hab 2:4, quoted Rom 1:17) |
+| H6666 | tsedaqah | rightness; righteousness; justice | OT parallel — righteousness vocabulary in Psalms, Isaiah |
 
 **Query 3: "end goal purpose telos fulfillment"**
 
 | Strong's | Word | Definition | Relevance |
 |----------|------|-----------|-----------|
-| [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} | telos | end; goal; purpose; outcome; completion | KEY — Rom 10:4 "Christ is the telos of the law" (see romans-10-4-telos study: = goal, not termination) |
-| [G5049](https://www.blueletterbible.org/lexicon/g5049/kjv/tr/0-1/){:target="_blank"} | teleios (adv) | completely; to the end | Related to telos family |
-| [G5051](https://www.blueletterbible.org/lexicon/g5051/kjv/tr/0-1/){:target="_blank"} | teleiotes | completer; consummator | Heb 12:2 — Jesus as "finisher" of faith |
-| [G5050](https://www.blueletterbible.org/lexicon/g5050/kjv/tr/0-1/){:target="_blank"} | teleiosis | completion; verification; perfection | Heb 7:11 — "perfection" under Levitical priesthood |
-| [G1603](https://www.blueletterbible.org/lexicon/g1603/kjv/tr/0-1/){:target="_blank"} | ekpleroo | to accomplish entirely; fulfill | Acts 13:33 — "fulfilled" |
-| [H8503](https://www.blueletterbible.org/lexicon/h8503/kjv/wlc/0-1/){:target="_blank"} | takliyth | completion; extremity; end | OT parallel — "end, perfection" |
+| G5056 | telos | end; goal; purpose; outcome; completion | KEY — Rom 10:4 "Christ is the telos of the law" (see romans-10-4-telos study: = goal, not termination) |
+| G5049 | teleios (adv) | completely; to the end | Related to telos family |
+| G5051 | teleiotes | completer; consummator | Heb 12:2 — Jesus as "finisher" of faith |
+| G5050 | teleiosis | completion; verification; perfection | Heb 7:11 — "perfection" under Levitical priesthood |
+| G1603 | ekpleroo | to accomplish entirely; fulfill | Acts 13:33 — "fulfilled" |
+| H8503 | takliyth | completion; extremity; end | OT parallel — "end, perfection" |
 
 ### Related Existing Studies
 
@@ -192,13 +192,13 @@ The following focus areas are derived from the tool discoveries above:
    - Nave's CONSCIENCE topic (0.59 score) lists ROM 2:14,15 as a key verse
    - Nave's GENTILES topic lists ROM 2:1-15
    - Connection to new covenant promise (Jer 31:33) — law-10 and law-11 established that the law written on hearts = Decalogue
-   - [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos) — which law do Gentiles have "by nature"?
+   - G3551 (nomos) — which law do Gentiles have "by nature"?
 
 2. **Romans 3:19-31 — Justification and law**
    - Nave's JUSTIFICATION topic lists ROM 3:21,22,24-26,28,30 extensively
-   - [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} (dikaiosyne) — "righteousness of God without the law" (3:21) yet "witnessed by the law" (3:21)
+   - G1343 (dikaiosyne) — "righteousness of God without the law" (3:21) yet "witnessed by the law" (3:21)
    - ROM 3:31 — "Do we make void the law through faith? God forbid: we establish the law"
-   - [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma) — "ordinance" / "righteousness" usage in Romans
+   - G1345 (dikaioma) — "ordinance" / "righteousness" usage in Romans
 
 3. **Romans 6:14-15 — "Not under law but under grace"**
    - Nave's GRACE OF GOD topic (0.47) lists ROM 5:2,6-8,15-21
@@ -213,18 +213,18 @@ The following focus areas are derived from the tool discoveries above:
    - ROM 7:14 — "the law is spiritual"
    - ROM 7:22 — "I delight in the law of God after the inward man"
    - ROM 7:25 — "with the mind I myself serve the law of God"
-   - [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole) — "commandment" in Rom 7:8-13
+   - G1785 (entole) — "commandment" in Rom 7:8-13
    - law-07 finding: "law of God" in Rom 7 = Decalogue
 
 5. **Romans 8:1-4 — The Spirit and the law's righteousness**
    - Nave's HOLY SPIRIT topic (0.52) — Spirit's role in relation to law
    - ROM 8:2 — "law of the Spirit of life" vs "law of sin and death"
    - ROM 8:4 — "the righteousness of the law might be fulfilled in us"
-   - [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma) — "righteousness/ordinance" of the law fulfilled in Spirit-walkers
+   - G1345 (dikaioma) — "righteousness/ordinance" of the law fulfilled in Spirit-walkers
    - Does the Spirit enable law-keeping or replace the law?
 
 6. **Romans 10:4 — Christ the "telos" of the law**
-   - [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} (telos) — goal/purpose vs termination
+   - G5056 (telos) — goal/purpose vs termination
    - Prior study (romans-10-4-telos) concluded = goal, based on 1 Tim 1:5 parallel
    - Nave's LAW "Temporary" section lists ROM 10:4 — but also lists passages the series has analyzed otherwise
    - ROM 10:5-8 quotes Deuteronomy 30:12-14 — the LAW ITSELF teaches faith-righteousness
@@ -232,18 +232,18 @@ The following focus areas are derived from the tool discoveries above:
 7. **Romans 13:8-10 — Love as law fulfillment**
    - Nave's COMMANDMENTS topic lists ROM 13:8-14 under "Precepts of Paul"
    - ROM 13:9 explicitly quotes four Decalogue commandments (adultery, murder, theft, false witness/covet) and says they are "briefly comprehended" in "love thy neighbour"
-   - [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole) — "commandment" in 13:9
+   - G1785 (entole) — "commandment" in 13:9
    - Does "love is the fulfilling of the law" mean love replaces the law or that love is expressed through law-keeping?
 
 8. **The nomos semantic range in Romans**
-   - [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos) appears ~74 times in Romans — more than any other NT book
+   - G3551 (nomos) appears ~74 times in Romans — more than any other NT book
    - Paul uses nomos in multiple senses: Mosaic law, principle/pattern, Torah as Scripture, specific commandments
    - Tracking which sense Paul intends in each passage is critical for accurate analysis
    - law-06 (Hebrew vocabulary) and law-07 (law of Moses) provide framework for this
 
 9. **Relationship between justification and sanctification**
-   - [G1347](https://www.blueletterbible.org/lexicon/g1347/kjv/tr/0-1/){:target="_blank"} (dikaiosis) — justification (Rom 4:25; 5:18)
-   - [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} (dikaiosyne) — righteousness throughout Romans
+   - G1347 (dikaiosis) — justification (Rom 4:25; 5:18)
+   - G1343 (dikaiosyne) — righteousness throughout Romans
    - How does Paul distinguish between the law's role in justification (not by works of law) and its role in sanctification (walking after the Spirit fulfills the law's righteousness)?
 
 10. **The Nave's LAW "Temporary" classification**
@@ -261,7 +261,7 @@ You are the Research Agent. Execute this study by:
 5. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (MUST include full text of Rom 2:12-16, 3:19-31, 6:14-15, 7:1-25, 8:1-4, 10:1-13, 13:8-10 plus all cross-references discovered)
-   - `04-word-studies.md` - Strong's research on [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (nomos), [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole), [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (dikaioma), [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} (dikaiosyne), [G1347](https://www.blueletterbible.org/lexicon/g1347/kjv/tr/0-1/){:target="_blank"} (dikaiosis), [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} (pistis), [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} (telos), and any others discovered
+   - `04-word-studies.md` - Strong's research on G3551 (nomos), G1785 (entole), G1345 (dikaioma), G1343 (dikaiosyne), G1347 (dikaiosis), G4102 (pistis), G5056 (telos), and any others discovered
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -278,16 +278,3 @@ answer-question
 ---
 *Scoped: 2026-02-25*
 *Folder: bible-studies/law-16-paul-and-law-in-romans/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

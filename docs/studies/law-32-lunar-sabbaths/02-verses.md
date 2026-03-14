@@ -26,7 +26,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 ### Psalm 104:19 (Moon Appointed for moadim)
 > **Psalm 104:19** He appointed the moon for seasons: the sun knoweth his going down.
 
-**Notes:** "seasons" = [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} moed. The moon marks moadim (festival seasons), not shabbatot (sabbaths). [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} is NEVER used as a synonym for [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath).
+**Notes:** "seasons" = H4150 moed. The moon marks moadim (festival seasons), not shabbatot (sabbaths). H4150 is NEVER used as a synonym for H7676 (shabbath).
 
 ### Genesis 37:9 (Joseph's Dream -- Moon as Symbol)
 > **Genesis 37:9** And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
@@ -103,7 +103,7 @@ Does the Bible teach that the weekly Sabbath is governed by the lunar cycle (fal
 
 See 04-word-studies.md for complete Strong's data.
 
-**Summary:** [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath) has 108 OT uses. NEVER translated or used to mean "lunar-cycle rest day." Always means "sabbath, intermission" in a fixed weekly sense. The verb [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath) = "to cease, rest, desist" -- no lunar connotation. [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} (shabbathon) = "sabbatism, special holiday" -- used for both weekly Sabbath and certain feast rests, but never with lunar meaning.
+**Summary:** H7676 (shabbath) has 108 OT uses. NEVER translated or used to mean "lunar-cycle rest day." Always means "sabbath, intermission" in a fixed weekly sense. The verb H7673 (shabath) = "to cease, rest, desist" -- no lunar connotation. H7677 (shabbathon) = "sabbatism, special holiday" -- used for both weekly Sabbath and certain feast rests, but never with lunar meaning.
 
 ---
 
@@ -161,12 +161,12 @@ See 04-word-studies.md for complete Strong's data.
 > **Psalm 81:3** Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.
 > **Psalm 81:4** For this [was] a statute for Israel, [and] a law of the God of Jacob.
 
-**Notes:** "the time appointed" = [H3677](https://www.blueletterbible.org/lexicon/h3677/kjv/wlc/0-1/){:target="_blank"} (kece = full moon). This refers to the FEAST trumpet, not the weekly sabbath. The full moon festival (kece) is a different institution from the weekly sabbath.
+**Notes:** "the time appointed" = H3677 (kece = full moon). This refers to the FEAST trumpet, not the weekly sabbath. The full moon festival (kece) is a different institution from the weekly sabbath.
 
 ### Psalm 104:19 (Moon for moadim, NOT Sabbaths)
 > **Psalm 104:19** He appointed the moon for seasons: the sun knoweth his going down.
 
-**Notes:** "seasons" = [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} moed. The moon marks festival seasons (moadim), not weekly sabbaths (shabbatot). These are two different Hebrew words for two different institutions.
+**Notes:** "seasons" = H4150 moed. The moon marks festival seasons (moadim), not weekly sabbaths (shabbatot). These are two different Hebrew words for two different institutions.
 
 ---
 
@@ -371,21 +371,8 @@ See 04-word-studies.md for complete Strong's data.
 > **Hebrews 4:4** For he spake in a certain place of the seventh [day] on this wise, And God did rest the seventh day from all his works.
 > **Hebrews 4:9** There remaineth therefore a rest to the people of God.
 
-**Notes:** "rest" in v.9 = [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} sabbatismos = "a sabbath-keeping." The only use of this specific word in the NT.
+**Notes:** "rest" in v.9 = G4520 sabbatismos = "a sabbath-keeping." The only use of this specific word in the NT.
 
 #### Ezra 3:4-5 (Sabbaths, New Moons, Feasts Separate)
 > **Ezra 3:4** They kept also the feast of tabernacles, as [it is] written, and [offered] the daily burnt offerings by number, according to the custom, as the duty of every day required;
 > **Ezra 3:5** And afterward [offered] the continual burnt offering, both of the new moons, and of all the set feasts of the LORD that were consecrated, and of every one that willingly offered a freewill offering unto the LORD.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

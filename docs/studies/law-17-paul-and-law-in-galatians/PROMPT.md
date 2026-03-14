@@ -76,75 +76,75 @@ Gal 1:1-24; 2:3-4; 2:9; 2:14-21 (incl. 2:16); 3:1-29 (incl. 3:6,8,9,10-14,11,19,
 
 | Strong's | Word | Transliteration | KJV | Relevance |
 |-----------|------|-----------------|-----|-----------|
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos | nómos | "law" (95x), "the law" (49x), "of the law" (14x) | Primary term in Galatians for "law" |
-| [G1347](https://www.blueletterbible.org/lexicon/g1347/kjv/tr/0-1/){:target="_blank"} | dikaiosis | dikaíōsis | "justification" (2x) | Justification concept |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma | dikaíōma | "ordinances" (3x), "righteousness" (3x), "justification" (1x) | Righteous requirement of the law |
-| [G3544](https://www.blueletterbible.org/lexicon/g3544/kjv/tr/0-1/){:target="_blank"} | nomikos | nomikós | "lawyers" (5x), "the law" (1x) | Legal/law-related |
-| [G1772](https://www.blueletterbible.org/lexicon/g1772/kjv/tr/0-1/){:target="_blank"} | ennomos | énnomos | "lawful" (1x), "under the law" (1x) | Under-the-law concept |
-| [G3891](https://www.blueletterbible.org/lexicon/g3891/kjv/tr/0-1/){:target="_blank"} | paranomeo | paranoméō | "contrary to the law" (1x) | Law-opposition |
-| [G460](https://www.blueletterbible.org/lexicon/g460/kjv/tr/0-1/){:target="_blank"} | anomos | anómōs | "without law" (2x) | Lawlessness |
+| G3551 | nomos | nómos | "law" (95x), "the law" (49x), "of the law" (14x) | Primary term in Galatians for "law" |
+| G1347 | dikaiosis | dikaíōsis | "justification" (2x) | Justification concept |
+| G1345 | dikaioma | dikaíōma | "ordinances" (3x), "righteousness" (3x), "justification" (1x) | Righteous requirement of the law |
+| G3544 | nomikos | nomikós | "lawyers" (5x), "the law" (1x) | Legal/law-related |
+| G1772 | ennomos | énnomos | "lawful" (1x), "under the law" (1x) | Under-the-law concept |
+| G3891 | paranomeo | paranoméō | "contrary to the law" (1x) | Law-opposition |
+| G460 | anomos | anómōs | "without law" (2x) | Lawlessness |
 
 **Search: "schoolmaster tutor pedagogue"**
 
 | Strong's | Word | Transliteration | KJV | Relevance |
 |-----------|------|-----------------|-----|-----------|
-| [G3807](https://www.blueletterbible.org/lexicon/g3807/kjv/tr/0-1/){:target="_blank"} | paidagogos | paidagōgós | "instructors" (1x), "schoolmaster" (1x), "a schoolmaster" (1x) | Key term in Gal 3:24-25: law as paidagogos |
-| [G3810](https://www.blueletterbible.org/lexicon/g3810/kjv/tr/0-1/){:target="_blank"} | paideutes | paideutḗs | "An instructor" (1x), "which corrected" (1x) | Related instructor concept |
-| [H502](https://www.blueletterbible.org/lexicon/h502/kjv/wlc/0-1/){:target="_blank"} | alaph | 'âlaph | "teacheth" (1x), "learn" (1x) | OT teaching concept |
+| G3807 | paidagogos | paidagōgós | "instructors" (1x), "schoolmaster" (1x), "a schoolmaster" (1x) | Key term in Gal 3:24-25: law as paidagogos |
+| G3810 | paideutes | paideutḗs | "An instructor" (1x), "which corrected" (1x) | Related instructor concept |
+| H502 | alaph | 'âlaph | "teacheth" (1x), "learn" (1x) | OT teaching concept |
 
 **Search: "curse bondage liberty freedom"**
 
 | Strong's | Word | Transliteration | KJV | Relevance |
 |-----------|------|-----------------|-----|-----------|
-| [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} | eleutheria | eleuthería | "liberty" (9x) | Key Galatians term: Gal 5:1 "Stand fast in the liberty" |
-| [G2615](https://www.blueletterbible.org/lexicon/g2615/kjv/tr/0-1/){:target="_blank"} | katadouloo | katadoulóō | "into bondage" (2x), "bring" (1x) | Gal 2:4 "bring us into bondage" |
-| [G1397](https://www.blueletterbible.org/lexicon/g1397/kjv/tr/0-1/){:target="_blank"} | douleia | douleía | "bondage" (5x) | Gal 4:24; 5:1 bondage concept |
-| [G1402](https://www.blueletterbible.org/lexicon/g1402/kjv/tr/0-1/){:target="_blank"} | douloo | doulóō | "into bondage" (1x), "become servants" (1x) | Enslavement concept |
-| [G1658](https://www.blueletterbible.org/lexicon/g1658/kjv/tr/0-1/){:target="_blank"} | eleutheros | eleútheros | "free" (16x), "freewoman" (3x) | Gal 4:22,23,26,30,31 -- Hagar/Sarah allegory |
-| [G2218](https://www.blueletterbible.org/lexicon/g2218/kjv/tr/0-1/){:target="_blank"} | zugos | zygós | "yoke" (2x), "a yoke" (1x) | Gal 5:1 "yoke of bondage" |
-| [H1865](https://www.blueletterbible.org/lexicon/h1865/kjv/wlc/0-1/){:target="_blank"} | d'rowr | dᵉrôwr | "liberty" (5x) | OT liberty concept |
-| [H2670](https://www.blueletterbible.org/lexicon/h2670/kjv/wlc/0-1/){:target="_blank"} | chophshiy | chophshîy | "free" (15x), "at liberty" (1x) | OT freedom from bondage |
+| G1657 | eleutheria | eleuthería | "liberty" (9x) | Key Galatians term: Gal 5:1 "Stand fast in the liberty" |
+| G2615 | katadouloo | katadoulóō | "into bondage" (2x), "bring" (1x) | Gal 2:4 "bring us into bondage" |
+| G1397 | douleia | douleía | "bondage" (5x) | Gal 4:24; 5:1 bondage concept |
+| G1402 | douloo | doulóō | "into bondage" (1x), "become servants" (1x) | Enslavement concept |
+| G1658 | eleutheros | eleútheros | "free" (16x), "freewoman" (3x) | Gal 4:22,23,26,30,31 -- Hagar/Sarah allegory |
+| G2218 | zugos | zygós | "yoke" (2x), "a yoke" (1x) | Gal 5:1 "yoke of bondage" |
+| H1865 | d'rowr | dᵉrôwr | "liberty" (5x) | OT liberty concept |
+| H2670 | chophshiy | chophshîy | "free" (15x), "at liberty" (1x) | OT freedom from bondage |
 
 **Search: "stoicheia elements rudiments weak beggarly"**
 
 | Strong's | Word | Transliteration | KJV | Relevance |
 |-----------|------|-----------------|-----|-----------|
-| [G4747](https://www.blueletterbible.org/lexicon/g4747/kjv/tr/0-1/){:target="_blank"} | stoicheion | stoicheîon | "elements" (2x), "rudiments" (2x), "principles" (1x) | Key term in Gal 4:3,9 "elements/rudiments of the world" |
-| [G770](https://www.blueletterbible.org/lexicon/g770/kjv/tr/0-1/){:target="_blank"} | astheneo | asthenéō | "weak" (6x), "sick" (4x) | Related to "weak" in Gal 4:9 "weak and beggarly elements" |
+| G4747 | stoicheion | stoicheîon | "elements" (2x), "rudiments" (2x), "principles" (1x) | Key term in Gal 4:3,9 "elements/rudiments of the world" |
+| G770 | astheneo | asthenéō | "weak" (6x), "sick" (4x) | Related to "weak" in Gal 4:9 "weak and beggarly elements" |
 
 **Search: "justify righteous dikaioo faith"**
 
 | Strong's | Word | Transliteration | KJV | Relevance |
 |-----------|------|-----------------|-----|-----------|
-| [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} | dikaioo | dikaióō | "justified" (7x), "be justified" (3x), "are justified" (2x) | Core Galatians term: Gal 2:16,17; 3:8,11,24; 5:4 |
-| [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} | dikaiosune | dikaiosýnē | "righteousness" (42x) | Gal 2:21; 3:6,21; 5:5 -- righteousness concept |
-| [G1347](https://www.blueletterbible.org/lexicon/g1347/kjv/tr/0-1/){:target="_blank"} | dikaiosis | dikaíōsis | "justification" (2x) | Justification noun |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma | dikaíōma | "ordinances" (3x), "righteousness" (3x) | Righteous requirement |
+| G1344 | dikaioo | dikaióō | "justified" (7x), "be justified" (3x), "are justified" (2x) | Core Galatians term: Gal 2:16,17; 3:8,11,24; 5:4 |
+| G1343 | dikaiosune | dikaiosýnē | "righteousness" (42x) | Gal 2:21; 3:6,21; 5:5 -- righteousness concept |
+| G1347 | dikaiosis | dikaíōsis | "justification" (2x) | Justification noun |
+| G1345 | dikaioma | dikaíōma | "ordinances" (3x), "righteousness" (3x) | Righteous requirement |
 
 **Search: "redeem ransom atonement propitiation"**
 
 | Strong's | Word | Transliteration | KJV | Relevance |
 |-----------|------|-----------------|-----|-----------|
-| [G1805](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/){:target="_blank"} | exagorazo | exagorázō | "hath redeemed" (1x), "redeem" (1x), "Redeeming" (1x) | Key Galatians term: Gal 3:13 "Christ hath redeemed us"; Gal 4:5 "to redeem them that were under the law" |
-| [G3084](https://www.blueletterbible.org/lexicon/g3084/kjv/tr/0-1/){:target="_blank"} | lutroo | lytróō | "have redeemed" (1x), "redeemed" (1x) | Redemption concept |
-| [G629](https://www.blueletterbible.org/lexicon/g629/kjv/tr/0-1/){:target="_blank"} | apolutrosis | apolýtrōsis | "redemption" (6x) | Redemption noun |
+| G1805 | exagorazo | exagorázō | "hath redeemed" (1x), "redeem" (1x), "Redeeming" (1x) | Key Galatians term: Gal 3:13 "Christ hath redeemed us"; Gal 4:5 "to redeem them that were under the law" |
+| G3084 | lutroo | lytróō | "have redeemed" (1x), "redeemed" (1x) | Redemption concept |
+| G629 | apolutrosis | apolýtrōsis | "redemption" (6x) | Redemption noun |
 
 **Search: "flesh spirit circumcise uncircumcision"**
 
 | Strong's | Word | Transliteration | KJV | Relevance |
 |-----------|------|-----------------|-----|-----------|
-| [G4061](https://www.blueletterbible.org/lexicon/g4061/kjv/tr/0-1/){:target="_blank"} | peritome | peritomḗ | "circumcision" (17x) | Gal 2:7,8,9,12; 5:6,11; 6:15 |
-| [G4059](https://www.blueletterbible.org/lexicon/g4059/kjv/tr/0-1/){:target="_blank"} | peritemno | peritémnō | "circumcised" (2x), "be circumcised" (2x) | Gal 2:3; 5:2,3; 6:12,13 |
-| [G203](https://www.blueletterbible.org/lexicon/g203/kjv/tr/0-1/){:target="_blank"} | akrobustia | akrobystía | "uncircumcision" | Gal 2:7; 5:6; 6:15 |
+| G4061 | peritome | peritomḗ | "circumcision" (17x) | Gal 2:7,8,9,12; 5:6,11; 6:15 |
+| G4059 | peritemno | peritémnō | "circumcised" (2x), "be circumcised" (2x) | Gal 2:3; 5:2,3; 6:12,13 |
+| G203 | akrobustia | akrobystía | "uncircumcision" | Gal 2:7; 5:6; 6:15 |
 
 **Search: "nomos law Torah statute"**
 
 | Strong's | Word | Transliteration | KJV | Relevance |
 |-----------|------|-----------------|-----|-----------|
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} | nomos | nómos | "law" (95x), "the law" (49x) | Appears ~32 times in Galatians -- the central term |
-| [G3548](https://www.blueletterbible.org/lexicon/g3548/kjv/tr/0-1/){:target="_blank"} | nomothesia | nomothesía | "giving of the law" (1x) | Legislation concept |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma | dógma | "decrees" (2x), "ordinances" (1x) | Col 2:14; Eph 2:15 abolition vocabulary (NOT used in Galatians -- significant absence) |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma | dikaíōma | "ordinances" (3x), "righteousness" (3x) | Rom 8:4 righteous requirement |
+| G3551 | nomos | nómos | "law" (95x), "the law" (49x) | Appears ~32 times in Galatians -- the central term |
+| G3548 | nomothesia | nomothesía | "giving of the law" (1x) | Legislation concept |
+| G1378 | dogma | dógma | "decrees" (2x), "ordinances" (1x) | Col 2:14; Eph 2:15 abolition vocabulary (NOT used in Galatians -- significant absence) |
+| G1345 | dikaioma | dikaíōma | "ordinances" (3x), "righteousness" (3x) | Rom 8:4 righteous requirement |
 
 ### Related Existing Studies
 
@@ -206,9 +206,9 @@ Based on tool discoveries, the research should investigate these specific aspect
 2. **Gal 2:16 -- "works of the law"** -- Compare with Rom 3:20,28. What does erga nomou mean? Is this the moral law's inability to justify, or specifically ceremonial observances as a justification strategy?
 3. **Gal 3:10-14 -- Curse and redemption** -- The Nave's entry for LAW lists Gal 3:19 under "was given because of transgressions." Law-08 found that Gal 3:13 removes "the CURSE of the law," not the law itself (E252). Investigate exagorazo (G1805) and katara (G2671). What was the curse, and what was redeemed?
 4. **Gal 3:19 -- "added because of transgressions"** -- Law-08 classified this as Neutral (referent ambiguous, E058). The Nave's LAW entry notes it was "received by the disposition of angels" and "in the hand of a mediator." Investigate: does "added" (prostithemi, G4369) indicate a supplementary law added to something pre-existing? Does "in the hand of a mediator" (Gal 3:19) connect to the ceremonial laws delivered through Moses (law-04 finding)?
-5. **Gal 3:24-25 -- Paidagogos** -- Law-08 classified this as Neutral (referent ambiguous, E059). [G3807](https://www.blueletterbible.org/lexicon/g3807/kjv/tr/0-1/){:target="_blank"} (paidagogos) appears only 3x in NT. What was the paidagogos role in Greco-Roman culture? Does "no longer under a schoolmaster" mean the law is abolished or that its guardian function is fulfilled?
-6. **Gal 4:9-10 -- Stoicheia** -- [G4747](https://www.blueletterbible.org/lexicon/g4747/kjv/tr/0-1/){:target="_blank"} (stoicheion) = "elements/rudiments." The observance of "days, and months, and times, and years" (4:10) matches the ceremonial calendar. Does this identify the "weak and beggarly elements" as the ceremonial system specifically?
-7. **Gal 5:1-6 -- Liberty and circumcision** -- The CIRCUMCISION Nave's entry lists GAL 5:2-11 under "Abrogated" and notes "necessity of, falsely taught by Judaizing Christians" (ACT 15:1). [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} (eleutheria) and [G2218](https://www.blueletterbible.org/lexicon/g2218/kjv/tr/0-1/){:target="_blank"} (zugos, yoke). Compare with 1 Cor 7:19 (E143): "Circumcision is nothing...but the keeping of the commandments of God" -- Paul dismisses circumcision while affirming commandment-keeping
+5. **Gal 3:24-25 -- Paidagogos** -- Law-08 classified this as Neutral (referent ambiguous, E059). G3807 (paidagogos) appears only 3x in NT. What was the paidagogos role in Greco-Roman culture? Does "no longer under a schoolmaster" mean the law is abolished or that its guardian function is fulfilled?
+6. **Gal 4:9-10 -- Stoicheia** -- G4747 (stoicheion) = "elements/rudiments." The observance of "days, and months, and times, and years" (4:10) matches the ceremonial calendar. Does this identify the "weak and beggarly elements" as the ceremonial system specifically?
+7. **Gal 5:1-6 -- Liberty and circumcision** -- The CIRCUMCISION Nave's entry lists GAL 5:2-11 under "Abrogated" and notes "necessity of, falsely taught by Judaizing Christians" (ACT 15:1). G1657 (eleutheria) and G2218 (zugos, yoke). Compare with 1 Cor 7:19 (E143): "Circumcision is nothing...but the keeping of the commandments of God" -- Paul dismisses circumcision while affirming commandment-keeping
 8. **Gal 5:14 -- "All the law is fulfilled in one word"** -- Compare with Rom 13:8-10 (E028/E407/E408), where Paul quotes five Decalogue commandments as the content love fulfills. Does Gal 5:14 confirm that the moral law (love thy neighbour) continues?
 9. **Gal 5:18 -- "Not under the law"** -- Compare with Rom 6:14-15 (E394/E395). Law-16 found that "not under the law" in Romans means freedom from condemnation, not freedom from moral obligation (I103). Does the same apply in Galatians?
 10. **Absence of dogma (G1378) in Galatians** -- The abolition texts in Col 2:14 and Eph 2:15 use dogma to specify what was abolished. This term does NOT appear in Galatians. Does Paul use different vocabulary in Galatians, and does this affect which "law" he means?
@@ -233,16 +233,3 @@ answer-question
 ---
 *Scoped: 2026-02-25*
 *Folder: bible-studies/law-17-paul-and-law-in-galatians/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

@@ -1,6 +1,6 @@
 # Word Studies
 
-## [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} -- kataluo (καταλύω) -- "destroy"
+## G2647 -- kataluo (καταλύω) -- "destroy"
 
 ### Lexicon Entry
 - **Greek:** καταλύω
@@ -76,7 +76,7 @@ In Mat 5:17, Jesus uses kataluo twice in the emphatic construction: "Think not (
 
 ---
 
-## [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} -- pleroo (πληρόω) -- "fulfil"
+## G4137 -- pleroo (πληρόω) -- "fulfil"
 
 ### Lexicon Entry
 - **Greek:** πληρόω
@@ -141,7 +141,7 @@ In Mat 5:17, pleroo is contrasted with kataluo: "I am not come to katalusai but 
 
 **Key contextual data:** The immediate context (vv. 18-19) emphasizes the law's continuing validity ("not one jot or tittle shall pass," "whosoever shall break...least commandments"). The antitheses (vv. 21-48) demonstrate not replacement but deepening. This context would support Option B over Option A if "fulfil" meant "bring to completion and then terminate."
 
-### Key Verses Where [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} Appears
+### Key Verses Where G4137 Appears
 | Reference | Translation | Context |
 |-----------|-------------|---------|
 | Mat 5:17 | to fulfil | "not to destroy but to fulfil" |
@@ -166,7 +166,7 @@ In Mat 5:17, pleroo is contrasted with kataluo: "I am not come to katalusai but 
 
 ---
 
-## [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"} -- luo (λύω) -- "break" / "loosen"
+## G3089 -- luo (λύω) -- "break" / "loosen"
 
 ### Lexicon Entry
 - **Greek:** λύω
@@ -222,7 +222,7 @@ This verse uses luo with the sense that Scripture cannot be annulled/set aside -
 
 ---
 
-## [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} -- dikaiosune (δικαιοσύνη) -- "righteousness"
+## G1343 -- dikaiosune (δικαιοσύνη) -- "righteousness"
 
 ### Lexicon Entry
 - **Greek:** δικαιοσύνη
@@ -267,7 +267,7 @@ The word perisseuō (G4052, "exceed, abound") used with dikaiosune creates a com
 
 ---
 
-## [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} -- dikaioma (δικαίωμα) -- "righteousness / ordinance / judgment"
+## G1345 -- dikaioma (δικαίωμα) -- "righteousness / ordinance / judgment"
 
 ### Lexicon Entry
 - **Greek:** δικαίωμα
@@ -314,27 +314,14 @@ This verse directly connects to Mat 5:17 -- the dikaioma (righteous requirement)
 
 ## Additional Word Notes
 
-### [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} -- entole (ἐντολή) -- "commandment"
+### G1785 -- entole (ἐντολή) -- "commandment"
 Used in Mat 5:19 for "these least commandments" (ton entolon touton ton elachiston). This is the standard NT word for commandment/precept. The demonstrative pronoun "these" (touton) points back to what has just been mentioned -- "the law" of vv. 17-18.
 
-### [G1646](https://www.blueletterbible.org/lexicon/g1646/kjv/tr/0-1/){:target="_blank"} -- elachistos (ἐλάχιστος) -- "least"
+### G1646 -- elachistos (ἐλάχιστος) -- "least"
 Superlative of elachos (small). Used twice in Mat 5:19: for "least commandments" and "least in the kingdom." The parallelism is striking: whoever "loosens" (luo) the least commandment and teaches others to do so will be called "least" in the kingdom.
 
-### [G4052](https://www.blueletterbible.org/lexicon/g4052/kjv/tr/0-1/){:target="_blank"} -- perisseuo (περισσεύω) -- "exceed, abound"
+### G4052 -- perisseuo (περισσεύω) -- "exceed, abound"
 Used in Mat 5:20 for the righteousness that must "exceed" (perisseuō) that of the scribes and Pharisees. The word means "to superabound, be in excess, to excel." It is an aorist active subjunctive in a conditional clause (ean me perisseuē), indicating this exceeding is a necessary condition for entering the kingdom.
 
-### [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} -- nomos (νόμος) -- "law"
+### G3551 -- nomos (νόμος) -- "law"
 Used in Mat 5:17 and 5:18 for "the law" (ton nomon). In the phrase "the law or the prophets" (Mat 5:17), nomos refers to the Torah/Pentateuch as a division of Scripture. In v. 18, "from the law" (apo tou nomou) refers to the same entity. The phrase "the law and the prophets" is a standard Jewish designation for the Hebrew Scriptures (cf. Mat 7:12; 11:13; 22:40; Luk 16:16; Acts 24:14; Rom 3:21).
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

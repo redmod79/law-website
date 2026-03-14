@@ -9,7 +9,7 @@
 **Part of Speech:** feminine noun
 **Occurrences:** 317 total (284 BLB count)
 
-**Definition:** From [H1254](https://www.blueletterbible.org/lexicon/h1254/kjv/wlc/0-1/){:target="_blank"} (in the sense of cutting [like H1262]); a compact (because made by passing between pieces of flesh): -- confederacy, (con-)feder(-ate), covenant, league.
+**Definition:** From H1254 (in the sense of cutting [like H1262]); a compact (because made by passing between pieces of flesh): -- confederacy, (con-)feder(-ate), covenant, league.
 
 **Translation Distribution:**
 - "of the covenant" -- 60 (18.9%)
@@ -60,7 +60,7 @@
 **Part of Speech:** feminine noun
 **Occurrences:** 33 total (33 BLB count)
 
-**Definition:** From [G1303](https://www.blueletterbible.org/lexicon/g1303/kjv/tr/0-1/){:target="_blank"}; properly, a disposition, i.e. (specially) a contract (especially a devisory will): -- covenant, testament.
+**Definition:** From G1303; properly, a disposition, i.e. (specially) a contract (especially a devisory will): -- covenant, testament.
 
 **Translation Distribution:**
 - "covenant" -- 15 (45.5%)
@@ -87,7 +87,7 @@
 **Part of Speech:** masculine noun
 **Occurrences:** 6 total (6 BLB count)
 
-**Definition:** From [G3319](https://www.blueletterbible.org/lexicon/g3319/kjv/tr/0-1/){:target="_blank"}; a go-between, i.e. (simply) an internunciator, or (by implication) a reconciler (intercessor): -- mediator.
+**Definition:** From G3319; a go-between, i.e. (simply) an internunciator, or (by implication) a reconciler (intercessor): -- mediator.
 
 **Translation Distribution:**
 - "the mediator" -- 3 (50.0%)
@@ -114,7 +114,7 @@
 **Part of Speech:** adjective
 **Occurrences:** 1 total
 
-**Definition:** From [G1722](https://www.blueletterbible.org/lexicon/g1722/kjv/tr/0-1/){:target="_blank"} and guion (a limb); pledged (as if articulated by a member), i.e. a bondsman: -- surety.
+**Definition:** From G1722 and guion (a limb); pledged (as if articulated by a member), i.e. a bondsman: -- surety.
 
 **Only Occurrence:**
 - Heb 7:22 -- "By so much was Jesus made a surety (engyos) of a better testament"
@@ -130,7 +130,7 @@
 **Part of Speech:** verb
 **Occurrences:** 6 total (4 BLB count)
 
-**Definition:** From [G3820](https://www.blueletterbible.org/lexicon/g3820/kjv/tr/0-1/){:target="_blank"}; to make (passively, become) worn out, or declare obsolete: -- decay, make (wax) old.
+**Definition:** From G3820; to make (passively, become) worn out, or declare obsolete: -- decay, make (wax) old.
 
 **Translation Distribution:**
 - "old" -- 2
@@ -157,7 +157,7 @@
 **Part of Speech:** masculine noun
 **Occurrences:** 1 total
 
-**Definition:** From [G853](https://www.blueletterbible.org/lexicon/g853/kjv/tr/0-1/){:target="_blank"}; disappearance, i.e. (figuratively) abrogation: -- vanish away.
+**Definition:** From G853; disappearance, i.e. (figuratively) abrogation: -- vanish away.
 
 **Only Occurrence:**
 - Heb 8:13 -- "ready to vanish away (aphanismou)"
@@ -171,7 +171,7 @@
 **Part of Speech:** verb
 **Occurrences:** 20 total (17 BLB count)
 
-**Definition:** From [G2596](https://www.blueletterbible.org/lexicon/g2596/kjv/tr/0-1/){:target="_blank"} and [G3089](https://www.blueletterbible.org/lexicon/g3089/kjv/tr/0-1/){:target="_blank"}; to loosen down (disintegrate), i.e. (by implication) to demolish (literally or figuratively); specially to halt for the night: -- destroy, dissolve, be guest, lodge, come to nought, overthrow, throw down.
+**Definition:** From G2596 and G3089; to loosen down (disintegrate), i.e. (by implication) to demolish (literally or figuratively); specially to halt for the night: -- destroy, dissolve, be guest, lodge, come to nought, overthrow, throw down.
 
 **Key Translation Data:**
 - "to destroy" -- 3
@@ -209,7 +209,7 @@
 **Part of Speech:** masculine noun
 **Occurrences:** 649 total (593 BLB count)
 
-**Definition:** A form of [H3824](https://www.blueletterbible.org/lexicon/h3824/kjv/wlc/0-1/){:target="_blank"}; the heart; also used (figuratively) very widely for the feelings, the will and even the intellect; likewise for the centre of anything.
+**Definition:** A form of H3824; the heart; also used (figuratively) very widely for the feelings, the will and even the intellect; likewise for the centre of anything.
 
 **Key Covenant Usage:**
 - Jer 31:33 -- "write it in their hearts (libbam)" -- uses leb with 3mp suffix
@@ -225,7 +225,7 @@
 **Part of Speech:** masculine noun
 **Occurrences:** 267 total (252 BLB count)
 
-**Definition:** From [H3823](https://www.blueletterbible.org/lexicon/h3823/kjv/wlc/0-1/){:target="_blank"}; used also like [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"} the heart (as the most interior organ): -- bethink themselves, breast, comfortably, courage, (faint), (tender-)heart(-ed), midst, mind, unawares, understanding.
+**Definition:** From H3823; used also like H3820 the heart (as the most interior organ): -- bethink themselves, breast, comfortably, courage, (faint), (tender-)heart(-ed), midst, mind, unawares, understanding.
 
 **Key Usage:**
 - Deu 4:29 -- "seek him with all thy heart (lebab)"
@@ -267,7 +267,7 @@
 **Part of Speech:** masculine noun
 **Occurrences:** 232 total (227 BLB count)
 
-**Definition:** From [H7126](https://www.blueletterbible.org/lexicon/h7126/kjv/wlc/0-1/){:target="_blank"}; properly, the nearest part, i.e. the center, whether literal, figurative or adverbial: -- among, before, bowels, unto charge, eat (up), heart, him, in, inward(-ly, part, -s, thought), midst, out of, purtenance, therein, through, within self.
+**Definition:** From H7126; properly, the nearest part, i.e. the center, whether literal, figurative or adverbial: -- among, before, bowels, unto charge, eat (up), heart, him, in, inward(-ly, part, -s, thought), midst, out of, purtenance, therein, through, within self.
 
 **Key Covenant Usage:**
 - Jer 31:33 -- "I will put my law in their inward parts (b'qirbam)" -- qereb with 3mp suffix + preposition b'
@@ -283,7 +283,7 @@
 **Part of Speech:** verb
 **Occurrences:** 2 total
 
-**Definition:** From [G1722](https://www.blueletterbible.org/lexicon/g1722/kjv/tr/0-1/){:target="_blank"} and [G1125](https://www.blueletterbible.org/lexicon/g1125/kjv/tr/0-1/){:target="_blank"}; to "engrave", i.e. inscribe: -- write (in).
+**Definition:** From G1722 and G1125; to "engrave", i.e. inscribe: -- write (in).
 
 **All Occurrences:**
 - Luk 10:20 -- "your names are written in heaven"
@@ -319,7 +319,7 @@
 **Part of Speech:** masculine noun
 **Occurrences:** 2 total
 
-**Definition:** From [G4472](https://www.blueletterbible.org/lexicon/g4472/kjv/tr/0-1/){:target="_blank"}; aspersion (ceremonially or figuratively): -- sprinkling.
+**Definition:** From G4472; aspersion (ceremonially or figuratively): -- sprinkling.
 
 **All Occurrences:**
 - Heb 12:24 -- "the blood of sprinkling (rhantismou), that speaketh better things than [that of] Abel"
@@ -363,7 +363,7 @@
 **Part of Speech:** feminine noun
 **Occurrences:** 51 total (53 BLB count)
 
-**Definition:** From [G1861](https://www.blueletterbible.org/lexicon/g1861/kjv/tr/0-1/){:target="_blank"}; an announcement (for information, assent or pledge; especially a divine assurance of good): -- message, promise.
+**Definition:** From G1861; an announcement (for information, assent or pledge; especially a divine assurance of good): -- message, promise.
 
 **Translation Distribution:**
 - "promise" -- 26 (51.0%)
@@ -385,7 +385,7 @@
 **Part of Speech:** adjective (comparative)
 **Occurrences:** 17 total (18 BLB count)
 
-**Definition:** Comparative of a derivative of [G2904](https://www.blueletterbible.org/lexicon/g2904/kjv/tr/0-1/){:target="_blank"}; stronger, i.e. (figuratively) better: -- best, better.
+**Definition:** Comparative of a derivative of G2904; stronger, i.e. (figuratively) better: -- best, better.
 
 **Translation Distribution:**
 - "better" -- 6 (35.3%)
@@ -403,16 +403,3 @@
 - Heb 11:35 -- "a better resurrection"
 - Heb 11:40 -- "some better thing for us"
 - Heb 12:24 -- "speaketh better things than that of Abel"
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

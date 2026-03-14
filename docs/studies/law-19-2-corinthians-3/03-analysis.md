@@ -46,7 +46,7 @@ Paul attributes the effectiveness of his ministry to God, not to himself. This t
 **Key observations:**
 
 1. Paul says he is a "minister" (diakonos) of the "new testament/covenant" (kaines diathekes).
-2. The contrast is between gramma ("letter," [G1121](https://www.blueletterbible.org/lexicon/g1121/kjv/tr/0-1/){:target="_blank"}, neuter) and pneuma ("spirit," [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}, neuter).
+2. The contrast is between gramma ("letter," G1121, neuter) and pneuma ("spirit," G4151, neuter).
 3. "The letter killeth" -- gramma in Paul's usage (see Rom 2:27, 29; 7:6) refers to the external written code apart from the Spirit's empowering. It is the law in its outward, condemning function -- confronting sin without providing the power to overcome it.
 4. "The spirit giveth life" -- pneuma refers to the same law internalized and empowered by the Holy Spirit. Romans 8:2-4 makes this explicit: "the law of the Spirit of life in Christ Jesus" results in "the righteousness of the law" being "fulfilled in us."
 5. Paul does not say the content of the letter is bad. Romans 7:12 states: "The law is holy, and the commandment holy, and just, and good." Romans 7:14: "The law is spiritual." The problem is not the law but the mode of administration -- external code without internal power.
@@ -60,7 +60,7 @@ This is the central verse in the debate. A detailed grammatical analysis follows
 
 **Greek structure of v.7:**
 
-The grammatical subject of the sentence is **he diakonia tou thanatou** ("the ministry of death"), which is Nominative Singular Feminine (diakonia, [G1248](https://www.blueletterbible.org/lexicon/g1248/kjv/tr/0-1/){:target="_blank"}, is a feminine noun). The descriptive phrase "en grammasin eteteteupomene lithois" ("in letters having been engraved on stones") modifies diakonia. The participle eteteteupomene (from entupoo, G1795) is Perfect Passive Participle, Nominative Singular **Feminine** -- agreeing with diakonia (feminine), not with nomos (masculine), which does not appear in the verse.
+The grammatical subject of the sentence is **he diakonia tou thanatou** ("the ministry of death"), which is Nominative Singular Feminine (diakonia, G1248, is a feminine noun). The descriptive phrase "en grammasin eteteteupomene lithois" ("in letters having been engraved on stones") modifies diakonia. The participle eteteteupomene (from entupoo, G1795) is Perfect Passive Participle, Nominative Singular **Feminine** -- agreeing with diakonia (feminine), not with nomos (masculine), which does not appear in the verse.
 
 The main verb is egenethe ("came into being" / "was") -- Aorist Passive Indicative, 3rd Singular. The ministration was (egenethe) glorious (en doxe, "in glory").
 
@@ -137,7 +137,7 @@ Paul contrasts his openness with Moses' veiling.
 1. Paul interprets Exodus 34:33-35. In the OT narrative, Moses veiled his face after speaking to Israel. Paul adds the interpretive layer: Moses did this so Israel could not gaze at the "end" (telos, G5056) of "that which is being abolished" (tou katargoumenou).
 2. tou katargoumenou = Present Passive Participle, Genitive Singular **Neuter**. Same neuter pattern as v.11.
 3. telos can mean "end" (termination), "goal/purpose," or "outcome." The phrase eis to telos tou katargoumenou means "unto the end/outcome of that which is fading away."
-4. The veil (kalumma, [G2571](https://www.blueletterbible.org/lexicon/g2571/kjv/tr/0-1/){:target="_blank"}, neuter) prevented Israel from seeing the glory fade. Moses veiled the fading glory. The "that which is being abolished" continues the neuter abstract reference from v.11 -- the fading glory-system, not the law.
+4. The veil (kalumma, G2571, neuter) prevented Israel from seeing the glory fade. Moses veiled the fading glory. The "that which is being abolished" continues the neuter abstract reference from v.11 -- the fading glory-system, not the law.
 5. The purpose clause (pros to me atenisai -- "so that [they] could not gaze intently") explains the veil's function: hiding the fading glory from Israel's view.
 
 ### Verse 14
@@ -281,16 +281,3 @@ Response from the text: The Greek uses neuter substantivized participles (to kat
 6. The passage's conclusion (vv.17-18) is about Spirit-empowered transformation from glory to glory, not about abolition of the law.
 
 7. Paul's other epistles affirm the law as holy, just, good, and spiritual (Rom 7:12, 14), deny making the law void (Rom 3:31), and describe the Spirit fulfilling the law's righteousness in believers (Rom 8:4).
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

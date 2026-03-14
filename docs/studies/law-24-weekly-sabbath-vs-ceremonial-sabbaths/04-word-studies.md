@@ -1,6 +1,6 @@
 # Word Studies
 
-## [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} -- shabbath (שַׁבָּת) -- "sabbath"
+## H7676 -- shabbath (שַׁבָּת) -- "sabbath"
 
 **Original:** שַׁבָּת
 **Transliteration:** shabbath
@@ -9,7 +9,7 @@
 **BLB Count:** 108
 **Total Occurrences (with variants):** 109
 
-**Definition:** Intensive from [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath); intermission, i.e. (specifically) the Sabbath: (every) sabbath.
+**Definition:** Intensive from H7673 (shabath); intermission, i.e. (specifically) the Sabbath: (every) sabbath.
 
 ### Translations
 | Translation | Count | % |
@@ -42,7 +42,7 @@ It is NOT used for Trumpets (v.24 uses *shabbathon* alone), Tabernacles first/ei
 
 ---
 
-## [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} -- shabbathon (שַׁבָּתוֹן) -- "sabbatism/rest"
+## H7677 -- shabbathon (שַׁבָּתוֹן) -- "sabbatism/rest"
 
 **Original:** שַׁבָּתוֹן
 **Transliteration:** shabbathon
@@ -50,7 +50,7 @@ It is NOT used for Trumpets (v.24 uses *shabbathon* alone), Tabernacles first/ei
 **Part of Speech:** masculine noun
 **BLB Count:** 11
 
-**Definition:** From [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} (shabbath); a sabbatism or special holiday: rest, sabbath.
+**Definition:** From H7676 (shabbath); a sabbatism or special holiday: rest, sabbath.
 
 ### Translations
 | Translation | Count | % |
@@ -89,7 +89,7 @@ This vocabulary distribution distinguishes between the full "sabbath of rest" (w
 
 ---
 
-## [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} -- shabath (שָׁבַת) -- verb: "to cease/rest"
+## H7673 -- shabath (שָׁבַת) -- verb: "to cease/rest"
 
 **Original:** שָׁבַת
 **Transliteration:** shabath
@@ -113,7 +113,7 @@ The verb *shabath* is the ROOT of both the noun *shabbath* (H7676) and *shabbath
 
 ---
 
-## [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} -- moed (מוֹעֵד) -- "appointed time/feast/congregation"
+## H4150 -- moed (מוֹעֵד) -- "appointed time/feast/congregation"
 
 **Original:** מוֹעֵד
 **Transliteration:** moed
@@ -121,7 +121,7 @@ The verb *shabath* is the ROOT of both the noun *shabbath* (H7676) and *shabbath
 **Part of Speech:** masculine noun
 **BLB Count:** 223 (229 total with variants)
 
-**Definition:** From [H3259](https://www.blueletterbible.org/lexicon/h3259/kjv/wlc/0-1/){:target="_blank"} (yaad, "to appoint"); properly, an appointment, i.e. a fixed time or season; specifically, a festival; conventionally a year; by implication, an assembly (as convened for a definite purpose); technically the congregation; by extension, the place of meeting; also a signal (as appointed beforehand).
+**Definition:** From H3259 (yaad, "to appoint"); properly, an appointment, i.e. a fixed time or season; specifically, a festival; conventionally a year; by implication, an assembly (as convened for a definite purpose); technically the congregation; by extension, the place of meeting; also a signal (as appointed beforehand).
 
 ### Translations
 | Translation | Count | % |
@@ -146,7 +146,7 @@ The verb *shabath* is the ROOT of both the noun *shabbath* (H7676) and *shabbath
 
 ---
 
-## [H2282](https://www.blueletterbible.org/lexicon/h2282/kjv/wlc/0-1/){:target="_blank"} -- chag (חַג) -- "feast/festival"
+## H2282 -- chag (חַג) -- "feast/festival"
 
 **Original:** חַג
 **Transliteration:** chag
@@ -154,7 +154,7 @@ The verb *shabath* is the ROOT of both the noun *shabbath* (H7676) and *shabbath
 **Part of Speech:** masculine noun
 **BLB Count:** 62 (69 with variants)
 
-**Definition:** From [H2287](https://www.blueletterbible.org/lexicon/h2287/kjv/wlc/0-1/){:target="_blank"} (chagag, "to celebrate"); a festival, or a victim therefor: (solemn) feast (day), sacrifice, solemnity.
+**Definition:** From H2287 (chagag, "to celebrate"); a festival, or a victim therefor: (solemn) feast (day), sacrifice, solemnity.
 
 ### Key Occurrences
 - **Exo 23:14** -- "Three times thou shalt keep a feast (*chag*) unto me in the year" -- the three pilgrimage feasts
@@ -168,7 +168,7 @@ The verb *shabath* is the ROOT of both the noun *shabbath* (H7676) and *shabbath
 
 ---
 
-## [H905](https://www.blueletterbible.org/lexicon/h905/kjv/wlc/0-1/){:target="_blank"} -- bad (בַּד) / millibad (מִלְּבַד) -- "apart from/beside"
+## H905 -- bad (בַּד) / millibad (מִלְּבַד) -- "apart from/beside"
 
 **Original:** בַּד
 **Transliteration:** bad
@@ -176,7 +176,7 @@ The verb *shabath* is the ROOT of both the noun *shabbath* (H7676) and *shabbath
 **Part of Speech:** masculine noun
 **BLB Count:** 56 (203 total with compound forms)
 
-**Definition:** From [H909](https://www.blueletterbible.org/lexicon/h909/kjv/wlc/0-1/){:target="_blank"} (badad); properly, separation; by implication, a part of the body, branch of a tree, bar for carrying; figuratively, chief of a city; especially (with prepositional prefix) as an adverb, apart, only, besides.
+**Definition:** From H909 (badad); properly, separation; by implication, a part of the body, branch of a tree, bar for carrying; figuratively, chief of a city; especially (with prepositional prefix) as an adverb, apart, only, besides.
 
 ### Translations
 | Translation | Count | % |
@@ -201,7 +201,7 @@ This four-fold *millibad* structure places the weekly sabbaths, gifts, vows, and
 
 ---
 
-## [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} -- sabbaton (σάββατον) -- Greek "Sabbath"
+## G4521 -- sabbaton (σάββατον) -- Greek "Sabbath"
 
 **Original:** σάββατον
 **Transliteration:** sabbaton
@@ -227,26 +227,26 @@ This four-fold *millibad* structure places the weekly sabbaths, gifts, vows, and
 **Greek parsing of Col 2:16:**
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| Μὴ | μή | [G3361](https://www.blueletterbible.org/lexicon/g3361/kjv/tr/0-1/){:target="_blank"} | Negative particle |
-| οὖν | οὖν | [G3767](https://www.blueletterbible.org/lexicon/g3767/kjv/tr/0-1/){:target="_blank"} | Conjunction "therefore" |
-| τις | τὶς | [G5100](https://www.blueletterbible.org/lexicon/g5100/kjv/tr/0-1/){:target="_blank"} | Indefinite pronoun, Nom Sg M |
-| ὑμᾶς | σύ | [G4771](https://www.blueletterbible.org/lexicon/g4771/kjv/tr/0-1/){:target="_blank"} | Personal pronoun, Acc Pl |
-| κρινέτω | κρίνω | [G2919](https://www.blueletterbible.org/lexicon/g2919/kjv/tr/0-1/){:target="_blank"} | Pres Act Imperative 3S -- "let judge" |
-| ἐν | ἐν | [G1722](https://www.blueletterbible.org/lexicon/g1722/kjv/tr/0-1/){:target="_blank"} | Preposition "in" |
-| βρώσει | βρῶσις | [G1035](https://www.blueletterbible.org/lexicon/g1035/kjv/tr/0-1/){:target="_blank"} | Dat Sg F -- "eating/food" |
-| ἢ | ἤ | [G2228](https://www.blueletterbible.org/lexicon/g2228/kjv/tr/0-1/){:target="_blank"} | Disjunction "or" |
-| ἐν μέρει | μέρος | [G3313](https://www.blueletterbible.org/lexicon/g3313/kjv/tr/0-1/){:target="_blank"} | Dat Sg N -- "in respect/part" |
-| **ἑορτῆς** | **ἑορτή** | **[G1859](https://www.blueletterbible.org/lexicon/g1859/kjv/tr/0-1/){:target="_blank"}** | **Gen Sg F -- "of a feast/holyday"** |
-| ἢ | ἤ | [G2228](https://www.blueletterbible.org/lexicon/g2228/kjv/tr/0-1/){:target="_blank"} | "or" |
-| **νεομηνίας** | **νεομηνία** | **[G3561](https://www.blueletterbible.org/lexicon/g3561/kjv/tr/0-1/){:target="_blank"}** | **Gen Sg F -- "of a new moon"** |
-| ἢ | ἤ | [G2228](https://www.blueletterbible.org/lexicon/g2228/kjv/tr/0-1/){:target="_blank"} | "or" |
-| **σαββάτων** | **σάββατον** | **[G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}** | **Gen Pl N -- "of sabbaths"** |
+| Μὴ | μή | G3361 | Negative particle |
+| οὖν | οὖν | G3767 | Conjunction "therefore" |
+| τις | τὶς | G5100 | Indefinite pronoun, Nom Sg M |
+| ὑμᾶς | σύ | G4771 | Personal pronoun, Acc Pl |
+| κρινέτω | κρίνω | G2919 | Pres Act Imperative 3S -- "let judge" |
+| ἐν | ἐν | G1722 | Preposition "in" |
+| βρώσει | βρῶσις | G1035 | Dat Sg F -- "eating/food" |
+| ἢ | ἤ | G2228 | Disjunction "or" |
+| ἐν μέρει | μέρος | G3313 | Dat Sg N -- "in respect/part" |
+| **ἑορτῆς** | **ἑορτή** | **G1859** | **Gen Sg F -- "of a feast/holyday"** |
+| ἢ | ἤ | G2228 | "or" |
+| **νεομηνίας** | **νεομηνία** | **G3561** | **Gen Sg F -- "of a new moon"** |
+| ἢ | ἤ | G2228 | "or" |
+| **σαββάτων** | **σάββατον** | **G4521** | **Gen Pl N -- "of sabbaths"** |
 
 The triad is: feast (*heorte*) / new moon (*neomenia*) / sabbaths (*sabbata*). This descending sequence (annual > monthly > ?) parallels the OT ceremonial triad. The plural "sabbaths" in the context of the ceremonial triad points to the ceremonial feast sabbaths rather than the singular weekly Sabbath.
 
 ---
 
-## [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} -- sabbatismos (σαββατισμός) -- "Sabbath-keeping"
+## G4520 -- sabbatismos (σαββατισμός) -- "Sabbath-keeping"
 
 **Original:** σαββατισμός
 **Transliteration:** sabbatismos
@@ -254,7 +254,7 @@ The triad is: feast (*heorte*) / new moon (*neomenia*) / sabbaths (*sabbata*). T
 **Part of Speech:** masculine noun
 **BLB Count:** 1 (hapax legomenon)
 
-**Definition:** From a derivative of [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"}; a "sabbatism," i.e. (figuratively) the repose of Christianity (as a type of heaven).
+**Definition:** From a derivative of G4521; a "sabbatism," i.e. (figuratively) the repose of Christianity (as a type of heaven).
 
 ### The Single Occurrence: Hebrews 4:9
 > "There remaineth therefore a **rest** (*sabbatismos*) to the people of God."
@@ -264,7 +264,7 @@ This is the ONLY occurrence of *sabbatismos* in the NT. It is distinct from *kat
 
 ---
 
-## [H4744](https://www.blueletterbible.org/lexicon/h4744/kjv/wlc/0-1/){:target="_blank"} -- miqra (מִקְרָא) -- "holy convocation"
+## H4744 -- miqra (מִקְרָא) -- "holy convocation"
 
 **Original:** מִקְרָא
 **Transliteration:** miqra
@@ -272,7 +272,7 @@ This is the ONLY occurrence of *sabbatismos* in the NT. It is distinct from *kat
 **Part of Speech:** masculine noun
 **BLB Count:** 23 (39 with variants)
 
-**Definition:** From [H7121](https://www.blueletterbible.org/lexicon/h7121/kjv/wlc/0-1/){:target="_blank"} (qara, "to call"); something called out, i.e. a public meeting (the act, the persons, or the place); also a rehearsal: assembly, calling, convocation, reading.
+**Definition:** From H7121 (qara, "to call"); something called out, i.e. a public meeting (the act, the persons, or the place); also a rehearsal: assembly, calling, convocation, reading.
 
 ### Translations
 | Translation | Count | % |
@@ -293,7 +293,7 @@ This is the ONLY occurrence of *sabbatismos* in the NT. It is distinct from *kat
 
 ---
 
-## [H6944](https://www.blueletterbible.org/lexicon/h6944/kjv/wlc/0-1/){:target="_blank"} -- qodesh (קֹדֶשׁ) -- "holy/set apart"
+## H6944 -- qodesh (קֹדֶשׁ) -- "holy/set apart"
 
 **Original:** קֹדֶשׁ
 **Transliteration:** qodesh
@@ -301,7 +301,7 @@ This is the ONLY occurrence of *sabbatismos* in the NT. It is distinct from *kat
 **Part of Speech:** masculine noun
 **BLB Count:** 468 (452 with variants)
 
-**Definition:** From [H6942](https://www.blueletterbible.org/lexicon/h6942/kjv/wlc/0-1/){:target="_blank"} (qadash); a sacred place or thing; rarely abstract, sanctity: consecrated (thing), dedicated (thing), hallowed (thing), holiness, (most) holy (day, portion, thing), saint, sanctuary.
+**Definition:** From H6942 (qadash); a sacred place or thing; rarely abstract, sanctity: consecrated (thing), dedicated (thing), hallowed (thing), holiness, (most) holy (day, portion, thing), saint, sanctuary.
 
 ### Key Occurrences
 - **Gen 2:3** -- God "sanctified" (*qadash*, the verb form) the seventh day
@@ -315,7 +315,7 @@ The Sabbath is characterized by *qodesh* (holiness) from its very inception at c
 
 ---
 
-## [H7637](https://www.blueletterbible.org/lexicon/h7637/kjv/wlc/0-1/){:target="_blank"} -- shbi'i (שְׁבִיעִי) -- "seventh"
+## H7637 -- shbi'i (שְׁבִיעִי) -- "seventh"
 
 **Original:** שְׁבִיעִי
 **Transliteration:** shbi'i
@@ -323,7 +323,7 @@ The Sabbath is characterized by *qodesh* (holiness) from its very inception at c
 **Part of Speech:** adjective
 **BLB Count:** 98
 
-**Definition:** Ordinal from [H7651](https://www.blueletterbible.org/lexicon/h7651/kjv/wlc/0-1/){:target="_blank"} (sheba, "seven"); seventh (time).
+**Definition:** Ordinal from H7651 (sheba, "seven"); seventh (time).
 
 ### Key Occurrences
 - **Gen 2:2-3**: "the seventh day" (3x) -- creation
@@ -337,7 +337,7 @@ The "seventh" connects the weekly Sabbath to the creation week (Gen 2:2-3) and t
 
 ---
 
-## [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} -- shabua (שָׁבוּעַ) -- "week/seven"
+## H7620 -- shabua (שָׁבוּעַ) -- "week/seven"
 
 **Original:** שָׁבוּעַ
 **Transliteration:** shabua
@@ -345,7 +345,7 @@ The "seventh" connects the weekly Sabbath to the creation week (Gen 2:2-3) and t
 **Part of Speech:** masculine noun
 **BLB Count:** 20
 
-**Definition:** Passive participle of [H7650](https://www.blueletterbible.org/lexicon/h7650/kjv/wlc/0-1/){:target="_blank"} as a denominative of [H7651](https://www.blueletterbible.org/lexicon/h7651/kjv/wlc/0-1/){:target="_blank"}; literally, sevened, i.e. a week (specifically, of years): seven, week.
+**Definition:** Passive participle of H7650 as a denominative of H7651; literally, sevened, i.e. a week (specifically, of years): seven, week.
 
 ### Key Occurrences
 - **Exo 34:22**: "the feast of weeks (*shavuot*)" -- Pentecost
@@ -359,7 +359,7 @@ The root is shared with *shabbath* and *shabath*. The "Feast of Weeks" (*shavuot
 
 ---
 
-## [H4868](https://www.blueletterbible.org/lexicon/h4868/kjv/wlc/0-1/){:target="_blank"} -- mishbath (מִשְׁבָּת) -- "cessation/destruction"
+## H4868 -- mishbath (מִשְׁבָּת) -- "cessation/destruction"
 
 **Original:** מִשְׁבָּת
 **Transliteration:** mishbath
@@ -367,7 +367,7 @@ The root is shared with *shabbath* and *shabath*. The "Feast of Weeks" (*shavuot
 **Part of Speech:** masculine noun
 **BLB Count:** 1 (hapax legomenon)
 
-**Definition:** From [H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/){:target="_blank"} (shabath); cessation, i.e. destruction: sabbath.
+**Definition:** From H7673 (shabath); cessation, i.e. destruction: sabbath.
 
 ### The Single Occurrence: Lamentations 1:7
 
@@ -375,16 +375,3 @@ KJV translates as "her sabbaths" in Lam 1:7 (some MSS), though this is a rare sa
 
 ### Significance
 This rare noun shows the semantic range of the *shabath* root extends to "cessation/destruction" -- the most extreme form of "ceasing." It is only tangentially related to the weekly Sabbath institution.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

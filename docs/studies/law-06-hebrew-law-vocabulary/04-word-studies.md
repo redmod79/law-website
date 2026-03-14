@@ -5,13 +5,13 @@ What do torah, mitsvah, choq, mishpat, edut, piqqud, and chuqqah mean, and do th
 
 ---
 
-## torah — [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}
+## torah — H8451
 
 **Original:** תּוֹרָה (towrah)
 **Transliteration:** towrah / torah
 **Part of Speech:** Feminine noun
 **Occurrences:** 219 (BLB) / 244 (search_strongs)
-**Root:** From [H3384](https://www.blueletterbible.org/lexicon/h3384/kjv/wlc/0-1/){:target="_blank"} (yarah, "to throw, shoot, cast, pour; to direct, teach, instruct")
+**Root:** From H3384 (yarah, "to throw, shoot, cast, pour; to direct, teach, instruct")
 **Definition:** "A precept or statute, especially the Decalogue or Pentateuch: law" (Strong's). From the root meaning "to direct, instruct" — the basic sense is "instruction, direction, teaching."
 
 ### Translations (KJV)
@@ -46,11 +46,11 @@ Torah functions at multiple levels in the OT:
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos | 188x | 33.81 | Law, custom, principle |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole | 23x | — | Commandment, injunction |
-| [G975](https://www.blueletterbible.org/lexicon/g975/kjv/tr/0-1/){:target="_blank"} biblion | 21x | — | Book, scroll |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma | 16x | — | Ordinance, righteous requirement |
-| [G1125](https://www.blueletterbible.org/lexicon/g1125/kjv/tr/0-1/){:target="_blank"} grapho | 32x | — | Writing (= "the written law") |
+| G3551 nomos | 188x | 33.81 | Law, custom, principle |
+| G1785 entole | 23x | — | Commandment, injunction |
+| G975 biblion | 21x | — | Book, scroll |
+| G1345 dikaioma | 16x | — | Ordinance, righteous requirement |
+| G1125 grapho | 32x | — | Writing (= "the written law") |
 
 **The LXX overwhelmingly renders torah as nomos (188x).** This is the Greek word used throughout the NT for "law." The secondary mapping to entole (23x) and dikaioma (16x) shows the LXX translators recognized torah could refer specifically to commandments or ordinances, not just "law" generically. The mapping to biblion and grapho reflects passages where torah means "the written book of the law."
 
@@ -64,13 +64,13 @@ Torah appears across the entire OT: heavily in Deuteronomy (22x), Psalms (esp. 1
 
 ---
 
-## mitsvah — [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"}
+## mitsvah — H4687
 
 **Original:** מִצְוָה (mitsvah)
 **Transliteration:** mitsvah
 **Part of Speech:** Feminine noun
 **Occurrences:** 181 (BLB) / 190 (search_strongs)
-**Root:** From [H6680](https://www.blueletterbible.org/lexicon/h6680/kjv/wlc/0-1/){:target="_blank"} (tsavah, "to command, charge, give orders")
+**Root:** From H6680 (tsavah, "to command, charge, give orders")
 **Definition:** "A command, whether human or divine (collectively, the Law): commanded, commandment, law, ordinance, precept" (Strong's)
 
 ### Translations (KJV)
@@ -105,10 +105,10 @@ Mitsvah carries a clear sense of direct, authoritative command:
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole | 153x | 34.01 | Commandment, injunction |
-| [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} phylasso | 66x | — | To guard, keep, observe |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma | 27x | — | Ordinance, righteous requirement |
-| [G1781](https://www.blueletterbible.org/lexicon/g1781/kjv/tr/0-1/){:target="_blank"} entellomai | 46x | — | To command, charge |
+| G1785 entole | 153x | 34.01 | Commandment, injunction |
+| G5442 phylasso | 66x | — | To guard, keep, observe |
+| G1345 dikaioma | 27x | — | Ordinance, righteous requirement |
+| G1781 entellomai | 46x | — | To command, charge |
 
 **Mitsvah maps strongly to entole (153x).** This is significant for NT interpretation: when the NT uses entole ("commandment"), the Hebrew background is predominantly mitsvah. The secondary mapping to phylasso (66x) reflects the common collocation "keep the commandments" (shamar + mitsvah). The mapping to dikaioma (27x) shows some overlap with the statute/ordinance domain.
 
@@ -121,13 +121,13 @@ Mitsvah appears across Pentateuch, Psalms, Proverbs, and Prophets. Used 20x in P
 
 ---
 
-## choq — [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}
+## choq — H2706
 
 **Original:** חֹק (choq)
 **Transliteration:** choq
 **Part of Speech:** Masculine noun
 **Occurrences:** 127 (BLB) / 134 (search_strongs)
-**Root:** From [H2710](https://www.blueletterbible.org/lexicon/h2710/kjv/wlc/0-1/){:target="_blank"} (chaqaq, "to cut in, inscribe, decree")
+**Root:** From H2710 (chaqaq, "to cut in, inscribe, decree")
 **Definition:** "An enactment; hence, an appointment (of time, space, quantity, labor or usage): appointed, bound, commandment, convenient, custom, decree, due, law, measure, necessary, ordinance, portion, set time, statute, task" (Strong's)
 
 ### Translations (KJV)
@@ -171,11 +171,11 @@ Choq has the widest semantic range of the core law terms:
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma | 52x | 25.04 | Ordinance, righteous requirement |
-| [G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} nomimos | 18x | — | Lawful, legitimate |
-| [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} phylasso | 34x | — | To guard, keep |
-| [G2917](https://www.blueletterbible.org/lexicon/g2917/kjv/tr/0-1/){:target="_blank"} krima | 23x | — | Judgment, decree |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole | 22x | — | Commandment |
+| G1345 dikaioma | 52x | 25.04 | Ordinance, righteous requirement |
+| G3545 nomimos | 18x | — | Lawful, legitimate |
+| G5442 phylasso | 34x | — | To guard, keep |
+| G2917 krima | 23x | — | Judgment, decree |
+| G1785 entole | 22x | — | Commandment |
 
 **No single dominant Greek equivalent.** Choq was rendered by 5 different Greek terms with significant frequency. Dikaioma leads (52x) but does not dominate the way nomos dominates for torah or entole dominates for mitsvah. This spread reflects the wide semantic range of choq.
 
@@ -184,14 +184,14 @@ Choq appears across Pentateuch, Psalms (28x in Psa 119), Job, Proverbs, and Prop
 
 ---
 
-## chuqqah — [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"}
+## chuqqah — H2708
 
 **Original:** חֻקָּה (chuqqah)
 **Transliteration:** chuqqah
 **Part of Speech:** Feminine noun
 **Occurrences:** 104 (BLB) / 116 (search_strongs)
-**Root:** Feminine form of [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} (choq)
-**Definition:** "Feminine of [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}, and meaning substantially the same: appointed, custom, manner, ordinance, site, statute" (Strong's)
+**Root:** Feminine form of H2706 (choq)
+**Definition:** "Feminine of H2706, and meaning substantially the same: appointed, custom, manner, ordinance, site, statute" (Strong's)
 
 ### Translations (KJV)
 | Translation | Count | % |
@@ -207,7 +207,7 @@ Choq appears across Pentateuch, Psalms (28x in Psa 119), Job, Proverbs, and Prop
 | customs | 1 | 0.9% |
 
 ### Relationship to Choq (H2706)
-The lexicon explicitly states chuqqah is "feminine of [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}, and meaning substantially the same." Combined, choq and chuqqah account for approximately 235 occurrences. The masculine form (choq) is more common in Psalms, while the feminine form (chuqqah) is more common in Leviticus and Ezekiel for ritual prescriptions — though this distribution is not absolute.
+The lexicon explicitly states chuqqah is "feminine of H2706, and meaning substantially the same." Combined, choq and chuqqah account for approximately 235 occurrences. The masculine form (choq) is more common in Psalms, while the feminine form (chuqqah) is more common in Leviticus and Ezekiel for ritual prescriptions — though this distribution is not absolute.
 
 ### Key Verses
 - **Gen 26:5** — "my statutes [chuqqotay]" — in the pre-Sinai vocabulary cluster
@@ -224,12 +224,12 @@ The lexicon explicitly states chuqqah is "feminine of [H2706](https://www.bluele
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} nomimos | 32x | 24.68 | Lawful, legitimate |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma | 35x | — | Ordinance, righteous requirement |
-| [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} phylasso | 39x | — | To guard, keep |
-| [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} aionios | 20x | — | Eternal, everlasting |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole | 23x | — | Commandment |
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} sabbaton | 7x | — | Sabbath |
+| G3545 nomimos | 32x | 24.68 | Lawful, legitimate |
+| G1345 dikaioma | 35x | — | Ordinance, righteous requirement |
+| G5442 phylasso | 39x | — | To guard, keep |
+| G166 aionios | 20x | — | Eternal, everlasting |
+| G1785 entole | 23x | — | Commandment |
+| G4521 sabbaton | 7x | — | Sabbath |
 
 **Notable: aionios (20x) and sabbaton (7x) in the LXX mappings.** The aionios mapping reflects the frequent "statute forever" (chuqqat olam) construction. The sabbaton mapping shows passages where chuqqah refers specifically to sabbath/feast observances. This LXX data confirms that chuqqah is prominently used for perpetual ritual observances.
 
@@ -238,13 +238,13 @@ Chuqqah is concentrated in Leviticus (especially chs. 18-26), Exodus 12 (Passove
 
 ---
 
-## mishpat — [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"}
+## mishpat — H4941
 
 **Original:** מִשְׁפָּט (mishpat)
 **Transliteration:** mishpat
 **Part of Speech:** Masculine noun
 **Occurrences:** 421 (BLB) / 448 (search_strongs)
-**Root:** From [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} (shaphat, "to judge, govern, vindicate")
+**Root:** From H8199 (shaphat, "to judge, govern, vindicate")
 **Definition:** "Properly, a verdict (favorable or unfavorable) pronounced judicially, especially a sentence or formal decree... including the act, the place, the suit, the crime, and the penalty; abstractly, justice, including a participant's right or privilege (statutory or customary), or even a style" (Strong's)
 
 ### Translations (KJV)
@@ -289,12 +289,12 @@ Mishpat has the widest range of any Hebrew law term:
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G2917](https://www.blueletterbible.org/lexicon/g2917/kjv/tr/0-1/){:target="_blank"} krima | 175x | 29.42 | Judgment, decision, verdict |
-| [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} krisis | 132x | — | Judging, judgment, justice |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma | 63x | — | Ordinance, righteous requirement |
-| [G1343](https://www.blueletterbible.org/lexicon/g1343/kjv/tr/0-1/){:target="_blank"} dikaiosyne | 66x | — | Righteousness, justice |
-| [G1342](https://www.blueletterbible.org/lexicon/g1342/kjv/tr/0-1/){:target="_blank"} dikaios | 41x | — | Righteous, just |
-| [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} phylasso | 47x | — | To guard, keep |
+| G2917 krima | 175x | 29.42 | Judgment, decision, verdict |
+| G2920 krisis | 132x | — | Judging, judgment, justice |
+| G1345 dikaioma | 63x | — | Ordinance, righteous requirement |
+| G1343 dikaiosyne | 66x | — | Righteousness, justice |
+| G1342 dikaios | 41x | — | Righteous, just |
+| G5442 phylasso | 47x | — | To guard, keep |
 
 **The judgment family dominates (krima 175x + krisis 132x = 307x).** But the righteousness/justice family is also strongly represented (dikaioma 63x + dikaiosyne 66x + dikaios 41x = 170x). This dual mapping reflects mishpat's dual meaning: both "judgment" (the act/verdict) and "justice/right" (the abstract principle).
 
@@ -303,13 +303,13 @@ Mishpat has the highest occurrence count (421-448x) of all the law terms. It app
 
 ---
 
-## eduth — [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"}
+## eduth — H5715
 
 **Original:** עֵדוּת (eduth)
 **Transliteration:** eduth
 **Part of Speech:** Feminine noun
 **Occurrences:** 59 (BLB) / 66 (search_strongs)
-**Root:** From [H5749](https://www.blueletterbible.org/lexicon/h5749/kjv/wlc/0-1/){:target="_blank"} (ud, "to bear witness, testify")
+**Root:** From H5749 (ud, "to bear witness, testify")
 **Definition:** "Testimony: testimony, witness" (Strong's)
 
 ### Translations (KJV)
@@ -343,13 +343,13 @@ Eduth has two primary domains:
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G3142](https://www.blueletterbible.org/lexicon/g3142/kjv/tr/0-1/){:target="_blank"} martyrion | 53x | 25.93 | Testimony, witness, evidence |
-| [G2665](https://www.blueletterbible.org/lexicon/g2665/kjv/tr/0-1/){:target="_blank"} katapetasma | 9x | — | Curtain, veil (of tabernacle) |
-| [G2787](https://www.blueletterbible.org/lexicon/g2787/kjv/tr/0-1/){:target="_blank"} kibotos | 15x | — | Ark, box, chest |
-| [G4633](https://www.blueletterbible.org/lexicon/g4633/kjv/tr/0-1/){:target="_blank"} skene | 18x | — | Tent, tabernacle |
-| [G2435](https://www.blueletterbible.org/lexicon/g2435/kjv/tr/0-1/){:target="_blank"} hilasterion | 5x | — | Mercy seat, place of propitiation |
-| [G4109](https://www.blueletterbible.org/lexicon/g4109/kjv/tr/0-1/){:target="_blank"} plax | 3x | — | Tablet, stone slab |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole | 5x | — | Commandment |
+| G3142 martyrion | 53x | 25.93 | Testimony, witness, evidence |
+| G2665 katapetasma | 9x | — | Curtain, veil (of tabernacle) |
+| G2787 kibotos | 15x | — | Ark, box, chest |
+| G4633 skene | 18x | — | Tent, tabernacle |
+| G2435 hilasterion | 5x | — | Mercy seat, place of propitiation |
+| G4109 plax | 3x | — | Tablet, stone slab |
+| G1785 entole | 5x | — | Commandment |
 
 **LXX mappings reveal dual distribution clearly.** Martyrion (53x) is the primary — "testimony, witness." But the secondary mappings are tabernacle furniture terms: kibotos (ark, 15x), skene (tabernacle, 18x), katapetasma (veil, 9x), hilasterion (mercy seat, 5x), plax (tablet, 3x). These secondary mappings reflect passages where "the eduth" metonymically refers to the tablets themselves or the furnishings that housed them. The entole mapping (5x) reflects Psalm passages where eduth functions as a law synonym.
 
@@ -363,14 +363,14 @@ This distribution is significant: in narrative/legislative contexts, eduth refer
 
 ---
 
-## edah — [H5713](https://www.blueletterbible.org/lexicon/h5713/kjv/wlc/0-1/){:target="_blank"}
+## edah — H5713
 
 **Original:** עֵדָה (edah)
 **Transliteration:** edah
 **Part of Speech:** Feminine noun
 **Occurrences:** 26 (BLB) / 28 (search_strongs)
-**Root:** Feminine of [H5707](https://www.blueletterbible.org/lexicon/h5707/kjv/wlc/0-1/){:target="_blank"} (ed, "witness") in its technical sense
-**Definition:** "Feminine of [H5707](https://www.blueletterbible.org/lexicon/h5707/kjv/wlc/0-1/){:target="_blank"} in its technical sense; testimony: testimony, witness. Compare [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"}." (Strong's)
+**Root:** Feminine of H5707 (ed, "witness") in its technical sense
+**Definition:** "Feminine of H5707 in its technical sense; testimony: testimony, witness. Compare H5715." (Strong's)
 
 ### Translations (KJV)
 | Translation | Count | % |
@@ -383,7 +383,7 @@ This distribution is significant: in narrative/legislative contexts, eduth refer
 | and his testimonies | 2 | 7.1% |
 
 ### Relationship to Eduth (H5715)
-The lexicon connects this term directly to [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} ("Compare [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"}"). Both mean "testimony/witness," but their distributions differ:
+The lexicon connects this term directly to H5715 ("Compare H5715"). Both mean "testimony/witness," but their distributions differ:
 - **Eduth (H5715):** Concentrated in Exodus tabernacle references
 - **Edah (H5713):** Concentrated in Deuteronomy and Psalm 119
 
@@ -399,11 +399,11 @@ The lexicon connects this term directly to [H5715](https://www.blueletterbible.o
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G3142](https://www.blueletterbible.org/lexicon/g3142/kjv/tr/0-1/){:target="_blank"} martyrion | 24x | 20.99 | Testimony, witness |
-| [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} phylasso | 7x | — | To guard, keep |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma | 4x | — | Ordinance, righteous requirement |
+| G3142 martyrion | 24x | 20.99 | Testimony, witness |
+| G5442 phylasso | 7x | — | To guard, keep |
+| G1345 dikaioma | 4x | — | Ordinance, righteous requirement |
 
-**Like eduth, edah maps primarily to martyrion.** The LXX translators did not consistently distinguish between [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} and [H5713](https://www.blueletterbible.org/lexicon/h5713/kjv/wlc/0-1/){:target="_blank"}.
+**Like eduth, edah maps primarily to martyrion.** The LXX translators did not consistently distinguish between H5715 and H5713.
 
 ### Distribution Pattern
 - Gen 21:30; 31:52 (witness stones — non-legal uses)
@@ -414,13 +414,13 @@ The lexicon connects this term directly to [H5715](https://www.blueletterbible.o
 
 ---
 
-## piqqud — [H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"}
+## piqqud — H6490
 
 **Original:** פִּקּוּד (piqqud)
 **Transliteration:** piqqud
 **Part of Speech:** Masculine noun
 **Occurrences:** 24 (BLB) / 25 (search_strongs)
-**Root:** From [H6485](https://www.blueletterbible.org/lexicon/h6485/kjv/wlc/0-1/){:target="_blank"} (paqad, "to attend to, visit, muster, appoint")
+**Root:** From H6485 (paqad, "to attend to, visit, muster, appoint")
 **Definition:** "Properly, appointed, i.e. a mandate (of God; plural only, collectively, for the Law): commandment, precept, statute" (Strong's)
 
 ### Translations (KJV)
@@ -468,8 +468,8 @@ Piqqud has an extremely narrow semantic range:
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole | 19x | 19.80 | Commandment, injunction |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma | 6x | — | Ordinance, righteous requirement |
+| G1785 entole | 19x | 19.80 | Commandment, injunction |
+| G1345 dikaioma | 6x | — | Ordinance, righteous requirement |
 
 **Small sample; entole dominates.** The LXX translators rendered piqqud as entole (commandment) — the same Greek word they used for mitsvah. This means the LXX did not preserve the Hebrew distinction between piqqud and mitsvah.
 
@@ -482,13 +482,13 @@ This is one of the most distinctive distribution patterns among all law terms:
 
 ---
 
-## mishmereth — [H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"}
+## mishmereth — H4931
 
 **Original:** מִשְׁמֶרֶת (mishmereth)
 **Transliteration:** mishmereth
 **Part of Speech:** Feminine noun
 **Occurrences:** 78
-**Root:** From [H8104](https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/){:target="_blank"} (shamar, "to keep, guard, observe")
+**Root:** From H8104 (shamar, "to keep, guard, observe")
 **Definition:** "Watch, i.e. the act (custody), or (concretely) the sentry, the post; objectively preservation, or (concretely) safe; figuratively observance, i.e. (abstractly) duty or (objectively) a usage or party: charge, keep, ordinance, safeguard, ward, watch" (Strong's)
 
 ### Translations (KJV)
@@ -518,11 +518,11 @@ Mishmereth has a concrete-to-abstract range:
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G5438](https://www.blueletterbible.org/lexicon/g5438/kjv/tr/0-1/){:target="_blank"} phylake | 41x | 26.77 | Guard, watch, prison |
-| [G5442](https://www.blueletterbible.org/lexicon/g5442/kjv/tr/0-1/){:target="_blank"} phylasso | 40x | — | To guard, keep |
-| [G2183](https://www.blueletterbible.org/lexicon/g2183/kjv/tr/0-1/){:target="_blank"} ephemeria | 6x | — | Daily duty course |
-| [G3008](https://www.blueletterbible.org/lexicon/g3008/kjv/tr/0-1/){:target="_blank"} leitourgeo | 9x | — | To serve in ministry |
-| [G4633](https://www.blueletterbible.org/lexicon/g4633/kjv/tr/0-1/){:target="_blank"} skene | 17x | — | Tent, tabernacle |
+| G5438 phylake | 41x | 26.77 | Guard, watch, prison |
+| G5442 phylasso | 40x | — | To guard, keep |
+| G2183 ephemeria | 6x | — | Daily duty course |
+| G3008 leitourgeo | 9x | — | To serve in ministry |
+| G4633 skene | 17x | — | Tent, tabernacle |
 
 **The guard/keep family dominates (phylake 41x + phylasso 40x = 81x).** This confirms the core meaning is "guarding, keeping watch over." The leitourgeo and ephemeria mappings reflect Levitical duty contexts.
 
@@ -531,13 +531,13 @@ Concentrated in Numbers (priestly/Levitical duties), Genesis-Deuteronomy (covena
 
 ---
 
-## dabar — [H1697](https://www.blueletterbible.org/lexicon/h1697/kjv/wlc/0-1/){:target="_blank"}
+## dabar — H1697
 
 **Original:** דָּבָר (dabar)
 **Transliteration:** dabar
 **Part of Speech:** Masculine noun
 **Occurrences:** ~1439-1504
-**Root:** From [H1696](https://www.blueletterbible.org/lexicon/h1696/kjv/wlc/0-1/){:target="_blank"} (dabar, "to speak, declare")
+**Root:** From H1696 (dabar, "to speak, declare")
 **Definition:** "A word; by implication, a matter (as spoken of) or thing; adverbially, a cause" (Strong's). Full range: "act, advice, affair, answer, book, business, case, cause, commandment, commune, counsel, decree, deed, due, duty, effect, errand, harm, hurt, iniquity, judgment, language, lying, manner, matter, message, oracle, ought, parts, please, portion, power, promise, provision, purpose, question, rate, reason, report, request, said, sake, saying, sentence, sign, so, some, song, speech, spoken, talk, task, thing, thought, tidings, what, which, word, work"
 
 ### Translations (KJV)
@@ -581,10 +581,10 @@ As a law term, dabar functions in specific contexts:
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G3056](https://www.blueletterbible.org/lexicon/g3056/kjv/tr/0-1/){:target="_blank"} logos | 744x | 26.56 | Word, speech, reason, account |
-| [G4487](https://www.blueletterbible.org/lexicon/g4487/kjv/tr/0-1/){:target="_blank"} rhema | 338x | 22.05 | Word, utterance, saying |
-| [G975](https://www.blueletterbible.org/lexicon/g975/kjv/tr/0-1/){:target="_blank"} biblion | 75x | — | Book, scroll |
-| [G1125](https://www.blueletterbible.org/lexicon/g1125/kjv/tr/0-1/){:target="_blank"} grapho | 91x | — | To write |
+| G3056 logos | 744x | 26.56 | Word, speech, reason, account |
+| G4487 rhema | 338x | 22.05 | Word, utterance, saying |
+| G975 biblion | 75x | — | Book, scroll |
+| G1125 grapho | 91x | — | To write |
 
 **Logos dominates (744x) with rhema as secondary (338x).** When the NT uses logos ("word") with reference to God's law, the Hebrew background is often dabar.
 
@@ -593,13 +593,13 @@ Dabar appears across the entire OT in massive numbers. As a law-specific term, i
 
 ---
 
-## imrah — [H565](https://www.blueletterbible.org/lexicon/h565/kjv/wlc/0-1/){:target="_blank"}
+## imrah — H565
 
 **Original:** אִמְרָה (imrah)
 **Transliteration:** imrah
 **Part of Speech:** Feminine noun
 **Occurrences:** 37
-**Root:** Feminine form related to [H561](https://www.blueletterbible.org/lexicon/h561/kjv/wlc/0-1/){:target="_blank"} (emer, "speech, word")
+**Root:** Feminine form related to H561 (emer, "speech, word")
 **Definition:** "Commandment, speech, word" (Strong's)
 
 ### Translations (KJV)
@@ -636,10 +636,10 @@ Imrah is closely related to dabar but with a feminine form that emphasizes the s
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G3051](https://www.blueletterbible.org/lexicon/g3051/kjv/tr/0-1/){:target="_blank"} logion | 25x | 29.27 | Oracle, divine utterance |
-| [G4448](https://www.blueletterbible.org/lexicon/g4448/kjv/tr/0-1/){:target="_blank"} pyroo | 6x | 15.25 | To kindle, burn, refine |
-| [G3870](https://www.blueletterbible.org/lexicon/g3870/kjv/tr/0-1/){:target="_blank"} parakaleo | 3x | — | To call near, comfort, exhort |
-| [G3056](https://www.blueletterbible.org/lexicon/g3056/kjv/tr/0-1/){:target="_blank"} logos | 8x | — | Word, speech |
+| G3051 logion | 25x | 29.27 | Oracle, divine utterance |
+| G4448 pyroo | 6x | 15.25 | To kindle, burn, refine |
+| G3870 parakaleo | 3x | — | To call near, comfort, exhort |
+| G3056 logos | 8x | — | Word, speech |
 
 **Logion (25x) is the primary Greek equivalent** — meaning "oracle, divine utterance." This is distinct from dabar's mapping to logos. The LXX translators perceived imrah as specifically referring to divine oracular speech, not just "word" generically. The pyroo mapping (6x) reflects Psa 12:6 "The words [imrot] of the LORD are pure words... as silver tried in a furnace."
 
@@ -648,13 +648,13 @@ Imrah appears primarily in Psalms (especially 119, with approximately 19 occurre
 
 ---
 
-## yirah — [H3374](https://www.blueletterbible.org/lexicon/h3374/kjv/wlc/0-1/){:target="_blank"}
+## yirah — H3374
 
 **Original:** יִרְאָה (yirah)
 **Transliteration:** yirah
 **Part of Speech:** Feminine noun
 **Occurrences:** 45
-**Root:** Feminine of [H3373](https://www.blueletterbible.org/lexicon/h3373/kjv/wlc/0-1/){:target="_blank"} (yare, "fearing, afraid")
+**Root:** Feminine of H3373 (yare, "fearing, afraid")
 **Definition:** "Fear (also used as infinitive); morally, reverence: dreadful, exceedingly, fear(-fulness)" (Strong's)
 
 ### Translations (KJV)
@@ -692,10 +692,10 @@ In this poetic structure, yirah ("fear of the LORD") fills the same syntactic sl
 ### LXX Connections
 | Greek Term | Count | Score | Meaning |
 |------------|-------|-------|---------|
-| [G5401](https://www.blueletterbible.org/lexicon/g5401/kjv/tr/0-1/){:target="_blank"} phobos | 31x | 24.89 | Fear, terror, reverence |
-| [G2150](https://www.blueletterbible.org/lexicon/g2150/kjv/tr/0-1/){:target="_blank"} eusebeia | 3x | 12.06 | Piety, godliness |
-| [G4678](https://www.blueletterbible.org/lexicon/g4678/kjv/tr/0-1/){:target="_blank"} sophia | 9x | 11.96 | Wisdom |
-| [G5156](https://www.blueletterbible.org/lexicon/g5156/kjv/tr/0-1/){:target="_blank"} tromos | 3x | — | Trembling |
+| G5401 phobos | 31x | 24.89 | Fear, terror, reverence |
+| G2150 eusebeia | 3x | 12.06 | Piety, godliness |
+| G4678 sophia | 9x | 11.96 | Wisdom |
+| G5156 tromos | 3x | — | Trembling |
 
 **Phobos dominates (31x).** But the secondary mappings to eusebeia (piety, 3x) and sophia (wisdom, 9x) are theologically significant — the LXX translators recognized that "fear of the LORD" carries connotations of piety/godliness and wisdom, not merely terror.
 
@@ -705,18 +705,18 @@ In this poetic structure, yirah ("fear of the LORD") fills the same syntactic sl
 
 | Hebrew Term | Strong's | Occ. | Primary Greek LXX | Secondary Greek | Notes |
 |-------------|----------|------|-------------------|-----------------|-------|
-| torah | [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | 219 | nomos [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} (188x) | entole (23x), dikaioma (16x), biblion (21x) | Overwhelmingly nomos |
-| mitsvah | [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} | 181 | entole [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (153x) | phylasso (66x), dikaioma (27x) | Strong entole mapping |
-| choq | [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} | 127 | dikaioma [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} (52x) | nomimos (18x), krima (23x), entole (22x) | No single dominant term |
-| chuqqah | [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} | 104 | nomimos [G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} (32x) | dikaioma (35x), phylasso (39x), aionios (20x) | Spread across multiple terms |
-| mishpat | [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | 421 | krima [G2917](https://www.blueletterbible.org/lexicon/g2917/kjv/tr/0-1/){:target="_blank"} (175x) | krisis (132x), dikaioma (63x), dikaiosyne (66x) | Judgment family dominates |
-| eduth | [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} | 59 | martyrion [G3142](https://www.blueletterbible.org/lexicon/g3142/kjv/tr/0-1/){:target="_blank"} (53x) | kibotos (15x), skene (18x), katapetasma (9x) | Testimony + tabernacle terms |
-| edah | [H5713](https://www.blueletterbible.org/lexicon/h5713/kjv/wlc/0-1/){:target="_blank"} | 26 | martyrion [G3142](https://www.blueletterbible.org/lexicon/g3142/kjv/tr/0-1/){:target="_blank"} (24x) | phylasso (7x), dikaioma (4x) | Same primary as eduth |
-| piqqud | [H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"} | 24 | entole [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (19x) | dikaioma (6x) | Small sample; merged with mitsvah |
-| mishmereth | [H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"} | 78 | phylake [G5438](https://www.blueletterbible.org/lexicon/g5438/kjv/tr/0-1/){:target="_blank"} (41x) | phylasso (40x), skene (17x) | Guard/watch family |
-| dabar | [H1697](https://www.blueletterbible.org/lexicon/h1697/kjv/wlc/0-1/){:target="_blank"} | ~1440 | logos [G3056](https://www.blueletterbible.org/lexicon/g3056/kjv/tr/0-1/){:target="_blank"} (744x) | rhema (338x), biblion (75x) | Word/matter broadly |
-| imrah | [H565](https://www.blueletterbible.org/lexicon/h565/kjv/wlc/0-1/){:target="_blank"} | 37 | logion [G3051](https://www.blueletterbible.org/lexicon/g3051/kjv/tr/0-1/){:target="_blank"} (25x) | logos (8x), pyroo (6x) | Oracle/divine utterance |
-| yirah | [H3374](https://www.blueletterbible.org/lexicon/h3374/kjv/wlc/0-1/){:target="_blank"} | 45 | phobos [G5401](https://www.blueletterbible.org/lexicon/g5401/kjv/tr/0-1/){:target="_blank"} (31x) | sophia (9x), eusebeia (3x) | Fear/reverence |
+| torah | H8451 | 219 | nomos G3551 (188x) | entole (23x), dikaioma (16x), biblion (21x) | Overwhelmingly nomos |
+| mitsvah | H4687 | 181 | entole G1785 (153x) | phylasso (66x), dikaioma (27x) | Strong entole mapping |
+| choq | H2706 | 127 | dikaioma G1345 (52x) | nomimos (18x), krima (23x), entole (22x) | No single dominant term |
+| chuqqah | H2708 | 104 | nomimos G3545 (32x) | dikaioma (35x), phylasso (39x), aionios (20x) | Spread across multiple terms |
+| mishpat | H4941 | 421 | krima G2917 (175x) | krisis (132x), dikaioma (63x), dikaiosyne (66x) | Judgment family dominates |
+| eduth | H5715 | 59 | martyrion G3142 (53x) | kibotos (15x), skene (18x), katapetasma (9x) | Testimony + tabernacle terms |
+| edah | H5713 | 26 | martyrion G3142 (24x) | phylasso (7x), dikaioma (4x) | Same primary as eduth |
+| piqqud | H6490 | 24 | entole G1785 (19x) | dikaioma (6x) | Small sample; merged with mitsvah |
+| mishmereth | H4931 | 78 | phylake G5438 (41x) | phylasso (40x), skene (17x) | Guard/watch family |
+| dabar | H1697 | ~1440 | logos G3056 (744x) | rhema (338x), biblion (75x) | Word/matter broadly |
+| imrah | H565 | 37 | logion G3051 (25x) | logos (8x), pyroo (6x) | Oracle/divine utterance |
+| yirah | H3374 | 45 | phobos G5401 (31x) | sophia (9x), eusebeia (3x) | Fear/reverence |
 
 ### Key LXX Observations
 
@@ -814,16 +814,3 @@ The following patterns emerge from the data but are left for the analysis agent 
 6. **The eduth/Decalogue connection:** Eduth in narrative contexts (Exodus) refers specifically to the Decalogue tablets. In poetic contexts (Psalms), it broadens. Law-03 found this pattern; the data here confirms it.
 
 7. **Pre-Sinai vocabulary in Gen 26:5:** All four terms used for Abraham's obedience (mishmereth, mitsvot, chuqqot, torot) also appear in Sinai-era legislation, suggesting continuity of concept.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

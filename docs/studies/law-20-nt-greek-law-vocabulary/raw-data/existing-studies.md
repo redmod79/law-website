@@ -56,7 +56,7 @@
 - Path: D:/bible/bible-studies/law-07-law-of-moses/CONCLUSION.md
 
 ### 8. law-01-gods-moral-law (RELEVANT)
-- Foundation word studies on [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} entole, [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} dogma, [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} dikaioma, [G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos
+- Foundation word studies on G1785 entole, G1378 dogma, G1345 dikaioma, G3551 nomos
 - The Nomos/Entole Cluster table
 - Path: D:/bible/bible-studies/law-01-gods-moral-law/CONCLUSION.md
 

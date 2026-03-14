@@ -107,21 +107,21 @@ Read and apply the methodology in `D:/bible/bible-studies/law-series-methodology
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} | sabbaton -- Greek "Sabbath" (68 occ.) | Central term; used in Acts sabbath passages and Col 2:16 |
-| [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} | sabbatismos -- "Sabbath-keeping" (1 occ.) | Hapax legomenon in Heb 4:9; -ismos suffix = practice; key to this study |
-| [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} | etho/eiothos -- "custom/habit" (4 occ.) | Perfect Active Participle in Luk 4:16 and Acts 17:2; identical construction for Jesus and Paul |
-| [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} | shabbath -- Hebrew "sabbath" (108 occ.) | Core OT Sabbath term; "the sabbaths of the LORD" in Lev 23:38 |
-| [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} | shabbathown -- "sabbatism/rest" (11 occ.) | Used for both weekly Sabbath (Lev 23:3) and ceremonial rest days |
-| [G2663](https://www.blueletterbible.org/lexicon/g2663/kjv/tr/0-1/){:target="_blank"} | katapausis -- "rest" (9 occ.) | Used 8 times in Heb 3-4; deliberately switched to sabbatismos in Heb 4:9 |
-| [G620](https://www.blueletterbible.org/lexicon/g620/kjv/tr/0-1/){:target="_blank"} | apoleipo -- "to leave remaining" (7 occ.) | Present Passive Indicative in Heb 4:9 ("is currently remaining") |
-| [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} | skia -- "shadow" (7 occ.) | Col 2:17; Heb 8:5; 10:1; applied to ceremonial system, never to Decalogue |
-| [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} | zakar -- "remember" (233 occ.) | Memorial verb opening Fourth Commandment (Exo 20:8); backward-pointing |
-| [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} | entole -- "commandment" (71 occ.) | Rev 14:12; Rev 12:17; 1 Cor 7:19; key to end-time commandment-keeping |
-| [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} | olam -- "perpetual/everlasting" (439 occ.) | "Perpetual covenant" (berit olam) in Exo 31:16; "for ever" in Exo 31:17 |
-| [G4864](https://www.blueletterbible.org/lexicon/g4864/kjv/tr/0-1/){:target="_blank"} | synagoge -- "synagogue" (56 occ.) | Setting for apostolic Sabbath practice in Acts |
-| [H226](https://www.blueletterbible.org/lexicon/h226/kjv/wlc/0-1/){:target="_blank"} | oth -- "sign" (79 occ.) | Sabbath as "a sign" in Exo 31:13,17; Eze 20:12,20 |
-| [H6942](https://www.blueletterbible.org/lexicon/h6942/kjv/wlc/0-1/){:target="_blank"} | qadash -- "to sanctify" (172 occ.) | God "sanctified" the seventh day at creation (Gen 2:3) |
-| [G752](https://www.blueletterbible.org/lexicon/g752/kjv/tr/0-1/){:target="_blank"} | archisynagogos -- "ruler of the synagogue" (9 occ.) | Context of synagogue sabbath worship |
+| G4521 | sabbaton -- Greek "Sabbath" (68 occ.) | Central term; used in Acts sabbath passages and Col 2:16 |
+| G4520 | sabbatismos -- "Sabbath-keeping" (1 occ.) | Hapax legomenon in Heb 4:9; -ismos suffix = practice; key to this study |
+| G1486 | etho/eiothos -- "custom/habit" (4 occ.) | Perfect Active Participle in Luk 4:16 and Acts 17:2; identical construction for Jesus and Paul |
+| H7676 | shabbath -- Hebrew "sabbath" (108 occ.) | Core OT Sabbath term; "the sabbaths of the LORD" in Lev 23:38 |
+| H7677 | shabbathown -- "sabbatism/rest" (11 occ.) | Used for both weekly Sabbath (Lev 23:3) and ceremonial rest days |
+| G2663 | katapausis -- "rest" (9 occ.) | Used 8 times in Heb 3-4; deliberately switched to sabbatismos in Heb 4:9 |
+| G620 | apoleipo -- "to leave remaining" (7 occ.) | Present Passive Indicative in Heb 4:9 ("is currently remaining") |
+| G4639 | skia -- "shadow" (7 occ.) | Col 2:17; Heb 8:5; 10:1; applied to ceremonial system, never to Decalogue |
+| H2142 | zakar -- "remember" (233 occ.) | Memorial verb opening Fourth Commandment (Exo 20:8); backward-pointing |
+| G1785 | entole -- "commandment" (71 occ.) | Rev 14:12; Rev 12:17; 1 Cor 7:19; key to end-time commandment-keeping |
+| H5769 | olam -- "perpetual/everlasting" (439 occ.) | "Perpetual covenant" (berit olam) in Exo 31:16; "for ever" in Exo 31:17 |
+| G4864 | synagoge -- "synagogue" (56 occ.) | Setting for apostolic Sabbath practice in Acts |
+| H226 | oth -- "sign" (79 occ.) | Sabbath as "a sign" in Exo 31:13,17; Eze 20:12,20 |
+| H6942 | qadash -- "to sanctify" (172 occ.) | God "sanctified" the seventh day at creation (Gen 2:3) |
+| G752 | archisynagogos -- "ruler of the synagogue" (9 occ.) | Context of synagogue sabbath worship |
 
 ### Related Existing Studies
 | Study | Relevance |
@@ -204,7 +204,7 @@ You are the Research Agent. Execute this study by:
 6. Write research files to this folder:
    - `01-topics.md` - Nave's topics and full entries
    - `02-verses.md` - All verse texts retrieved with context (retrieve EVERY verse listed above from kjv.txt)
-   - `04-word-studies.md` - Strong's research for all listed numbers (G4521, [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"}, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"}, [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"}, [G2663](https://www.blueletterbible.org/lexicon/g2663/kjv/tr/0-1/){:target="_blank"}, [G620](https://www.blueletterbible.org/lexicon/g620/kjv/tr/0-1/){:target="_blank"}, [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"}, [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"}, [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"}, [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}, [G4864](https://www.blueletterbible.org/lexicon/g4864/kjv/tr/0-1/){:target="_blank"}, [H226](https://www.blueletterbible.org/lexicon/h226/kjv/wlc/0-1/){:target="_blank"}, [H6942](https://www.blueletterbible.org/lexicon/h6942/kjv/wlc/0-1/){:target="_blank"}, G752)
+   - `04-word-studies.md` - Strong's research for all listed numbers (G4521, G4520, G1486, H7676, H7677, G2663, G620, G4639, H2142, G1785, H5769, G4864, H226, H6942, G752)
    - `raw-data/` - Raw tool output organized by category
 7. Run cross-testament parallels for key verses: Acts 13:14, Acts 17:2, Acts 18:4, Mat 24:20, Luk 23:56, Isa 66:22-23, Heb 4:9, Isa 56:6-7, Exo 31:16-17, Eze 20:12, Rev 14:12
 8. Retrieve Hebrew/Greek parsing for key verses: Acts 17:2 (kata to eiothos, sabbata), Acts 18:4 (kata pan sabbaton), Heb 4:9 (apoleipetai, sabbatismos), Luk 23:56 (kata ten entolen), Mat 24:20 (sabbato), Isa 66:23 (shabbat beshabbatto), Exo 31:16 (berit olam), Eze 20:12 (oth/sign)
@@ -236,16 +236,3 @@ answer-question
 ---
 *Scoped: 2026-02-26*
 *Folder: bible-studies/law-27-sabbath-still-in-effect/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

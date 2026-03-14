@@ -1,6 +1,6 @@
 # Word Studies
 
-## [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} -- katargeo (done away / abolished)
+## G2673 -- katargeo (done away / abolished)
 
 **Original:** katageo
 **Transliteration:** katargeo
@@ -81,7 +81,7 @@ katargeo does NOT always mean "permanently abolish." Its semantic range includes
 
 ---
 
-## [G1248](https://www.blueletterbible.org/lexicon/g1248/kjv/tr/0-1/){:target="_blank"} -- diakonia (ministry / ministration)
+## G1248 -- diakonia (ministry / ministration)
 
 **Original:** diakonia
 **Transliteration:** diakonia
@@ -115,7 +115,7 @@ diakonia is FEMININE in gender. This is important for grammatical agreement anal
 
 ---
 
-## [G1391](https://www.blueletterbible.org/lexicon/g1391/kjv/tr/0-1/){:target="_blank"} -- doxa (glory)
+## G1391 -- doxa (glory)
 
 **Original:** doxa
 **Transliteration:** doxa
@@ -149,7 +149,7 @@ doxa is FEMININE. In v.7, the participle katargoumenen ("being done away") is Ac
 
 ---
 
-## [G2571](https://www.blueletterbible.org/lexicon/g2571/kjv/tr/0-1/){:target="_blank"} -- kalumma (veil)
+## G2571 -- kalumma (veil)
 
 **Original:** kalumma
 **Transliteration:** kalumma
@@ -170,12 +170,12 @@ doxa is FEMININE. In v.7, the participle katargoumenen ("being done away") is Ac
 ### Critical Note
 kalumma is NEUTER. In v.14, katargeitai (Present Passive Indicative 3rd Sg) has the neuter kalumma as its most proximate subject: "the same veil...is done away in Christ." The verb has no gender marking in 3rd singular indicative form, but the contextual subject is the veil (neuter), not the old covenant (feminine diatheke).
 
-### Compare with [G2665](https://www.blueletterbible.org/lexicon/g2665/kjv/tr/0-1/){:target="_blank"} -- katapetasma (temple veil)
+### Compare with G2665 -- katapetasma (temple veil)
 katapetasma (neuter) = the temple curtain/veil (Matt 27:51; Mk 15:38; Lk 23:45; Heb 6:19; 9:3; 10:20). This is distinct from kalumma (personal/spiritual veil in 2 Cor 3). Different words for different veils.
 
 ---
 
-## [G1795](https://www.blueletterbible.org/lexicon/g1795/kjv/tr/0-1/){:target="_blank"} -- entupoo (engrave / enstamp)
+## G1795 -- entupoo (engrave / enstamp)
 
 **Original:** entupoo
 **Transliteration:** entupoo
@@ -192,7 +192,7 @@ In 2 Cor 3:7, enteteupomene is parsed as Perfect Passive Participle, Nominative 
 
 ---
 
-## [G3035](https://www.blueletterbible.org/lexicon/g3035/kjv/tr/0-1/){:target="_blank"} -- lithinos (of stone / stony)
+## G3035 -- lithinos (of stone / stony)
 
 **Original:** lithinos
 **Transliteration:** lithinos
@@ -210,7 +210,7 @@ In 2 Cor 3:7, enteteupomene is parsed as Perfect Passive Participle, Nominative 
 
 ---
 
-## [G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} -- engrapho (write in / inscribe)
+## G1449 -- engrapho (write in / inscribe)
 
 **Original:** engrapho
 **Transliteration:** engrapho
@@ -228,7 +228,7 @@ In 2 Cor 3:7, enteteupomene is parsed as Perfect Passive Participle, Nominative 
 
 ---
 
-## [G2633](https://www.blueletterbible.org/lexicon/g2633/kjv/tr/0-1/){:target="_blank"} -- katakrisis (condemnation -- the act)
+## G2633 -- katakrisis (condemnation -- the act)
 
 **Original:** katakrisis
 **Transliteration:** katakrisis
@@ -243,12 +243,12 @@ In 2 Cor 3:7, enteteupomene is parsed as Perfect Passive Participle, Nominative 
 | **2 Corinthians 3:9** | **"of condemnation" -- "the ministration of condemnation"** |
 | 2 Corinthians 7:3 | "condemn" -- "I speak not this to condemn you" |
 
-### Compare with [G2631](https://www.blueletterbible.org/lexicon/g2631/kjv/tr/0-1/){:target="_blank"} -- katakrima (condemnation -- the verdict)
+### Compare with G2631 -- katakrima (condemnation -- the verdict)
 katakrima = the verdict/sentence itself (noun). 3 occurrences: Rom 5:16, 5:18, 8:1 ("no condemnation to them in Christ Jesus")
 
 ---
 
-## [G3009](https://www.blueletterbible.org/lexicon/g3009/kjv/tr/0-1/){:target="_blank"} -- leitourgia (public function / liturgy)
+## G3009 -- leitourgia (public function / liturgy)
 
 **Original:** leitourgia
 **Transliteration:** leitourgia
@@ -272,7 +272,7 @@ leitourgia (priestly public function) is distinct from diakonia (general ministr
 
 ---
 
-## [G4109](https://www.blueletterbible.org/lexicon/g4109/kjv/tr/0-1/){:target="_blank"} -- plax (tablet / flat surface)
+## G4109 -- plax (tablet / flat surface)
 
 **Original:** plax
 **Transliteration:** plax
@@ -292,7 +292,7 @@ The SAME word plax is used for both the stone tablets and the heart tablets in 2
 
 ---
 
-## [G1121](https://www.blueletterbible.org/lexicon/g1121/kjv/tr/0-1/){:target="_blank"} -- gramma (letter / writing)
+## G1121 -- gramma (letter / writing)
 
 **Original:** gramma
 **Transliteration:** gramma
@@ -323,7 +323,7 @@ gramma in 2 Cor 3:6 ("the letter killeth") does not mean the law is evil. Compar
 
 ---
 
-## [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} -- pneuma (spirit)
+## G4151 -- pneuma (spirit)
 
 **Original:** pneuma
 **Transliteration:** pneuma
@@ -342,7 +342,7 @@ gramma in 2 Cor 3:6 ("the letter killeth") does not mean the law is evil. Compar
 
 ---
 
-## [G1392](https://www.blueletterbible.org/lexicon/g1392/kjv/tr/0-1/){:target="_blank"} -- doxazo (to glorify)
+## G1392 -- doxazo (to glorify)
 
 **Original:** doxazo
 **Transliteration:** doxazo
@@ -362,7 +362,7 @@ gramma in 2 Cor 3:6 ("the letter killeth") does not mean the law is evil. Compar
 
 ## Hebrew Word Studies
 
-### [H2801](https://www.blueletterbible.org/lexicon/h2801/kjv/wlc/0-1/){:target="_blank"} -- charath (engrave / grave)
+### H2801 -- charath (engrave / grave)
 
 **Original:** charath
 **Transliteration:** charath
@@ -374,7 +374,7 @@ gramma in 2 Cor 3:6 ("the letter killeth") does not mean the law is evil. Compar
 ### Key Occurrence
 - **Exodus 32:16** -- "the writing [was] the writing of God, **graven** (charath) upon the tables"
 
-### [H3789](https://www.blueletterbible.org/lexicon/h3789/kjv/wlc/0-1/){:target="_blank"} -- kathab (write)
+### H3789 -- kathab (write)
 
 **Original:** kathab
 **Transliteration:** kathab
@@ -398,7 +398,7 @@ gramma in 2 Cor 3:6 ("the letter killeth") does not mean the law is evil. Compar
 ### Critical Note
 The same verb kathab is used for God writing the Decalogue on stone (Exo 31:18; Deu 9:10; 10:4) AND for God writing the law on hearts (Jer 31:33). The content does not change; the medium changes from stone to heart.
 
-### [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} -- torah (law / instruction)
+### H8451 -- torah (law / instruction)
 
 **Original:** torah (towrah)
 **Transliteration:** towrah
@@ -412,16 +412,3 @@ The same verb kathab is used for God writing the Decalogue on stone (Exo 31:18; 
 
 ### Critical Note
 In Jer 31:33, God says "my law" (torati) -- possessive. This is God's own torah that He will write on hearts. The new covenant does not introduce a different law; it writes the SAME divine torah on a different medium (hearts instead of stone).
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

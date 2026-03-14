@@ -136,27 +136,27 @@ This is study **law-04** in the Law of God series. The methodology file is at `D
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} | skia (shadow) | Ceremonial system described as "shadow" (Heb 10:1; Col 2:17) |
-| [G5179](https://www.blueletterbible.org/lexicon/g5179/kjv/tr/0-1/){:target="_blank"} | typos (type, pattern, figure) | Typological patterns (Rom 5:14; Heb 8:5) |
-| [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} | dogma (decree, ordinance) | What was abolished -- ceremonial decrees (Eph 2:15; Col 2:14) |
-| [G1379](https://www.blueletterbible.org/lexicon/g1379/kjv/tr/0-1/){:target="_blank"} | dogmatizo (to subject to ordinances) | "Why are ye subject to ordinances?" (Col 2:20) |
-| [G5498](https://www.blueletterbible.org/lexicon/g5498/kjv/tr/0-1/){:target="_blank"} | cheirographon (handwriting) | "Handwriting of ordinances nailed to cross" (Col 2:14) |
-| [G4376](https://www.blueletterbible.org/lexicon/g4376/kjv/tr/0-1/){:target="_blank"} | prosphora (offering, presentation) | NT word for offerings (Heb 10:5,8,10,14,18) |
-| [G4374](https://www.blueletterbible.org/lexicon/g4374/kjv/tr/0-1/){:target="_blank"} | prosphero (to offer, bring to) | Offering sacrifices (Heb 5:1,3; 8:3,4; 9:7,9,14,25,28; 10:1,2,8,11,12) |
-| [G2378](https://www.blueletterbible.org/lexicon/g2378/kjv/tr/0-1/){:target="_blank"} | thysia (sacrifice) | Sacrifice -- act or victim (Heb 5:1; 7:27; 9:26; 10:1,5,8,12,26; 13:15,16) |
-| [H2076](https://www.blueletterbible.org/lexicon/h2076/kjv/wlc/0-1/){:target="_blank"} | zabach (to slaughter in sacrifice) | OT verb for sacrifice |
-| [H2077](https://www.blueletterbible.org/lexicon/h2077/kjv/wlc/0-1/){:target="_blank"} | zebach (sacrifice, slaughter) | OT noun for sacrifice |
-| [H8002](https://www.blueletterbible.org/lexicon/h8002/kjv/wlc/0-1/){:target="_blank"} | shelem (peace offering) | Peace offerings (Lev 3) |
-| [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} | kippur (atonement, expiation) | Day of Atonement (Lev 16; 23:27) |
-| [G2409](https://www.blueletterbible.org/lexicon/g2409/kjv/tr/0-1/){:target="_blank"} | hiereus (priest) | Priest -- literal or figurative (Heb 5:6; 7:21; 10:11) |
-| [G2420](https://www.blueletterbible.org/lexicon/g2420/kjv/tr/0-1/){:target="_blank"} | hierosyne (priesthood) | Priesthood (Heb 7:11,12,14,24) |
-| [G3198](https://www.blueletterbible.org/lexicon/g3198/kjv/tr/0-1/){:target="_blank"} | Melchisedek | Melchizedek priesthood replacing Levitical (Heb 5-7) |
-| [G4061](https://www.blueletterbible.org/lexicon/g4061/kjv/tr/0-1/){:target="_blank"} | peritome (circumcision) | Circumcision -- rite, condition, or people (Gal 5:6; Col 2:11; Rom 2:25-29) |
-| [G3316](https://www.blueletterbible.org/lexicon/g3316/kjv/tr/0-1/){:target="_blank"} | mesites (mediator) | Moses as mediator of the law (Gal 3:19-20) |
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | towrah (law, instruction) | Used for both moral and ceremonial law depending on context |
-| [G1345](https://www.blueletterbible.org/lexicon/g1345/kjv/tr/0-1/){:target="_blank"} | dikaioma (ordinance, righteous requirement) | "Carnal ordinances" of the temple (Heb 9:1,10) |
-| [H4872](https://www.blueletterbible.org/lexicon/h4872/kjv/wlc/0-1/){:target="_blank"} | Mosheh (Moses) | The mediator of the ceremonial law |
-| [H5514](https://www.blueletterbible.org/lexicon/h5514/kjv/wlc/0-1/){:target="_blank"} | Sinay (Sinai) | Location where both laws were given |
+| G4639 | skia (shadow) | Ceremonial system described as "shadow" (Heb 10:1; Col 2:17) |
+| G5179 | typos (type, pattern, figure) | Typological patterns (Rom 5:14; Heb 8:5) |
+| G1378 | dogma (decree, ordinance) | What was abolished -- ceremonial decrees (Eph 2:15; Col 2:14) |
+| G1379 | dogmatizo (to subject to ordinances) | "Why are ye subject to ordinances?" (Col 2:20) |
+| G5498 | cheirographon (handwriting) | "Handwriting of ordinances nailed to cross" (Col 2:14) |
+| G4376 | prosphora (offering, presentation) | NT word for offerings (Heb 10:5,8,10,14,18) |
+| G4374 | prosphero (to offer, bring to) | Offering sacrifices (Heb 5:1,3; 8:3,4; 9:7,9,14,25,28; 10:1,2,8,11,12) |
+| G2378 | thysia (sacrifice) | Sacrifice -- act or victim (Heb 5:1; 7:27; 9:26; 10:1,5,8,12,26; 13:15,16) |
+| H2076 | zabach (to slaughter in sacrifice) | OT verb for sacrifice |
+| H2077 | zebach (sacrifice, slaughter) | OT noun for sacrifice |
+| H8002 | shelem (peace offering) | Peace offerings (Lev 3) |
+| H3725 | kippur (atonement, expiation) | Day of Atonement (Lev 16; 23:27) |
+| G2409 | hiereus (priest) | Priest -- literal or figurative (Heb 5:6; 7:21; 10:11) |
+| G2420 | hierosyne (priesthood) | Priesthood (Heb 7:11,12,14,24) |
+| G3198 | Melchisedek | Melchizedek priesthood replacing Levitical (Heb 5-7) |
+| G4061 | peritome (circumcision) | Circumcision -- rite, condition, or people (Gal 5:6; Col 2:11; Rom 2:25-29) |
+| G3316 | mesites (mediator) | Moses as mediator of the law (Gal 3:19-20) |
+| H8451 | towrah (law, instruction) | Used for both moral and ceremonial law depending on context |
+| G1345 | dikaioma (ordinance, righteous requirement) | "Carnal ordinances" of the temple (Heb 9:1,10) |
+| H4872 | Mosheh (Moses) | The mediator of the ceremonial law |
+| H5514 | Sinay (Sinai) | Location where both laws were given |
 
 ### Related Existing Studies
 
@@ -252,16 +252,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-04-ceremonial-laws/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

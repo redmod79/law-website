@@ -39,7 +39,7 @@ What do Jesus's Sabbath actions and teachings reveal about the Sabbath's continu
 **Context:** Jesus and His disciples walk through grain fields on the Sabbath. The disciples pluck and eat grain. The Pharisees challenge: "Thy disciples do that which is not lawful to do upon the sabbath day" (v.2).
 **Direct statement:** Jesus responds with three arguments: (1) David ate the showbread "which was not lawful" in a time of need (vv.3-4); (2) "The priests in the temple profane the sabbath, and are blameless [anaitioi, G338]" (v.5); (3) "If ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless [anaitioi]" (v.7). He concludes: "The Son of man is Lord even of the sabbath day" (v.8). Between arguments 2 and 3, He states: "In this place is one greater than the temple" (v.6).
 **Key observations:**
-- Jesus does NOT say the Sabbath is abolished. He says the disciples are "guiltless" (anaitioi, [G338](https://www.blueletterbible.org/lexicon/g338/kjv/tr/0-1/){:target="_blank"} -- judicially innocent). They did not violate the biblical Sabbath; they violated Pharisaic oral tradition.
+- Jesus does NOT say the Sabbath is abolished. He says the disciples are "guiltless" (anaitioi, G338 -- judicially innocent). They did not violate the biblical Sabbath; they violated Pharisaic oral tradition.
 - The priestly argument (v.5) shows that authorized divine service is not a Sabbath violation even when it involves labor. The priests are "blameless" because their activity serves God's purposes on His day.
 - "I will have mercy, and not sacrifice" (Hos 6:6 quotation) establishes mercy as the interpretive principle for Sabbath observance.
 - "Lord of the sabbath" (kurios tou sabbatou) states governing authority, not abolition.
@@ -172,7 +172,7 @@ What do Jesus's Sabbath actions and teachings reveal about the Sabbath's continu
 #### Acts 17:2 (Paul, "As His Manner Was")
 **Context:** Paul in Thessalonica.
 **Direct statement:** "Paul, as his manner was [kata to eiothos], went in unto them, and three sabbath days reasoned with them out of the scriptures."
-**Key observations:** Luke uses the IDENTICAL construction (kata to eiothos, [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"}, Perfect Active Participle) for Paul as he did for Jesus in Luke 4:16. Same author, same construction. Paul's settled custom matches Jesus's settled custom.
+**Key observations:** Luke uses the IDENTICAL construction (kata to eiothos, G1486, Perfect Active Participle) for Paul as he did for Jesus in Luke 4:16. Same author, same construction. Paul's settled custom matches Jesus's settled custom.
 
 #### Acts 18:4 (Every Sabbath in Corinth)
 **Context:** Paul's 18-month stay in Corinth.
@@ -329,16 +329,3 @@ The text states authority (kurios + genitive of domain). The text does NOT state
 
 *Analysis completed: 2026-02-24*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

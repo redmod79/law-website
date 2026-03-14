@@ -37,17 +37,17 @@ EXO 20:1-17; EXO 24:12; EXO 31:18; EXO 32:15-16; EXO 34:1-4,28-29; DEU 4:10-13,3
 
 | Strong's | Word | Transliteration | Occurrences | KJV Translations | Relevance |
 |----------|------|-----------------|-------------|------------------|-----------|
-| [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} | תּוֹרָה | towrah | 219 | law (187), laws (3), manner (1), direction (1) | Core term: "instruction, direction, law" — broadest law term |
-| [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} | מִצְוָה | mitsvah | 181 | commandments (117), commandment (36), precept (4), law (2) | "Command, commandment" — direct divine imperatives |
-| [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} | חֹק | choq | 131 | statute(s) (77), ordinance(s) (22), decree(s) (7), due (4), law (3), portion (3) | "Enacted statute, prescribed limit" — enacted regulations |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | מִשְׁפָּט | mishpat | 421 | judgment(s) (296), manner (38), right (18), cause (12), ordinance(s) (11) | "Judgment, justice, case law" — judicial decisions and rulings |
-| [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} | עֵדוּת | eduth | 59 (some sources: 66) | testimony (37), testimonies (22), witness (2) | "Testimony, attestation" — heavily in Exodus (tabernacle: ark of testimony, tabernacle of testimony) and Psalms |
-| [H5713](https://www.blueletterbible.org/lexicon/h5713/kjv/wlc/0-1/){:target="_blank"} | עֵדָה | edah | 26 | testimonies (22), testimony (3), witness (1) | Alternate testimony form — concentrated in Deuteronomy and Psalm 119 |
-| [H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"} | פִּקּוּד | piqqud | 24 | precepts (21), statutes (3) | "Orders, precepts" — almost exclusively in Psalms (Pss 19, 103, 111, 119) |
-| [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} | חֻקָּה | chuqqah | 104 | statutes (62), ordinances (21), statute (7), customs (3) | Feminine form of choq — "regulation, prescribed ordinance" |
-| [H4931](https://www.blueletterbible.org/lexicon/h4931/kjv/wlc/0-1/){:target="_blank"} | מִשְׁמֶרֶת | mishmereth | 78 | charge (43), ward (9), watch (7), keep (7), ordinance (3) | "Guard-post, obligation, charge" — appears in Gen 26:5 |
-| [H1697](https://www.blueletterbible.org/lexicon/h1697/kjv/wlc/0-1/){:target="_blank"} | דָּבָר | dabar | 1439 | word(s) (773), thing(s) (231), matter(s) (63), speech (9) | "Word, matter" — 8th term in Psalm 119 |
-| [H3374](https://www.blueletterbible.org/lexicon/h3374/kjv/wlc/0-1/){:target="_blank"} | יִרְאָה | yirah | 45 | fear (40), dreadful (1), fearfulness (1) | "Fear, reverence" — appears in Psalm 19:9 (Heb. v10) as a law-synonym |
+| H8451 | תּוֹרָה | towrah | 219 | law (187), laws (3), manner (1), direction (1) | Core term: "instruction, direction, law" — broadest law term |
+| H4687 | מִצְוָה | mitsvah | 181 | commandments (117), commandment (36), precept (4), law (2) | "Command, commandment" — direct divine imperatives |
+| H2706 | חֹק | choq | 131 | statute(s) (77), ordinance(s) (22), decree(s) (7), due (4), law (3), portion (3) | "Enacted statute, prescribed limit" — enacted regulations |
+| H4941 | מִשְׁפָּט | mishpat | 421 | judgment(s) (296), manner (38), right (18), cause (12), ordinance(s) (11) | "Judgment, justice, case law" — judicial decisions and rulings |
+| H5715 | עֵדוּת | eduth | 59 (some sources: 66) | testimony (37), testimonies (22), witness (2) | "Testimony, attestation" — heavily in Exodus (tabernacle: ark of testimony, tabernacle of testimony) and Psalms |
+| H5713 | עֵדָה | edah | 26 | testimonies (22), testimony (3), witness (1) | Alternate testimony form — concentrated in Deuteronomy and Psalm 119 |
+| H6490 | פִּקּוּד | piqqud | 24 | precepts (21), statutes (3) | "Orders, precepts" — almost exclusively in Psalms (Pss 19, 103, 111, 119) |
+| H2708 | חֻקָּה | chuqqah | 104 | statutes (62), ordinances (21), statute (7), customs (3) | Feminine form of choq — "regulation, prescribed ordinance" |
+| H4931 | מִשְׁמֶרֶת | mishmereth | 78 | charge (43), ward (9), watch (7), keep (7), ordinance (3) | "Guard-post, obligation, charge" — appears in Gen 26:5 |
+| H1697 | דָּבָר | dabar | 1439 | word(s) (773), thing(s) (231), matter(s) (63), speech (9) | "Word, matter" — 8th term in Psalm 119 |
+| H3374 | יִרְאָה | yirah | 45 | fear (40), dreadful (1), fearfulness (1) | "Fear, reverence" — appears in Psalm 19:9 (Heb. v10) as a law-synonym |
 
 ### Hebrew Parser Results (from hebrew_parser.py)
 
@@ -81,17 +81,17 @@ EXO 20:1-17; EXO 24:12; EXO 31:18; EXO 32:15-16; EXO 34:1-4,28-29; DEU 4:10-13,3
 
 ### Distribution Patterns (from search_strongs.py --lookup)
 
-**[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} (torah):** 219 occurrences. Translated "law" 187x. Appears across Pentateuch, Psalms (esp. 119), Prophets, NT references to "law."
+**H8451 (torah):** 219 occurrences. Translated "law" 187x. Appears across Pentateuch, Psalms (esp. 119), Prophets, NT references to "law."
 
-**[H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} (mitsvah):** 181 occurrences. Translated "commandments" 117x, "commandment" 36x. Used throughout Pentateuch and Psalms.
+**H4687 (mitsvah):** 181 occurrences. Translated "commandments" 117x, "commandment" 36x. Used throughout Pentateuch and Psalms.
 
-**[H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"} (piqqud):** 24 occurrences. Almost exclusively in Psalms — 19 occurrences in Psalm 119 alone, plus Pss 19, 103, 111. This is a poetic/liturgical term, not legislative.
+**H6490 (piqqud):** 24 occurrences. Almost exclusively in Psalms — 19 occurrences in Psalm 119 alone, plus Pss 19, 103, 111. This is a poetic/liturgical term, not legislative.
 
-**[H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} (eduth):** ~59-66 occurrences. Heavy concentration in Exodus for tabernacle references ("ark of the testimony," "tabernacle of the testimony") and in Psalms for God's revealed will.
+**H5715 (eduth):** ~59-66 occurrences. Heavy concentration in Exodus for tabernacle references ("ark of the testimony," "tabernacle of the testimony") and in Psalms for God's revealed will.
 
-**[H5713](https://www.blueletterbible.org/lexicon/h5713/kjv/wlc/0-1/){:target="_blank"} (edah):** 26 occurrences. Concentrated in Deuteronomy and Psalm 119. An alternate testimony form distinct from [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"}.
+**H5713 (edah):** 26 occurrences. Concentrated in Deuteronomy and Psalm 119. An alternate testimony form distinct from H5715.
 
-**[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} (choq) / [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} (chuqqah):** Combined ~235 occurrences. "Statute/ordinance/decree." Used for both religious observances (feasts: Exo 12:14, 12:17) and moral/social prescriptions.
+**H2706 (choq) / H2708 (chuqqah):** Combined ~235 occurrences. "Statute/ordinance/decree." Used for both religious observances (feasts: Exo 12:14, 12:17) and moral/social prescriptions.
 
 ### Related Existing Studies
 
@@ -118,15 +118,15 @@ The following focus areas are derived from tool discoveries:
 
 2. **Vocabulary clusters in key passages** — Hebrew parser confirmed multi-term clusters in Gen 26:5 (4 terms), Deut 4:45 (3 terms), Deut 6:1 (3 terms), Psalm 19:8-10 (6 terms). Do these clusters use the terms as distinct categories or as poetic/rhetorical variation (hendiadys, merism)?
 
-3. **The piqqud distribution anomaly** — [H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"} (piqqud) has only 24 occurrences, almost entirely in Psalms. This is not legislative vocabulary; it appears exclusively in devotional/liturgical contexts. What does this distribution tell us about the term's function?
+3. **The piqqud distribution anomaly** — H6490 (piqqud) has only 24 occurrences, almost entirely in Psalms. This is not legislative vocabulary; it appears exclusively in devotional/liturgical contexts. What does this distribution tell us about the term's function?
 
-4. **The eduth/edah distinction** — Two different testimony terms: [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} (eduth, 59 occ.) concentrated in Exodus tabernacle references and Psalms; [H5713](https://www.blueletterbible.org/lexicon/h5713/kjv/wlc/0-1/){:target="_blank"} (edah, 26 occ.) concentrated in Deuteronomy and Psalm 119. Do these map to different referents? law-03 found eduth exclusive to Decalogue tablets in narrative contexts.
+4. **The eduth/edah distinction** — Two different testimony terms: H5715 (eduth, 59 occ.) concentrated in Exodus tabernacle references and Psalms; H5713 (edah, 26 occ.) concentrated in Deuteronomy and Psalm 119. Do these map to different referents? law-03 found eduth exclusive to Decalogue tablets in narrative contexts.
 
 5. **Whether vocabulary tracks legal categories** — law-05 identified functional distinctions (mitsvah = direct command, choq = enacted statute, mishpat = case law). But do the texts themselves enforce these categories, or do they overlap? Investigate passages where terms are used interchangeably vs. passages where they carry distinct meaning.
 
 6. **Psalm 119 as test case** — Psalm 119 uses 8 terms (torah, mitsvah, choq/chuqqah, mishpat, edah, piqqud, dabar, and possibly imrah) across 176 verses. Are these 8 terms used as synonyms in parallelism, or do they maintain distinct semantic domains?
 
-7. **The yirah (fear) anomaly in Psalm 19:9** — [H3374](https://www.blueletterbible.org/lexicon/h3374/kjv/wlc/0-1/){:target="_blank"} (yirah, "fear") appears in Psalm 19:9 [Heb. v10] as part of the six-term law vocabulary. "Fear of the LORD" is used as a virtual synonym for God's law. What does this tell us about the nature of these terms?
+7. **The yirah (fear) anomaly in Psalm 19:9** — H3374 (yirah, "fear") appears in Psalm 19:9 [Heb. v10] as part of the six-term law vocabulary. "Fear of the LORD" is used as a virtual synonym for God's law. What does this tell us about the nature of these terms?
 
 8. **Plural torah in Gen 26:5** — Hebrew parser confirmed torot (plural of torah) in Gen 26:5. Torah appears in plural only rarely. Does the plural form suggest multiple bodies of instruction rather than one unified "law"?
 
@@ -165,7 +165,7 @@ You are the Research Agent. Execute this study by:
 
 ### Special Research Instructions for This Study
 
-- **Run LXX mappings** (`search_strongs.py --lxx-map`) for [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"}, [H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"}, [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"}, [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"}, [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"}, [H6490](https://www.blueletterbible.org/lexicon/h6490/kjv/wlc/0-1/){:target="_blank"}, [H2708](https://www.blueletterbible.org/lexicon/h2708/kjv/wlc/0-1/){:target="_blank"} to determine how the LXX translators rendered each Hebrew term in Greek. This bridges OT Hebrew vocabulary to NT Greek usage.
+- **Run LXX mappings** (`search_strongs.py --lxx-map`) for H8451, H4687, H2706, H4941, H5715, H6490, H2708 to determine how the LXX translators rendered each Hebrew term in Greek. This bridges OT Hebrew vocabulary to NT Greek usage.
 - **Run hebrew_parser.py** on Psalm 119:1-8 to confirm which 8 terms are present in the opening stanza.
 - **Run cross_testament_parallels_v2.py** on Psalm 19:7 and Gen 26:5 to find NT echoes of these vocabulary clusters.
 - **Run concept_context.py** on Deut 6:1 to find how the mitsvah/choq/mishpat cluster is used elsewhere by the same author.
@@ -176,16 +176,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-06-hebrew-law-vocabulary/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

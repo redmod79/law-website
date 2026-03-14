@@ -84,26 +84,26 @@ Read ALL of the following before beginning research. These establish the cumulat
 
 | Strong's | Word | Transliteration | Relevance | Score |
 |----------|------|-----------------|-----------|-------|
-| [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} | berith | b'rith | "covenant" -- the primary Hebrew covenant term; used for both old and new covenants | 0.503 |
-| [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} | karath | karath | "to cut" -- used in the idiom "to cut a covenant" (karath berith) | 0.420 |
-| [G1242](https://www.blueletterbible.org/lexicon/g1242/kjv/tr/0-1/){:target="_blank"} | diatheke | diatheke | "covenant/testament" -- NT Greek equivalent of berith; used in Heb 8:6-13 for both covenants | (from naves_db) |
-| [G3316](https://www.blueletterbible.org/lexicon/g3316/kjv/tr/0-1/){:target="_blank"} | mesites | mesites | "mediator" -- Christ as mediator of the new covenant (Heb 8:6; 9:15; 12:24) | 0.398 |
-| [G3315](https://www.blueletterbible.org/lexicon/g3315/kjv/tr/0-1/){:target="_blank"} | mesiteuo | mesiteuo | "to mediate" -- verbal form; Heb 6:17 | 0.425 |
-| [G1450](https://www.blueletterbible.org/lexicon/g1450/kjv/tr/0-1/){:target="_blank"} | engyos | engyos | "surety/guarantee" -- Jesus as surety of a better covenant (Heb 7:22) | 0.406 |
-| [G1860](https://www.blueletterbible.org/lexicon/g1860/kjv/tr/0-1/){:target="_blank"} | epangelia | epangelia | "promise" -- new covenant established on better promises (Heb 8:6) | 0.395 |
-| [G1861](https://www.blueletterbible.org/lexicon/g1861/kjv/tr/0-1/){:target="_blank"} | epangello | epangello | "to promise" -- verbal form of promise | 0.416 |
-| [G3822](https://www.blueletterbible.org/lexicon/g3822/kjv/tr/0-1/){:target="_blank"} | palaioo | palaioo | "to make old/obsolete" -- "he hath made the first old" (Heb 8:13) | 0.404 |
-| [G854](https://www.blueletterbible.org/lexicon/g854/kjv/tr/0-1/){:target="_blank"} | aphanismos | aphanismos | "vanishing/disappearance" -- "ready to vanish away" (Heb 8:13) | 0.382 |
-| [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | kataluo | kataluo | "to destroy/dissolve" -- "I am not come to destroy the law" (Mat 5:17) | 0.364 |
-| [G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} | engrapho | engrapho | "to write in/inscribe" -- law written on hearts (2 Cor 3:2-3) | 0.366 |
-| [H3824](https://www.blueletterbible.org/lexicon/h3824/kjv/wlc/0-1/){:target="_blank"} | lebab | lebab | "heart/inner man" -- "write it in their hearts" (Jer 31:33) | 0.353 |
-| [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"} | leb | leb | "heart" -- alternate form; frequently paired with covenant language | 0.336 |
-| [G2588](https://www.blueletterbible.org/lexicon/g2588/kjv/tr/0-1/){:target="_blank"} | kardia | kardia | "heart" -- NT Greek; "I will put my laws into their hearts" (Heb 8:10; 10:16) | 0.278 |
-| [G4473](https://www.blueletterbible.org/lexicon/g4473/kjv/tr/0-1/){:target="_blank"} | rhantismos | rhantismos | "sprinkling" -- blood sprinkling in covenant ratification (Heb 12:24; 1Pe 1:2) | 0.488 |
-| [H5137](https://www.blueletterbible.org/lexicon/h5137/kjv/wlc/0-1/){:target="_blank"} | nazah | nazah | "to sprinkle" -- Moses sprinkled the blood of the covenant (Exo 24:6-8) | 0.484 |
-| [G129](https://www.blueletterbible.org/lexicon/g129/kjv/tr/0-1/){:target="_blank"} | haima | haima | "blood" -- blood of the covenant; blood of Christ | 0.440 |
-| [H1086](https://www.blueletterbible.org/lexicon/h1086/kjv/wlc/0-1/){:target="_blank"} | balah | balah | "to wear out/become old" -- used of things that decay | 0.384 |
-| [G4934](https://www.blueletterbible.org/lexicon/g4934/kjv/tr/0-1/){:target="_blank"} | syntithemai | syntithemai | "to agree/covenant together" -- mutual agreement | 0.408 |
+| H1285 | berith | b'rith | "covenant" -- the primary Hebrew covenant term; used for both old and new covenants | 0.503 |
+| H3772 | karath | karath | "to cut" -- used in the idiom "to cut a covenant" (karath berith) | 0.420 |
+| G1242 | diatheke | diatheke | "covenant/testament" -- NT Greek equivalent of berith; used in Heb 8:6-13 for both covenants | (from naves_db) |
+| G3316 | mesites | mesites | "mediator" -- Christ as mediator of the new covenant (Heb 8:6; 9:15; 12:24) | 0.398 |
+| G3315 | mesiteuo | mesiteuo | "to mediate" -- verbal form; Heb 6:17 | 0.425 |
+| G1450 | engyos | engyos | "surety/guarantee" -- Jesus as surety of a better covenant (Heb 7:22) | 0.406 |
+| G1860 | epangelia | epangelia | "promise" -- new covenant established on better promises (Heb 8:6) | 0.395 |
+| G1861 | epangello | epangello | "to promise" -- verbal form of promise | 0.416 |
+| G3822 | palaioo | palaioo | "to make old/obsolete" -- "he hath made the first old" (Heb 8:13) | 0.404 |
+| G854 | aphanismos | aphanismos | "vanishing/disappearance" -- "ready to vanish away" (Heb 8:13) | 0.382 |
+| G2647 | kataluo | kataluo | "to destroy/dissolve" -- "I am not come to destroy the law" (Mat 5:17) | 0.364 |
+| G1449 | engrapho | engrapho | "to write in/inscribe" -- law written on hearts (2 Cor 3:2-3) | 0.366 |
+| H3824 | lebab | lebab | "heart/inner man" -- "write it in their hearts" (Jer 31:33) | 0.353 |
+| H3820 | leb | leb | "heart" -- alternate form; frequently paired with covenant language | 0.336 |
+| G2588 | kardia | kardia | "heart" -- NT Greek; "I will put my laws into their hearts" (Heb 8:10; 10:16) | 0.278 |
+| G4473 | rhantismos | rhantismos | "sprinkling" -- blood sprinkling in covenant ratification (Heb 12:24; 1Pe 1:2) | 0.488 |
+| H5137 | nazah | nazah | "to sprinkle" -- Moses sprinkled the blood of the covenant (Exo 24:6-8) | 0.484 |
+| G129 | haima | haima | "blood" -- blood of the covenant; blood of Christ | 0.440 |
+| H1086 | balah | balah | "to wear out/become old" -- used of things that decay | 0.384 |
+| G4934 | syntithemai | syntithemai | "to agree/covenant together" -- mutual agreement | 0.408 |
 
 ### Related Existing Studies
 
@@ -139,17 +139,17 @@ The existing `covenant-relationship-to-law` study (non-series, pre-methodology) 
 
 The following focus areas are derived from tool discoveries, not from training knowledge:
 
-1. **Covenant formation and structure (Exo 19-24):** The Nave's COVENANT entry identifies the Sinai covenant with specific sub-categories (Sacred, Binding, Blood of, Book of). Investigate the bilateral structure: God proposes (Exo 19:5-6), Israel accepts (Exo 19:8; 24:3,7), terms defined (Deu 4:13 = Ten Commandments), blood ratification (Exo 24:5-8). Use [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} (berith) and [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} (karath, "cut a covenant") to trace covenant-making vocabulary.
+1. **Covenant formation and structure (Exo 19-24):** The Nave's COVENANT entry identifies the Sinai covenant with specific sub-categories (Sacred, Binding, Blood of, Book of). Investigate the bilateral structure: God proposes (Exo 19:5-6), Israel accepts (Exo 19:8; 24:3,7), terms defined (Deu 4:13 = Ten Commandments), blood ratification (Exo 24:5-8). Use H1285 (berith) and H3772 (karath, "cut a covenant") to trace covenant-making vocabulary.
 
-2. **The "second covenant" / new covenant texts (Jer 31:31-34; Heb 8:4-13; 12:18-24; 13:20):** The Nave's COVENANT entry explicitly lists these under "THE SECOND COVENANT." Investigate what is promised in the new covenant: law on hearts (Jer 31:33; Heb 8:10; 10:16), knowledge of God (Jer 31:34), forgiveness of sins (Jer 31:34; Heb 8:12). Use [G1242](https://www.blueletterbible.org/lexicon/g1242/kjv/tr/0-1/){:target="_blank"} (diatheke) to trace the NT covenant terminology.
+2. **The "second covenant" / new covenant texts (Jer 31:31-34; Heb 8:4-13; 12:18-24; 13:20):** The Nave's COVENANT entry explicitly lists these under "THE SECOND COVENANT." Investigate what is promised in the new covenant: law on hearts (Jer 31:33; Heb 8:10; 10:16), knowledge of God (Jer 31:34), forgiveness of sins (Jer 31:34; Heb 8:12). Use G1242 (diatheke) to trace the NT covenant terminology.
 
-3. **Mediator and surety vocabulary (G3316 mesites; [G1450](https://www.blueletterbible.org/lexicon/g1450/kjv/tr/0-1/){:target="_blank"} engyos):** Heb 8:6 calls Jesus "the mediator of a better covenant, established upon better promises." Heb 7:22 calls Jesus "surety" (engyos) of a better testament. Investigate the mediator contrast: Moses as mediator of old covenant vs. Christ as mediator of new covenant. How does the change of mediator relate to the change of covenant?
+3. **Mediator and surety vocabulary (G3316 mesites; G1450 engyos):** Heb 8:6 calls Jesus "the mediator of a better covenant, established upon better promises." Heb 7:22 calls Jesus "surety" (engyos) of a better testament. Investigate the mediator contrast: Moses as mediator of old covenant vs. Christ as mediator of new covenant. How does the change of mediator relate to the change of covenant?
 
-4. **Blood of covenant ratification (H5137 nazah; [G4473](https://www.blueletterbible.org/lexicon/g4473/kjv/tr/0-1/){:target="_blank"} rhantismos; [G129](https://www.blueletterbible.org/lexicon/g129/kjv/tr/0-1/){:target="_blank"} haima):** Exo 24:5-8 (ox blood sprinkled on people); Heb 9:18-20 (the first testament dedicated with blood); Heb 12:24 ("blood of sprinkling that speaketh better things than that of Abel"); Heb 13:20 ("the blood of the everlasting covenant"). Investigate the blood continuity/contrast between old and new covenants.
+4. **Blood of covenant ratification (H5137 nazah; G4473 rhantismos; G129 haima):** Exo 24:5-8 (ox blood sprinkled on people); Heb 9:18-20 (the first testament dedicated with blood); Heb 12:24 ("blood of sprinkling that speaketh better things than that of Abel"); Heb 13:20 ("the blood of the everlasting covenant"). Investigate the blood continuity/contrast between old and new covenants.
 
-5. **"Made old" / "vanish away" vocabulary (G3822 palaioo; [G854](https://www.blueletterbible.org/lexicon/g854/kjv/tr/0-1/){:target="_blank"} aphanismos):** Heb 8:13 uses palaioo ("he hath made the first old") and aphanismos ("ready to vanish away"). What exactly is "old" and "vanishing"? Is it the law itself, or the covenant arrangement/administration? The prior studies found the "fault" was with the people (Heb 8:8), not the law.
+5. **"Made old" / "vanish away" vocabulary (G3822 palaioo; G854 aphanismos):** Heb 8:13 uses palaioo ("he hath made the first old") and aphanismos ("ready to vanish away"). What exactly is "old" and "vanishing"? Is it the law itself, or the covenant arrangement/administration? The prior studies found the "fault" was with the people (Heb 8:8), not the law.
 
-6. **Law written on hearts vocabulary (G1449 engrapho; [H3824](https://www.blueletterbible.org/lexicon/h3824/kjv/wlc/0-1/){:target="_blank"} lebab; [G2588](https://www.blueletterbible.org/lexicon/g2588/kjv/tr/0-1/){:target="_blank"} kardia):** Jer 31:33 promises law in "inward parts" (lebab/qereb); Heb 8:10/10:16 uses kardia (heart) and dianoia (mind); 2 Cor 3:3 uses engrapho (inscribe). Investigate what is written on hearts -- is it the same law that was on stone, or a different law? Eze 36:26-27 promises a "new heart" and the Spirit causes obedience to the same statutes/judgments.
+6. **Law written on hearts vocabulary (G1449 engrapho; H3824 lebab; G2588 kardia):** Jer 31:33 promises law in "inward parts" (lebab/qereb); Heb 8:10/10:16 uses kardia (heart) and dianoia (mind); 2 Cor 3:3 uses engrapho (inscribe). Investigate what is written on hearts -- is it the same law that was on stone, or a different law? Eze 36:26-27 promises a "new heart" and the Spirit causes obedience to the same statutes/judgments.
 
 7. **Heart renewal texts (from Nave's HEART-RENEWED):** Deu 30:6; Psa 51:10; Eze 11:19; 18:31; 36:26; Rom 2:29; Eph 4:23; Col 3:10. These passages describe the internal transformation that the new covenant accomplishes. Do they confirm that the law's content remains the same while the heart's condition changes?
 
@@ -212,32 +212,32 @@ Retrieve full verse text with context for all of the following:
 ## Hebrew/Greek Vocabulary to Analyze
 
 ### Covenant Terms
-- **[H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} berith** -- "covenant"; trace through old covenant formation and new covenant promise passages
-- **[H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} karath** -- "to cut"; the idiom "karath berith" = "to cut a covenant"
-- **[G1242](https://www.blueletterbible.org/lexicon/g1242/kjv/tr/0-1/){:target="_blank"} diatheke** -- "covenant/testament"; NT equivalent; trace through Hebrews
-- **[G3316](https://www.blueletterbible.org/lexicon/g3316/kjv/tr/0-1/){:target="_blank"} mesites** -- "mediator"; Christ vs. Moses as covenant mediators
-- **[G1450](https://www.blueletterbible.org/lexicon/g1450/kjv/tr/0-1/){:target="_blank"} engyos** -- "surety/guarantee"; Christ as surety (Heb 7:22)
+- **H1285 berith** -- "covenant"; trace through old covenant formation and new covenant promise passages
+- **H3772 karath** -- "to cut"; the idiom "karath berith" = "to cut a covenant"
+- **G1242 diatheke** -- "covenant/testament"; NT equivalent; trace through Hebrews
+- **G3316 mesites** -- "mediator"; Christ vs. Moses as covenant mediators
+- **G1450 engyos** -- "surety/guarantee"; Christ as surety (Heb 7:22)
 
 ### Covenant Transition Terms
-- **[G3822](https://www.blueletterbible.org/lexicon/g3822/kjv/tr/0-1/){:target="_blank"} palaioo** -- "to make old"; Heb 8:13
-- **[G854](https://www.blueletterbible.org/lexicon/g854/kjv/tr/0-1/){:target="_blank"} aphanismos** -- "vanishing/disappearance"; Heb 8:13
-- **[G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} kataluo** -- "to destroy/dissolve"; Mat 5:17 (NOT come to destroy)
-- **[G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"} histemi** -- "to establish"; Rom 3:31 (we establish the law)
+- **G3822 palaioo** -- "to make old"; Heb 8:13
+- **G854 aphanismos** -- "vanishing/disappearance"; Heb 8:13
+- **G2647 kataluo** -- "to destroy/dissolve"; Mat 5:17 (NOT come to destroy)
+- **G2476 histemi** -- "to establish"; Rom 3:31 (we establish the law)
 
 ### Heart/Internalization Terms
-- **[H3824](https://www.blueletterbible.org/lexicon/h3824/kjv/wlc/0-1/){:target="_blank"} lebab / [H3820](https://www.blueletterbible.org/lexicon/h3820/kjv/wlc/0-1/){:target="_blank"} leb** -- "heart"; where the law is written in new covenant
-- **[G2588](https://www.blueletterbible.org/lexicon/g2588/kjv/tr/0-1/){:target="_blank"} kardia** -- "heart"; NT Greek equivalent
-- **[G1449](https://www.blueletterbible.org/lexicon/g1449/kjv/tr/0-1/){:target="_blank"} engrapho** -- "to write in/inscribe"; 2 Cor 3:2-3
-- **[H7130](https://www.blueletterbible.org/lexicon/h7130/kjv/wlc/0-1/){:target="_blank"} qereb** -- "inward parts"; Jer 31:33
+- **H3824 lebab / H3820 leb** -- "heart"; where the law is written in new covenant
+- **G2588 kardia** -- "heart"; NT Greek equivalent
+- **G1449 engrapho** -- "to write in/inscribe"; 2 Cor 3:2-3
+- **H7130 qereb** -- "inward parts"; Jer 31:33
 
 ### Blood/Ratification Terms
-- **[H5137](https://www.blueletterbible.org/lexicon/h5137/kjv/wlc/0-1/){:target="_blank"} nazah** -- "to sprinkle"; Exo 24:6-8
-- **[G4473](https://www.blueletterbible.org/lexicon/g4473/kjv/tr/0-1/){:target="_blank"} rhantismos** -- "sprinkling"; Heb 12:24
-- **[G129](https://www.blueletterbible.org/lexicon/g129/kjv/tr/0-1/){:target="_blank"} haima** -- "blood"; blood of covenant
+- **H5137 nazah** -- "to sprinkle"; Exo 24:6-8
+- **G4473 rhantismos** -- "sprinkling"; Heb 12:24
+- **G129 haima** -- "blood"; blood of covenant
 
 ### Promise/Better Terms
-- **[G1860](https://www.blueletterbible.org/lexicon/g1860/kjv/tr/0-1/){:target="_blank"} epangelia** -- "promise"; better promises (Heb 8:6)
-- **[G2909](https://www.blueletterbible.org/lexicon/g2909/kjv/tr/0-1/){:target="_blank"} kreitton** -- "better"; better covenant (Heb 7:22; 8:6)
+- **G1860 epangelia** -- "promise"; better promises (Heb 8:6)
+- **G2909 kreitton** -- "better"; better covenant (Heb 7:22; 8:6)
 
 ## Research Instructions
 
@@ -267,16 +267,3 @@ answer-question
 ---
 *Scoped: 2026-02-23*
 *Folder: bible-studies/law-09-old-covenant-new-covenant/*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

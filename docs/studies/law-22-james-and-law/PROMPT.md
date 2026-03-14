@@ -82,7 +82,7 @@ Law-20 (D:/bible/bible-studies/law-20-nt-greek-law-vocabulary/CONCLUSION.md) est
 
 Law-17 (D:/bible/bible-studies/law-17-paul-and-law-in-galatians/) established:
 
-- [G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} eleutheria ("liberty/freedom"): appears in Rom 8:21; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; Jas 1:25; 2:12; 1 Pet 2:16; 2 Pet 2:19
+- G1657 eleutheria ("liberty/freedom"): appears in Rom 8:21; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; Jas 1:25; 2:12; 1 Pet 2:16; 2 Pet 2:19
 - In Galatians, eleutheria appears 3 times (2:4; 5:1; 5:13), all in the context of freedom from bondage
 - The "liberty" language connects James' "law of liberty" to the broader NT theology of freedom in Christ
 
@@ -90,7 +90,7 @@ Law-17 (D:/bible/bible-studies/law-17-paul-and-law-in-galatians/) established:
 
 Law-05 (D:/bible/bible-studies/law-05-civil-judicial-laws/) established:
 
-- [G2923](https://www.blueletterbible.org/lexicon/g2923/kjv/tr/0-1/){:target="_blank"} krites ("judge"): 14 KJV occurrences / 17 BLB occurrences -- relevant to Jas 4:11-12 where God is identified as "one lawgiver" and "judge"
+- G2923 krites ("judge"): 14 KJV occurrences / 17 BLB occurrences -- relevant to Jas 4:11-12 where God is identified as "one lawgiver" and "judge"
 - The "one lawgiver" concept in Jas 4:12 connects to the question of who has authority over the law
 
 ### Master Evidence Items Already Established
@@ -138,60 +138,60 @@ Retrieve full entries for: LAW, LIBERTY, COMMANDMENTS, JUDGE, NEIGHBOR, JUDGING,
 
 ### Primary Greek Terms for James' Law Passages
 
-1. **[G3551](https://www.blueletterbible.org/lexicon/g3551/kjv/tr/0-1/){:target="_blank"} nomos** -- "law" -- used in Jas 1:25 ("perfect law of liberty"), 2:8 ("royal law"), 2:9 ("convinced of the law as transgressors"), 2:10 ("keep the whole law...offend in one point...guilty of all"), 2:11 (Decalogue citations), 2:12 ("judged by the law of liberty"), 4:11 ("speaketh evil of the law, and judgeth the law...thou art not a doer of the law, but a judge")
+1. **G3551 nomos** -- "law" -- used in Jas 1:25 ("perfect law of liberty"), 2:8 ("royal law"), 2:9 ("convinced of the law as transgressors"), 2:10 ("keep the whole law...offend in one point...guilty of all"), 2:11 (Decalogue citations), 2:12 ("judged by the law of liberty"), 4:11 ("speaketh evil of the law, and judgeth the law...thou art not a doer of the law, but a judge")
    - Critical: James' distinctive qualifiers for nomos -- "perfect," "of liberty," "royal" -- must be analyzed
 
-2. **[G5046](https://www.blueletterbible.org/lexicon/g5046/kjv/tr/0-1/){:target="_blank"} teleios** -- "perfect, complete" -- used in Jas 1:25 ("the perfect law of liberty"). Root from telos ("end, goal, completion"). Also Jas 1:4 ("let patience have her perfect work, that ye may be perfect and entire"), 1:17 ("every perfect gift"), 3:2 ("a perfect man").
+2. **G5046 teleios** -- "perfect, complete" -- used in Jas 1:25 ("the perfect law of liberty"). Root from telos ("end, goal, completion"). Also Jas 1:4 ("let patience have her perfect work, that ye may be perfect and entire"), 1:17 ("every perfect gift"), 3:2 ("a perfect man").
    - KJV: "perfect" (6x), "are perfect" (1x), "is perfect" (1x), "men" (1x)
    - 9 total NT occurrences
 
-3. **[G1657](https://www.blueletterbible.org/lexicon/g1657/kjv/tr/0-1/){:target="_blank"} eleutheria** -- "liberty, freedom" -- used in Jas 1:25 ("law of liberty"), 2:12 ("law of liberty"). From eleutheros ("free"). Also Rom 8:21; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; 1 Pet 2:16; 2 Pet 2:19.
+3. **G1657 eleutheria** -- "liberty, freedom" -- used in Jas 1:25 ("law of liberty"), 2:12 ("law of liberty"). From eleutheros ("free"). Also Rom 8:21; 2 Cor 3:17; Gal 2:4; 5:1; 5:13; 1 Pet 2:16; 2 Pet 2:19.
    - KJV: "liberty" (9x)
    - 11 total NT occurrences
 
-4. **[G937](https://www.blueletterbible.org/lexicon/g937/kjv/tr/0-1/){:target="_blank"} basilikos** -- "royal, kingly" -- used in Jas 2:8 ("the royal law"). From basileus ("king"). Also Jhn 4:46,49 ("nobleman"); Acts 12:20,21 ("royal").
+4. **G937 basilikos** -- "royal, kingly" -- used in Jas 2:8 ("the royal law"). From basileus ("king"). Also Jhn 4:46,49 ("nobleman"); Acts 12:20,21 ("royal").
    - KJV: "king's" (1x), "in royal" (1x), "nobleman" (2x), "royal" (1x)
    - 5 total NT occurrences
 
-5. **[G3389](https://www.blueletterbible.org/lexicon/g3389/kjv/tr/0-1/){:target="_blank"} katalaleo** -- "to speak evil of, to speak against" -- used in Jas 4:11 (4x: "speak not evil one of another...he that speaketh evil of his brother...speaketh evil of the law"). Also 1 Pet 2:12; 3:16.
+5. **G3389 katalaleo** -- "to speak evil of, to speak against" -- used in Jas 4:11 (4x: "speak not evil one of another...he that speaketh evil of his brother...speaketh evil of the law"). Also 1 Pet 2:12; 3:16.
    - KJV: "speak evil of" (3x), "speak against" (2x)
 
-6. **[G2923](https://www.blueletterbible.org/lexicon/g2923/kjv/tr/0-1/){:target="_blank"} krites** -- "judge" -- used in Jas 4:11 ("not a doer of the law, but a judge") and 4:12 ("one lawgiver, who is able to save and to destroy"). Also Jas 2:4 ("judges of evil thoughts").
+6. **G2923 krites** -- "judge" -- used in Jas 4:11 ("not a doer of the law, but a judge") and 4:12 ("one lawgiver, who is able to save and to destroy"). Also Jas 2:4 ("judges of evil thoughts").
    - 14 KJV occurrences / 17 BLB occurrences
 
-7. **[G3550](https://www.blueletterbible.org/lexicon/g3550/kjv/tr/0-1/){:target="_blank"} nomothetes** -- "lawgiver" -- used in Jas 4:12 ("There is one lawgiver, who is able to save and to destroy"). Hapax legomenon in the NT. From nomos + tithemi.
+7. **G3550 nomothetes** -- "lawgiver" -- used in Jas 4:12 ("There is one lawgiver, who is able to save and to destroy"). Hapax legomenon in the NT. From nomos + tithemi.
    - 1 NT occurrence only
 
-8. **[G3848](https://www.blueletterbible.org/lexicon/g3848/kjv/tr/0-1/){:target="_blank"} parabates** -- "transgressor, violator" -- used in Jas 2:9 ("convinced of the law as transgressors") and 2:11 ("thou art become a transgressor of the law"). Also Rom 2:25,27; Gal 2:18.
+8. **G3848 parabates** -- "transgressor, violator" -- used in Jas 2:9 ("convinced of the law as transgressors") and 2:11 ("thou art become a transgressor of the law"). Also Rom 2:25,27; Gal 2:18.
    - KJV: "transgressor" (3x), "breaker" (1x), "dost transgress" (1x)
 
-9. **[G3816](https://www.blueletterbible.org/lexicon/g3816/kjv/tr/0-1/){:target="_blank"}/G2716 katergazomai** -- related to Jas 1:20 ("the wrath of man worketh not the righteousness of God")
+9. **G3816/G2716 katergazomai** -- related to Jas 1:20 ("the wrath of man worketh not the righteousness of God")
 
-10. **[G3891](https://www.blueletterbible.org/lexicon/g3891/kjv/tr/0-1/){:target="_blank"} paranomeo** -- "to transgress the law" -- Acts 23:3 only (related concept)
+10. **G3891 paranomeo** -- "to transgress the law" -- Acts 23:3 only (related concept)
 
 ### Related Greek Terms
 
-11. **[G2072](https://www.blueletterbible.org/lexicon/g2072/kjv/tr/0-1/){:target="_blank"} esoptron** -- "mirror, looking glass" -- used in Jas 1:23 ("beholding his natural face in a glass"). The law-as-mirror metaphor. Also 1 Cor 13:12.
+11. **G2072 esoptron** -- "mirror, looking glass" -- used in Jas 1:23 ("beholding his natural face in a glass"). The law-as-mirror metaphor. Also 1 Cor 13:12.
     - 2 NT occurrences
 
-12. **[G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} parakupto** -- "to stoop down and look into" -- used in Jas 1:25 ("whoso looketh into the perfect law of liberty"). Also Luk 24:12; Jhn 20:5,11; 1 Pet 1:12.
+12. **G3952 parakupto** -- "to stoop down and look into" -- used in Jas 1:25 ("whoso looketh into the perfect law of liberty"). Also Luk 24:12; Jhn 20:5,11; 1 Pet 1:12.
     - Conveys careful, intent examination
 
-13. **[G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} + [G191](https://www.blueletterbible.org/lexicon/g191/kjv/tr/0-1/){:target="_blank"} = poietes logou** -- "doer of the word" vs "hearer only" -- Jas 1:22-25 context
+13. **G1096 + G191 = poietes logou** -- "doer of the word" vs "hearer only" -- Jas 1:22-25 context
 
-14. **[G4383](https://www.blueletterbible.org/lexicon/g4383/kjv/tr/0-1/){:target="_blank"} prosopon** -- "face" -- Jas 2:1 ("have not the faith...with respect of persons [prosopolempsia]"), connecting to the "respect of persons" (partiality) that violates the royal law
+14. **G4383 prosopon** -- "face" -- Jas 2:1 ("have not the faith...with respect of persons [prosopolempsia]"), connecting to the "respect of persons" (partiality) that violates the royal law
 
-15. **[G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} anomos** -- "lawless, without law" -- related concept (1 Cor 9:21; 2 Thes 2:8; 1 Tim 1:9)
+15. **G459 anomos** -- "lawless, without law" -- related concept (1 Cor 9:21; 2 Thes 2:8; 1 Tim 1:9)
 
-16. **[G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} anomia** -- "lawlessness, transgression of law" -- 1 Jhn 3:4 ("sin is the transgression of the law [anomia]"); related to James' concept of sin and law
+16. **G458 anomia** -- "lawlessness, transgression of law" -- 1 Jhn 3:4 ("sin is the transgression of the law [anomia]"); related to James' concept of sin and law
 
 ### OT Hebrew Background Terms
 
-17. **[H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} torah** -- "instruction, law" -- the OT concept behind James' nomos
-18. **[H4687](https://www.blueletterbible.org/lexicon/h4687/kjv/wlc/0-1/){:target="_blank"} mitsvah** -- "commandment" -- behind the Decalogue commands James cites
-19. **[H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} choq** -- "statute, decree"
-20. **[H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} mishpat** -- "judgment, justice" -- connects to James' judging themes
-21. **[H1865](https://www.blueletterbible.org/lexicon/h1865/kjv/wlc/0-1/){:target="_blank"} deror** -- "liberty, freedom" -- OT concept of liberty (Lev 25:10; Isa 61:1); possible background for "law of liberty"
+17. **H8451 torah** -- "instruction, law" -- the OT concept behind James' nomos
+18. **H4687 mitsvah** -- "commandment" -- behind the Decalogue commands James cites
+19. **H2706 choq** -- "statute, decree"
+20. **H4941 mishpat** -- "judgment, justice" -- connects to James' judging themes
+21. **H1865 deror** -- "liberty, freedom" -- OT concept of liberty (Lev 25:10; Isa 61:1); possible background for "law of liberty"
 
 ---
 
@@ -239,7 +239,7 @@ James' argument about partiality and the law. Key questions:
 James' prohibition against judging the law. Key questions:
 - Jas 4:11: "Speak not evil one of another, brethren. He that speaketh evil of his brother, and judgeth his brother, speaketh evil of the law, and judgeth the law." How does speaking evil of a brother constitute speaking evil of/judging THE LAW? What is the logical connection James draws?
 - "But if thou judge the law, thou art not a doer of the law, but a judge." James sets up a binary: one is either a DOER of the law or a JUDGE of the law. What does this imply about the proper human posture toward the law?
-- Jas 4:12: "There is one lawgiver (nomothetes, [G3550](https://www.blueletterbible.org/lexicon/g3550/kjv/tr/0-1/){:target="_blank"} -- hapax), who is able to save and to destroy: who art thou that judgest another?" The "one lawgiver" -- is this God the Father, Christ, or both? What does this say about the law's authority and source?
+- Jas 4:12: "There is one lawgiver (nomothetes, G3550 -- hapax), who is able to save and to destroy: who art thou that judgest another?" The "one lawgiver" -- is this God the Father, Christ, or both? What does this say about the law's authority and source?
 - The connection between nomothetes (lawgiver) and krites (judge): James identifies one person as both lawgiver and judge -- "who is able to save and to destroy." How does this connect to Jesus' teaching and broader NT theology?
 - Retrieve Jas 4:11-12 in full context
 
@@ -378,16 +378,3 @@ Understanding who James writes to and his broader themes:
 7. **James vs. Paul on Law and Liberty**: How does James' "law of liberty" compare with Paul's "liberty" (eleutheria) in Galatians and 2 Corinthians? Are they describing the same concept from different angles?
 
 The research agent should REFERENCE prior studies' findings about James passages (do not re-derive what is already established) but must EXTEND the analysis by treating James' law theology as a coherent, self-contained teaching that deserves its own dedicated investigation.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

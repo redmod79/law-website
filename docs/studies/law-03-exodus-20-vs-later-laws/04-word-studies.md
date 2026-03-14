@@ -5,7 +5,7 @@ How does the Exodus narrative distinguish the Decalogue from the laws given afte
 
 ---
 
-## [H5715](https://www.blueletterbible.org/lexicon/h5715/kjv/wlc/0-1/){:target="_blank"} - eduth (עֵדוּת) -- "testimony"
+## H5715 - eduth (עֵדוּת) -- "testimony"
 **Original:** עֵדוּת
 **Transliteration:** ʻêdûwth
 **Pronunciation:** ay-dooth
@@ -38,7 +38,7 @@ In the Psalms, eduth/edoth is used more broadly for God's testimonies/precepts (
 
 ---
 
-## [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} - berith (בְּרִית) -- "covenant"
+## H1285 - berith (בְּרִית) -- "covenant"
 **Original:** בְּרִית
 **Transliteration:** bᵉrîyth
 **Pronunciation:** ber-eeth
@@ -70,7 +70,7 @@ Berith is used for BOTH the stone tablets ("his covenant, even ten commandments"
 
 ---
 
-## [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} - mishpat (מִשְׁפָּט) -- "judgment"
+## H4941 - mishpat (מִשְׁפָּט) -- "judgment"
 **Original:** מִשְׁפָּט
 **Transliteration:** mishpâṭ
 **Pronunciation:** mish-pawt
@@ -101,7 +101,7 @@ Mishpat/mishpatim is the term used in Exodus 21:1 to introduce the civil/judicia
 
 ---
 
-## [H2706](https://www.blueletterbible.org/lexicon/h2706/kjv/wlc/0-1/){:target="_blank"} - choq (חֹק) -- "statute/decree"
+## H2706 - choq (חֹק) -- "statute/decree"
 **Original:** חֹק
 **Transliteration:** chôq
 **Pronunciation:** khoke
@@ -132,7 +132,7 @@ Choq/chuqqim (statutes) appears alongside mishpat/mishpatim (judgments) as a cat
 
 ---
 
-## [H8451](https://www.blueletterbible.org/lexicon/h8451/kjv/wlc/0-1/){:target="_blank"} - towrah (תּוֹרָה) -- "law/torah"
+## H8451 - towrah (תּוֹרָה) -- "law/torah"
 **Original:** תּוֹרָה
 **Transliteration:** tôwrâh
 **Pronunciation:** to-raw
@@ -168,7 +168,7 @@ Towrah has a broad semantic range. The BLB lexicon notes it can refer to "the De
 
 ---
 
-## [H676](https://www.blueletterbible.org/lexicon/h676/kjv/wlc/0-1/){:target="_blank"} - etsba (אֶצְבַּע) -- "finger"
+## H676 - etsba (אֶצְבַּע) -- "finger"
 **Original:** אֶצְבַּע
 **Transliteration:** ʼetsbaʻ
 **Pronunciation:** ets-bah
@@ -186,7 +186,7 @@ The phrase "finger of God" (etsba elohim) occurs only three times in the OT: onc
 
 ---
 
-## [G3316](https://www.blueletterbible.org/lexicon/g3316/kjv/tr/0-1/){:target="_blank"} - mesites (μεσίτης) -- "mediator"
+## G3316 - mesites (μεσίτης) -- "mediator"
 **Original:** μεσίτης
 **Transliteration:** mesítēs
 **Pronunciation:** mes-ee-tace
@@ -218,7 +218,7 @@ In Hebrews, mesites is used exclusively for Jesus as mediator of the new/better 
 
 ---
 
-## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} - entole (ἐντολή) -- "commandment"
+## G1785 - entole (ἐντολή) -- "commandment"
 **Original:** ἐντολή
 **Transliteration:** entolḗ
 **Pronunciation:** en-tol-ay
@@ -247,7 +247,7 @@ Entole is used in the NT for commandments in general -- it can refer to individu
 
 ---
 
-## [G1378](https://www.blueletterbible.org/lexicon/g1378/kjv/tr/0-1/){:target="_blank"} - dogma (δόγμα) -- "ordinance/decree"
+## G1378 - dogma (δόγμα) -- "ordinance/decree"
 **Original:** δόγμα
 **Transliteration:** dógma
 **Pronunciation:** dog-mah
@@ -271,16 +271,3 @@ Dan 2:13; 3:10; 4:3; 6:13 -- all referring to human/royal decrees
 Dogma is used in the two key "cessation" passages (Eph 2:15; Col 2:14). In secular usage (Luke 2:1; Acts 17:7) it means a governmental decree. In Acts 16:4 it refers to the apostolic council's decisions. In Eph 2:15 and Col 2:14 it describes what was "abolished" or "nailed to the cross."
 
 The word dogma is NEVER used for the moral law or the Decalogue in the NT. The Decalogue is referred to with entole (commandment) or nomos (law). Law-01 established this distinction: all cessation-vocabulary E-items use dogma or specify ceremonial items. This word study confirms that dogma has a limited semantic range (civil/ceremonial decrees) and does not overlap with the terminology used for the Ten Commandments.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. 632 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

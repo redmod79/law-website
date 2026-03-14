@@ -4,7 +4,7 @@
 
 ---
 
-## [G4521](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/){:target="_blank"} - sabbaton (sabbath)
+## G4521 - sabbaton (sabbath)
 
 ### Lexicon Entry
 ```
@@ -41,7 +41,7 @@ G4521 - 55 total occurrences, 11 unique translations:
 
 ---
 
-## [G4520](https://www.blueletterbible.org/lexicon/g4520/kjv/tr/0-1/){:target="_blank"} - sabbatismos (Sabbath-keeping/rest)
+## G4520 - sabbatismos (Sabbath-keeping/rest)
 
 ### Lexicon Entry
 ```
@@ -62,7 +62,7 @@ G4520 - 1 total occurrences, 1 unique translations:
 
 ---
 
-## [G1486](https://www.blueletterbible.org/lexicon/g1486/kjv/tr/0-1/){:target="_blank"} - etho (to be accustomed)
+## G1486 - etho (to be accustomed)
 
 ### Lexicon Entry
 ```
@@ -86,7 +86,7 @@ G1486 - 4 total occurrences, 4 unique translations:
 
 ---
 
-## [H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/){:target="_blank"} - shabbath (sabbath)
+## H7676 - shabbath (sabbath)
 
 ### Lexicon Entry
 ```
@@ -124,7 +124,7 @@ H7676 - 109 total occurrences, 26 unique translations:
 
 ---
 
-## [H7677](https://www.blueletterbible.org/lexicon/h7677/kjv/wlc/0-1/){:target="_blank"} - shabbathown (sabbath rest/solemn rest)
+## H7677 - shabbathown (sabbath rest/solemn rest)
 
 ### Lexicon Entry
 ```
@@ -148,7 +148,7 @@ H7677 - 11 total occurrences, 3 unique translations:
 
 ---
 
-## [G2663](https://www.blueletterbible.org/lexicon/g2663/kjv/tr/0-1/){:target="_blank"} - katapausis (rest/repose)
+## G2663 - katapausis (rest/repose)
 
 ### Lexicon Entry
 ```
@@ -170,7 +170,7 @@ G2663 - 9 total occurrences, 2 unique translations:
 
 ---
 
-## [G620](https://www.blueletterbible.org/lexicon/g620/kjv/tr/0-1/){:target="_blank"} - apoleipo (to leave behind/remain)
+## G620 - apoleipo (to leave behind/remain)
 
 ### Lexicon Entry
 ```
@@ -196,7 +196,7 @@ G620 - 6 total occurrences, 6 unique translations:
 
 ---
 
-## [G4639](https://www.blueletterbible.org/lexicon/g4639/kjv/tr/0-1/){:target="_blank"} - skia (shadow)
+## G4639 - skia (shadow)
 
 ### Lexicon Entry
 ```
@@ -220,7 +220,7 @@ G4639 - 7 total occurrences, 3 unique translations:
 
 ---
 
-## [H2142](https://www.blueletterbible.org/lexicon/h2142/kjv/wlc/0-1/){:target="_blank"} - zakar (to remember/mark)
+## H2142 - zakar (to remember/mark)
 
 ### Lexicon Entry
 ```
@@ -252,7 +252,7 @@ H2142 - 279 total occurrences, 140 unique translations:
 
 ---
 
-## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} - entole (commandment/injunction)
+## G1785 - entole (commandment/injunction)
 
 ### Lexicon Entry
 ```
@@ -284,7 +284,7 @@ G1785 - 43 total occurrences, 8 unique translations:
 
 ---
 
-## [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} - olam (eternity/perpetual/forever)
+## H5769 - olam (eternity/perpetual/forever)
 
 ### Lexicon Entry
 ```
@@ -321,7 +321,7 @@ H5769 - 432 total occurrences, 40 unique translations:
 
 ---
 
-## [G4864](https://www.blueletterbible.org/lexicon/g4864/kjv/tr/0-1/){:target="_blank"} - synagoge (synagogue/assembly)
+## G4864 - synagoge (synagogue/assembly)
 
 ### Lexicon Entry
 ```
@@ -350,7 +350,7 @@ G4864 - 54 total occurrences, 6 unique translations:
 
 ---
 
-## [H226](https://www.blueletterbible.org/lexicon/h226/kjv/wlc/0-1/){:target="_blank"} - oth (sign/token/mark)
+## H226 - oth (sign/token/mark)
 
 ### Lexicon Entry
 ```
@@ -387,7 +387,7 @@ H226 - 85 total occurrences, 32 unique translations:
 
 ---
 
-## [H6942](https://www.blueletterbible.org/lexicon/h6942/kjv/wlc/0-1/){:target="_blank"} - qadash (to sanctify/make holy)
+## H6942 - qadash (to sanctify/make holy)
 
 ### Lexicon Entry
 ```
@@ -421,7 +421,7 @@ H6942 - 186 total occurrences, 127 unique translations:
 
 ---
 
-## [G752](https://www.blueletterbible.org/lexicon/g752/kjv/tr/0-1/){:target="_blank"} - archisynagogos (ruler of the synagogue)
+## G752 - archisynagogos (ruler of the synagogue)
 
 ### Lexicon Entry
 ```
